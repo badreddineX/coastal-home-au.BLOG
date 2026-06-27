@@ -4,21 +4,26 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 
-const topics = [
+const covers = [
   {
-    num: '01',
-    title: 'Outdoor Entertaining',
-    desc: 'Alfresco setups, pergola styling, backyard BBQ ideas, and everything you need to make your outdoor space the heart of your home.',
+    label: 'Outdoor Entertaining',
+    img: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80',
+    alt: 'Outdoor entertaining area',
   },
   {
-    num: '02',
-    title: 'Coastal Decor',
-    desc: 'Rattan furniture, linen textiles, and that effortless coastal palette — ideas that bring the beach indoors.',
+    label: 'Coastal Decor',
+    img: 'https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=600&q=80',
+    alt: 'Coastal bedroom decor',
   },
   {
-    num: '03',
-    title: 'Hamptons Style',
-    desc: 'Classic Hamptons looks adapted for Australian homes — accessible, attainable, and always beautiful.',
+    label: 'Hamptons Style',
+    img: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=600&q=80',
+    alt: 'Hamptons style living',
+  },
+  {
+    label: 'Backyard Ideas',
+    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80',
+    alt: 'Backyard landscaping',
   },
 ];
 ---
@@ -40,85 +45,146 @@ const topics = [
     <Header />
     <main id="main-content">
 
-      <!-- About hero -->
+      <!-- ── Hero: full-width bg image ── -->
       <section class="about-hero">
-        <div class="container">
-          <div class="hero-split">
-            <div class="hero-img-col">
-              <div class="hero-logo-block">
-                <span class="hero-logo-monogram">O&amp;H</span>
-                <span class="hero-logo-wordmark">Outdoor &amp; Coastal-Home</span>
-              </div>
-            </div>
-            <div class="hero-text">
-              <p class="hero-label">G'day, I'm</p>
-              <h1 class="display hero-name">Sarah Mitchell.</h1>
-              <p class="hero-role">Gold Coast · Outdoor &amp; Coastal Home Decor</p>
-              <p class="hero-bio">
-                I'm a home decor enthusiast obsessed with the Australian coastal lifestyle — and frustrated by the lack of home inspiration made for Australian homes, Australian seasons, and Australian retailers.
-              </p>
-              <p class="hero-bio">
-                So I built Outdoor &amp; Coastal Home Decor to fix that.
-              </p>
-            </div>
-          </div>
+        <img
+          class="about-hero-bg"
+          src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=80"
+          alt="Australian coastal outdoor living area"
+          width="1600" height="800"
+          loading="eager" fetchpriority="high"
+        />
+        <div class="about-hero-overlay"></div>
+        <div class="about-hero-content">
+          <p class="about-hero-label">Outdoor &amp; Coastal Home</p>
+          <h1 class="about-hero-heading">
+            It's not just a house.<br />
+            <em>It's your coastal home.</em>
+          </h1>
         </div>
       </section>
 
-      <!-- //02 Why I started -->
-      <section class="section" aria-labelledby="why-heading">
-        <div class="container content-width">
-          <h2 class="display story-title" id="why-heading">Why I Started<br />This Blog</h2>
-          <div class="story-body">
-            <p>
-              I've spent years scrolling through beautiful home decor inspiration and feeling vaguely disappointed. The outdoor entertaining areas were too formal for the way we actually live here. The "seasonal" content assumed you were rugging up for winter in December — when here, December means Christmas outdoors, cold drinks, and a BBQ going from noon until sunset.
-            </p>
-            <p>
-              We're Australians. We live differently. Our summer is your winter. Our outdoor spaces aren't an afterthought — they're often the best room in the house. And we have our own magnificent coastal aesthetic that has nothing to do with Connecticut or the Cotswolds.
-            </p>
-            <p>
-              Outdoor &amp; Coastal Home Decor exists to be the home inspiration resource I was always searching for. Everything here is written from an Australian perspective, for Australian seasons, and with Australian retailers in mind. I live for our alfresco Christmas celebrations, our long coastal summers, and the particular pleasure of a well-designed outdoor space in our climate.
-            </p>
+      <!-- ── 01 Our Story ── -->
+      <section class="story-section">
+        <div class="story-img-col">
+          <img
+            src="https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=800&q=80"
+            alt="Hamptons style outdoor alfresco area"
+            width="800" height="1000"
+            loading="lazy"
+          />
+        </div>
+        <div class="story-text-col">
+          <div class="section-num-row">
+            <span class="section-num">01</span>
+            <span class="section-num-line"></span>
           </div>
+          <h2 class="story-heading">Our Story</h2>
+          <p class="story-body">
+            I spent years scrolling through beautiful home decor content feeling quietly frustrated. The outdoor entertaining areas were too formal for the way Australians actually live. The seasonal content assumed you were rugging up for winter in December — when here, December means Christmas outdoors, cold drinks, and a BBQ going from noon until sunset.
+          </p>
+          <p class="story-body">
+            We live differently. Our outdoor spaces aren't an afterthought — they're often the best room in the house. And we have our own magnificent coastal aesthetic that has nothing to do with Connecticut or the Cotswolds.
+          </p>
+          <p class="story-body">
+            Outdoor &amp; Coastal Home Decor exists to be the home inspiration resource I was always searching for — written for Australian seasons, with Australian retailers in mind.
+          </p>
         </div>
       </section>
 
-      <!-- //03 What you'll find -->
-      <section class="section section--warm" aria-labelledby="topics-heading">
+      <!-- ── 02 What We Cover ── -->
+      <section class="covers-section">
         <div class="container">
-          <h2 class="display topics-title" id="topics-heading">What We Cover</h2>
-          <div class="topics-list">
-            {topics.map(t => (
-              <div class="topic-row">
-                <span class="topic-num">{t.num}</span>
-                <div class="topic-content">
-                  <h3 class="topic-name">{t.title}</h3>
-                  <p class="topic-desc">{t.desc}</p>
+          <div class="section-num-row">
+            <span class="section-num">02</span>
+            <span class="section-num-line"></span>
+          </div>
+          <h2 class="covers-heading">What We Cover</h2>
+          <div class="covers-grid">
+            {covers.map(c => (
+              <div class="cover-item">
+                <div class="cover-img-wrap">
+                  <img src={c.img} alt={c.alt} width="600" height="700" loading="lazy" />
                 </div>
+                <p class="cover-label">{c.label}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <!-- //04 Connect -->
-      <section class="section" aria-labelledby="connect-heading">
-        <div class="container content-width">
-          <h2 class="display connect-title" id="connect-heading">Let's Connect</h2>
-          <p class="connect-body">
-            The best place to find me is on Pinterest, where I post daily coastal and outdoor living inspiration for Australian homes. Or you can reach me directly — I genuinely read every message.
-          </p>
-          <p class="connect-note">
-            One important thing: I write about Australian seasons as they actually are. You'll never find "winter warmth" content posted in December here. We're Southern Hemisphere. December is summer. That matters.
-          </p>
-          <div class="connect-btns">
-            <a href="https://pinterest.com/outdoorcoastalhome" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-              Pinterest
-              <svg viewBox="0 0 16 16" fill="none" width="13" height="13" aria-hidden="true">
-                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-              </svg>
-            </a>
-            <a href="mailto:hello@coastalhomeau.com.au" class="btn btn-outline">Say Hello</a>
+      <!-- ── 03 Author Bio Card ── -->
+      <section class="author-section">
+        <div class="container">
+          <div class="section-num-row">
+            <span class="section-num">03</span>
+            <span class="section-num-line"></span>
+          </div>
+          <div class="author-card">
+            <div class="author-card-inner">
+              <div class="author-avatar">
+                <span class="author-initials">SM</span>
+              </div>
+              <div class="author-card-text">
+                <p class="author-card-label">About the Author</p>
+                <h2 class="author-card-heading">Hey, I'm Sarah — Welcome to Outdoor &amp; Coastal Home</h2>
+                <p class="author-card-body">
+                  A Gold Coast home decor enthusiast obsessed with making outdoor and coastal spaces work beautifully for Australian homes. I write honest guides, share real ideas, and only recommend what actually works in our climate — no staged perfection, no irrelevant Northern Hemisphere advice.
+                </p>
+                <a href="/blog" class="author-card-btn">
+                  Read the Blog &rarr;
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 04 Let's Connect ── -->
+      <section class="connect-section">
+        <div class="container">
+          <div class="connect-grid">
+            <div class="connect-text">
+              <h2 class="connect-heading">Let's Connect</h2>
+              <p class="connect-sub">
+                Have a coastal home question, a product you'd like me to review, or just want to say g'day? I read every message and reply within a few days.
+              </p>
+              <ol class="connect-steps">
+                <li>
+                  <span class="step-num">01</span>
+                  <span>Fill in your name and email address</span>
+                </li>
+                <li>
+                  <span class="step-num">02</span>
+                  <span>Tell me what's on your mind — questions, collabs, or just a hello</span>
+                </li>
+                <li>
+                  <span class="step-num">03</span>
+                  <span>I'll get back to you within 2–3 business days</span>
+                </li>
+              </ol>
+            </div>
+            <form class="connect-form" action="#" method="post" aria-label="Contact form">
+              <div class="form-row-2">
+                <div class="form-field">
+                  <label for="cf-name">Full Name</label>
+                  <input id="cf-name" type="text" name="name" placeholder="Your name" required autocomplete="name" />
+                </div>
+                <div class="form-field">
+                  <label for="cf-email">Email Address</label>
+                  <input id="cf-email" type="email" name="email" placeholder="your@email.com" required autocomplete="email" />
+                </div>
+              </div>
+              <div class="form-field">
+                <label for="cf-state">State / Territory <span class="optional">(optional)</span></label>
+                <input id="cf-state" type="text" name="state" placeholder="e.g. QLD, NSW, VIC" autocomplete="address-level1" />
+              </div>
+              <div class="form-field">
+                <label for="cf-message">Message</label>
+                <textarea id="cf-message" name="message" placeholder="What's on your mind?" rows="5" required></textarea>
+              </div>
+              <button type="submit" class="connect-submit">Send Message</button>
+            </form>
           </div>
         </div>
       </section>
@@ -129,137 +195,370 @@ const topics = [
 </html>
 
 <style>
-/* Hero split */
-.about-hero { padding: 64px 0 80px; }
-.hero-split {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 48px;
-  align-items: center;
-  margin-top: 40px;
-}
-.hero-logo-block {
+/* ── Hero ── */
+.about-hero {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  min-height: 380px;
+  max-height: 600px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: var(--color-heading);
-  aspect-ratio: 1 / 1;
-  max-height: 320px;
-  width: 320px;
-  gap: 8px;
+  overflow: hidden;
 }
-.hero-logo-monogram {
-  font-family: 'Pinyon Script', cursive;
-  font-weight: 400;
-  font-size: clamp(4rem, 10vw, 7rem);
-  color: var(--color-white);
-  line-height: 1;
-  letter-spacing: 0.02em;
+.about-hero-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 60%;
 }
-.hero-logo-wordmark {
+.about-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 20, 28, 0.52);
+}
+.about-hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 0 24px;
+  max-width: 860px;
+}
+.about-hero-label {
   font-family: var(--font-heading);
-  font-size: 0.5rem;
-  font-weight: 600;
-  letter-spacing: 0.22em;
+  font-size: 0.65rem;
+  font-weight: 700;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.55);
-  white-space: nowrap;
+  letter-spacing: 0.22em;
+  color: rgba(255,255,255,0.6);
+  margin: 0 0 20px 0;
 }
-.hero-label {
+.about-hero-heading {
   font-family: var(--font-heading);
-  font-size: 0.72rem;
+  font-size: clamp(2.2rem, 5.5vw, 4.2rem);
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.1;
+  margin: 0;
+}
+.about-hero-heading em {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--color-accent);
+}
+
+/* ── Section number row ── */
+.section-num-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.section-num {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--color-accent);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.section-num-line {
+  flex: 1;
+  height: 1px;
+  background: var(--color-border);
+}
+
+/* ── 01 Our Story ── */
+.story-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  min-height: 600px;
+}
+@media (min-width: 900px) {
+  .story-section { grid-template-columns: 52% 1fr; }
+}
+.story-img-col { overflow: hidden; max-height: 700px; }
+.story-img-col img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.story-text-col {
+  padding: 64px 40px 64px 56px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: var(--color-bg);
+}
+@media (max-width: 899px) {
+  .story-text-col { padding: 48px 24px; }
+  .story-img-col { max-height: 340px; }
+}
+.story-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 28px 0;
+  line-height: 1.1;
+}
+.story-body {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin: 0 0 1.1rem 0;
+  max-width: 480px;
+}
+
+/* ── 02 What We Cover ── */
+.covers-section {
+  padding: 72px 0 80px;
+  background: var(--color-surface-warm);
+}
+.covers-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 40px 0;
+}
+.covers-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px;
+}
+@media (min-width: 768px) {
+  .covers-grid { grid-template-columns: repeat(4, 1fr); }
+}
+.cover-item { display: flex; flex-direction: column; }
+.cover-img-wrap {
+  overflow: hidden;
+  aspect-ratio: 3 / 4;
+}
+.cover-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+.cover-img-wrap:hover img { transform: scale(1.04); }
+.cover-label {
+  font-family: var(--font-heading);
+  font-size: 0.62rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.12em;
+  color: var(--color-text-muted);
+  margin: 12px 0 0 0;
+}
+
+/* ── 03 Author Bio Card ── */
+.author-section {
+  padding: 72px 0 80px;
+  background: var(--color-bg);
+}
+.author-card {
+  background: var(--color-surface-warm);
+  border-radius: 12px;
+  padding: 48px 40px;
+  max-width: 900px;
+}
+@media (max-width: 640px) {
+  .author-card { padding: 32px 24px; }
+}
+.author-card-inner {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+@media (max-width: 640px) {
+  .author-card-inner { flex-direction: column; }
+}
+.author-avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--color-heading);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.author-initials {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+}
+.author-card-label {
+  font-family: var(--font-heading);
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
   color: var(--color-primary);
-  margin-bottom: 8px;
+  margin: 0 0 10px 0;
 }
-.hero-name {
-  font-size: clamp(2.5rem, 7vw, 5rem);
-  line-height: 1.05;
-  margin: 0 0 8px 0;
+.author-card-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(1.15rem, 2.5vw, 1.5rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 16px 0;
+  line-height: 1.25;
 }
-.hero-role {
+.author-card-body {
+  font-size: 0.92rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  margin: 0 0 24px 0;
+  max-width: 540px;
+}
+.author-card-btn {
+  display: inline-block;
+  padding: 13px 28px;
+  background: var(--color-heading);
+  color: #ffffff;
   font-family: var(--font-heading);
   font-size: 0.75rem;
-  font-weight: 500;
-  text-transform: uppercase;
+  font-weight: 700;
   letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: background 0.2s ease;
+  border-radius: 2px;
+}
+.author-card-btn:hover { background: var(--color-dark); color: #ffffff; text-decoration: none; }
+
+/* ── 04 Let's Connect ── */
+.connect-section {
+  padding: 80px 0 96px;
+  background: var(--color-surface-warm);
+}
+.connect-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 56px;
+  align-items: start;
+}
+@media (min-width: 900px) {
+  .connect-grid { grid-template-columns: 1fr 1fr; gap: 80px; }
+}
+.connect-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 20px 0;
+  line-height: 1.05;
+}
+.connect-sub {
+  font-size: 0.95rem;
   color: var(--color-text-muted);
-  margin-bottom: 24px;
+  line-height: 1.75;
+  margin: 0 0 36px 0;
+  max-width: 400px;
 }
-.hero-bio { font-size: 1rem; color: var(--color-text-muted); margin-bottom: 1rem; }
-
-@media (min-width: 768px) {
-  .hero-split { grid-template-columns: 380px 1fr; gap: 72px; }
-}
-
-/* Story */
-.story-title {
-  font-size: clamp(2rem, 5vw, 3rem);
-  margin: 0 0 2rem 0;
-  line-height: 1.1;
-}
-.story-body p { color: var(--color-text-muted); font-size: 0.95rem; }
-
-/* Topics list (Decorist-style numbered rows) */
-.topics-title {
-  font-size: clamp(2rem, 5vw, 3rem);
-  margin: 0 0 40px 0;
-  line-height: 1.1;
-}
-.topics-list {
-  border-top: 1px solid var(--color-border);
+.connect-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
-.topic-row {
+.connect-steps li {
   display: flex;
   align-items: flex-start;
-  gap: 28px;
-  padding: 28px 0;
-  border-bottom: 1px solid var(--color-border);
-}
-.topic-num {
-  font-family: var(--font-heading);
-  font-size: 0.72rem;
-  font-weight: 500;
+  gap: 16px;
+  font-size: 0.92rem;
   color: var(--color-text-muted);
-  padding-top: 4px;
-  flex-shrink: 0;
-  width: 24px;
+  line-height: 1.5;
+  margin: 0;
 }
-.topic-name {
+.step-num {
   font-family: var(--font-display);
   font-style: italic;
-  font-weight: 400;
-  font-size: 1.3rem;
-  color: var(--color-heading);
-  margin: 0 0 8px 0;
-}
-.topic-desc {
-  font-size: 0.9rem;
-  color: var(--color-text-muted);
-  margin: 0;
-  line-height: 1.65;
+  font-size: 1rem;
+  color: var(--color-accent);
+  flex-shrink: 0;
+  min-width: 22px;
 }
 
-/* Connect */
-.connect-title {
-  font-size: clamp(2rem, 5vw, 3rem);
-  margin: 0 0 1.5rem 0;
-  line-height: 1.1;
+/* Form */
+.connect-form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
 }
-.connect-body { font-size: 1rem; color: var(--color-text-muted); margin-bottom: 1rem; }
-.connect-note {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1.05rem;
+.form-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+@media (max-width: 560px) {
+  .form-row-2 { grid-template-columns: 1fr; }
+}
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.form-field label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-heading);
+}
+.optional {
+  font-weight: 400;
   color: var(--color-text-muted);
-  border-left: 2px solid var(--color-accent);
-  padding-left: 16px;
-  margin-bottom: 2rem;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.65rem;
 }
-.connect-btns { display: flex; gap: 16px; flex-wrap: wrap; }
+.form-field input,
+.form-field textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  padding: 10px 0;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  color: var(--color-text);
+  outline: none;
+  transition: border-color 0.2s ease;
+  resize: vertical;
+  width: 100%;
+}
+.form-field input::placeholder,
+.form-field textarea::placeholder { color: var(--color-text-muted); }
+.form-field input:focus,
+.form-field textarea:focus { border-bottom-color: var(--color-heading); }
+.connect-submit {
+  align-self: flex-start;
+  padding: 16px 40px;
+  background: var(--color-heading);
+  color: #ffffff;
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  border-radius: 2px;
+}
+.connect-submit:hover { background: var(--color-dark); }
 </style>
