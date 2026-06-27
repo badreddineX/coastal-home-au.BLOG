@@ -136,6 +136,14 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
     </main>
     <Footer />
+    <script is:inline define:vars={{ postData: allPosts.map(p => ({
+      title: p.data.title.toLowerCase(),
+      displayTitle: p.data.title,
+      cat: p.data.category,
+      slug: `/blog/${p.slug}`,
+    })) }}>
+      window.__POST_INDEX__ = postData;
+    </script>
   </body>
 </html>
 
@@ -478,13 +486,9 @@ if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !em
   console.warn('Blog filter: required elements missing');
 }
 
-// Build post index for suggestions
-const postIndex = Array.from(postItems).map(item => ({
-  title: item.dataset.title ?? '',
-  displayTitle: item.querySelector<HTMLElement>('.card-title a')?.textContent ?? '',
-  cat: item.dataset.cat ?? '',
-  slug: item.querySelector<HTMLAnchorElement>('.card-title a')?.getAttribute('href') ?? '',
-}));
+// Post data injected at build time by Astro
+const postIndex: { title: string; displayTitle: string; cat: string; slug: string }[] =
+  (window as any).__POST_INDEX__ ?? [];
 
 let activeSuggestionIdx = -1;
 
