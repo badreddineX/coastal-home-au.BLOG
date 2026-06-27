@@ -274,21 +274,22 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 .suggestion-cat-pill {
   flex-shrink: 0;
   font-family: var(--font-heading);
-  font-size: 0.6rem;
+  font-size: 0.58rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   color: var(--color-text-muted);
-  border: 1px solid var(--color-border);
+  border: 1px solid #d0ccc7;
   border-radius: 20px;
-  padding: 3px 9px;
+  padding: 3px 10px;
   white-space: nowrap;
-  min-width: 56px;
+  min-width: 62px;
   text-align: center;
+  background: transparent;
 }
 .suggestion-title {
   font-family: var(--font-heading);
-  font-size: 0.88rem;
+  font-size: 0.9rem;
   font-weight: 400;
   color: var(--color-heading);
   white-space: nowrap;
@@ -296,13 +297,15 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   text-overflow: ellipsis;
   flex: 1;
   min-width: 0;
+  font-style: normal;
 }
 .suggestion-title mark {
-  background: rgba(212, 184, 150, 0.35);
+  background: rgba(196, 170, 130, 0.28);
   color: inherit;
   font-weight: 600;
   border-radius: 2px;
-  padding: 0 1px;
+  padding: 0 2px;
+  font-style: normal;
 }
 
 /* Category filter pills */
@@ -499,9 +502,15 @@ function showSuggestions(query: string) {
     text.replace(new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi'),
       '<mark>$1</mark>');
 
+  const catLabel: Record<string, string> = {
+    'Outdoor Entertaining': 'Outdoor',
+    'Coastal Decor': 'Coastal',
+    'Hamptons Style': 'Hamptons',
+    'Backyard Ideas': 'Backyard',
+  };
   suggestionsList.innerHTML = matches.map((p, i) => `
     <li role="option" aria-selected="false" class="suggestion-item" data-href="${p.slug}" data-idx="${i}">
-      <span class="suggestion-cat-pill">${p.cat.split(' ')[0]}</span>
+      <span class="suggestion-cat-pill">${catLabel[p.cat] ?? p.cat}</span>
       <span class="suggestion-title">${highlighted(p.displayTitle)}</span>
     </li>
   `).join('');
