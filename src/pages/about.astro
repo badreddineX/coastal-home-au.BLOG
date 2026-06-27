@@ -293,7 +293,18 @@ const covers = [
 @media (min-width: 900px) {
   .story-section { grid-template-columns: 52% 1fr; }
 }
-.story-img-col { overflow: hidden; max-height: 700px; }
+.story-img-col { overflow: hidden; max-height: 700px; position: relative; }
+.story-img-col::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  background: linear-gradient(to bottom, #FDFCFB 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
 .story-img-col img {
   width: 100%;
   height: 100%;
