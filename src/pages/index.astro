@@ -297,6 +297,11 @@ const categories = [
   border: none;
 }
 
+/* Big format images on home page */
+.featured-grid :global(.card-img) {
+  aspect-ratio: 4 / 3;
+}
+
 /* ── Category section ── */
 .cat-title {
   font-size: clamp(1.8rem, 4vw, 2.8rem);
@@ -353,6 +358,11 @@ const categories = [
   display: flex;
   justify-content: center;
   margin-top: 48px;
+}
+
+/* Big format images in latest grid */
+.section .grid-2 :global(.card-img) {
+  aspect-ratio: 4 / 3;
 }
 
 /* ── About section (dark) ── */
