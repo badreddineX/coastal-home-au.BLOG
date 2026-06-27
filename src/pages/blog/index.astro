@@ -221,18 +221,18 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 }
 #search-input {
   width: 100%;
-  padding: 10px 40px 10px 40px;
-  border: 1px solid var(--color-border);
-  background: var(--color-white);
+  padding: 11px 40px 11px 42px;
+  border: 1px solid #ddd8d2;
+  background: #ffffff;
   font-family: var(--font-body);
-  font-size: 0.9rem;
-  color: var(--color-text);
+  font-size: 0.92rem;
+  color: #1a1a1a;
   outline: none;
-  transition: border-color var(--transition);
-  border-radius: 2px;
+  transition: border-color 0.15s ease;
+  border-radius: 4px;
 }
-#search-input::placeholder { color: var(--color-text-muted); }
-#search-input:focus { border-color: var(--color-primary); }
+#search-input::placeholder { color: #a09890; }
+#search-input:focus { border-color: #b0a89e; }
 #search-input::-webkit-search-cancel-button { display: none; }
 
 .search-clear {
@@ -252,66 +252,65 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 /* Suggestions dropdown */
 .suggestions-list {
   position: absolute;
-  top: calc(100% + 2px);
+  top: calc(100% + 4px);
   left: 0;
   right: 0;
-  background: var(--color-white);
-  border: 1px solid var(--color-border);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.09);
+  background: #ffffff;
+  border: 1px solid #e8e2db;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   list-style: none;
-  padding: 4px 0;
+  padding: 0;
   margin: 0;
   z-index: 300;
-  max-height: 360px;
+  max-height: 400px;
   overflow-y: auto;
+  border-radius: 4px;
 }
 .suggestion-item {
   display: flex;
   align-items: center;
-  gap: 14px;
-  padding: 13px 18px;
+  gap: 16px;
+  padding: 16px 20px;
   cursor: pointer;
-  transition: background var(--transition);
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid #f0ece8;
+  transition: background 0.15s ease;
 }
 .suggestion-item:last-child { border-bottom: none; }
 .suggestion-item:hover,
-.suggestion-item[aria-selected="true"] { background: var(--color-surface-warm); }
+.suggestion-item[aria-selected="true"] { background: #faf8f5; }
 .suggestion-cat-pill {
   flex-shrink: 0;
   font-family: var(--font-heading);
-  font-size: 0.58rem;
-  font-weight: 700;
+  font-size: 0.6rem;
+  font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--color-text-muted);
-  border: 1px solid #d0ccc7;
-  border-radius: 20px;
-  padding: 3px 10px;
+  letter-spacing: 0.09em;
+  color: #8a8078;
+  border: 1px solid #c5bdb5;
+  border-radius: 4px;
+  padding: 4px 10px;
   white-space: nowrap;
-  min-width: 62px;
-  text-align: center;
   background: transparent;
+  min-width: 56px;
+  text-align: center;
 }
 .suggestion-title {
-  font-family: var(--font-heading);
-  font-size: 0.9rem;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
   font-weight: 400;
-  color: var(--color-heading);
+  color: #1a1a1a;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   flex: 1;
   min-width: 0;
-  font-style: normal;
 }
 .suggestion-title mark {
-  background: rgba(196, 170, 130, 0.28);
+  background: rgba(196, 170, 130, 0.22);
   color: inherit;
-  font-weight: 600;
+  font-weight: 500;
   border-radius: 2px;
-  padding: 0 2px;
-  font-style: normal;
+  padding: 1px 2px;
 }
 
 /* Category filter pills */
