@@ -59,6 +59,11 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
               aria-expanded="false"
               aria-controls="search-suggestions"
               aria-autocomplete="list"
+              data-posts={JSON.stringify(allPosts.map(p => ({
+                t: p.data.title,
+                c: p.data.category,
+                s: `/blog/${p.slug}`,
+              })))}
             />
             <button id="search-clear" class="search-clear" aria-label="Clear search" hidden>
               <svg viewBox="0 0 16 16" fill="none" width="14" height="14">
@@ -136,14 +141,6 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
     </main>
     <Footer />
-    <script is:inline define:vars={{ postData: allPosts.map(p => ({
-      title: p.data.title.toLowerCase(),
-      displayTitle: p.data.title,
-      cat: p.data.category,
-      slug: `/blog/${p.slug}`,
-    })) }}>
-      window.__POST_INDEX__ = postData;
-    </script>
   </body>
 </html>
 
@@ -486,29 +483,26 @@ if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !em
   console.warn('Blog filter: required elements missing');
 }
 
-// Populated after DOM ready from inline script
-let postIndex: { title: string; displayTitle: string; cat: string; slug: string }[] = [];
+// Read post data directly from the input's data attribute (injected at build time)
+const postIndex: { t: string; c: string; s: string }[] = JSON.parse(
+  searchInput?.dataset.posts ?? '[]'
+);
 
 let activeSuggestionIdx = -1;
 
-document.addEventListener('DOMContentLoaded', () => {
-  postIndex = (window as any).__POST_INDEX__ ?? [];
-});
-
 function showSuggestions(query: string) {
-  if (postIndex.length === 0) postIndex = (window as any).__POST_INDEX__ ?? [];
   if (!suggestionsList || !searchInput) return;
   if (query.length < 2) { hideSuggestions(); return; }
 
   const matches = postIndex.filter(p =>
-    p.title.includes(query) || p.cat.toLowerCase().includes(query)
+    p.t.toLowerCase().includes(query) || p.c.toLowerCase().includes(query)
   ).slice(0, 6);
 
   if (matches.length === 0) { hideSuggestions(); return; }
 
-  const highlighted = (text: string) =>
-    text.replace(new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi'),
-      '<mark>$1</mark>');
+  const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const highlight = (text: string) =>
+    text.replace(new RegExp(`(${esc(query)})`, 'gi'), '<mark>$1</mark>');
 
   const catLabel: Record<string, string> = {
     'Outdoor Entertaining': 'Outdoor',
@@ -516,10 +510,11 @@ function showSuggestions(query: string) {
     'Hamptons Style': 'Hamptons',
     'Backyard Ideas': 'Backyard',
   };
+
   suggestionsList.innerHTML = matches.map((p, i) => `
-    <li role="option" aria-selected="false" class="suggestion-item" data-href="${p.slug}" data-idx="${i}">
-      <span class="suggestion-cat-pill">${catLabel[p.cat] ?? p.cat}</span>
-      <span class="suggestion-title">${highlighted(p.displayTitle)}</span>
+    <li role="option" aria-selected="false" class="suggestion-item" data-href="${p.s}" data-idx="${i}">
+      <span class="suggestion-cat-pill">${catLabel[p.c] ?? p.c}</span>
+      <span class="suggestion-title">${highlight(p.t)}</span>
     </li>
   `).join('');
 
