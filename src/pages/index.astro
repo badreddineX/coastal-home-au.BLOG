@@ -38,43 +38,30 @@ const categories = [
 
       <!-- ── Hero ── -->
       <section class="hero" aria-label="Hero">
-        <div class="hero-img-col">
-          <div class="img-wrap hero-img">
-            <img
-              src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=80"
-              alt="Bright Australian alfresco outdoor entertaining area"
-              width="1400"
-              height="1050"
-              loading="eager"
-              fetchpriority="high"
-            />
-            <a
-              href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fcoastalhomeau.com.au&media=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1600566753086-00f18fb6b3ea%3Fw%3D1200&description=Outdoor+Living+Australian+Style"
-              class="pin-btn"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Save to Pinterest"
-            >
-              <svg viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-              Save
-            </a>
-          </div>
-        </div>
-        <div class="hero-text-col">
-          <p class="hero-label">Outdoor &amp; Coastal Living</p>
-          <h1 class="display hero-headline">
-            Let Your Coast<br />Tell a Story
+        <img
+          class="hero-bg"
+          src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=80"
+          alt="Bright Australian alfresco outdoor entertaining area"
+          width="1600"
+          height="900"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+          <p class="hero-label">For Australian Homes</p>
+          <h1 class="hero-headline">
+            Outdoor &amp; Coastal Living,<br />
+            <em>Done Beautifully</em>
           </h1>
           <p class="hero-sub">
-            Coastal home decor and entertaining ideas for Australian homes — written from the Southern Hemisphere.
+            Coastal home decor and entertaining ideas for Australian homes —<br />
+            written from the Southern Hemisphere.
           </p>
-          <a href="/blog" class="btn btn-primary hero-cta">
-            Browse Ideas
-            <svg viewBox="0 0 16 16" fill="none" width="14" height="14" aria-hidden="true">
-              <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-            </svg>
-          </a>
-          <p class="hero-tagline">"The outdoor entertaining ideas that actually work for Australian homes."</p>
+          <div class="hero-actions">
+            <a href="/blog" class="btn hero-btn-primary">Browse Ideas</a>
+            <a href="/about" class="btn hero-btn-ghost">Our Story</a>
+          </div>
         </div>
       </section>
 
@@ -194,77 +181,105 @@ const categories = [
 </html>
 
 <style>
-/* ── Hero: editorial split layout ── */
+/* ── Hero: full-width background image ── */
 .hero {
-  display: grid;
-  grid-template-columns: 1fr;
-  min-height: 80vh;
-}
-.hero-img-col { position: relative; order: -1; }
-.hero-img {
+  position: relative;
   width: 100%;
-  height: 55vw;
-  min-height: 300px;
-  max-height: 640px;
-  border-radius: 0;
-}
-.hero-img img { width: 100%; height: 100%; }
-
-.hero-text-col {
-  padding: 36px 24px 44px;
+  min-height: 88vh;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 16px;
-  max-width: 600px;
+  align-items: center;
+  overflow: hidden;
 }
-
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(10,22,30,0.72) 0%, rgba(10,22,30,0.45) 60%, rgba(10,22,30,0.15) 100%);
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  max-width: 760px;
+}
 .hero-label {
   font-family: var(--font-heading);
   font-size: 0.68rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: var(--color-primary);
-  margin: 0;
+  letter-spacing: 0.18em;
+  color: rgba(255,255,255,0.65);
+  margin: 0 0 20px 0;
 }
-
 .hero-headline {
-  font-size: clamp(2.4rem, 7vw, 4.5rem);
+  font-family: var(--font-heading);
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  font-weight: 700;
   line-height: 1.05;
-  margin: 0;
+  color: #ffffff;
+  margin: 0 0 24px 0;
 }
-
-.hero-sub {
-  font-size: 1rem;
-  color: var(--color-text-muted);
-  line-height: 1.7;
-  max-width: 380px;
-  margin: 0;
-}
-
-.hero-cta { margin-top: 4px; align-self: flex-start; }
-
-.hero-tagline {
+.hero-headline em {
   font-family: var(--font-display);
   font-style: italic;
-  font-size: 0.95rem;
-  color: var(--color-text-muted);
-  border-left: 2px solid var(--color-accent);
-  padding-left: 14px;
-  margin: 0;
-  line-height: 1.5;
+  font-weight: 400;
+  color: var(--color-accent);
 }
-
-@media (min-width: 900px) {
-  .hero {
-    grid-template-columns: 55% 1fr;
-    min-height: 88vh;
-    align-items: stretch;
-  }
-  .hero-img-col { order: 0; }
-  .hero-img { height: 100%; max-height: none; }
-  .hero-text-col { padding: 80px 56px 80px 64px; max-width: none; }
+.hero-sub {
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  color: rgba(255,255,255,0.75);
+  line-height: 1.75;
+  margin: 0 0 36px 0;
+  max-width: 520px;
+}
+.hero-actions {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.hero-btn-primary {
+  background: #ffffff;
+  color: var(--color-heading);
+  border: 2px solid #ffffff;
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 14px 32px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.hero-btn-primary:hover {
+  background: transparent;
+  color: #ffffff;
+  text-decoration: none;
+}
+.hero-btn-ghost {
+  background: rgba(255,255,255,0.12);
+  color: #ffffff;
+  border: 2px solid rgba(255,255,255,0.45);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 14px 32px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.hero-btn-ghost:hover {
+  background: rgba(255,255,255,0.22);
+  color: #ffffff;
+  text-decoration: none;
 }
 
 /* ── Featured section ── */
