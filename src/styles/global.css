@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Pinyon+Script&display=swap');
 
 /* ── Design Tokens ── */
 :root {
@@ -16,10 +16,10 @@
   --color-dark: #0F1F2A;
   --color-white: #FFFFFF;
 
-  /* Three-tier font stack — the editorial signature */
-  --font-display: 'Cormorant Garamond', Georgia, serif;
-  --font-heading: 'Montserrat', sans-serif;
-  --font-body: 'Open Sans', sans-serif;
+  /* Two-tier font stack — editorial signature */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
 
   --max-width: 740px;
   --max-width-wide: 1200px;
