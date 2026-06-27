@@ -68,13 +68,6 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
             <ul id="search-suggestions" class="suggestions-list" role="listbox" hidden></ul>
           </div>
 
-          <!-- Keyword suggestions -->
-          <div class="keyword-chips" aria-label="Suggested searches">
-            {['alfresco', 'Hamptons', 'fire pit', 'rattan', 'BBQ', 'pergola', 'coastal bathroom', 'landscaping'].map(kw => (
-              <button class="keyword-chip" data-keyword={kw.toLowerCase()}>{kw}</button>
-            ))}
-          </div>
-
           <!-- Category filters -->
           <div class="cat-filters" role="group" aria-label="Filter by category">
             <button class="cat-filter active" data-cat="all">All</button>
@@ -244,94 +237,63 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   top: calc(100% + 2px);
   left: 0;
   right: 0;
-  background: var(--color-bg);
+  background: var(--color-white);
   border: 1px solid var(--color-border);
-  border-top: 2px solid var(--color-primary);
-  box-shadow: 0 12px 32px rgba(27,58,75,0.10);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.09);
   list-style: none;
-  padding: 8px 0;
+  padding: 4px 0;
   margin: 0;
   z-index: 300;
-  max-height: 340px;
+  max-height: 360px;
   overflow-y: auto;
 }
 .suggestion-item {
   display: flex;
   align-items: center;
   gap: 14px;
-  padding: 12px 18px;
+  padding: 13px 18px;
   cursor: pointer;
   transition: background var(--transition);
-  border-left: 2px solid transparent;
+  border-bottom: 1px solid var(--color-border);
 }
+.suggestion-item:last-child { border-bottom: none; }
 .suggestion-item:hover,
-.suggestion-item[aria-selected="true"] {
-  background: var(--color-surface);
-  border-left-color: var(--color-primary);
-}
-.suggestion-icon {
-  color: var(--color-border);
+.suggestion-item[aria-selected="true"] { background: var(--color-surface-warm); }
+.suggestion-cat-pill {
   flex-shrink: 0;
-  transition: color var(--transition);
+  font-family: var(--font-heading);
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  padding: 3px 9px;
+  white-space: nowrap;
+  min-width: 56px;
+  text-align: center;
 }
-.suggestion-item:hover .suggestion-icon,
-.suggestion-item[aria-selected="true"] .suggestion-icon {
-  color: var(--color-primary);
-}
-.suggestion-text { flex: 1; min-width: 0; }
 .suggestion-title {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1rem;
+  font-family: var(--font-heading);
+  font-size: 0.88rem;
   font-weight: 400;
   color: var(--color-heading);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.3;
+  flex: 1;
+  min-width: 0;
 }
 .suggestion-title mark {
-  background: none;
-  color: var(--color-primary);
-  font-style: italic;
+  background: rgba(212, 184, 150, 0.35);
+  color: inherit;
   font-weight: 600;
-}
-.suggestion-cat {
-  font-family: var(--font-heading);
-  font-size: 0.62rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--color-text-muted);
-  margin-top: 2px;
+  border-radius: 2px;
+  padding: 0 1px;
 }
 
 /* Category filter pills */
-/* Keyword chips */
-.keyword-chips {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  align-items: center;
-}
-.keyword-chip {
-  font-family: var(--font-heading);
-  font-size: 0.68rem;
-  font-weight: 500;
-  color: var(--color-text-muted);
-  border: 1px solid var(--color-border);
-  border-radius: 20px;
-  padding: 4px 12px;
-  cursor: pointer;
-  transition: all var(--transition);
-  white-space: nowrap;
-}
-.keyword-chip:hover,
-.keyword-chip.active {
-  border-color: var(--color-primary);
-  color: var(--color-primary);
-  background: rgba(74,144,184,0.06);
-}
 
 .cat-filters {
   display: flex;
@@ -483,7 +445,6 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 </style>
 
 <script>
-const keywordChips   = document.querySelectorAll<HTMLButtonElement>('.keyword-chip');
 const searchInput    = document.getElementById('search-input') as HTMLInputElement | null;
 const suggestionsList = document.getElementById('search-suggestions') as HTMLUListElement | null;
 const searchClear  = document.getElementById('search-clear') as HTMLButtonElement | null;
@@ -528,13 +489,8 @@ function showSuggestions(query: string) {
 
   suggestionsList.innerHTML = matches.map((p, i) => `
     <li role="option" aria-selected="false" class="suggestion-item" data-href="${p.slug}" data-idx="${i}">
-      <svg class="suggestion-icon" viewBox="0 0 16 16" fill="none" width="12" height="12">
-        <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-      </svg>
-      <div class="suggestion-text">
-        <div class="suggestion-title">${highlighted(p.displayTitle)}</div>
-        <div class="suggestion-cat">${p.cat}</div>
-      </div>
+      <span class="suggestion-cat-pill">${p.cat.split(' ')[0]}</span>
+      <span class="suggestion-title">${highlighted(p.displayTitle)}</span>
     </li>
   `).join('');
 
@@ -665,27 +621,6 @@ catFilters.forEach(btn => {
   });
 });
 
-keywordChips.forEach(chip => {
-  chip.addEventListener('click', () => {
-    const kw = chip.dataset.keyword ?? '';
-    if (!searchInput) return;
-    const already = chip.classList.contains('active');
-    keywordChips.forEach(c => c.classList.remove('active'));
-    if (already) {
-      searchInput.value = '';
-      searchQuery = '';
-    } else {
-      chip.classList.add('active');
-      searchInput.value = kw;
-      searchQuery = kw;
-    }
-    if (searchClear) searchClear.hidden = searchQuery === '';
-    isFiltering = searchQuery !== '' || activeCategory !== 'all';
-    currentPage = 1;
-    applyFilters();
-  });
-});
-
 searchInput?.addEventListener('input', () => {
   searchQuery  = searchInput!.value.toLowerCase().trim();
   isFiltering  = searchQuery !== '' || activeCategory !== 'all';
@@ -713,7 +648,6 @@ searchClear?.addEventListener('click', () => {
   isFiltering        = activeCategory !== 'all';
   currentPage        = 1;
   if (searchClear) searchClear.hidden = true;
-  keywordChips.forEach(c => c.classList.remove('active'));
   hideSuggestions();
   searchInput?.focus();
   applyFilters();
