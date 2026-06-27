@@ -146,56 +146,56 @@ declare module 'astro:content' {
   slug: "backyard-fire-pit-ideas-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "backyard-landscaping-ideas-australia.md": {
 	id: "backyard-landscaping-ideas-australia.md";
   slug: "backyard-landscaping-ideas-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "coastal-bathroom-decor-australia.md": {
 	id: "coastal-bathroom-decor-australia.md";
   slug: "coastal-bathroom-decor-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "hamptons-style-bedroom-australia.md": {
 	id: "hamptons-style-bedroom-australia.md";
   slug: "hamptons-style-bedroom-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "hamptons-style-living-room-australia.md": {
 	id: "hamptons-style-living-room-australia.md";
   slug: "hamptons-style-living-room-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "hamptons-style-outdoor-living-australia.md": {
 	id: "hamptons-style-outdoor-living-australia.md";
   slug: "hamptons-style-outdoor-living-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "outdoor-bbq-area-ideas-australia.md": {
 	id: "outdoor-bbq-area-ideas-australia.md";
   slug: "outdoor-bbq-area-ideas-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "outdoor-entertaining-ideas-australia.md": {
 	id: "outdoor-entertaining-ideas-australia.md";
   slug: "outdoor-entertaining-ideas-australia";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 };
 
@@ -207,5 +207,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("./../../src/content/config.js");
 }
