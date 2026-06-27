@@ -385,7 +385,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 }
 .page-btn:hover:not(:disabled) { color: var(--color-heading); }
 .page-btn:disabled { opacity: 0.25; cursor: not-allowed; }
-.page-num {
+:global(.page-num) {
   appearance: none;
   -webkit-appearance: none;
   display: inline-flex;
@@ -398,16 +398,16 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   border: none;
   outline: none;
   box-shadow: none;
-  font-family: var(--font-heading);
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 400;
   color: var(--color-heading);
   cursor: pointer;
-  transition: background var(--transition), color var(--transition);
+  transition: background 0.2s ease, color 0.2s ease;
 }
-.page-num:hover:not(.active) { background: var(--color-surface-warm); }
-.page-num.active {
+:global(.page-num:hover:not(.active)) { background: var(--color-surface-warm); }
+:global(.page-num.active) {
   background: #8B7355;
   color: #ffffff;
   font-weight: 600;
