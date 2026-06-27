@@ -1,0 +1,133 @@
+---
+interface FAQItem {
+  q: string;
+  a: string;
+}
+interface Props {
+  questions: FAQItem[];
+}
+const { questions } = Astro.props;
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: questions.map(item => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+---
+
+<section class="faq-section" aria-labelledby="faq-heading">
+  <div class="faq-header">
+    <span class="faq-marker">//FAQ</span>
+    <h2 id="faq-heading" class="display faq-title">frequently asked<br />questions</h2>
+  </div>
+  <div class="faq-list">
+    {questions.map((item, i) => (
+      <div class="faq-item">
+        <button
+          class="faq-trigger"
+          aria-expanded="false"
+          aria-controls={`faq-answer-${i}`}
+          id={`faq-question-${i}`}
+        >
+          <span>{item.q}</span>
+          <svg class="faq-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M5 7l5 5 5-5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <div
+          class="faq-answer"
+          id={`faq-answer-${i}`}
+          role="region"
+          aria-labelledby={`faq-question-${i}`}
+          hidden
+        >
+          <p>{item.a}</p>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+<style>
+.faq-section { margin: 3rem 0; }
+
+.faq-header { margin-bottom: 28px; }
+.faq-marker {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  letter-spacing: 0.04em;
+  display: block;
+  margin-bottom: 8px;
+}
+.faq-title {
+  font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+  margin: 0;
+  line-height: 1.15;
+}
+
+.faq-list { border-top: 1px solid var(--color-border); }
+
+.faq-item { border-bottom: 1px solid var(--color-border); }
+
+.faq-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  transition: color var(--transition);
+}
+.faq-trigger:hover { color: var(--color-primary); }
+.faq-trigger[aria-expanded="true"] { color: var(--color-primary); }
+.faq-trigger span { flex: 1; line-height: 1.45; }
+
+.faq-icon {
+  width: 16px;
+  height: 16px;
+  color: currentColor;
+  flex-shrink: 0;
+  transition: transform 0.25s ease;
+}
+.faq-trigger[aria-expanded="true"] .faq-icon { transform: rotate(180deg); }
+
+.faq-answer {
+  padding: 0 0 20px 0;
+}
+.faq-answer[hidden] { display: none; }
+.faq-answer p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+</style>
+
+<script>
+document.querySelectorAll<HTMLButtonElement>('.faq-trigger').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    const controlsId = btn.getAttribute('aria-controls');
+    const answer = controlsId ? document.getElementById(controlsId) : null;
+    if (!answer) return;
+    btn.setAttribute('aria-expanded', String(!expanded));
+    answer.hidden = expanded;
+  });
+});
+</script>

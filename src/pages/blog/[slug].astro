@@ -1,0 +1,506 @@
+---
+import { getCollection }  from 'astro:content';
+import BlogPost            from '../../layouts/BlogPost.astro';
+import TLDRBox             from '../../components/TLDRBox.astro';
+import FAQ                 from '../../components/FAQ.astro';
+import PostCard            from '../../components/PostCard.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await post.render();
+
+const {
+  title,
+  description,
+  image,
+  datePublished,
+  dateModified,
+  author = 'Sarah Mitchell',
+  category,
+  readTime,
+  tldr = [],
+  faqs = [],
+} = post.data;
+
+const allPosts = await getCollection('blog');
+const related = allPosts
+  .filter(p => p.slug !== post.slug)
+  .sort((a, b) => {
+    const sameCategory = (a.data.category === category ? -1 : 0) - (b.data.category === category ? -1 : 0);
+    return sameCategory || new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime();
+  })
+  .slice(0, 3);
+
+const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
+
+const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+
+const pageUrl = `https://coastalhomeau.com.au/blog/${post.slug}`;
+const pinUrl  = `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(image)}&description=${encodeURIComponent(title)}`;
+---
+
+<BlogPost
+  title={title}
+  description={description}
+  slug={post.slug}
+  image={image}
+  datePublished={datePublished}
+  dateModified={dateModified}
+  author={author}
+>
+  <div class="post-wrap">
+
+    <!-- ── Post header (full width) ── -->
+    <div class="post-header-wrap">
+      <div class="post-header container">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span class="breadcrumb-sep" aria-hidden="true">›</span>
+          <a href="/blog">Blog</a>
+          <span class="breadcrumb-sep" aria-hidden="true">›</span>
+          <span aria-current="page">{category}</span>
+        </nav>
+
+        <span class="pill post-cat">{category}</span>
+        <h1 class="display post-title">{title}</h1>
+
+        <div class="post-meta">
+          <span class="post-meta-author">{author}</span>
+          <span aria-hidden="true" class="post-meta-sep">·</span>
+          <time datetime={datePublished}>{formattedDate}</time>
+          <span aria-hidden="true" class="post-meta-sep">·</span>
+          <span>{readTime}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Two-column layout ── -->
+    <div class="container post-layout">
+
+      <!-- Main content -->
+      <article class="post-main">
+
+        <!-- Affiliate disclosure -->
+        <p class="disclosure">
+          <strong>Disclosure:</strong> This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.
+        </p>
+
+        <!-- Featured image -->
+        <div class="img-wrap post-hero-img">
+          <img
+            src={image}
+            alt={title}
+            width="1200"
+            height="675"
+            loading="eager"
+            fetchpriority="high"
+          />
+          <a
+            href={pinUrl}
+            class="pin-btn"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Save to Pinterest"
+          >
+            <svg viewBox="0 0 24 24" fill="white"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+            Save
+          </a>
+        </div>
+
+        <!-- TL;DR -->
+        {tldr.length > 0 && <TLDRBox points={tldr} />}
+
+        <!-- Mobile-only TOC -->
+        {tocHeadings.length > 0 && (
+          <nav class="toc-mobile" aria-label="Table of contents">
+            <details>
+              <summary class="toc-mobile-summary">
+                <span>In this article</span>
+                <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" width="14" height="14">
+                  <path d="M5 7l5 5 5-5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+              </summary>
+              <ol class="toc-mobile-list">
+                {tocHeadings.map(h => (
+                  <li class={h.depth === 3 ? 'toc-sub' : ''}>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          </nav>
+        )}
+
+        <!-- Content -->
+        <div class="post-content">
+          <Content />
+        </div>
+
+        <!-- FAQ -->
+        {faqs.length > 0 && <FAQ questions={faqs} />}
+
+        <!-- Affiliate disclosure full -->
+        <div class="disclosure disclosure--full">
+          <strong>Affiliate Disclosure:</strong> This post contains affiliate links to products I genuinely recommend. If you purchase through my links I may earn a small commission at no extra cost to you. Thank you for supporting Outdoor & Coastal Home Decor.
+        </div>
+
+        <!-- Author bio -->
+        <div class="author-bio">
+          <div class="author-bio-logo" aria-hidden="true">
+            <span class="bio-logo-monogram">O&amp;H</span>
+          </div>
+          <div>
+            <span class="author-bio-name">{author}</span>
+            <p>
+              Sarah is a home decor enthusiast based on the Gold Coast, sharing coastal living and outdoor entertaining ideas for Australian homes — with the right seasons, the right retailers, and the right climate in mind.
+            </p>
+          </div>
+        </div>
+
+      </article>
+
+      <!-- Sticky sidebar -->
+      <aside class="post-sidebar">
+
+        <!-- "In this article" TOC -->
+        {tocHeadings.length > 0 && (
+          <nav class="sidebar-toc" aria-label="Table of contents">
+            <h2 class="sidebar-toc-heading">In this article</h2>
+            <ol class="sidebar-toc-list">
+              {tocHeadings.map(h => (
+                <li class={h.depth === 3 ? 'toc-sub' : ''}>
+                  <a href={`#${h.slug}`}>{h.text}</a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
+        <!-- Category card -->
+        <div class="sidebar-card">
+          <p class="sidebar-card-label">Browse More</p>
+          <p class="sidebar-card-title">Explore all coastal &amp; outdoor ideas</p>
+          <a href="/blog" class="btn btn-primary sidebar-card-btn">
+            View all ideas
+            <svg viewBox="0 0 16 16" fill="none" width="12" height="12" aria-hidden="true">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </a>
+        </div>
+
+      </aside>
+
+    </div>
+
+    <!-- ── Related posts (full width) ── -->
+    {related.length > 0 && (
+      <section class="related-section" aria-labelledby="related-heading">
+        <div class="container">
+          <h2 class="display related-title" id="related-heading">Read Next</h2>
+          <div class="grid-3 related-grid">
+            {related.map((p, i) => (
+              <PostCard
+                title={p.data.title}
+                description={p.data.description}
+                slug={p.slug}
+                image={p.data.image}
+                category={p.data.category}
+                readTime={p.data.readTime}
+                datePublished={p.data.datePublished}
+                index={i}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+  </div>
+</BlogPost>
+
+<style>
+/* ── Wrapper ── */
+.post-wrap { padding-bottom: 80px; }
+
+/* ── Post header ── */
+.post-header-wrap {
+  border-bottom: 1px solid var(--color-border);
+  padding: 32px 0 28px;
+}
+@media (min-width: 768px) {
+  .post-header-wrap { padding: 48px 0 40px; }
+}
+.post-cat { margin-bottom: 16px; display: inline-block; }
+
+.post-title {
+  font-size: clamp(1.9rem, 4.5vw, 3rem);
+  margin: 0 0 1.25rem 0;
+  line-height: 1.1;
+  max-width: 780px;
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  flex-wrap: wrap;
+}
+.post-meta-author { font-weight: 600; color: var(--color-heading); }
+.post-meta-sep { color: var(--color-border); }
+
+/* ── Two-column layout ── */
+.post-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px;
+  padding-top: 40px;
+  align-items: start;
+}
+
+@media (min-width: 1024px) {
+  .post-layout {
+    grid-template-columns: 1fr 300px;
+    gap: 64px;
+  }
+}
+
+/* ── Main content ── */
+.post-hero-img {
+  margin: 0 0 2rem;
+  aspect-ratio: 16 / 9;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.disclosure {
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  border-left: 3px solid var(--color-border);
+  padding: 8px 12px;
+  margin: 0 0 1.5rem;
+  line-height: 1.6;
+}
+.disclosure--full {
+  margin: 2.5rem 0 0;
+  font-size: 0.8rem;
+}
+
+/* Mobile TOC */
+.toc-mobile {
+  border: 1px solid var(--color-border);
+  margin: 0 0 2rem;
+  display: block;
+}
+.toc-mobile-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  cursor: pointer;
+  list-style: none;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-heading);
+}
+.toc-mobile-summary::-webkit-details-marker { display: none; }
+.toc-mobile-summary svg { color: var(--color-primary); transition: transform 0.2s; }
+details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
+.toc-mobile-list {
+  padding: 8px 16px 16px 32px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+.toc-mobile-list a {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.toc-mobile-list a:hover { color: var(--color-primary); }
+
+@media (min-width: 1024px) {
+  .toc-mobile { display: none; }
+}
+
+/* Post content */
+.post-content { margin: 0 0 2rem; }
+.post-content :global(h2) {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  color: var(--color-heading);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 8px;
+  margin-top: 2.5rem;
+}
+.post-content :global(h3) {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  color: var(--color-heading);
+  margin-top: 2rem;
+}
+.post-content :global(.img-wrap) {
+  margin: 2rem 0;
+  aspect-ratio: 16 / 9;
+}
+
+/* Author bio */
+.author-bio {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 3rem;
+  padding: 28px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+.author-bio-logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--color-heading);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.bio-logo-monogram {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 1.6rem;
+  color: var(--color-white);
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+.author-bio-name {
+  display: block;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  color: var(--color-heading);
+  margin-bottom: 6px;
+}
+.author-bio p {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* ── Sidebar ── */
+.post-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+@media (min-width: 1024px) {
+  .post-sidebar {
+    position: sticky;
+    top: 88px; /* header height + gap */
+  }
+}
+
+/* Sidebar TOC */
+.sidebar-toc {
+  border: 1px solid var(--color-border);
+  padding: 24px;
+  background: var(--color-bg);
+}
+.sidebar-toc-heading {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-heading);
+  margin: 0 0 16px 0;
+  letter-spacing: 0.01em;
+}
+.sidebar-toc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.sidebar-toc-list li { margin: 0; }
+.sidebar-toc-list a {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  padding: 5px 0;
+  border-bottom: 1px solid transparent;
+  line-height: 1.4;
+  transition: color var(--transition);
+}
+.sidebar-toc-list a:hover { color: var(--color-primary); text-decoration: underline; }
+.sidebar-toc-list .toc-sub a { padding-left: 12px; font-size: 0.82rem; }
+
+/* Sidebar card */
+.sidebar-card {
+  background: var(--color-dark);
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.sidebar-card-label {
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-accent);
+  margin: 0;
+}
+.sidebar-card-title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--color-white);
+  line-height: 1.3;
+  margin: 0;
+}
+.sidebar-card-btn {
+  align-self: flex-start;
+  margin-top: 4px;
+  font-size: 0.75rem;
+}
+
+/* ── Related posts ── */
+.related-section {
+  padding: 72px 0;
+  background: var(--color-surface-warm);
+  margin-top: 3rem;
+}
+.related-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  margin: 0 0 40px 0;
+  line-height: 1.1;
+}
+.related-grid { gap: 32px; }
+.related-grid :global(.post-card) { background: var(--color-bg); }
+</style>

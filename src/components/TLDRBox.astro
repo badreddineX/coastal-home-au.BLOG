@@ -1,0 +1,72 @@
+---
+interface Props {
+  points: string[];
+  title?: string;
+}
+const { points, title = 'Quick Summary' } = Astro.props;
+---
+
+<aside class="tldr-box" aria-label="Quick summary">
+  <div class="tldr-header">
+    <span class="tldr-marker">—</span>
+    <p class="tldr-title">{title}</p>
+  </div>
+  <ul>
+    {points.map(point => <li>{point}</li>)}
+  </ul>
+</aside>
+
+<style>
+.tldr-box {
+  border-left: 2px solid var(--color-primary);
+  padding: 20px 24px;
+  margin: 2rem 0;
+  background: var(--color-surface);
+}
+.tldr-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.tldr-marker {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--color-primary);
+}
+.tldr-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-primary);
+  margin: 0;
+}
+.tldr-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.tldr-box li {
+  font-size: 0.9rem;
+  color: var(--color-text);
+  padding-left: 18px;
+  position: relative;
+  margin: 0;
+  line-height: 1.65;
+}
+.tldr-box li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 6px;
+  height: 1px;
+  background: var(--color-accent);
+}
+</style>

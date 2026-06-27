@@ -1,0 +1,434 @@
+---
+import { getCollection } from 'astro:content';
+import SEO     from '../components/SEO.astro';
+import Header  from '../components/Header.astro';
+import Footer  from '../components/Footer.astro';
+import PostCard from '../components/PostCard.astro';
+import '../styles/global.css';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
+);
+const featured = allPosts.slice(0, 3);
+const latest   = allPosts.slice(0, 6);
+
+const categories = [
+  { label: 'Outdoor Entertaining', href: '/blog?cat=outdoor-entertaining' },
+  { label: 'Coastal Decor',        href: '/blog?cat=coastal-decor'        },
+  { label: 'Hamptons Style',       href: '/blog?cat=hamptons-style'       },
+  { label: 'Backyard Ideas',       href: '/blog?cat=backyard-ideas'       },
+];
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Outdoor & Coastal Home Decor — Australian Style"
+      description="Coastal home decor and entertaining ideas for Australian homes. Hamptons style, alfresco dining, backyard inspiration — all for the Australian lifestyle."
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+
+      <!-- ── Hero ── -->
+      <section class="hero" aria-label="Hero">
+        <div class="hero-img-col">
+          <div class="img-wrap hero-img">
+            <img
+              src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=80"
+              alt="Bright Australian alfresco outdoor entertaining area"
+              width="1400"
+              height="1050"
+              loading="eager"
+              fetchpriority="high"
+            />
+            <a
+              href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fcoastalhomeau.com.au&media=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1600566753086-00f18fb6b3ea%3Fw%3D1200&description=Outdoor+Living+Australian+Style"
+              class="pin-btn"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Save to Pinterest"
+            >
+              <svg viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+              Save
+            </a>
+          </div>
+        </div>
+        <div class="hero-text-col">
+          <p class="hero-label">Outdoor &amp; Coastal Living</p>
+          <h1 class="display hero-headline">
+            Let Your Coast<br />Tell a Story
+          </h1>
+          <p class="hero-sub">
+            Coastal home decor and entertaining ideas for Australian homes — written from the Southern Hemisphere.
+          </p>
+          <a href="/blog" class="btn btn-primary hero-cta">
+            Browse Ideas
+            <svg viewBox="0 0 16 16" fill="none" width="14" height="14" aria-hidden="true">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </a>
+          <p class="hero-tagline">"The outdoor entertaining ideas that actually work for Australian homes."</p>
+        </div>
+      </section>
+
+      <!-- ── //01 Featured Ideas ── -->
+      <section class="section" aria-labelledby="featured-heading">
+        <div class="container">
+          <div class="featured-header">
+            <h2 class="display featured-title" id="featured-heading">
+              Ideas from the Coast
+            </h2>
+            <a href="/blog" class="btn btn-ghost">
+              See all posts
+              <svg viewBox="0 0 16 16" fill="none" width="13" height="13" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            </a>
+          </div>
+          <div class="grid-3 featured-grid">
+            {featured.map((post, i) => (
+              <PostCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.slug}
+                image={post.data.image}
+                category={post.data.category}
+                readTime={post.data.readTime}
+                datePublished={post.data.datePublished}
+                index={i}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- ── //02 Categories ── -->
+      <section class="section section--warm" aria-labelledby="cat-heading">
+        <div class="container">
+          <h2 class="display cat-title" id="cat-heading">Discover Your Style</h2>
+          <nav class="cat-list" aria-label="Browse by category">
+            {categories.map((cat, i) => (
+              <a href={cat.href} class="cat-item">
+                <span class="cat-num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="cat-name">{cat.label}</span>
+                <svg class="cat-arrow" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                  <path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+              </a>
+            ))}
+          </nav>
+        </div>
+      </section>
+
+      <!-- ── //03 Latest Posts ── -->
+      <section class="section" aria-labelledby="latest-heading">
+        <div class="container">
+          <h2 class="display latest-title" id="latest-heading">Fresh from the Blog</h2>
+          <div class="grid-2">
+            {latest.map((post, i) => (
+              <PostCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.slug}
+                image={post.data.image}
+                category={post.data.category}
+                readTime={post.data.readTime}
+                datePublished={post.data.datePublished}
+                index={i}
+              />
+            ))}
+          </div>
+          <div class="latest-cta">
+            <a href="/blog" class="btn btn-primary">
+              Browse the Blog
+              <svg viewBox="0 0 16 16" fill="none" width="14" height="14" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── //04 About ── -->
+      <section class="section section--dark about-section" aria-labelledby="about-heading">
+        <div class="container">
+          <div class="about-split">
+            <div class="about-img-col">
+              <div class="about-logo-block">
+                <span class="about-logo-monogram">O&amp;H</span>
+                <span class="about-logo-wordmark">Outdoor &amp; Coastal-Home</span>
+              </div>
+            </div>
+            <div class="about-text-col">
+              <p class="about-label">G'day, I'm Sarah.</p>
+              <h2 class="display about-headline" id="about-heading">
+                Welcome To<br />Outdoor &amp; Coastal Home
+              </h2>
+              <p class="about-body">
+                I started this blog because I was tired of beautiful home inspiration that was built for the Northern Hemisphere — with the wrong seasons, the wrong climate, and the wrong stores. Australians deserve content made for Australian homes.
+              </p>
+              <p class="about-body">
+                Whether you have a backyard in Brisbane or a balcony in Sydney, I'm here with ideas that actually work in our climate, from retailers you can actually shop.
+              </p>
+              <a href="/about" class="btn about-btn">
+                More About Me
+                <svg viewBox="0 0 16 16" fill="none" width="13" height="13" aria-hidden="true">
+                  <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+/* ── Hero: editorial split layout ── */
+.hero {
+  display: grid;
+  grid-template-columns: 1fr;
+  min-height: 80vh;
+}
+.hero-img-col { position: relative; order: -1; }
+.hero-img {
+  width: 100%;
+  height: 55vw;
+  min-height: 300px;
+  max-height: 640px;
+  border-radius: 0;
+}
+.hero-img img { width: 100%; height: 100%; }
+
+.hero-text-col {
+  padding: 36px 24px 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+  max-width: 600px;
+}
+
+.hero-label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--color-primary);
+  margin: 0;
+}
+
+.hero-headline {
+  font-size: clamp(2.4rem, 7vw, 4.5rem);
+  line-height: 1.05;
+  margin: 0;
+}
+
+.hero-sub {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  max-width: 380px;
+  margin: 0;
+}
+
+.hero-cta { margin-top: 4px; align-self: flex-start; }
+
+.hero-tagline {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  border-left: 2px solid var(--color-accent);
+  padding-left: 14px;
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (min-width: 900px) {
+  .hero {
+    grid-template-columns: 55% 1fr;
+    min-height: 88vh;
+    align-items: stretch;
+  }
+  .hero-img-col { order: 0; }
+  .hero-img { height: 100%; max-height: none; }
+  .hero-text-col { padding: 80px 56px 80px 64px; max-width: none; }
+}
+
+/* ── Featured section ── */
+.featured-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 40px;
+}
+.featured-title {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  margin: 0;
+  line-height: 1.1;
+}
+.featured-grid { border: 1px solid var(--color-border); }
+.featured-grid > :not(:last-child) { border-right: 1px solid var(--color-border); }
+
+@media (min-width: 900px) {
+  .featured-grid { border: 1px solid var(--color-border); }
+  .featured-grid > :not(:last-child) { border-right: 1px solid var(--color-border); }
+}
+@media (max-width: 899px) {
+  .featured-grid > * { border-bottom: 1px solid var(--color-border); }
+  .featured-grid > :last-child { border-bottom: none; }
+}
+
+.featured-grid :global(.post-card) {
+  padding: 20px;
+  border: none;
+}
+
+/* ── Category section ── */
+.cat-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+.cat-list {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid var(--color-border);
+}
+.cat-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--color-border);
+  text-decoration: none;
+  transition: all var(--transition);
+}
+.cat-item:hover { padding-left: 8px; text-decoration: none; }
+.cat-num {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  width: 28px;
+  flex-shrink: 0;
+}
+.cat-name {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(1.2rem, 2.5vw, 1.7rem);
+  color: var(--color-heading);
+  flex: 1;
+  transition: color var(--transition);
+}
+.cat-item:hover .cat-name { color: var(--color-primary); }
+.cat-arrow {
+  width: 20px;
+  height: 20px;
+  color: var(--color-text-muted);
+  transition: transform var(--transition), color var(--transition);
+}
+.cat-item:hover .cat-arrow { transform: translateX(6px); color: var(--color-primary); }
+
+/* ── Latest posts ── */
+.latest-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+.latest-cta {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+
+/* ── About section (dark) ── */
+.about-section { color: rgba(255,255,255,0.8); }
+.about-marker .marker-num,
+.about-marker .marker-label { color: rgba(255,255,255,0.35); }
+.about-marker { border-top-color: rgba(255,255,255,0.12); }
+
+.about-split {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px;
+  align-items: center;
+}
+.about-logo-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  aspect-ratio: 4 / 5;
+  max-height: 480px;
+  gap: 8px;
+}
+.about-logo-monogram {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-size: clamp(4rem, 10vw, 7rem);
+  color: var(--color-white);
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+.about-logo-wordmark {
+  font-family: var(--font-heading);
+  font-size: clamp(0.4rem, 0.9vw, 0.58rem);
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45);
+  white-space: nowrap;
+}
+.about-label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--color-accent-green);
+  margin-bottom: 12px;
+}
+.about-headline {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  color: var(--color-white);
+  margin: 0 0 24px 0;
+  line-height: 1.1;
+}
+.about-body {
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.65);
+  line-height: 1.75;
+}
+.about-btn {
+  background: transparent;
+  color: var(--color-white);
+  border-color: rgba(255,255,255,0.35);
+  margin-top: 8px;
+  display: inline-flex;
+}
+.about-btn:hover {
+  background: var(--color-white);
+  color: var(--color-heading);
+  border-color: var(--color-white);
+}
+
+@media (min-width: 768px) {
+  .about-split { grid-template-columns: 1fr 1fr; gap: 64px; }
+}
+</style>

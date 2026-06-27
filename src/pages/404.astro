@@ -1,0 +1,126 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Page Not Found — Outdoor & Coastal Home Decor"
+      description="This page doesn't exist. Browse our coastal home decor and outdoor entertaining ideas for Australian homes."
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+      <section class="error-section">
+        <div class="container error-inner">
+          <p class="error-code">404</p>
+          <h1 class="display error-title">This page doesn't exist</h1>
+          <p class="error-sub">
+            The page you're looking for has moved, been renamed, or never existed. Let's get you back to something beautiful.
+          </p>
+          <div class="error-btns">
+            <a href="/" class="btn btn-primary">Go Home</a>
+            <a href="/blog" class="btn btn-outline">Browse Ideas</a>
+          </div>
+
+          <nav class="error-links" aria-label="Popular sections">
+            <p class="error-links-label">Or try one of these</p>
+            <ul>
+              <li><a href="/blog?cat=outdoor-entertaining">Outdoor Entertaining</a></li>
+              <li><a href="/blog?cat=coastal-decor">Coastal Decor</a></li>
+              <li><a href="/blog?cat=hamptons-style">Hamptons Style</a></li>
+              <li><a href="/blog?cat=backyard-ideas">Backyard Ideas</a></li>
+            </ul>
+          </nav>
+        </div>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+.error-section {
+  min-height: calc(100vh - 64px);
+  display: flex;
+  align-items: center;
+  padding: 80px 0;
+}
+.error-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  max-width: 560px;
+  margin: 0 auto;
+}
+.error-code {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(5rem, 20vw, 10rem);
+  color: var(--color-border);
+  line-height: 1;
+  margin: 0;
+}
+.error-title {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  margin: 0;
+}
+.error-sub {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 400px;
+  margin: 0;
+  line-height: 1.7;
+}
+.error-btns {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 8px;
+}
+.error-links {
+  margin-top: 24px;
+  border-top: 1px solid var(--color-border);
+  padding-top: 24px;
+  width: 100%;
+}
+.error-links-label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 16px;
+}
+.error-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.error-links a {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.error-links a:hover { color: var(--color-primary); }
+</style>

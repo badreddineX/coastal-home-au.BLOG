@@ -1,0 +1,579 @@
+---
+import { getCollection } from 'astro:content';
+import SEO      from '../../components/SEO.astro';
+import Header   from '../../components/Header.astro';
+import Footer   from '../../components/Footer.astro';
+import PostCard  from '../../components/PostCard.astro';
+import '../../styles/global.css';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
+);
+
+const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', 'Backyard Ideas'];
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Blog — Outdoor & Coastal Home Decor"
+      description="Browse all outdoor entertaining, coastal decor, and Hamptons style ideas for Australian homes."
+      path="/blog"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+
+      <!-- Hero -->
+      <section class="blog-hero">
+        <div class="container">
+          <span id="results-count" hidden></span>
+          <h1 class="display blog-title">All Ideas</h1>
+          <p class="blog-sub">Outdoor living, coastal decor, and Hamptons style ideas — written for Australian homes.</p>
+        </div>
+      </section>
+
+      <!-- Search + Filter bar -->
+      <div class="filter-bar">
+        <div class="container filter-inner">
+
+          <!-- Search -->
+          <div class="search-wrap">
+            <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <circle cx="9" cy="9" r="6" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M13.5 13.5l3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Search ideas..."
+              aria-label="Search blog posts"
+              autocomplete="off"
+            />
+            <button id="search-clear" class="search-clear" aria-label="Clear search" hidden>
+              <svg viewBox="0 0 16 16" fill="none" width="14" height="14">
+                <path d="M3 3l10 10M13 3L3 13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Keyword suggestions -->
+          <div class="keyword-chips" aria-label="Suggested searches">
+            {['alfresco', 'Hamptons', 'fire pit', 'rattan', 'BBQ', 'pergola', 'coastal bathroom', 'landscaping'].map(kw => (
+              <button class="keyword-chip" data-keyword={kw.toLowerCase()}>{kw}</button>
+            ))}
+          </div>
+
+          <!-- Category filters -->
+          <div class="cat-filters" role="group" aria-label="Filter by category">
+            <button class="cat-filter active" data-cat="all">All</button>
+            {categories.map(cat => (
+              <button class="cat-filter" data-cat={cat}>{cat}</button>
+            ))}
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Posts grid -->
+      <section class="section posts-section" aria-label="Blog posts" aria-live="polite">
+        <div class="container">
+          <div class="grid-2" id="posts-grid">
+            {allPosts.map((post, i) => (
+              <div
+                class="post-item"
+                data-title={post.data.title.toLowerCase()}
+                data-desc={post.data.description.toLowerCase()}
+                data-cat={post.data.category}
+                data-index={i}
+              >
+                <PostCard
+                  title={post.data.title}
+                  description={post.data.description}
+                  slug={post.slug}
+                  image={post.data.image}
+                  category={post.data.category}
+                  readTime={post.data.readTime}
+                  datePublished={post.data.datePublished}
+                  index={i}
+                />
+              </div>
+            ))}
+          </div>
+
+          <!-- Empty state: search no results -->
+          <div id="empty-state" class="empty-state" hidden>
+            <p class="display empty-title">No Results Found</p>
+            <p class="empty-sub">Try a different search term or browse another category.</p>
+            <button class="btn btn-outline" id="reset-btn">Clear filters</button>
+          </div>
+
+          <!-- Empty state: category has no posts yet -->
+          <div id="coming-soon" class="empty-state" hidden>
+            <p class="display empty-title">Coming Soon</p>
+            <p class="empty-sub">We're working on articles for this category. Check back soon.</p>
+            <a href="/blog" class="btn btn-outline">Browse All Ideas</a>
+          </div>
+
+          <!-- Pagination -->
+          <nav id="pagination" class="pagination" aria-label="Page navigation" hidden>
+            <button class="page-btn page-prev" id="page-prev" aria-label="Previous page">
+              <svg viewBox="0 0 16 16" fill="none" width="12" height="12"><path d="M10 3L5 8l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+              Prev
+            </button>
+            <div class="page-numbers" id="page-numbers"></div>
+            <button class="page-btn page-next" id="page-next" aria-label="Next page">
+              Next
+              <svg viewBox="0 0 16 16" fill="none" width="12" height="12"><path d="M6 3l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </button>
+          </nav>
+        </div>
+      </section>
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+/* Hero */
+.blog-hero {
+  border-bottom: 1px solid var(--color-border);
+  padding: 56px 0 48px;
+}
+.blog-results-count {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 16px;
+}
+.blog-title {
+  font-size: clamp(3rem, 8vw, 5.5rem);
+  line-height: 1;
+  margin: 0 0 16px 0;
+}
+.blog-sub {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 480px;
+  margin: 0;
+}
+
+/* Filter bar */
+.filter-bar {
+  position: sticky;
+  top: 64px;
+  z-index: 100;
+  background: rgba(253, 252, 251, 0.97);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.filter-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Search */
+.search-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 420px;
+  width: 100%;
+}
+.search-icon {
+  position: absolute;
+  left: 14px;
+  width: 16px;
+  height: 16px;
+  color: var(--color-text-muted);
+  pointer-events: none;
+  flex-shrink: 0;
+}
+#search-input {
+  width: 100%;
+  padding: 10px 40px 10px 40px;
+  border: 1px solid var(--color-border);
+  background: var(--color-white);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--color-text);
+  outline: none;
+  transition: border-color var(--transition);
+  border-radius: 2px;
+}
+#search-input::placeholder { color: var(--color-text-muted); }
+#search-input:focus { border-color: var(--color-primary); }
+#search-input::-webkit-search-cancel-button { display: none; }
+
+.search-clear {
+  position: absolute;
+  right: 12px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  transition: color var(--transition);
+}
+.search-clear:hover { color: var(--color-heading); }
+
+/* Category filter pills */
+/* Keyword chips */
+.keyword-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.keyword-chip {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.keyword-chip:hover,
+.keyword-chip.active {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: rgba(74,144,184,0.06);
+}
+
+.cat-filters {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 2px;
+}
+.cat-filters::-webkit-scrollbar { display: none; }
+.cat-filter {
+  padding: 10px 16px;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  border-radius: 2px;
+  white-space: nowrap;
+  min-height: 44px;
+  flex-shrink: 0;
+}
+.cat-filter:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+.cat-filter.active {
+  background: var(--color-heading);
+  border-color: var(--color-heading);
+  color: var(--color-white);
+}
+
+/* Posts */
+.posts-section { padding-top: 48px; }
+.post-item { transition: opacity 0.2s ease; }
+.post-item[hidden] { display: none; }
+
+/* Pagination — editorial theme */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 56px 0 16px;
+  border-top: 1px solid var(--color-border);
+  margin-top: 48px;
+}
+.page-numbers {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 24px;
+}
+.page-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: 8px 0;
+  transition: color var(--transition);
+}
+.page-btn:hover:not(:disabled) { color: var(--color-heading); }
+.page-btn:disabled { opacity: 0.25; cursor: not-allowed; }
+.page-btn svg { flex-shrink: 0; }
+.page-num {
+  appearance: none;
+  -webkit-appearance: none;
+  background: transparent !important;
+  border: 1px solid transparent !important;
+  outline: none !important;
+  box-shadow: none !important;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.3rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: 4px 14px;
+  transition: color var(--transition);
+  position: relative;
+  line-height: 1;
+}
+.page-num:focus { outline: none !important; box-shadow: none !important; }
+.page-num::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 14px;
+  right: 14px;
+  height: 1px;
+  background: var(--color-primary);
+  transform: scaleX(0);
+  transition: transform var(--transition);
+}
+.page-num:hover { color: var(--color-heading); }
+.page-num:hover::after { transform: scaleX(1); }
+.page-num.active {
+  color: var(--color-heading);
+  font-weight: 600;
+}
+.page-num.active::after { transform: scaleX(1); }
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: 80px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.empty-title {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  color: var(--color-heading);
+  line-height: 1.1;
+}
+.empty-sub {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  margin: 0;
+}
+.empty-reset { margin-top: 8px; }
+
+@media (min-width: 640px) {
+  .filter-inner {
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .search-wrap { flex-shrink: 0; }
+}
+</style>
+
+<script>
+const keywordChips = document.querySelectorAll<HTMLButtonElement>('.keyword-chip');
+const searchInput  = document.getElementById('search-input') as HTMLInputElement | null;
+const searchClear  = document.getElementById('search-clear') as HTMLButtonElement | null;
+const catFilters   = document.querySelectorAll<HTMLButtonElement>('.cat-filter');
+const postItems    = document.querySelectorAll<HTMLElement>('.post-item');
+const emptyState   = document.getElementById('empty-state') as HTMLElement | null;
+const comingSoon   = document.getElementById('coming-soon') as HTMLElement | null;
+const resultsCount = document.getElementById('results-count') as HTMLElement | null;
+const resetBtn     = document.getElementById('reset-btn') as HTMLButtonElement | null;
+const pagination   = document.getElementById('pagination') as HTMLElement | null;
+const pageNumbers  = document.getElementById('page-numbers') as HTMLElement | null;
+const pagePrev     = document.getElementById('page-prev') as HTMLButtonElement | null;
+const pageNext     = document.getElementById('page-next') as HTMLButtonElement | null;
+
+if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !emptyState || !comingSoon) {
+  console.warn('Blog filter: required elements missing');
+}
+
+const PER_PAGE = 6;
+let activeCategory = 'all';
+let searchQuery    = '';
+let currentPage    = 1;
+let isFiltering    = false;
+let matched: HTMLElement[] = [];
+
+const urlParams = new URLSearchParams(window.location.search);
+const urlCat    = urlParams.get('cat');
+const slugToLabel: Record<string, string> = {
+  'outdoor-entertaining': 'Outdoor Entertaining',
+  'coastal-decor':        'Coastal Decor',
+  'hamptons-style':       'Hamptons Style',
+  'backyard-ideas':       'Backyard Ideas',
+};
+if (urlCat && slugToLabel[urlCat]) {
+  activeCategory = slugToLabel[urlCat];
+  isFiltering = true;
+  catFilters.forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.dataset.cat === activeCategory) btn.classList.add('active');
+  });
+}
+
+function buildPagination(total: number) {
+  if (!pagination || !pageNumbers || !pagePrev || !pageNext) return;
+  const totalPages = Math.ceil(total / PER_PAGE);
+  pagination.hidden = totalPages <= 1 || isFiltering;
+  if (pagination.hidden) return;
+  pageNumbers.innerHTML = '';
+  for (let i = 1; i <= totalPages; i++) {
+    const btn = document.createElement('button');
+    btn.className = 'page-num' + (i === currentPage ? ' active' : '');
+    btn.textContent = String(i);
+    btn.setAttribute('aria-label', `Page ${i}`);
+    btn.addEventListener('click', () => goToPage(i));
+    pageNumbers.appendChild(btn);
+  }
+  pagePrev.disabled = currentPage === 1;
+  pageNext.disabled = currentPage === totalPages;
+}
+
+function goToPage(page: number) {
+  currentPage = page;
+  applyFilters();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function applyFilters() {
+  matched = [];
+  postItems.forEach(item => {
+    const title = item.dataset.title ?? '';
+    const desc  = item.dataset.desc  ?? '';
+    const cat   = item.dataset.cat   ?? '';
+    const matchesCat    = activeCategory === 'all' || cat === activeCategory;
+    const matchesSearch = searchQuery === '' || title.includes(searchQuery) || desc.includes(searchQuery);
+    if (matchesCat && matchesSearch) matched.push(item);
+  });
+
+  const total = matched.length;
+
+  if (isFiltering) {
+    postItems.forEach(item => { item.hidden = true; });
+    matched.forEach(item => { item.hidden = false; });
+  } else {
+    const start = (currentPage - 1) * PER_PAGE;
+    const end   = start + PER_PAGE;
+    postItems.forEach(item => { item.hidden = true; });
+    matched.forEach((item, i) => { item.hidden = i < start || i >= end; });
+  }
+
+  if (emptyState)   emptyState.hidden  = !(searchQuery !== '' && total === 0);
+  if (comingSoon)   comingSoon.hidden  = !(activeCategory !== 'all' && searchQuery === '' && total === 0);
+  if (resultsCount) resultsCount.textContent = `${total} Article${total !== 1 ? 's' : ''}`;
+  buildPagination(total);
+}
+
+pagePrev?.addEventListener('click', () => { if (currentPage > 1) goToPage(currentPage - 1); });
+pageNext?.addEventListener('click', () => {
+  const totalPages = Math.ceil(matched.length / PER_PAGE);
+  if (currentPage < totalPages) goToPage(currentPage + 1);
+});
+
+catFilters.forEach(btn => {
+  btn.addEventListener('click', () => {
+    catFilters.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeCategory = btn.dataset.cat ?? 'all';
+    isFiltering    = activeCategory !== 'all';
+    currentPage    = 1;
+    applyFilters();
+  });
+});
+
+keywordChips.forEach(chip => {
+  chip.addEventListener('click', () => {
+    const kw = chip.dataset.keyword ?? '';
+    if (!searchInput) return;
+    const already = chip.classList.contains('active');
+    keywordChips.forEach(c => c.classList.remove('active'));
+    if (already) {
+      searchInput.value = '';
+      searchQuery = '';
+    } else {
+      chip.classList.add('active');
+      searchInput.value = kw;
+      searchQuery = kw;
+    }
+    if (searchClear) searchClear.hidden = searchQuery === '';
+    isFiltering = searchQuery !== '' || activeCategory !== 'all';
+    currentPage = 1;
+    applyFilters();
+  });
+});
+
+searchInput?.addEventListener('input', () => {
+  searchQuery  = searchInput!.value.toLowerCase().trim();
+  isFiltering  = searchQuery !== '' || activeCategory !== 'all';
+  currentPage  = 1;
+  if (searchClear) searchClear.hidden = searchQuery === '';
+  applyFilters();
+});
+
+searchClear?.addEventListener('click', () => {
+  if (searchInput) searchInput.value = '';
+  searchQuery        = '';
+  isFiltering        = activeCategory !== 'all';
+  currentPage        = 1;
+  if (searchClear) searchClear.hidden = true;
+  keywordChips.forEach(c => c.classList.remove('active'));
+  searchInput?.focus();
+  applyFilters();
+});
+
+resetBtn?.addEventListener('click', () => {
+  if (searchInput) searchInput.value = '';
+  searchQuery        = '';
+  isFiltering        = false;
+  currentPage        = 1;
+  if (searchClear) searchClear.hidden = true;
+  activeCategory     = 'all';
+  catFilters.forEach(b => b.classList.remove('active'));
+  catFilters[0]?.classList.add('active');
+  applyFilters();
+});
+
+// Run on load
+applyFilters();
+</script>

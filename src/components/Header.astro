@@ -1,0 +1,225 @@
+---
+const currentPath = Astro.url.pathname;
+const navLinks = [
+  { href: '/',      label: 'Home'  },
+  { href: '/blog',  label: 'Blog'  },
+  { href: '/about', label: 'About' },
+];
+---
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<header class="site-header">
+  <div class="header-bar">
+    <div class="container header-inner">
+
+      <a href="/" class="logo" aria-label="Outdoor & Coastal Home Decor">
+        <span class="logo-monogram">O&amp;H</span>
+        <span class="logo-wordmark">Outdoor &amp; Coastal-Home</span>
+      </a>
+
+      <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="main-nav">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav id="main-nav" class="site-nav" aria-label="Main navigation">
+        <ul>
+          {navLinks.map(link => (
+            <li>
+              <a
+                href={link.href}
+                class={currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href)) ? 'active' : ''}
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <a href="/blog" class="header-cta">
+          Browse Ideas
+          <svg viewBox="0 0 16 16" fill="none" width="13" height="13" aria-hidden="true">
+            <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </a>
+      </nav>
+
+    </div>
+  </div>
+</header>
+
+<style>
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  background: var(--color-heading);
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  z-index: 9999;
+  text-decoration: none;
+}
+.skip-link:focus { top: 0; }
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: rgba(253, 252, 251, 0.97);
+  backdrop-filter: blur(12px);
+}
+
+.header-bar { border-bottom: 1px solid var(--color-border); }
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  padding-left: 0;
+}
+
+/* Logotype — left corner */
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  text-decoration: none;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.logo:hover { text-decoration: none; }
+.logo-monogram {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-size: 2.6rem;
+  color: var(--color-heading);
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+.logo-wordmark {
+  font-family: var(--font-heading);
+  font-size: 0.48rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  display: none;
+}
+@media (min-width: 420px) {
+  .logo-wordmark { display: block; }
+}
+
+/* Mobile toggle */
+.nav-toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  z-index: 10;
+}
+.nav-toggle span {
+  display: block;
+  width: 20px;
+  height: 1.5px;
+  background: var(--color-heading);
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+.nav-toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.nav-toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+.nav-toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Mobile nav */
+.site-nav {
+  display: none;
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  padding: 28px 24px 32px;
+}
+.site-nav.open { display: block; }
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+  display: flex;
+  flex-direction: column;
+}
+.site-nav ul a {
+  display: block;
+  padding: 12px 0;
+  font-family: var(--font-heading);
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-heading);
+  border-bottom: 1px solid var(--color-border);
+  transition: color var(--transition);
+}
+.site-nav ul a:hover,
+.site-nav ul a.active { color: var(--color-primary); text-decoration: none; }
+
+.header-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-heading);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.header-cta svg { transition: transform var(--transition); }
+.header-cta:hover { color: var(--color-primary); text-decoration: none; }
+.header-cta:hover svg { transform: translateX(4px); }
+
+/* Desktop nav */
+@media (min-width: 768px) {
+  .nav-toggle { display: none; }
+
+  .site-nav {
+    display: flex !important;
+    position: static;
+    background: none;
+    border: none;
+    padding: 0;
+    align-items: center;
+    gap: 32px;
+    margin-left: auto;
+  }
+  .site-nav ul {
+    flex-direction: row;
+    gap: 0;
+    margin: 0;
+    align-items: center;
+  }
+  .site-nav ul a {
+    padding: 6px 14px;
+    border-bottom: none;
+    font-size: 0.78rem;
+  }
+}
+</style>
+
+<script>
+const toggle = document.querySelector('.nav-toggle') as HTMLButtonElement;
+const nav    = document.querySelector('.site-nav') as HTMLElement;
+toggle?.addEventListener('click', () => {
+  const isOpen = nav.classList.toggle('open');
+  toggle.setAttribute('aria-expanded', String(isOpen));
+  toggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+});
+</script>

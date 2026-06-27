@@ -1,0 +1,139 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+const lastUpdated = '24 June 2026';
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Privacy Policy — Outdoor & Coastal Home Decor"
+      description="Privacy policy for Outdoor & Coastal Home Decor. Learn how we collect, use, and protect your information."
+      path="/privacy-policy"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+      <div class="policy-wrap">
+        <div class="content-width">
+
+          <p class="policy-date">Last updated {lastUpdated}</p>
+
+          <h1 class="display policy-title">Privacy Policy</h1>
+          <p class="policy-intro">
+            Outdoor &amp; Coastal Home Decor ("we", "our", or "us") is committed to protecting your privacy. This policy explains what information we collect, how we use it, and your rights.
+          </p>
+
+          <h2>1. Information We Collect</h2>
+          <p>We collect limited information to operate this website:</p>
+          <ul>
+            <li><strong>Usage data</strong> — pages visited, time on site, device type, and browser (via analytics tools such as Google Analytics).</li>
+            <li><strong>Cookies</strong> — small text files stored on your device to improve your experience and help us understand site performance.</li>
+            <li><strong>Contact information</strong> — if you email us directly, we retain your email address solely to respond to your enquiry.</li>
+          </ul>
+          <p>We do not sell, trade, or rent your personal information to third parties.</p>
+
+          <h2>2. Affiliate Links &amp; Disclosure</h2>
+          <p>
+            This site participates in affiliate programmes including the Amazon Associates Program and other retailer affiliate schemes. When you click an affiliate link and make a purchase, we may earn a small commission at no extra cost to you.
+          </p>
+          <p>
+            All affiliate relationships are disclosed within the relevant posts in accordance with the Australian Competition and Consumer Commission (ACCC) guidelines.
+          </p>
+
+          <h2>3. Third-Party Services</h2>
+          <p>We use the following third-party services that may collect data independently:</p>
+          <ul>
+            <li><strong>Google Analytics</strong> — website traffic analysis. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>.</li>
+            <li><strong>Pinterest</strong> — save buttons embedded on images. <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank" rel="noopener noreferrer">Pinterest Privacy Policy</a>.</li>
+            <li><strong>Unsplash</strong> — stock photography. Images are served directly from Unsplash CDN.</li>
+          </ul>
+
+          <h2>4. Cookies</h2>
+          <p>
+            By continuing to use this site you consent to the use of cookies. You can disable cookies in your browser settings at any time, though some features of the site may not function correctly as a result.
+          </p>
+
+          <h2>5. External Links</h2>
+          <p>
+            Our posts contain links to external websites. We are not responsible for the privacy practices or content of those sites. We encourage you to review the privacy policy of any site you visit.
+          </p>
+
+          <h2>6. Children's Privacy</h2>
+          <p>
+            This website is not directed at children under 13 years of age. We do not knowingly collect personal information from children.
+          </p>
+
+          <h2>7. Your Rights (Australian Privacy Act 1988)</h2>
+          <p>Under the Australian Privacy Act 1988, you have the right to:</p>
+          <ul>
+            <li>Access the personal information we hold about you</li>
+            <li>Request correction of inaccurate information</li>
+            <li>Complain about a breach of the Australian Privacy Principles</li>
+          </ul>
+          <p>To exercise these rights, contact us at <a href="mailto:hello@coastalhomeau.com.au">hello@coastalhomeau.com.au</a>.</p>
+
+          <h2>8. Changes to This Policy</h2>
+          <p>
+            We may update this policy from time to time. Any changes will be posted on this page with an updated date. Continued use of the site constitutes acceptance of the updated policy.
+          </p>
+
+          <h2>9. Contact</h2>
+          <p>
+            If you have any questions about this privacy policy, please email us at <a href="mailto:hello@coastalhomeau.com.au">hello@coastalhomeau.com.au</a>.
+          </p>
+
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+.policy-wrap {
+  padding: 56px 0 96px;
+}
+.policy-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 1.5rem;
+}
+.policy-date {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+.policy-intro {
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  border-left: 2px solid var(--color-accent);
+  padding-left: 16px;
+  margin-bottom: 2.5rem;
+}
+.content-width h2 {
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-heading);
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--color-border);
+}
+</style>

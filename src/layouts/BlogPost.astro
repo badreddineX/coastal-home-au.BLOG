@@ -1,0 +1,52 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  image: string;
+  datePublished: string;
+  dateModified: string;
+  author?: string;
+}
+
+const {
+  title,
+  description,
+  slug,
+  image,
+  datePublished,
+  dateModified,
+  author = 'Sarah Mitchell',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title={`${title} | Outdoor & Coastal Home Decor`}
+      description={description}
+      slug={slug}
+      image={image}
+      datePublished={datePublished}
+      dateModified={dateModified}
+      authorName={author}
+      type="article"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

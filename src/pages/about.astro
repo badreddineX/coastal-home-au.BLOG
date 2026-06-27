@@ -1,0 +1,265 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+const topics = [
+  {
+    num: '01',
+    title: 'Outdoor Entertaining',
+    desc: 'Alfresco setups, pergola styling, backyard BBQ ideas, and everything you need to make your outdoor space the heart of your home.',
+  },
+  {
+    num: '02',
+    title: 'Coastal Decor',
+    desc: 'Rattan furniture, linen textiles, and that effortless coastal palette — ideas that bring the beach indoors.',
+  },
+  {
+    num: '03',
+    title: 'Hamptons Style',
+    desc: 'Classic Hamptons looks adapted for Australian homes — accessible, attainable, and always beautiful.',
+  },
+];
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="About Sarah — Outdoor & Coastal Home Decor"
+      description="G'day! I'm Sarah — a Gold Coast home decor enthusiast sharing coastal living and outdoor entertaining ideas for Australian homes."
+      path="/about"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+
+      <!-- About hero -->
+      <section class="about-hero">
+        <div class="container">
+          <div class="hero-split">
+            <div class="hero-img-col">
+              <div class="hero-logo-block">
+                <span class="hero-logo-monogram">O&amp;H</span>
+                <span class="hero-logo-wordmark">Outdoor &amp; Coastal-Home</span>
+              </div>
+            </div>
+            <div class="hero-text">
+              <p class="hero-label">G'day, I'm</p>
+              <h1 class="display hero-name">Sarah Mitchell.</h1>
+              <p class="hero-role">Gold Coast · Outdoor &amp; Coastal Home Decor</p>
+              <p class="hero-bio">
+                I'm a home decor enthusiast obsessed with the Australian coastal lifestyle — and frustrated by the lack of home inspiration made for Australian homes, Australian seasons, and Australian retailers.
+              </p>
+              <p class="hero-bio">
+                So I built Outdoor &amp; Coastal Home Decor to fix that.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- //02 Why I started -->
+      <section class="section" aria-labelledby="why-heading">
+        <div class="container content-width">
+          <h2 class="display story-title" id="why-heading">Why I Started<br />This Blog</h2>
+          <div class="story-body">
+            <p>
+              I've spent years scrolling through beautiful home decor inspiration and feeling vaguely disappointed. The outdoor entertaining areas were too formal for the way we actually live here. The "seasonal" content assumed you were rugging up for winter in December — when here, December means Christmas outdoors, cold drinks, and a BBQ going from noon until sunset.
+            </p>
+            <p>
+              We're Australians. We live differently. Our summer is your winter. Our outdoor spaces aren't an afterthought — they're often the best room in the house. And we have our own magnificent coastal aesthetic that has nothing to do with Connecticut or the Cotswolds.
+            </p>
+            <p>
+              Outdoor &amp; Coastal Home Decor exists to be the home inspiration resource I was always searching for. Everything here is written from an Australian perspective, for Australian seasons, and with Australian retailers in mind. I live for our alfresco Christmas celebrations, our long coastal summers, and the particular pleasure of a well-designed outdoor space in our climate.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- //03 What you'll find -->
+      <section class="section section--warm" aria-labelledby="topics-heading">
+        <div class="container">
+          <h2 class="display topics-title" id="topics-heading">What We Cover</h2>
+          <div class="topics-list">
+            {topics.map(t => (
+              <div class="topic-row">
+                <span class="topic-num">{t.num}</span>
+                <div class="topic-content">
+                  <h3 class="topic-name">{t.title}</h3>
+                  <p class="topic-desc">{t.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- //04 Connect -->
+      <section class="section" aria-labelledby="connect-heading">
+        <div class="container content-width">
+          <h2 class="display connect-title" id="connect-heading">Let's Connect</h2>
+          <p class="connect-body">
+            The best place to find me is on Pinterest, where I post daily coastal and outdoor living inspiration for Australian homes. Or you can reach me directly — I genuinely read every message.
+          </p>
+          <p class="connect-note">
+            One important thing: I write about Australian seasons as they actually are. You'll never find "winter warmth" content posted in December here. We're Southern Hemisphere. December is summer. That matters.
+          </p>
+          <div class="connect-btns">
+            <a href="https://pinterest.com/outdoorcoastalhome" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+              Pinterest
+              <svg viewBox="0 0 16 16" fill="none" width="13" height="13" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            </a>
+            <a href="mailto:hello@coastalhomeau.com.au" class="btn btn-outline">Say Hello</a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+/* Hero split */
+.about-hero { padding: 64px 0 80px; }
+.hero-split {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px;
+  align-items: center;
+  margin-top: 40px;
+}
+.hero-logo-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-heading);
+  aspect-ratio: 1 / 1;
+  max-height: 320px;
+  width: 320px;
+  gap: 8px;
+}
+.hero-logo-monogram {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-size: clamp(4rem, 10vw, 7rem);
+  color: var(--color-white);
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+.hero-logo-wordmark {
+  font-family: var(--font-heading);
+  font-size: 0.5rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  white-space: nowrap;
+}
+.hero-label {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+.hero-name {
+  font-size: clamp(2.5rem, 7vw, 5rem);
+  line-height: 1.05;
+  margin: 0 0 8px 0;
+}
+.hero-role {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 24px;
+}
+.hero-bio { font-size: 1rem; color: var(--color-text-muted); margin-bottom: 1rem; }
+
+@media (min-width: 768px) {
+  .hero-split { grid-template-columns: 380px 1fr; gap: 72px; }
+}
+
+/* Story */
+.story-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 2rem 0;
+  line-height: 1.1;
+}
+.story-body p { color: var(--color-text-muted); font-size: 0.95rem; }
+
+/* Topics list (Decorist-style numbered rows) */
+.topics-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 40px 0;
+  line-height: 1.1;
+}
+.topics-list {
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+}
+.topic-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 28px;
+  padding: 28px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.topic-num {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  padding-top: 4px;
+  flex-shrink: 0;
+  width: 24px;
+}
+.topic-name {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--color-heading);
+  margin: 0 0 8px 0;
+}
+.topic-desc {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.65;
+}
+
+/* Connect */
+.connect-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 1.5rem 0;
+  line-height: 1.1;
+}
+.connect-body { font-size: 1rem; color: var(--color-text-muted); margin-bottom: 1rem; }
+.connect-note {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  border-left: 2px solid var(--color-accent);
+  padding-left: 16px;
+  margin-bottom: 2rem;
+}
+.connect-btns { display: flex; gap: 16px; flex-wrap: wrap; }
+</style>
