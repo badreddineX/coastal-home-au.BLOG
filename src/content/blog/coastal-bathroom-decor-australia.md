@@ -18,6 +18,10 @@ faqs:
     a: "Zellige tiles in white or soft blue, terrazzo in neutral tones, and large-format stone-look tiles all work beautifully for a coastal bathroom. For a budget option, Beaumont Tiles carry excellent coastal-inspired ranges at accessible price points."
   - q: "How do I add a coastal feel to a rental bathroom?"
     a: "Focus on accessories you can take with you: rattan mirror frames, white waffle towels, a timber bath mat, a potted plant, and a reed diffuser. These four changes alone will transform the vibe of any bathroom without touching a single tile."
+  - q: "What scents work best in a coastal bathroom?"
+    a: "Sea salt, driftwood, coastal pine, and white tea are the most popular coastal bathroom scents. Aesop's Hwyl, Australian brand Ecoya's Lotus Flower, and Salt + Stone are all beautiful options available in Australia."
+  - q: "How do I stop mould in a coastal-style bathroom with natural materials?"
+    a: "Ventilation is the key — run your exhaust fan for at least 15 minutes after a shower. For timber elements like bath mats and shelving, use teak (naturally mould-resistant) and allow them to dry fully between uses. Rattan accessories can be lightly sprayed with white vinegar if mould appears."
 ---
 
 The bathroom is one of the most overlooked rooms when it comes to coastal styling — but it's also one of the easiest to transform. The right towels, a couple of plants, and some thoughtfully chosen accessories can turn a builder's basic into something that feels like a boutique coastal hotel.
@@ -65,7 +69,34 @@ A freestanding bath is the ultimate coastal bathroom statement if your space all
 
 Bathrooms are actually brilliant for plants — the humidity suits many tropical varieties:
 
-- **Pothos** — almost impossible to kill, trails beautifully
-- **Peace lily** — loves low light and humid conditions
-- **Boston fern** — thrives in humidity, looks wonderfully lush
-- **ZZ plant** — handles low light and irregular watering
+- **Pothos** — almost impossible to kill, trails beautifully from a shelf or hanging planter
+- **Peace lily** — loves low light and humid conditions, also filters air quality
+- **Boston fern** — thrives in humidity, looks wonderfully lush on a timber bath shelf
+- **ZZ plant** — handles low light and irregular watering, great for windowless bathrooms
+
+## Scent: The Invisible Layer
+
+A coastal bathroom isn't just visual — it should smell like the coast too. A quality reed diffuser or soy candle in a coastal scent ties the whole sensory experience together.
+
+The best coastal scents for Australian bathrooms:
+- **Sea salt and driftwood** — the most authentic coastal accord
+- **Coastal pine** — fresh, clean, and distinctly Australian
+- **White tea and jasmine** — lighter and more floral, suits smaller bathrooms
+
+Ecoya, Glasshouse, and Circa Home all make excellent Australian coastal-scented products available at Myer, David Jones, and online.
+
+## The Budget Coastal Bathroom: Start Here
+
+If you're working with a limited budget and can't retile or renovate, this is the order of impact:
+
+1. **Swap your towels** — white waffle weave from Adairs or The Sheet Society ($30–$60 AUD per towel)
+2. **Add a rattan mirror frame** over your existing mirror ($80–$150 AUD from Temple & Webster)
+3. **Bring in a plant** — a pothos in a simple terracotta pot ($15–$25 AUD)
+4. **Replace your soap dispenser** with a ceramic or stone option ($20–$40 AUD)
+5. **Add a reed diffuser** in a coastal scent ($35–$60 AUD)
+
+Total investment: under $300 AUD. Total impact: significant.
+
+---
+
+The coastal bathroom is one of those rare interior styles that works equally well in a basic builder's bathroom and a fully renovated spa retreat. It's about the feeling — light, natural, calm — more than it is about the tiles or fixtures. Start small, add layer by layer, and you'll be surprised how quickly the transformation happens.

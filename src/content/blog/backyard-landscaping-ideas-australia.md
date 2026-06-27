@@ -18,6 +18,10 @@ faqs:
     a: "Australian natives are your best bet — Lomandra, Westringia, Grevillea, and Agapanthus all thrive with minimal water once established. For a coastal look, add Coastal Rosemary (Westringia fruticosa) and coastal grasses. All are available at most Bunnings garden centres."
   - q: "How do I make a small backyard look bigger?"
     a: "Use vertical space — climbing plants on a trellis, tall slender trees, or vertical garden panels. Light-coloured paving makes a space feel larger, and a single large outdoor rug defines the entertaining area without chopping up the space. Avoid lots of small pot plants scattered around — a few large statement pots have far more impact."
+  - q: "How much does backyard landscaping cost in Australia?"
+    a: "A basic DIY backyard landscaping project — pavers, garden beds, mulch, and plants — typically costs $2,000–$6,000 AUD doing the labour yourself. A professionally landscaped backyard ranges from $15,000 to $50,000+ depending on size and complexity. The best approach is to do what you can yourself (mulching, planting, basic edging) and hire professionals only for the structural elements like paving and decking."
+  - q: "Is artificial turf worth it for an Australian backyard?"
+    a: "Yes, in the right situations. Artificial turf is ideal for shady spots where real grass won't grow, high-traffic areas with kids or pets, and homeowners who want a green space without the watering and mowing. Modern quality artificial turf looks genuinely good and lasts 10–15 years. Look for products with a natural green tone rather than bright synthetic green, and ensure adequate drainage underneath."
 ---
 
 Your backyard is your most underutilised space. Most Australians have more outdoor space than they realise — they just haven't organised it into something they want to actually spend time in. Good landscaping changes that.
@@ -65,6 +69,15 @@ A curved garden bed looks far more natural and considered than a straight-edged 
 
 Mulch heavily — it suppresses weeds, retains moisture, and makes the whole garden look cared for with minimal effort.
 
+## Water Features
+
+A simple water feature adds an unexpected layer to backyard landscaping — the sound of moving water is genuinely calming and masks street noise better than any fence.
+
+Options that work well in Australian backyards:
+- **A self-contained pot fountain** — simple, portable, can be solar-powered. From $150 AUD at Bunnings.
+- **A small pond or rill** — requires more planning but creates an incredible focal point
+- **A wall-mounted water feature** — great for smaller backyards, takes no floor space
+
 ## Lighting the Backyard
 
 Good landscape lighting transforms your backyard after dark:
@@ -75,3 +88,21 @@ Good landscape lighting transforms your backyard after dark:
 - **Step lights** if you have level changes
 
 Solar-powered options have improved enormously — Bunnings now carries excellent ranges that look good and actually work.
+
+## The Weekend DIY Approach
+
+You don't need to landscape your entire backyard at once. The most satisfying approach is incremental:
+
+**Weekend 1:** Define your zones with string lines and sketches. Clear out what isn't working.
+
+**Weekend 2:** Lay your entertaining surface — whether that's pavers, decking, or compacted gravel.
+
+**Weekend 3:** Build your garden beds, install edging, and plant.
+
+**Weekend 4:** Mulch everything, install lighting, and style the entertaining area with furniture.
+
+Four weekends, a realistic budget, and you have a backyard you'll actually use.
+
+---
+
+The best Australian backyards aren't the most expensive ones — they're the most considered ones. A well-planned backyard with the right zones, the right plants, and some decent lighting will serve you better than a budget spent on a single impressive feature. Start with the plan, and the rest follows.

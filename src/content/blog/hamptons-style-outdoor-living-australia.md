@@ -17,6 +17,10 @@ faqs:
     a: "White or whitewashed timber furniture is the most authentic Hamptons choice. For durability in the Australian climate, powder-coated aluminium painted white is a practical alternative that looks just as good."
   - q: "How do I achieve the Hamptons look on a tight budget outdoors?"
     a: "Start with white outdoor cushions and a striped navy-and-white outdoor rug. These two changes alone will transform any outdoor space into something that reads Hamptons. Both are available at Kmart and Target Australia at very affordable prices."
+  - q: "What plants work for a Hamptons outdoor area in Australia?"
+    a: "Clipped standard bay trees or olive trees in white pots are the most authentic Hamptons outdoor plant. In Australia, native alternatives like a clipped Westringia in a white pot achieves the same structured look while being far more suited to our climate and drought conditions."
+  - q: "How do I protect white outdoor furniture in the Australian sun?"
+    a: "For timber, use a quality exterior paint with UV protection and re-coat every 2–3 years. For powder-coated aluminium, the coating is UV-stable and requires only occasional cleaning. Keep cushions stored indoors when not in use — even the best outdoor fabrics fade faster than you'd expect in direct Australian sun."
 ---
 
 The Hamptons aesthetic was built for outdoor living. Those wide verandahs, the white timber, the sound of the sea — it's a style that was always meant to blur the line between inside and out. In Australia, we have the perfect climate to live this dream year-round.
@@ -52,9 +56,25 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 - **Potted plants** — standard bay trees or olive trees in white pots
 - **String lights** — warm white, strung along the pergola beams
 
+## Textiles and Soft Furnishings
+
+The textiles are what make a Hamptons outdoor space feel finished rather than furnished:
+
+- **Outdoor cushions** in white, cream, and navy stripe — mix plain and patterned
+- **A large outdoor rug** in navy and white stripe under the dining table
+- **Throw blankets** in a basket for cool evenings — look for outdoor-rated versions in navy or natural
+- **Linen-look outdoor curtains** on the pergola for privacy and shade — white, tied back with a nautical rope
+
+All of these are replaceable and storable, making them a practical first step for anyone testing the Hamptons look before committing to permanent changes.
+
 ## Where to Shop in Australia
 
 - **Outdoor Elegance** — premium Hamptons outdoor furniture
 - **Temple & Webster** — excellent mid-range outdoor dining and lounge
 - **Bunnings** — for the white pergola paint and structure elements
 - **Kmart** — budget-friendly cushions and accessories that punch above their weight
+- **Adairs** — outdoor textiles and cushions in the right coastal palette
+
+---
+
+The Hamptons outdoor look is one of the most achievable in Australia precisely because it doesn't require a large budget to get started. A tin of white paint, a striped outdoor rug, and some decent cushions can transform a basic covered alfresco into something that genuinely looks like it belongs on a lifestyle magazine page. Start there, and layer in the bigger pieces over time.

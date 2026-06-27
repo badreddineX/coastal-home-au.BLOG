@@ -6,7 +6,7 @@ datePublished: "2026-02-10"
 dateModified: "2026-06-01"
 author: "Sarah Mitchell"
 tags: ["Hamptons style", "living room ideas", "coastal decor", "Australian home decor"]
-category: "Coastal Decor"
+category: "Hamptons Style"
 readTime: "7 min read"
 tldr:
   - "The Hamptons look centres on white, navy, and natural linen — keep the palette disciplined."
