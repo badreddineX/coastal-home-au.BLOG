@@ -12,8 +12,6 @@ interface Props {
 
 const { title, description, slug, image, category, readTime, datePublished, index = 0 } = Astro.props;
 
-const num = String(index + 1).padStart(3, '0');
-
 const date = new Date(datePublished).toLocaleDateString('en-AU', {
   day: 'numeric', month: 'short', year: 'numeric',
 });
@@ -71,13 +69,6 @@ const date = new Date(datePublished).toLocaleDateString('en-AU', {
   padding: 12px 0 0;
   border-top: 1px solid var(--color-border);
   margin-top: 0;
-}
-.card-num {
-  font-family: var(--font-heading);
-  font-size: 0.68rem;
-  font-weight: 500;
-  color: var(--color-text-muted);
-  letter-spacing: 0.04em;
 }
 .card-category {
   font-family: var(--font-heading);

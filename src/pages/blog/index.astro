@@ -171,9 +171,20 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   inset: 0;
   background: linear-gradient(to right, rgba(10,22,30,0.78) 0%, rgba(10,22,30,0.48) 60%, rgba(10,22,30,0.18) 100%);
 }
+.blog-hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  background: linear-gradient(to bottom, transparent 0%, rgba(253,252,251,0.6) 50%, #FDFCFB 100%);
+  z-index: 1;
+  pointer-events: none;
+}
 .blog-hero-content {
   position: relative;
-  z-index: 1;
+  z-index: 2;
   padding-top: 0;
   padding-bottom: 0;
 }

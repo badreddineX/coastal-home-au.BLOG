@@ -217,9 +217,20 @@ const navLinks = [
 <script>
 const toggle = document.querySelector('.nav-toggle') as HTMLButtonElement;
 const nav    = document.querySelector('.site-nav') as HTMLElement;
+
+function closeNav() {
+  nav.classList.remove('open');
+  toggle.setAttribute('aria-expanded', 'false');
+  toggle.setAttribute('aria-label', 'Open navigation');
+}
+
 toggle?.addEventListener('click', () => {
   const isOpen = nav.classList.toggle('open');
   toggle.setAttribute('aria-expanded', String(isOpen));
   toggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+});
+
+nav?.querySelectorAll('a').forEach(link => {
+  link.addEventListener('click', closeNav);
 });
 </script>

@@ -10,7 +10,7 @@ const allPosts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 const featured = allPosts.slice(0, 3);
-const latest   = allPosts.slice(0, 6);
+const latest   = allPosts.slice(3, 9);
 
 const categories = [
   { label: 'Outdoor Entertaining', href: '/blog?cat=outdoor-entertaining' },
@@ -435,10 +435,8 @@ const categories = [
   line-height: 1.1;
 }
 .featured-grid { border: 1px solid var(--color-border); }
-.featured-grid > :not(:last-child) { border-right: 1px solid var(--color-border); }
 
 @media (min-width: 900px) {
-  .featured-grid { border: 1px solid var(--color-border); }
   .featured-grid > :not(:last-child) { border-right: 1px solid var(--color-border); }
 }
 @media (max-width: 899px) {
