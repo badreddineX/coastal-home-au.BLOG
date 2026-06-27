@@ -65,30 +65,6 @@ const categories = [
         </div>
       </section>
 
-      <!-- ── Start Here strip ── -->
-      <section class="start-here" aria-labelledby="start-heading">
-        <div class="container">
-          <div class="start-header">
-            <p class="start-label">New here?</p>
-            <h2 class="start-title" id="start-heading">Start Here</h2>
-          </div>
-          <div class="start-list">
-            {allPosts.slice(0, 4).map((post, i) => (
-              <a href={`/blog/${post.slug}`} class="start-item">
-                <span class="start-num">{String(i + 1).padStart(2, '0')}</span>
-                <div class="start-item-body">
-                  <span class="start-cat">{post.data.category}</span>
-                  <span class="start-post-title">{post.data.title}</span>
-                </div>
-                <svg class="start-arrow" viewBox="0 0 16 16" fill="none" width="14" height="14" aria-hidden="true">
-                  <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                </svg>
-              </a>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <!-- ── //01 Featured Ideas ── -->
       <section class="section" aria-labelledby="featured-heading">
         <div class="container">
@@ -340,102 +316,6 @@ const categories = [
   color: #ffffff;
   text-decoration: none;
 }
-
-/* ── Start Here strip ── */
-.start-here {
-  background: var(--color-surface-warm);
-  padding: 48px 0;
-  border-bottom: 1px solid var(--color-border);
-}
-.start-header {
-  display: flex;
-  align-items: baseline;
-  gap: 16px;
-  margin-bottom: 28px;
-}
-.start-label {
-  font-family: var(--font-heading);
-  font-size: 0.68rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: var(--color-primary);
-  margin: 0;
-}
-.start-title {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: clamp(1.4rem, 3vw, 2rem);
-  font-weight: 400;
-  color: var(--color-heading);
-  margin: 0;
-}
-.start-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0;
-  border-top: 1px solid var(--color-border);
-}
-@media (min-width: 768px) {
-  .start-list { grid-template-columns: repeat(2, 1fr); }
-  .start-item:nth-child(odd) { border-right: 1px solid var(--color-border); }
-}
-@media (min-width: 1024px) {
-  .start-list { grid-template-columns: repeat(4, 1fr); }
-  .start-item:nth-child(n) { border-right: 1px solid var(--color-border); }
-  .start-item:last-child { border-right: none; }
-}
-.start-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  padding: 20px 16px 20px 0;
-  border-bottom: 1px solid var(--color-border);
-  text-decoration: none;
-  transition: background 0.2s ease;
-}
-.start-item:hover { background: rgba(74,144,184,0.04); text-decoration: none; }
-.start-num {
-  font-family: var(--font-heading);
-  font-size: 0.65rem;
-  font-weight: 500;
-  color: var(--color-text-muted);
-  letter-spacing: 0.04em;
-  padding-top: 3px;
-  flex-shrink: 0;
-  width: 24px;
-}
-.start-item-body {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  flex: 1;
-  min-width: 0;
-}
-.start-cat {
-  font-family: var(--font-heading);
-  font-size: 0.6rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--color-primary);
-}
-.start-post-title {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 0.95rem;
-  color: var(--color-heading);
-  line-height: 1.35;
-  transition: color 0.2s ease;
-}
-.start-item:hover .start-post-title { color: var(--color-primary); }
-.start-arrow {
-  color: var(--color-text-muted);
-  flex-shrink: 0;
-  margin-top: 4px;
-  transition: transform 0.2s ease;
-}
-.start-item:hover .start-arrow { transform: translateX(4px); color: var(--color-primary); }
 
 /* ── Newsletter / Email capture ── */
 .newsletter-section {
