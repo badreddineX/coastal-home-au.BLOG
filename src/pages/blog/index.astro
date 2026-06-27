@@ -126,15 +126,9 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
           <!-- Pagination -->
           <nav id="pagination" class="pagination" aria-label="Page navigation" hidden>
-            <button class="page-btn page-prev" id="page-prev" aria-label="Previous page">
-              <svg viewBox="0 0 16 16" fill="none" width="12" height="12"><path d="M10 3L5 8l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-              Prev
-            </button>
+            <button class="page-btn page-prev" id="page-prev" aria-label="Previous page">&#8249;</button>
             <div class="page-numbers" id="page-numbers"></div>
-            <button class="page-btn page-next" id="page-next" aria-label="Next page">
-              Next
-              <svg viewBox="0 0 16 16" fill="none" width="12" height="12"><path d="M6 3l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </button>
+            <button class="page-btn page-next" id="page-next" aria-label="Next page">&#8250;</button>
           </nav>
         </div>
       </section>
@@ -356,12 +350,12 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 .post-item { transition: opacity 0.2s ease; }
 .post-item[hidden] { display: none; }
 
-/* Pagination — editorial theme */
+/* Pagination */
 .pagination {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0;
+  gap: 4px;
   padding: 56px 0 16px;
   border-top: 1px solid var(--color-border);
   margin-top: 48px;
@@ -369,68 +363,55 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 .page-numbers {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin: 0 24px;
+  gap: 4px;
+  margin: 0 8px;
 }
 .page-btn {
   appearance: none;
   -webkit-appearance: none;
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
   background: none;
   border: none;
   outline: none;
   box-shadow: none;
-  font-family: var(--font-heading);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
   color: var(--color-text-muted);
   cursor: pointer;
-  padding: 8px 0;
   transition: color var(--transition);
+  font-size: 1rem;
 }
 .page-btn:hover:not(:disabled) { color: var(--color-heading); }
 .page-btn:disabled { opacity: 0.25; cursor: not-allowed; }
-.page-btn svg { flex-shrink: 0; }
 .page-num {
   appearance: none;
   -webkit-appearance: none;
-  background: transparent !important;
-  border: 1px solid transparent !important;
-  outline: none !important;
-  box-shadow: none !important;
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1.3rem;
-  color: var(--color-text-muted);
-  cursor: pointer;
-  padding: 4px 14px;
-  transition: color var(--transition);
-  position: relative;
-  line-height: 1;
-}
-.page-num:focus { outline: none !important; box-shadow: none !important; }
-.page-num::after {
-  content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 14px;
-  right: 14px;
-  height: 1px;
-  background: var(--color-primary);
-  transform: scaleX(0);
-  transition: transform var(--transition);
-}
-.page-num:hover { color: var(--color-heading); }
-.page-num:hover::after { transform: scaleX(1); }
-.page-num.active {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  font-family: var(--font-heading);
+  font-style: normal;
+  font-size: 1rem;
+  font-weight: 400;
   color: var(--color-heading);
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+.page-num:hover:not(.active) { background: var(--color-surface-warm); }
+.page-num.active {
+  background: #8B7355;
+  color: #ffffff;
   font-weight: 600;
 }
-.page-num.active::after { transform: scaleX(1); }
 
 /* Empty state */
 .empty-state {
