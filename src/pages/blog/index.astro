@@ -486,13 +486,17 @@ if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !em
   console.warn('Blog filter: required elements missing');
 }
 
-// Post data injected at build time by Astro
-const postIndex: { title: string; displayTitle: string; cat: string; slug: string }[] =
-  (window as any).__POST_INDEX__ ?? [];
+// Populated after DOM ready from inline script
+let postIndex: { title: string; displayTitle: string; cat: string; slug: string }[] = [];
 
 let activeSuggestionIdx = -1;
 
+document.addEventListener('DOMContentLoaded', () => {
+  postIndex = (window as any).__POST_INDEX__ ?? [];
+});
+
 function showSuggestions(query: string) {
+  if (postIndex.length === 0) postIndex = (window as any).__POST_INDEX__ ?? [];
   if (!suggestionsList || !searchInput) return;
   if (query.length < 2) { hideSuggestions(); return; }
 
