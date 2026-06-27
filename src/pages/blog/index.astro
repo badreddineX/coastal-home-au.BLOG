@@ -191,6 +191,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   background: rgba(253, 252, 251, 0.97);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--color-border);
+  overflow: visible;
 }
 
 .filter-inner {
@@ -492,7 +493,7 @@ let activeSuggestionIdx = -1;
 
 function showSuggestions(query: string) {
   if (!suggestionsList || !searchInput) return;
-  if (query.length < 2) { hideSuggestions(); return; }
+  if (query.length < 1) { hideSuggestions(); return; }
 
   const matches = postIndex.filter(p =>
     p.t.toLowerCase().includes(query) || p.c.toLowerCase().includes(query)
