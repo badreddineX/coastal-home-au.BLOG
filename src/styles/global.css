@@ -212,32 +212,6 @@ blockquote p { font-family: var(--font-display); font-style: italic; font-size: 
 }
 .img-wrap:hover img { transform: scale(1.03); }
 
-.pin-btn {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  background: #E60023;
-  color: white;
-  border: none;
-  border-radius: var(--radius-pill);
-  padding: 6px 12px;
-  font-size: 0.7rem;
-  font-weight: 700;
-  font-family: var(--font-heading);
-  letter-spacing: 0.04em;
-  cursor: pointer;
-  opacity: 0;
-  transform: translateY(-6px);
-  transition: opacity var(--transition), transform var(--transition);
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  z-index: 5;
-  text-decoration: none;
-}
-.pin-btn svg { width: 11px; height: 11px; fill: white; flex-shrink: 0; }
-.img-wrap:hover .pin-btn { opacity: 1; transform: translateY(0); }
-.pin-btn:hover { background: #c0001d; text-decoration: none; color: white; }
 
 /* ── Grid layouts ── */
 .grid-3 { display: grid; grid-template-columns: 1fr; gap: 1px; }
