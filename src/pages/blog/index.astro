@@ -142,26 +142,38 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 <style>
 /* Hero */
 .blog-hero {
-  border-bottom: 1px solid var(--color-border);
-  padding: 56px 0 48px;
+  position: relative;
+  padding: 80px 0 72px;
+  background-image: url('https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1600&q=80');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
 }
+.blog-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(15,31,42,0.78) 0%, rgba(15,31,42,0.45) 60%, rgba(15,31,42,0.2) 100%);
+}
+.blog-hero .container { position: relative; z-index: 1; }
 .blog-results-count {
   font-family: var(--font-heading);
   font-size: 0.72rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: var(--color-text-muted);
+  color: rgba(255,255,255,0.6);
   margin-bottom: 16px;
 }
 .blog-title {
   font-size: clamp(3rem, 8vw, 5.5rem);
   line-height: 1;
   margin: 0 0 16px 0;
+  color: var(--color-white);
 }
 .blog-sub {
   font-size: 1rem;
-  color: var(--color-text-muted);
+  color: rgba(255,255,255,0.75);
   max-width: 480px;
   margin: 0;
 }
