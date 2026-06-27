@@ -266,7 +266,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   overflow-y: auto;
   border-radius: 4px;
 }
-.suggestion-item {
+:global(.suggestion-item) {
   display: flex;
   align-items: center;
   gap: 16px;
@@ -275,12 +275,12 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   border-bottom: 1px solid #f0ece8;
   transition: background 0.15s ease;
 }
-.suggestion-item:last-child { border-bottom: none; }
-.suggestion-item:hover,
-.suggestion-item[aria-selected="true"] { background: #faf8f5; }
-.suggestion-cat-pill {
+:global(.suggestion-item:last-child) { border-bottom: none; }
+:global(.suggestion-item:hover),
+:global(.suggestion-item[aria-selected="true"]) { background: #faf8f5; }
+:global(.suggestion-cat-pill) {
   flex-shrink: 0;
-  font-family: var(--font-heading);
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.6rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -294,8 +294,8 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   min-width: 56px;
   text-align: center;
 }
-.suggestion-title {
-  font-family: var(--font-body);
+:global(.suggestion-title) {
+  font-family: 'Open Sans', sans-serif;
   font-size: 0.92rem;
   font-weight: 400;
   color: #1a1a1a;
@@ -305,7 +305,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   flex: 1;
   min-width: 0;
 }
-.suggestion-title mark {
+:global(.suggestion-title mark) {
   background: rgba(196, 170, 130, 0.22);
   color: inherit;
   font-weight: 500;
