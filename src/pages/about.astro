@@ -218,18 +218,7 @@ const covers = [
 .about-hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to right, rgba(10,20,28,0.45) 0%, rgba(10,20,28,0.22) 60%, rgba(10,20,28,0.05) 100%);
-}
-.about-hero::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 340px;
-  background: linear-gradient(to bottom, transparent 0%, rgba(253,252,251,0.6) 50%, #FDFCFB 100%);
-  z-index: 1;
-  pointer-events: none;
+  background: rgba(15, 25, 35, 0.52);
 }
 .about-hero-content {
   position: relative;
@@ -254,6 +243,7 @@ const covers = [
   color: #ffffff;
   line-height: 1.1;
   margin: 0;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.35);
 }
 .about-hero-heading em {
   font-family: var(--font-display);
