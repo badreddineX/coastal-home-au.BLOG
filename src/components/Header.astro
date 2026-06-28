@@ -74,7 +74,7 @@ const navLinks = [
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 64px;
+  height: 72px;
   padding-left: 0;
 }
 
@@ -82,34 +82,33 @@ const navLinks = [
 .logo {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 2px;
+  align-items: center;
+  gap: 4px;
   text-decoration: none;
   line-height: 1;
   flex-shrink: 0;
+  padding: 6px 18px 8px;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
 }
-.logo:hover { text-decoration: none; }
+.logo:hover { text-decoration: none; background: var(--color-bg); }
 .logo-monogram {
   font-family: 'Pinyon Script', cursive;
   font-weight: 400;
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   color: var(--color-heading);
   line-height: 1;
   letter-spacing: 0.02em;
 }
-
 .logo-wordmark {
   font-family: var(--font-heading);
-  font-size: 0.48rem;
+  font-size: 0.44rem;
   font-weight: 600;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--color-text-muted);
   white-space: nowrap;
-  display: none;
-}
-@media (min-width: 420px) {
-  .logo-wordmark { display: block; }
+  display: block;
 }
 
 /* Mobile toggle */
