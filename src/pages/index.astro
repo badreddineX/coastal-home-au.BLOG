@@ -47,7 +47,6 @@ const categories = [
           loading="eager"
           fetchpriority="high"
         />
-        <div class="hero-overlay"></div>
         <div class="container hero-content">
           <p class="hero-label">For Australian Homes</p>
           <h1 class="hero-headline">
@@ -233,11 +232,6 @@ const categories = [
   object-fit: cover;
   object-position: center;
 }
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to right, rgba(10,22,30,0.42) 0%, rgba(10,22,30,0.22) 60%, rgba(10,22,30,0.05) 100%);
-}
 .hero::after {
   content: '';
   position: absolute;
@@ -272,6 +266,7 @@ const categories = [
   line-height: 1.05;
   color: #ffffff;
   margin: 0 0 24px 0;
+  text-shadow: 0 2px 16px rgba(0,0,0,0.45);
 }
 .hero-headline em {
   font-family: var(--font-display);

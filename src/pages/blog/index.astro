@@ -39,7 +39,6 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
           width="1600" height="700"
           loading="eager" fetchpriority="high"
         />
-        <div class="blog-hero-overlay"></div>
         <div class="container blog-hero-content">
           <span id="results-count" hidden></span>
           <h1 class="display blog-title">All Ideas</h1>
@@ -166,11 +165,6 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   object-fit: cover;
   object-position: center 60%;
 }
-.blog-hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to right, rgba(10,22,30,0.45) 0%, rgba(10,22,30,0.22) 60%, rgba(10,22,30,0.05) 100%);
-}
 .blog-hero::after {
   content: '';
   position: absolute;
@@ -193,6 +187,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   line-height: 1;
   margin: 0 0 16px 0;
   color: var(--color-white);
+  text-shadow: 0 2px 16px rgba(0,0,0,0.45);
 }
 .blog-sub {
   font-size: 1rem;

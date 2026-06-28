@@ -48,6 +48,18 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
 
 ---
 
+{faqs.length > 0 && (
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(f => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  })} />
+)}
+
 <BlogPost
   title={title}
   description={description}
