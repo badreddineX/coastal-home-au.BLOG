@@ -1,10 +1,10 @@
----
+﻿---
 title: "Hamptons Outdoor Living: Creating the Perfect Alfresco Space"
-description: "Bring the classic Hamptons aesthetic outdoors with white timber, navy accents, and coastal textures — designed for Australian alfresco living."
+description: "Bring the classic Hamptons aesthetic outdoors with white timber, navy accents, and coastal textures â€” designed for Australian alfresco living."
 image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-03-05"
 dateModified: "2026-06-01"
-author: "Sarah Mitchell"
+author: "Badreddine Br"
 tags: ["hamptons outdoor", "alfresco hamptons", "outdoor living australia", "hamptons style"]
 category: "Hamptons Style"
 readTime: "6 min read"
@@ -20,19 +20,19 @@ faqs:
   - q: "What plants work for a Hamptons outdoor area in Australia?"
     a: "Clipped standard bay trees or olive trees in white pots are the most authentic Hamptons outdoor plant. In Australia, native alternatives like a clipped Westringia in a white pot achieves the same structured look while being far more suited to our climate and drought conditions."
   - q: "How do I protect white outdoor furniture in the Australian sun?"
-    a: "For timber, use a quality exterior paint with UV protection and re-coat every 2–3 years. For powder-coated aluminium, the coating is UV-stable and requires only occasional cleaning. Keep cushions stored indoors when not in use — even the best outdoor fabrics fade faster than you'd expect in direct Australian sun."
+    a: "For timber, use a quality exterior paint with UV protection and re-coat every 2â€“3 years. For powder-coated aluminium, the coating is UV-stable and requires only occasional cleaning. Keep cushions stored indoors when not in use â€” even the best outdoor fabrics fade faster than you'd expect in direct Australian sun."
 ---
 
-The Hamptons aesthetic was built for outdoor living. Those wide verandahs, the white timber, the sound of the sea — it's a style that was always meant to blur the line between inside and out. In Australia, we have the perfect climate to live this dream year-round.
+The Hamptons aesthetic was built for outdoor living. Those wide verandahs, the white timber, the sound of the sea â€” it's a style that was always meant to blur the line between inside and out. In Australia, we have the perfect climate to live this dream year-round.
 
 ## The Hamptons Outdoor Palette
 
 Outside, the Hamptons palette gets a slightly more relaxed treatment:
 
-- **White** — the dominant colour, across structures, furniture, and accessories
-- **Navy** — in stripes, cushions, or planters
-- **Natural timber** — decking, pergola beams, or accent pieces
-- **Greenery** — clipped hedges, potted topiary, coastal plants
+- **White** â€” the dominant colour, across structures, furniture, and accessories
+- **Navy** â€” in stripes, cushions, or planters
+- **Natural timber** â€” decking, pergola beams, or accent pieces
+- **Greenery** â€” clipped hedges, potted topiary, coastal plants
 
 ## Structures: The Backbone of the Look
 
@@ -42,7 +42,7 @@ Add a ceiling fan in white, some outdoor pendant lights, and you have the bones 
 
 ## Furniture
 
-Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture should look like it belongs in a country club — comfortable, quality, and timeless.
+Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture should look like it belongs in a country club â€” comfortable, quality, and timeless.
 
 - Large white outdoor dining table (seats 8 ideally)
 - Rattan or wicker armchairs with white cushions
@@ -51,30 +51,31 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 
 ## The Details That Make It
 
-- **Outdoor rug** in navy and white stripe — the single most impactful purchase
-- **Lanterns** — white or brass, scattered at different heights
-- **Potted plants** — standard bay trees or olive trees in white pots
-- **String lights** — warm white, strung along the pergola beams
+- **Outdoor rug** in navy and white stripe â€” the single most impactful purchase
+- **Lanterns** â€” white or brass, scattered at different heights
+- **Potted plants** â€” standard bay trees or olive trees in white pots
+- **String lights** â€” warm white, strung along the pergola beams
 
 ## Textiles and Soft Furnishings
 
 The textiles are what make a Hamptons outdoor space feel finished rather than furnished:
 
-- **Outdoor cushions** in white, cream, and navy stripe — mix plain and patterned
+- **Outdoor cushions** in white, cream, and navy stripe â€” mix plain and patterned
 - **A large outdoor rug** in navy and white stripe under the dining table
-- **Throw blankets** in a basket for cool evenings — look for outdoor-rated versions in navy or natural
-- **Linen-look outdoor curtains** on the pergola for privacy and shade — white, tied back with a nautical rope
+- **Throw blankets** in a basket for cool evenings â€” look for outdoor-rated versions in navy or natural
+- **Linen-look outdoor curtains** on the pergola for privacy and shade â€” white, tied back with a nautical rope
 
 All of these are replaceable and storable, making them a practical first step for anyone testing the Hamptons look before committing to permanent changes.
 
 ## Where to Shop in Australia
 
-- **Outdoor Elegance** — premium Hamptons outdoor furniture
-- **Temple & Webster** — excellent mid-range outdoor dining and lounge
-- **Bunnings** — for the white pergola paint and structure elements
-- **Kmart** — budget-friendly cushions and accessories that punch above their weight
-- **Adairs** — outdoor textiles and cushions in the right coastal palette
+- **Outdoor Elegance** â€” premium Hamptons outdoor furniture
+- **Temple & Webster** â€” excellent mid-range outdoor dining and lounge
+- **Bunnings** â€” for the white pergola paint and structure elements
+- **Kmart** â€” budget-friendly cushions and accessories that punch above their weight
+- **Adairs** â€” outdoor textiles and cushions in the right coastal palette
 
 ---
 
 The Hamptons outdoor look is one of the most achievable in Australia precisely because it doesn't require a large budget to get started. A tin of white paint, a striped outdoor rug, and some decent cushions can transform a basic covered alfresco into something that genuinely looks like it belongs on a lifestyle magazine page. Start there, and layer in the bigger pieces over time.
+

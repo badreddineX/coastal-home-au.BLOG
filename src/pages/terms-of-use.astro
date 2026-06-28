@@ -1,0 +1,145 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+const lastUpdated = '28 June 2026';
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Terms of Use — Outdoor & Coastal Home Decor"
+      description="Terms of use for Outdoor & Coastal Home Decor. Please read these terms before using our website."
+      path="/terms-of-use"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+      <div class="policy-wrap">
+        <div class="content-width">
+
+          <p class="policy-date">Last updated {lastUpdated}</p>
+
+          <h1 class="display policy-title">Terms of Use</h1>
+          <p class="policy-intro">
+            By accessing or using Outdoor &amp; Coastal Home Decor ("the Site"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Site.
+          </p>
+
+          <h2>1. Ownership</h2>
+          <p>
+            This website is owned and operated by Badreddine Br. All content, including text, images, graphics, and design, is the property of Outdoor &amp; Coastal Home Decor unless otherwise stated.
+          </p>
+
+          <h2>2. Acceptable Use</h2>
+          <p>You may use this Site for personal, non-commercial purposes only. You agree not to:</p>
+          <ul>
+            <li>Copy, reproduce, or republish content from this Site without prior written permission</li>
+            <li>Use the Site for any unlawful purpose or in a way that violates any applicable laws</li>
+            <li>Attempt to gain unauthorised access to any part of the Site or its related systems</li>
+            <li>Transmit any harmful, offensive, or disruptive content via the Site's contact or comment features</li>
+          </ul>
+
+          <h2>3. Intellectual Property</h2>
+          <p>
+            All original content on this Site — including articles, guides, and photography created by us — is protected by copyright. You may share links to our content and quote brief excerpts with attribution, but you may not reproduce full articles or claim our work as your own.
+          </p>
+          <p>
+            Stock photography on this Site is sourced from Unsplash and is subject to the <a href="https://unsplash.com/license" target="_blank" rel="noopener noreferrer">Unsplash License</a>.
+          </p>
+
+          <h2>4. Affiliate Disclosure</h2>
+          <p>
+            This Site participates in affiliate programmes. Some links in our content are affiliate links — if you click and make a purchase, we may earn a small commission at no extra cost to you. We only recommend products and retailers we genuinely believe in. All affiliate relationships are disclosed in accordance with ACCC guidelines.
+          </p>
+
+          <h2>5. Disclaimer</h2>
+          <p>
+            The content on this Site is provided for informational and inspirational purposes only. While we make every effort to ensure accuracy, we make no warranties regarding the completeness, accuracy, or reliability of any information. Product prices, availability, and retailer details may change without notice.
+          </p>
+          <p>
+            We are not responsible for any decisions made based on information found on this Site, including purchasing decisions or home improvement projects.
+          </p>
+
+          <h2>6. External Links</h2>
+          <p>
+            This Site contains links to third-party websites. These links are provided for convenience only. We have no control over the content of those sites and accept no responsibility for them or for any loss or damage that may arise from your use of them.
+          </p>
+
+          <h2>7. Limitation of Liability</h2>
+          <p>
+            To the fullest extent permitted by Australian law, Outdoor &amp; Coastal Home Decor and Badreddine Br will not be liable for any direct, indirect, incidental, or consequential damages arising from your use of, or inability to use, this Site.
+          </p>
+
+          <h2>8. Privacy</h2>
+          <p>
+            Your use of this Site is also governed by our <a href="/privacy-policy">Privacy Policy</a>, which is incorporated into these Terms of Use by reference.
+          </p>
+
+          <h2>9. Changes to These Terms</h2>
+          <p>
+            We reserve the right to update these Terms of Use at any time. Changes will be posted on this page with an updated date. Continued use of the Site after changes are posted constitutes your acceptance of the updated terms.
+          </p>
+
+          <h2>10. Governing Law</h2>
+          <p>
+            These Terms of Use are governed by the laws of Queensland, Australia. Any disputes arising in connection with these terms shall be subject to the exclusive jurisdiction of the courts of Queensland.
+          </p>
+
+          <h2>11. Contact</h2>
+          <p>
+            If you have any questions about these Terms of Use, please contact Badreddine Br at <a href="mailto:badreddinekx122@gmail.com">badreddinekx122@gmail.com</a>.
+          </p>
+
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+.policy-wrap {
+  padding: 56px 0 96px;
+}
+.policy-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 1.5rem;
+}
+.policy-date {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+.policy-intro {
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  border-left: 2px solid var(--color-accent);
+  padding-left: 16px;
+  margin-bottom: 2.5rem;
+}
+.content-width h2 {
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-heading);
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--color-border);
+}
+</style>
