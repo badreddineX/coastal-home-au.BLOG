@@ -10,7 +10,7 @@ const allPosts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 const featured = allPosts.slice(0, 4);
-const latest   = allPosts.slice(4, 10);
+const latest   = allPosts.slice(4, 8);
 
 function fmtDate(d: string) {
   return new Date(d).toLocaleDateString('en-AU', { day: 'numeric', month: 'short', year: 'numeric' });
