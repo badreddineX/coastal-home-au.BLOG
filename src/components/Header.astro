@@ -219,9 +219,9 @@ const toggle = document.querySelector('.nav-toggle') as HTMLButtonElement;
 const nav    = document.querySelector('.site-nav') as HTMLElement;
 
 function closeNav() {
-  nav.classList.remove('open');
-  toggle.setAttribute('aria-expanded', 'false');
-  toggle.setAttribute('aria-label', 'Open navigation');
+  nav?.classList.remove('open');
+  toggle?.setAttribute('aria-expanded', 'false');
+  toggle?.setAttribute('aria-label', 'Open navigation');
 }
 
 toggle?.addEventListener('click', () => {

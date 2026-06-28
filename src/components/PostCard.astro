@@ -7,10 +7,9 @@ interface Props {
   category: string;
   readTime: string;
   datePublished: string;
-  index?: number;
 }
 
-const { title, description, slug, image, category, readTime, datePublished, index = 0 } = Astro.props;
+const { title, description, slug, image, category, readTime, datePublished } = Astro.props;
 
 const date = new Date(datePublished).toLocaleDateString('en-AU', {
   day: 'numeric', month: 'short', year: 'numeric',

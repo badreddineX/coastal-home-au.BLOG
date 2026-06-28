@@ -629,7 +629,10 @@ function applyFilters() {
 
   if (emptyState)   emptyState.hidden  = !(searchQuery !== '' && total === 0);
   if (comingSoon)   comingSoon.hidden  = !(activeCategory !== 'all' && searchQuery === '' && total === 0);
-  if (resultsCount) resultsCount.textContent = `${total} Article${total !== 1 ? 's' : ''}`;
+  if (resultsCount) {
+    resultsCount.hidden = false;
+    resultsCount.textContent = `${total} Article${total !== 1 ? 's' : ''}`;
+  }
   buildPagination(total);
 }
 

@@ -33,8 +33,10 @@ const allPosts = await getCollection('blog');
 const related = allPosts
   .filter(p => p.slug !== post.slug)
   .sort((a, b) => {
-    const sameCategory = (a.data.category === category ? -1 : 0) - (b.data.category === category ? -1 : 0);
-    return sameCategory || new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime();
+    const aMatch = a.data.category === category ? 1 : 0;
+    const bMatch = b.data.category === category ? 1 : 0;
+    if (bMatch !== aMatch) return bMatch - aMatch;
+    return new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime();
   })
   .slice(0, 3);
 
@@ -44,7 +46,6 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 
-const pageUrl = `https://coastalhomeau.com.au/blog/${post.slug}`;
 ---
 
 <BlogPost
