@@ -40,6 +40,51 @@ const categories = [
     <Header />
     <main id="main-content">
 
+      <!-- ── Hero ── -->
+      <section class="hero" aria-label="Hero">
+        <img
+          class="hero-bg"
+          src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=80"
+          alt="Bright Australian alfresco outdoor entertaining area"
+          width="1600"
+          height="900"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <div class="hero-overlay" aria-hidden="true"></div>
+        <div class="container hero-content">
+          <p class="hero-label">For Australian Homes</p>
+          <h1 class="hero-headline">
+            Outdoor &amp; Coastal Living,<br />
+            <em>Done Beautifully</em>
+          </h1>
+          <p class="hero-sub">
+            Coastal home decor and entertaining ideas for Australian homes —
+            written from the Southern Hemisphere.
+          </p>
+          <div class="hero-actions">
+            <a href="/blog" class="btn hero-btn-primary">Browse Ideas</a>
+            <a href="/about" class="btn hero-btn-ghost">Our Story</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Explore bar ── -->
+      <div class="explore-bar">
+        <div class="container explore-inner">
+          <span class="explore-label">Explore</span>
+          <nav class="explore-cats" aria-label="Browse by category">
+            {categories.map((cat, i) => (
+              <>
+                <a href={cat.href} class="explore-cat">{cat.label}</a>
+                {i < categories.length - 1 && <span class="explore-dot" aria-hidden="true">·</span>}
+              </>
+            ))}
+          </nav>
+          <a href="/blog" class="explore-all">All Posts →</a>
+        </div>
+      </div>
+
       <!-- ── Editor's Picks ── -->
       <section class="editors-section" aria-labelledby="editors-heading">
         <div class="container">
@@ -209,6 +254,152 @@ const categories = [
 </html>
 
 <style>
+/* ── Hero ── */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(20, 30, 40, 0.52);
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  max-width: 780px;
+}
+.hero-label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: rgba(255,255,255,0.65);
+  margin: 0 0 20px 0;
+}
+.hero-headline {
+  font-family: var(--font-heading);
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  color: #ffffff;
+  margin: 0 0 24px 0;
+}
+.hero-headline em {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--color-accent);
+  display: block;
+}
+.hero-sub {
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  color: rgba(255,255,255,0.75);
+  line-height: 1.75;
+  margin: 0 0 36px 0;
+  max-width: 540px;
+}
+.hero-actions { display: flex; gap: 16px; flex-wrap: wrap; }
+.hero-btn-primary {
+  background: #ffffff;
+  color: var(--color-heading);
+  border: 2px solid #ffffff;
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 14px 32px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.hero-btn-primary:hover { background: transparent; color: #ffffff; text-decoration: none; }
+.hero-btn-ghost {
+  background: rgba(255,255,255,0.10);
+  color: #ffffff;
+  border: 2px solid rgba(255,255,255,0.40);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 14px 32px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.hero-btn-ghost:hover { background: rgba(255,255,255,0.20); color: #ffffff; text-decoration: none; }
+
+/* ── Explore bar ── */
+.explore-bar {
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+.explore-inner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  flex-wrap: wrap;
+}
+.explore-label {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--color-heading);
+  flex-shrink: 0;
+  padding-right: 12px;
+  border-right: 1px solid var(--color-border);
+}
+.explore-cats {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  flex-wrap: wrap;
+}
+.explore-cat {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-heading);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.explore-cat:hover { color: var(--color-primary); text-decoration: none; }
+.explore-dot { color: var(--color-text-muted); font-size: 0.85rem; }
+.explore-all {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-heading);
+  text-decoration: none;
+  flex-shrink: 0;
+  margin-left: auto;
+  transition: color var(--transition);
+}
+.explore-all:hover { color: var(--color-primary); text-decoration: none; }
+
 /* ── Editor's Picks ── */
 .editors-section {
   padding: 48px 0 64px;
