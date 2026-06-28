@@ -265,16 +265,7 @@ blockquote p { font-family: var(--font-display); font-style: italic; font-size: 
   letter-spacing: 0.03em;
 }
 
-/* ── Disclosure ── */
-.disclosure {
-  background: var(--color-surface);
-  border-left: 2px solid var(--color-accent);
-  padding: 12px 20px;
-  font-size: 0.85rem;
-  color: var(--color-text-muted);
-  line-height: 1.6;
-  margin: 2rem 0;
-}
+
 
 /* ── Responsive ── */
 @media (min-width: 640px) {
