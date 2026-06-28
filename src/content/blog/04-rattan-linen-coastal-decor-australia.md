@@ -7,6 +7,7 @@ dateModified: "2026-07-04"
 author: "Badreddine Br"
 tags: ["rattan and linen coastal decor ideas", "rattan coastal decor australia", "linen coastal interior", "rattan linen home decor", "coastal materials australia"]
 category: "Coastal Decor"
+featured: false
 readTime: "8 min read"
 tldr:
   - "Rattan and linen together are the material shorthand for the Australian coastal interior — natural, warm, and effortlessly relaxed."
@@ -27,7 +28,7 @@ faqs:
     a: "Linen curtains in direct sun will fade over time — this is a natural property of the fibre and actually creates a beautiful, sun-bleached quality over years. To slow fading, use a sheer inner curtain to filter UV while the linen outer curtain catches the light, or choose a linen blend with UV-resistant treatment. Washing and rotating curtain panels annually also helps distribute any fading evenly."
 ---
 
-When we bought our Gold Coast home three years ago, it had cream carpet, beige venetian blinds, and the interior design personality of a dentist's waiting room. The transformation to the light, warm, genuinely coastal home we have now cost less than $3,000 — and it happened almost entirely through rattan and linen.
+When we bought our Gold Coast home three years ago, it had cream carpet, beige venetian blinds, and the interior design personality of a dentist's waiting room. The transformation to the light, warm, genuinely coastal home we have now cost less than $3,000 — and it happened almost entirely through rattan and linen. The natural materials movement in Australian interiors is well documented by [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/sustainable-furniture-buying-guide), which notes Australians are increasingly prioritising sustainable, natural materials like rattan, jute, and linen in home furnishings.
 
 These two materials, used correctly together, are the material shorthand for the Australian coastal interior. Here's exactly how I used them.
 
@@ -129,6 +130,16 @@ Rattan and linen are the lead materials; jute and terracotta are the supporting 
 **The complete room formula:** White walls + natural timber or whitewashed boards + jute rug + linen sofa + rattan accent chair + linen curtains + terracotta pots + rattan pendant. Every element available at Kmart, Temple & Webster, or Adairs. Total budget: $1,200—$3,500 for a full living room depending on furniture investment.
 
 ![Complete rattan and linen coastal living room with jute rug, terracotta pots, and warm white walls](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Add a jute or natural fibre rug — the foundation of coastal styling | ~$89–$400 AUD |
+| 2 | Switch to linen bedding or linen-look cushion covers | ~$49–$229 AUD |
+| 3 | Add one significant rattan piece (pendant, mirror, or armchair) | ~$45–$400 AUD |
+| 4 | Style with wicker baskets and natural ceramic accessories | ~$20–$80 AUD |
+| 5 | Add trailing indoor plants in simple terracotta pots | ~$15–$40 AUD |
 
 ---
 

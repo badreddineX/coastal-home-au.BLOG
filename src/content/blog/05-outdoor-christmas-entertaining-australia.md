@@ -7,6 +7,7 @@ dateModified: "2026-10-15"
 author: "Badreddine Br"
 tags: ["outdoor christmas entertaining australia", "backyard christmas australia", "christmas entertaining ideas australia", "outdoor christmas ideas australia", "alfresco christmas"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Australian Christmas is a backyard event — and the shade solution you choose determines whether it's enjoyable or a survival exercise."
@@ -27,7 +28,7 @@ faqs:
     a: "For Christmas Day hosting where you regularly seat 8—12 people, the best outdoor table options are: a 240cm powder-coated aluminium extension table (extends to 300cm, Temple & Webster, $689–$999 — the most practical all-year option), or a fold-out banquet table ($79–$149 from Kmart or Bunnings) joined to your existing outdoor table for the day. Powder-coated aluminium is the best material choice for year-round outdoor use in Australia — no rust, no warping, no painting."
 ---
 
-I've hosted Christmas Day outdoors on the Gold Coast for six years in a row, in heat that's ranged from 27 to 38 degrees. The first year was a disaster — we started too late, the shade wasn't adequate, the food was warm before we sat down, and nobody was comfortable. Now, the Christmas gatherings we host are the ones people talk about in January.
+I've hosted Christmas Day outdoors on the Gold Coast for six years in a row, in heat that's ranged from 27 to 38 degrees. The first year was a disaster — we started too late, the shade wasn't adequate, the food was warm before we sat down, and nobody was comfortable. Now, the Christmas gatherings we host are the ones people talk about in January. [BOM data](http://www.bom.gov.au/climate/averages/) shows Christmas Day temperatures along Australia's east coast average 25–32°C — outdoor entertaining isn't just an option for Australian Christmas, it's the only comfortable one.
 
 Here's what changed.
 
@@ -127,6 +128,16 @@ The goal is always to start outside and stay outside. But knowing the backup exi
 The Australian Christmas gathering that ends well is the one that transitions from the dining table to the lounge zone. After dessert is cleared, I move the coffee and port to the outdoor sofa area, light fresh candles, and let the evening find its own pace. The shift from formal dining to informal lounging is the natural break that lets some guests leave gracefully and the ones who want to stay, stay.
 
 ![Australian Christmas evening — outdoor lounge zone with candles, port, and festoon lights after a summer lunch](https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Confirm shade coverage before the day — add a shade sail if needed | ~$150–$400 AUD |
+| 2 | Set up the dining table a day early — don't rush this on Christmas morning | ~$0 (existing table) |
+| 3 | String festoon or fairy lights the evening before | ~$40–$100 AUD |
+| 4 | Prepare a signature drinks station with ice, glasses, and garnishes | ~$30–$80 AUD |
+| 5 | Set a simple centrepiece: native flowers, candles, and greenery | ~$15–$30 AUD |
 
 ---
 

@@ -7,6 +7,7 @@ dateModified: "2026-07-05"
 author: "Badreddine Br"
 tags: ["pergola outdoor entertaining ideas Australia", "pergola entertaining australia", "pergola ideas australia", "outdoor pergola decor", "alfresco pergola"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "10 min read"
 tldr:
   - "A pergola transforms a backyard into a proper outdoor room — but only if you furnish, light, and shade it correctly."
@@ -27,7 +28,7 @@ faqs:
     a: "For an open or semi-open pergola, you need a fan rated damp or wet — look for IP ratings of IP44 (damp) or IP54/55 (wet, for fully exposed positions). Bunnings stocks the Mercator and Brilliant ranges with outdoor ratings from $150–$450. For a covered alfresco pergola, a damp-rated ceiling fan is sufficient. Always check the fan's IP rating before purchasing — a standard indoor fan will corrode within months outdoors."
 ---
 
-I've had a pergola on my Gold Coast property for four years. When we first built it, it was essentially a timber frame with a corrugated roof and not much else — it looked like a building site annexe, not an outdoor room. Over the next two years, I turned it into the most-used space in the house. Here's everything I learned.
+I've had a pergola on my Gold Coast property for four years. When we first built it, it was essentially a timber frame with a corrugated roof and not much else — it looked like a building site annexe, not an outdoor room. Over the next two years, I turned it into the most-used space in the house. Here's everything I learned. The [NSW Planning Portal](https://www.planningportal.nsw.gov.au/) notes that pergolas over 20m² or attached to a dwelling may require council approval in most states — always check your local requirements before starting construction.
 
 ![Furnished Gold Coast pergola with festoon lights, outdoor dining table, and ceiling fan](https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80)
 
@@ -123,6 +124,16 @@ The pergola that looks "designed" rather than accumulated is one where all eleme
 **The easy palette for Australian pergolas:** White/linen + natural timber + warm brass/gold hardware + terracotta accessories. Everything from Kmart, Temple & Webster, and Bunnings is available in this palette.
 
 ![Cohesive Australian pergola palette — natural timber, white linen, warm brass, and terracotta at night with festoon lights](https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Check council approval requirements for your pergola size | Free |
+| 2 | Build or install the pergola structure | ~$3,000–$15,000 AUD |
+| 3 | Add shade and weatherproofing (louvres or roof panels) | ~$800–$3,000 AUD |
+| 4 | Set up outdoor dining furniture under the pergola | ~$600–$2,500 AUD |
+| 5 | Add lighting, fans, and heating for year-round use | ~$200–$800 AUD |
 
 ---
 

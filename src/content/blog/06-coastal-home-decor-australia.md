@@ -7,6 +7,7 @@ dateModified: "2026-07-05"
 author: "Badreddine Br"
 tags: ["coastal home decor", "coastal decor australia", "coastal style home", "beach house decor", "coastal interior australia"]
 category: "Coastal Decor"
+featured: false
 readTime: "10 min read"
 tldr:
   - "Coastal home decor is built on four things: a warm light palette, natural materials, ocean-inspired accents, and a lived-in ease."
@@ -27,7 +28,7 @@ faqs:
     a: "Start with textiles — new linen bedding, a jute rug, and a few rattan accessories will transform any room for under $200 AUD. A $30–$60 rattan mirror from Temple & Webster, a $20 jute rug from Kmart, and white linen cushion covers can shift a room's atmosphere dramatically and quickly. Paint is the highest-impact single investment — a warm white on the walls changes everything. Prioritise foundation pieces over decorative accessories."
 ---
 
-Five years ago, my Gold Coast home had beige walls, dark brown furniture, and curtains that let in approximately zero natural light. It looked like a rental circa 2008 — which is, of course, what it was. The transformation to the coastal home I have now happened slowly, deliberately, and mostly under $3,500 total.
+Five years ago, my Gold Coast home had beige walls, dark brown furniture, and curtains that let in approximately zero natural light. It looked like a rental circa 2008 — which is, of course, what it was. The transformation to the coastal home I have now happened slowly, deliberately, and mostly under $3,500 total. According to [Domain.com.au](https://www.domain.com.au/research/), coastal and near-coastal properties consistently command premium prices in Australian real estate — the coastal aesthetic isn't just a style choice, it's a proven investment in liveability and value.
 
 Here's everything I've learned about getting coastal home decor right in Australia.
 
@@ -142,6 +143,16 @@ The most beautiful coastal homes I've visited — friends' homes, properties I'v
 Rushed coastal decorating shows. The homes where the entire room was purchased from the same online cart look complete and strangely flat. The homes where each piece has a story — bought from a market, given as a gift, found at an op shop, commissioned from an artist — look alive.
 
 ![Layered coastal Australian home interior built over time — rattan, linen, market ceramics, and warm afternoon light](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Paint the main living area in warm white (Dulux Natural White) | ~$65–$150 AUD |
+| 2 | Add a large jute or natural fibre rug to anchor the room | ~$89–$500 AUD |
+| 3 | Switch to linen or linen-look cushions in coastal neutrals | ~$30–$60 AUD each |
+| 4 | Add one rattan element — pendant light, mirror, or side table | ~$45–$200 AUD |
+| 5 | Style with coastal accessories: ceramics, plants, natural baskets | ~$50–$200 AUD |
 
 ---
 

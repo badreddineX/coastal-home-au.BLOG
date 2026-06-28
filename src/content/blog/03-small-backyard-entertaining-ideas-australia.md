@@ -7,6 +7,7 @@ dateModified: "2026-07-03"
 author: "Badreddine Br"
 tags: ["small backyard entertaining ideas australia", "small backyard ideas australia", "small outdoor entertaining space", "compact backyard entertaining", "small alfresco ideas"]
 category: "Backyard Ideas"
+featured: false
 readTime: "9 min read"
 tldr:
   - "A small backyard can comfortably host 10—14 people with the right furniture choices and space planning."
@@ -27,7 +28,7 @@ faqs:
     a: "Vertical plants and climbers are ideal for small backyards as they add greenery without using floor space. Star jasmine and creeping fig cover a fence within 12—18 months and create a beautiful green wall. For the floor level, choose low-growing ground covers or edge the perimeter with compact plants (lomandra, dwarf agapanthus, or mondo grass). Raised garden beds along one fence keep planting contained and tidy. A single large feature plant — a standard olive or lemon tree — adds visual drama without spreading."
 ---
 
-Our Gold Coast backyard is 6×8 metres. When we moved in, I stared at it and genuinely didn't know how we'd ever host a gathering. Five years later, it's the space where we have our most enjoyable entertaining — birthday dinners for 12, post-Christmas drinks for 20, casual Sunday afternoons that somehow become long evenings.
+Our Gold Coast backyard is 6×8 metres. When we moved in, I stared at it and genuinely didn't know how we'd ever host a gathering. Five years later, it's the space where we have our most enjoyable entertaining — birthday dinners for 12, post-Christmas drinks for 20, casual Sunday afternoons that somehow become long evenings. [Domain.com.au research](https://www.domain.com.au/research/) shows that well-designed small outdoor spaces add disproportionate value to Australian properties — buyers consistently rate outdoor entertaining areas as a top priority, regardless of block size.
 
 The trick isn't the space itself. It's learning to use every part of it correctly.
 
@@ -129,6 +130,16 @@ The finishing detail that makes a small backyard feel like a well-considered out
 For a permanent solution, a licensed electrician can wire outdoor power points and sensor lights for $300–$600, giving you reliable outdoor power that doesn't rely on extension leads.
 
 ![Small backyard with festoon lights on a timer at dusk — entirely transformed from the daytime look](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Define the main zone with a compact outdoor rug | ~$89–$200 AUD |
+| 2 | Add vertical privacy screening or a garden panel | ~$60–$200 AUD |
+| 3 | Set up a folding or space-saving dining set | ~$300–$900 AUD |
+| 4 | Add vertical plants and a wall-mounted planter | ~$40–$150 AUD |
+| 5 | Install compact string lighting for evening atmosphere | ~$40–$100 AUD |
 
 ---
 

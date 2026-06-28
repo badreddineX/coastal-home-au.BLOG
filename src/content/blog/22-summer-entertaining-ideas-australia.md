@@ -7,6 +7,7 @@ dateModified: "2026-07-20"
 author: "Badreddine Br"
 tags: ["summer entertaining ideas australia", "summer entertaining australia", "australian summer hosting", "summer party ideas australia", "outdoor summer entertaining australia"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Australian summer entertaining is built on three foundations: outdoor access, cold food and drinks, and good shade."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 The Australian summer is eight months long, depending on where you live. For those of us on the Gold Coast, genuinely warm outdoor entertaining weather runs from October through April. Eight years of working with that window — and making the most of it — has taught me exactly what Australian summer entertaining looks like at its best.
+
+According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March.
 
 These are the 13 ideas that have defined our summer hosting.
 
@@ -123,6 +126,16 @@ The summer gathering detail that guests remember longest: something to take home
 The summer host who spends the entire gathering in the kitchen or managing logistics is not hosting — they're working. Every system I've described here (batch cocktail, self-serve esky, cold menu, grazing table) exists to free the host from management so they can be at the table, in the conversation, and genuinely part of the gathering.
 
 The best summer entertaining I've done has been on the days when I sat down at noon and didn't get up until 6pm. The guests do the rest.
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Install or check your misting system before summer kicks in | ~$80–$200 AUD |
+| 2 | Set up outdoor lighting so the space works after sunset | ~$40–$200 AUD |
+| 3 | Stock a permanent outdoor drinks area with a bar fridge or esky | ~$0–$400 AUD |
+| 4 | Update outdoor cushions — sun bleaches them fast, refresh each season | ~$30–$60 AUD each |
+| 5 | Add shade in all sitting zones — not just over the dining table | ~$80–$300 AUD |
 
 ---
 

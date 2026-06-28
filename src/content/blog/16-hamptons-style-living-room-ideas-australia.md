@@ -7,6 +7,7 @@ dateModified: "2026-07-15"
 author: "Badreddine Br"
 tags: ["hamptons style living room australia", "hamptons living room ideas australia", "hamptons living room", "hamptons lounge australia", "hamptons interior living room"]
 category: "Hamptons Style"
+featured: false
 readTime: "9 min read"
 tldr:
   - "The Hamptons living room is defined by a white linen sofa, a jute rug, VJ or shiplap panelling on one wall, and navy as an accent — not a dominant colour."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 I've been building the Hamptons living room in our Gold Coast home for three years — gradually, as budget allowed, and with a clear picture of what I was working toward. The Australian version of Hamptons is not the formal, heavily panelled American original. It's warmer, more relaxed, and more suited to living with.
+
+The Hamptons aesthetic ranks among the most searched interior styles in Australia year after year, per [Domain.com.au research](https://www.domain.com.au/research/) — its clean, coastal confidence resonates with how Australians want to live.
 
 Here are the 13 specific ideas that made our living room read as genuinely Hamptons rather than just "white and navy."
 
@@ -134,6 +137,16 @@ The Hamptons living room is not maximalist. Every surface should have breathing 
 The edit is a constant practice, not a one-time event.
 
 ![Edited Hamptons living room with breathing room — few accessories, quality pieces, warm afternoon light](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Paint or plan around warm white walls — cool grey is the Hamptons enemy | ~$65–$150 AUD |
+| 2 | Add a striped navy-and-white rug under the seating arrangement | ~$150–$600 AUD |
+| 3 | Layer cushions in white linen, navy, and natural textures | ~$30–$60 AUD each |
+| 4 | Add a rattan pendant light as the signature Hamptons element | ~$89–$300 AUD |
+| 5 | Hang simple white-framed coastal Australian artwork above the sofa | ~$50–$200 AUD |
 
 ---
 

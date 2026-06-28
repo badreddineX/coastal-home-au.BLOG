@@ -7,6 +7,7 @@ dateModified: "2026-10-01"
 author: "Badreddine Br"
 tags: ["outdoor christmas decor ideas australia", "outdoor christmas decor australia", "australian outdoor christmas", "christmas outdoor decorating australia", "alfresco christmas decor"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Australian outdoor Christmas decor works best when it uses summer elements — white and green, native foliage, and warm-white lights — rather than the traditional red-and-gold."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Every year since we moved to the Gold Coast, I've decorated our outdoor space for Christmas. Every year, the learning continues — what reads as festive in December sunlight, what looks better saved for the interior, and what distinctly Australian Christmas decor actually means when you live it.
+
+[BOM data](http://www.bom.gov.au/climate/averages/) shows Australian Christmas Day is consistently 25–35°C in most capital cities — which means outdoor Christmas decor isn't a novelty, it's the main event.
 
 Here are the 12 ideas that have made our outdoor Christmas look genuinely beautiful.
 
@@ -121,6 +124,16 @@ Christmas scent for an outdoor space: a cluster of three gardenias in a simple v
 Christmas Eve outdoor styling should feel quiet and beautiful, not busy and festive. The festoon lights on their timer. A cluster of white candles on the outdoor table. A glass of cold white wine. The gardenia scent on the warm December air. Christmas in Australia at its best is calm, warm, and genuinely its own thing.
 
 ![Calm Christmas Eve outdoor setting with white candles, gardenias, and festoon lights at dusk](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Set up string lights or solar fairy lights a week before Christmas | ~$20–$80 AUD |
+| 2 | Create a simple outdoor centrepiece with Australian natives and candles | ~$15–$40 AUD |
+| 3 | Add outdoor cushions in seasonal tones — coastal green, white, and natural | ~$30–$60 AUD each |
+| 4 | Set a proper outdoor table with cloth napkins and real glasses | ~$0 (existing) |
+| 5 | Add a drinks station near the entertaining area with garnishes ready | ~$20–$50 AUD |
 
 ---
 

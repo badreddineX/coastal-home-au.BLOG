@@ -7,6 +7,7 @@ dateModified: "2026-07-19"
 author: "Badreddine Br"
 tags: ["australia day backyard party ideas", "australia day party ideas", "australia day backyard", "january 26 party australia", "australia day celebration ideas"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Australia Day is peak summer — start your party at 5pm rather than noon and the event runs beautifully into the evening."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Australia Day on the Gold Coast is consistently 28—36 degrees. Five years of hosting January 26 backyard parties has taught me everything about what makes the day genuinely enjoyable versus what makes it a heat management exercise.
+
+[BOM data](http://www.bom.gov.au/climate/averages/) shows January 26 temperatures average 28–34°C in Australian capitals — which means shade and hydration are the two most important logistics for any Australia Day backyard party.
 
 Here are the 13 tips that changed our Australia Day gatherings.
 
@@ -120,6 +123,16 @@ By noon I'm done. By 4:30pm I'm changed and enjoying a Pimm's.
 ## Tip 13: Enjoy the Day — It's the Point
 
 Australia Day is one of the most sociable days on the Australian calendar. The people at the gathering, the warmth, the cricket, the pavlova, and the long summer evening are what the day is about. The decoration, the food styling, and the logistics are in service of the experience — not the other way around.
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Confirm shade coverage for the expected guest count | ~$80–$300 AUD if extra needed |
+| 2 | Set up a self-serve drinks station with large quantities of ice | ~$20–$50 AUD |
+| 3 | Prep the BBQ the day before — clean grates and test gas supply | Free |
+| 4 | Set up outdoor games in the lawn area | ~$20–$100 AUD |
+| 5 | Add Australian flag bunting and native flower centrepieces | ~$10–$30 AUD |
 
 ---
 

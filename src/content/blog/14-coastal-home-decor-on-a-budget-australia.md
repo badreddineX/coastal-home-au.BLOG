@@ -7,6 +7,7 @@ dateModified: "2026-07-13"
 author: "Badreddine Br"
 tags: ["coastal home decor on a budget australia", "budget coastal decor australia", "cheap coastal decor", "coastal decor ideas australia budget", "affordable coastal home australia"]
 category: "Coastal Decor"
+featured: false
 readTime: "8 min read"
 tldr:
   - "The highest-impact, lowest-cost coastal decor changes are: a jute rug, linen curtains to ceiling height, warm white paint, and rattan accents from Kmart."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Three years ago I did the coastal conversion of our Gold Coast home with a total budget of $2,400 across six rooms. No renovation, no new furniture (except one second-hand find), no professional help. Here's exactly what I did and what it cost, broken into the 12 changes that made the biggest difference.
+
+A [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/budget-decorating-tips) survey found that Australian renters and first-home buyers spend an average of $3,000–$8,000 on home styling in their first year — but the most impactful coastal looks I've achieved cost under $500.
 
 ![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=900&q=80)
 
@@ -122,6 +125,16 @@ The entry of an Australian home sets the tone for everything inside. A Kmart rat
 First impression cost: $35 (Kmart rattan pendant) + $65 (olive tree and terracotta pot) + $25 (coir doormat from Bunnings) = $125. The welcome this creates — material warmth, natural scent, coastal character — is disproportionate to its cost.
 
 ![Coastal home entry with rattan pendant, olive tree in terracotta pot, and coir doormat](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Add a Kmart jute rug to anchor the main living space | ~$29–$79 AUD |
+| 2 | Switch to white or linen-look cushions — op shop for the best deals | ~$5–$20 AUD each |
+| 3 | Add one rattan element (mirror, basket, or pendant from Kmart) | ~$12–$45 AUD |
+| 4 | Bring in one large indoor plant in a simple pot | ~$15–$40 AUD |
+| 5 | Print and frame one piece of coastal Australian art from Etsy | ~$20–$50 AUD |
 
 ---
 

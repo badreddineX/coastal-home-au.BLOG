@@ -7,6 +7,7 @@ dateModified: "2026-07-08"
 author: "Badreddine Br"
 tags: ["backyard entertaining ideas australia", "backyard entertaining australia", "outdoor backyard ideas", "backyard party ideas australia", "alfresco backyard"]
 category: "Backyard Ideas"
+featured: false
 readTime: "9 min read"
 tldr:
   - "The best backyard entertaining spaces have three distinct zones: dining, lounge, and BBQ/prep."
@@ -29,7 +30,7 @@ faqs:
 
 I've hosted backyard gatherings — dinners, birthday parties, Christmas Days, random Sunday afternoons that became events — for five years on the Gold Coast. In that time I've made every mistake available to an outdoor host, from furniture that rust after one season to a lighting setup that made the backyard look like a car park.
 
-Here are the 14 things that genuinely changed our backyard entertaining from stressful to something I look forward to.
+Here are the 14 things that genuinely changed our backyard entertaining from stressful to something I look forward to. The [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/housing) reports that over 67% of Australian homes are detached houses with outdoor space — making the backyard one of the most underutilised assets in Australian residential property.
 
 ![Australian backyard entertaining area with three distinct zones, festoon lights, and outdoor furniture](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
 
@@ -130,6 +131,16 @@ The outdoor host who sets up on the morning of the gathering is already behind. 
 The gathering starts as soon as guests arrive, not as soon as I finish setting up.
 
 ![Gold Coast backyard set up the night before — table laid, festoon lights tested, esky positioned and ready](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Fix any shade or weather cover issues first | ~$80–$1,500 AUD |
+| 2 | Set up a proper dining table sized for your maximum group | ~$400–$2,000 AUD |
+| 3 | Create a separate lounge zone with outdoor sofa or chairs | ~$300–$1,500 AUD |
+| 4 | Add a BBQ or pizza oven as the entertainment focal point | ~$150–$2,000 AUD |
+| 5 | Install outdoor lighting for evening use | ~$60–$300 AUD |
 
 ---
 

@@ -7,6 +7,7 @@ dateModified: "2026-07-06"
 author: "Badreddine Br"
 tags: ["outdoor entertaining ideas australia", "outdoor entertaining australia", "alfresco entertaining", "backyard entertaining ideas australia", "outdoor dining australia"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "10 min read"
 tldr:
   - "Successful outdoor entertaining in Australia is won or lost on three things: shade, cold drinks, and good lighting."
@@ -27,7 +28,7 @@ faqs:
     a: "A functional outdoor entertaining setup can be achieved for $1,500—$3,500 AUD: dining table and chairs ($600–$2,000), outdoor sofa set ($500–$2,500), outdoor rug ($89–$450), festoon lights ($65–$195), shade umbrella or sail ($89–$500), and a basic BBQ ($300–$800 for a Weber or similar). The high-end version (built-in outdoor kitchen, pergola, quality furniture) runs $15,000—$60,000+. Most people are somewhere in between."
 ---
 
-I live on the Gold Coast and I host outdoors almost every weekend from October through April. Over the past five years, I've made enough mistakes — wrong furniture, wrong lighting, wrong timing — to know exactly what the difference is between an outdoor gathering that works and one that's a stress test.
+I live on the Gold Coast and I host outdoors almost every weekend from October through April. Over the past five years, I've made enough mistakes — wrong furniture, wrong lighting, wrong timing — to know exactly what the difference is between an outdoor gathering that works and one that's a stress test. [BOM sunshine data](http://www.bom.gov.au/climate/averages/) confirms that Brisbane, Sydney, and Melbourne all average over 250 days of sunshine annually — the outdoor entertaining space deserves the same investment as any indoor room.
 
 Here are the 15 things that have made the biggest difference.
 
@@ -137,6 +138,16 @@ The outdoor host who is cooking, cleaning, setting the table, and managing drink
 My pre-gathering checklist: outdoor area clean and set up by midday, outdoor table laid by 2pm, drinks dispenser filled and chilling by 3pm, all food prep completed by 4pm, outdoor lights tested by 4:30pm. By the time the first guest arrives, I've been changed and settled for 30 minutes.
 
 ![Fully prepared outdoor Australian entertaining area at 5pm — host is ready, table is set, festoon lights are on](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Establish shade with a pergola, shade sail, or umbrella | ~$80–$800 AUD |
+| 2 | Define zones: dining area + lounging area separately | ~$0 (planning) |
+| 3 | Set up weather-resistant dining furniture | ~$400–$2,000 AUD |
+| 4 | Add outdoor lighting for evening use | ~$60–$300 AUD |
+| 5 | Layer cushions, plants, and accessories for personality | ~$100–$400 AUD |
 
 ---
 

@@ -7,6 +7,7 @@ dateModified: "2026-07-11"
 author: "Badreddine Br"
 tags: ["outdoor patio decor australia", "patio decor australia", "outdoor patio ideas australia", "alfresco patio decor", "outdoor styling australia"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "A well-styled Australian patio needs three things: a defined floor surface (paving or decking), an outdoor rug, and layered lighting."
@@ -29,7 +30,7 @@ faqs:
 
 I've styled three different patios on the Gold Coast — one courtyard patio in a terrace house, one covered alfresco attached to our current home, and one rooftop entertaining space at my sister's apartment. Each was a completely different space, but the principles that made them look great were the same.
 
-Here are the 13 things that reliably make the difference between a patio that looks like an afterthought and one that looks like a magazine.
+Here are the 13 things that reliably make the difference between a patio that looks like an afterthought and one that looks like a magazine. The [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/housing) consistently shows that outdoor living is a primary consideration for Australian homebuyers — a well-designed patio or deck can add significantly more value than its cost.
 
 ![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=900&q=80)
 
@@ -128,6 +129,16 @@ The patio that looks best in photos is photographed in soft morning light, with 
 If your patio photographs well in morning light with everything you love about it visible, it's styled correctly.
 
 ![Australian outdoor patio photographed in soft morning light showing festoon lights, plants, and outdoor sofa](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Clean and repair the existing patio surface before adding anything | ~$0–$200 AUD |
+| 2 | Define the space with an outdoor rug | ~$89–$250 AUD |
+| 3 | Add weather-resistant furniture: dining set or lounge setting | ~$400–$2,000 AUD |
+| 4 | Style with coastal cushions, a small plant, and a lantern | ~$80–$200 AUD |
+| 5 | Install string lights for evening atmosphere | ~$40–$100 AUD |
 
 ---
 

@@ -7,6 +7,7 @@ dateModified: "2026-06-01"
 author: "Badreddine Br"
 tags: ["outdoor entertaining Australia", "alfresco ideas", "backyard ideas", "coastal decor"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "9 min read"
 tldr:
   - "19 practical outdoor entertaining ideas suited to Australian homes and climate."
@@ -27,6 +28,8 @@ faqs:
 There's something uniquely Australian about a backyard that doubles as your main entertaining space. We don't retreat inside when the season changes — we fire up the BBQ and make the most of every day the weather cooperates (which is, honestly, most of them).
 
 Whether you have a sprawling suburban block in Brisbane, a compact terrace in inner Sydney, or a coastal property on the Sunshine Coast, these outdoor entertaining ideas will help you make the most of your outdoor space — on any budget.
+
+[BOM climate data](http://www.bom.gov.au/climate/averages/) shows that Australia's coastal capitals enjoy more than 280 days of sunshine annually — which is why the outdoor entertaining space is as important to an Australian home as any room inside.
 
 ![Australian alfresco entertaining area with shade sail, outdoor dining table, and coastal garden](https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=80)
 
@@ -189,6 +192,16 @@ The most consistently beautiful Australian outdoor tables share three things: so
 ---
 
 Australian outdoor entertaining is one of the genuine pleasures of living here — and it doesn't require an enormous budget or a perfectly designed space. Start with one or two of these ideas and build from there. Your outdoor area is waiting to become the best room in your house.
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Cover the space — shade sail or pergola to enable year-round use | ~$150–$800 AUD |
+| 2 | Set up the dining table and chairs — the foundation of entertaining | ~$600–$2,000 AUD |
+| 3 | Add outdoor lighting (string lights + one pendant over dining) | ~$80–$300 AUD |
+| 4 | Define the lounge zone with an outdoor rug and cushions | ~$150–$500 AUD |
+| 5 | Style with plants, lanterns, and seasonal accessories | ~$80–$250 AUD |
 
 ## Where to Shop for Outdoor Entertaining in Australia
 

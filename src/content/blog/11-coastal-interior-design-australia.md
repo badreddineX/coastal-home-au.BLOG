@@ -7,6 +7,7 @@ dateModified: "2026-07-10"
 author: "Badreddine Br"
 tags: ["coastal interior design australia", "coastal interior design", "australian coastal interior", "coastal design principles", "coastal home design"]
 category: "Coastal Decor"
+featured: false
 readTime: "10 min read"
 tldr:
   - "Coastal interior design is built on six principles: light, natural materials, ocean-inspired colour, indoor-outdoor connection, restraint, and lived-in ease."
@@ -29,7 +30,7 @@ faqs:
 
 Coastal interior design is the discipline I've been practising — often accidentally, then increasingly intentionally — across every home I've lived in over the past eight years. The Gold Coast is my context, Australian summer is my climate, and the indoor-outdoor life is my daily reality.
 
-These are the 13 principles I return to every time I'm designing or redesigning a space.
+These are the 13 principles I return to every time I'm designing or redesigning a space. [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/sustainable-furniture-buying-guide) notes that Australians are increasingly selecting natural materials — linen, jute, rattan, and timber — for their interior design, reflecting a broader shift toward sustainable, tactile coastal living.
 
 ![Light-filled Australian coastal living room with white walls, linen sofa, and large windows](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
 
@@ -156,6 +157,16 @@ The coastal interiors I genuinely admire — and the version of my own home I'm 
 Design for life, not for photos. The life version is always more beautiful.
 
 ![Lived-in coastal interior with books, plants, and linen in warm afternoon light](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Establish the colour foundation: warm white walls + natural timber | ~$65–$200 AUD |
+| 2 | Layer natural textures: jute rug + linen upholstery + rattan accent | ~$200–$800 AUD |
+| 3 | Edit down to essentials — coastal style needs space and restraint | Free |
+| 4 | Add coastal art in simple frames | ~$50–$300 AUD |
+| 5 | Bring in indoor plants — at least one trailing variety | ~$15–$60 AUD |
 
 ---
 

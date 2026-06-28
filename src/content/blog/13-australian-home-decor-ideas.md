@@ -7,6 +7,7 @@ dateModified: "2026-07-12"
 author: "Badreddine Br"
 tags: ["australian home decor ideas", "australian home decor", "australian interior decor", "australian style interior", "home decor ideas australia"]
 category: "Coastal Decor"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Genuine Australian home decor is defined by indoor-outdoor connection, natural materials, and abundant natural light — not by kangaroos or blue-and-gold."
@@ -29,7 +30,7 @@ faqs:
 
 Eight years of living in and decorating homes on the Gold Coast has given me a clear picture of what genuine Australian home decor actually looks like — versus what the internet says it looks like, and versus the imported aesthetics that get labelled as "Australian" but look more at home in California or Denmark.
 
-Here are the 13 ideas and principles I keep returning to.
+Here are the 13 ideas and principles I keep returning to. According to [Domain.com.au research](https://www.domain.com.au/research/), Australian homeowners spend an average of $35,000 on home renovation and decorating over five years — but the highest-impact changes are almost always the most affordable ones.
 
 ![Bright Australian home interior with warm white walls, pale timber floors, and linen sofa](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
 
@@ -145,6 +146,16 @@ A north-facing Gold Coast living room with direct sun from 10am to 3pm needs to 
 The light is the best resource Australian interior design has. Design with it, not despite it.
 
 ![Afternoon light flooding through linen sheers into a warm white Australian home interior](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Paint the main living space — the highest ROI single change in any home | ~$65–$200 AUD |
+| 2 | Replace the main rug with natural fibres (jute or sisal) | ~$89–$400 AUD |
+| 3 | Declutter one room completely before buying anything new | Free |
+| 4 | Switch cushions and throws to Australian coastal palette | ~$100–$300 AUD |
+| 5 | Add indoor plants in two or three key spots | ~$15–$60 AUD each |
 
 ---
 

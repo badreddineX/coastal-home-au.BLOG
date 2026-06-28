@@ -7,6 +7,7 @@ dateModified: "2026-07-07"
 author: "Badreddine Br"
 tags: ["coastal living room ideas", "coastal living room australia", "beach house living room", "coastal lounge ideas", "coastal interior living room"]
 category: "Coastal Decor"
+featured: false
 readTime: "9 min read"
 tldr:
   - "A coastal living room is built on four elements: a large linen sofa, a jute rug, natural light, and rattan accents."
@@ -29,7 +30,7 @@ faqs:
 
 When we renovated our Gold Coast living room three years ago, I had a clear brief: it needed to look like the Australian coast felt — light, relaxed, genuinely beautiful without trying hard. The previous look was dark timber, leather sofa, and a colour palette that belonged in a Sydney office, not a coastal Queensland home.
 
-Here's what I changed, what I kept, and what I spent.
+Here's what I changed, what I kept, and what I spent. According to [Domain.com.au](https://www.domain.com.au/research/), open-plan coastal living rooms are among the most in-demand features for Australian property buyers — the living room is where the coastal aesthetic earns its investment.
 
 ![Coastal Australian living room with natural linen sofa, large jute rug, rattan armchair, and linen curtains](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
 
@@ -120,6 +121,16 @@ The finest coastal living rooms in Australia have direct visual and physical acc
 If the connection isn't architectural, approximate it: position the sofa to face the garden view rather than the TV, use plants and materials that echo the outside, and if possible, keep outdoor furniture in the same colour palette as the indoor furniture so the transition feels seamless.
 
 ![Australian coastal living room with sliding glass doors open to the alfresco — seamless indoor-outdoor connection](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Paint the room in warm white — this single change transforms everything | ~$65–$150 AUD |
+| 2 | Add a generously sized jute or natural rug | ~$89–$500 AUD |
+| 3 | Update cushions to coastal neutrals: white, linen, sage, and sand | ~$30–$60 AUD each |
+| 4 | Add a rattan pendant light or coastal floor lamp | ~$79–$300 AUD |
+| 5 | Style with indoor plants, coastal ceramics, and a throw blanket | ~$60–$200 AUD |
 
 ---
 

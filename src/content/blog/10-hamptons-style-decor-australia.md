@@ -7,6 +7,7 @@ dateModified: "2026-07-09"
 author: "Badreddine Br"
 tags: ["hamptons style decor australia", "hamptons decor australia", "hamptons interior australia", "hamptons home style", "hamptons look australia"]
 category: "Hamptons Style"
+featured: false
 readTime: "9 min read"
 tldr:
   - "Hamptons style is coastal elegance — more formal and structured than relaxed beach house, but built on the same white, navy, and natural palette."
@@ -27,7 +28,7 @@ faqs:
     a: "American Hamptons style tends to be more formal, more architecturally driven (coffered ceilings, wainscoting, shiplap as a primary feature), and more strictly adhered to in its navy and white palette. Australian Hamptons has evolved into a softer, more liveable interpretation: warmer white tones, more natural material texture (rattan, jute, linen), a stronger indoor-outdoor connection, and less architectural detail required to achieve the look. The Australian version is more achievable in existing homes without major renovation."
 ---
 
-I've been working toward a Hamptons-style interior in our Gold Coast home for three years. Not the Pinterest fantasy version — the actual liveable version that suits Australian light, Australian summers, and Australian outdoor living. Here's what I've learned works, what doesn't, and what Australian Hamptons style actually means when you live in it rather than just look at it.
+I've been working toward a Hamptons-style interior in our Gold Coast home for three years. Not the Pinterest fantasy version — the actual liveable version that suits Australian light, Australian summers, and Australian outdoor living. Here's what I've learned works, what doesn't, and what Australian Hamptons style actually means when you live in it rather than just look at it. The Hamptons aesthetic has become one of the most searched interior styles in Australia, according to [Domain.com.au research](https://www.domain.com.au/research/) — the clean coastal palette resonates deeply with how Australians want to live.
 
 ![Australian Hamptons-style home with white VJ panelling, navy accents, jute rug, and classic furnishings](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
 
@@ -125,6 +126,16 @@ The Hamptons outdoor space is a continuation of the interior — not an aftertho
 The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or bay trees in large white square planters flanking the entry or the alfresco.
 
 ![Hamptons outdoor alfresco with white furniture, navy striped cushions, and bay tree topiary standards in white planters](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Commit to the palette: warm white walls, navy accents, natural linen | ~$65–$150 AUD for paint |
+| 2 | Add a navy-and-white stripe rug — the single most identifiable Hamptons element | ~$150–$600 AUD |
+| 3 | Switch soft furnishings: cushions, throws, and linen in the right tones | ~$150–$400 AUD |
+| 4 | Add a rattan or wicker accent — pendant, mirror, or basket | ~$45–$200 AUD |
+| 5 | Hang coastal Australian artwork in simple white frames | ~$50–$300 AUD |
 
 ---
 

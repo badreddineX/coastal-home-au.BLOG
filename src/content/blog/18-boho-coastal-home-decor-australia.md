@@ -7,6 +7,7 @@ dateModified: "2026-07-17"
 author: "Badreddine Br"
 tags: ["boho coastal home decor australia", "boho coastal decor", "bohemian coastal style", "boho beach house australia", "boho coastal interior australia"]
 category: "Coastal Decor"
+featured: false
 readTime: "8 min read"
 tldr:
   - "Boho coastal is the most layered and personal of the coastal aesthetics — it accepts more colour, more texture, and more eclecticism than pure coastal or Hamptons."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Boho coastal is the coastal style I'm most personally drawn to — and the one that takes the most courage to do well, because it requires committing to a layered, personal aesthetic in a design climate that often rewards minimalism. I've been building the boho coastal elements of our Gold Coast home gradually, alongside the coastal basics, and the rooms that excite me most are always the ones with more personality, more texture, and more stuff that means something.
+
+The boho coastal aesthetic — a relaxed blend of natural materials, layered textiles, and eclectic collected pieces — reflects what [Domain.com.au](https://www.domain.com.au/research/) calls the 'lived-in luxe' trend driving Australian interior design interest.
 
 Here's what makes it work.
 
@@ -128,6 +131,16 @@ Boho coastal is the most personal of all the coastal styles — and it's the sty
 Follow the principles (warm white base, natural materials, rattan, plants, woven textures), and then bring yourself to it.
 
 ![Personal boho coastal home with travel finds, Australian art, terracotta pots, and woven textiles](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Layer textures first: jute rug + linen cushions + woven throw | ~$100–$400 AUD |
+| 2 | Add rattan and macramé elements — pendant, wall hanging, or basket | ~$20–$150 AUD |
+| 3 | Visit one op shop or market for 2–3 found pieces with character | ~$20–$80 AUD |
+| 4 | Bring in trailing plants in terracotta pots — the boho signature | ~$15–$50 AUD |
+| 5 | Add candles and a quality reed diffuser for the scent layer | ~$20–$65 AUD |
 
 ---
 

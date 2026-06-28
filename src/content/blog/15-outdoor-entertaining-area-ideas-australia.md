@@ -7,6 +7,7 @@ dateModified: "2026-07-14"
 author: "Badreddine Br"
 tags: ["outdoor entertaining area ideas australia", "outdoor entertaining area australia", "alfresco area ideas", "outdoor entertainment area design", "australian alfresco ideas"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "10 min read"
 tldr:
   - "A great Australian outdoor entertaining area needs three zones: dining, lounge, and cooking — even in a mid-sized space."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Our current outdoor entertaining area took five years to get right. The first version — a table and chairs on an unshaded concrete slab — was technically an outdoor eating area. The current version is a destination. The guests who come for Saturday lunch are still here at 10pm.
+
+[Domain.com.au property reports](https://www.domain.com.au/research/) consistently show that alfresco entertaining areas are the single most valued outdoor feature by Australian buyers, adding measurable value to homes across every price bracket.
 
 Here are the 14 things that made the difference.
 
@@ -142,6 +145,16 @@ Design decisions that support daily use: comfortable lounge zone seating (not ju
 The outdoor entertaining area that gets used daily is the most loved room in the house.
 
 ![Daily-use alfresco at golden hour with festoon lights, outdoor plants, and dining table set for two](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Secure overhead coverage — this determines how often you use the space | ~$150–$2,000 AUD |
+| 2 | Invest in a dining table sized for your actual guest list | ~$400–$2,000 AUD |
+| 3 | Create a separate lounge zone — even two chairs and a side table counts | ~$150–$800 AUD |
+| 4 | Add lighting: string lights minimum, outdoor pendant if possible | ~$40–$200 AUD |
+| 5 | Define zones with an outdoor rug and style with cushions and plants | ~$100–$350 AUD |
 
 ---
 

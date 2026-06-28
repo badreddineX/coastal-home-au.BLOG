@@ -7,6 +7,7 @@ dateModified: "2026-02-15"
 author: "Badreddine Br"
 tags: ["easter outdoor decorating ideas australia", "easter outdoor decor australia", "australian easter party ideas", "easter alfresco australia", "outdoor easter decorating australia"]
 category: "Outdoor Entertaining"
+featured: false
 readTime: "8 min read"
 tldr:
   - "Australian Easter is an autumn event — the palette is earthy and warm, not the pastel pink and yellow of the northern hemisphere spring Easter."
@@ -28,6 +29,8 @@ faqs:
 ---
 
 Easter in Australia is autumn. In Queensland, it's a perfect weekend — warm enough for alfresco, cool enough for a roast, light enough for an afternoon gathering without the shade crisis of the summer months. Easter Sunday lunch outside is one of my favourite entertaining occasions of the year.
+
+[BOM autumn data](http://www.bom.gov.au/climate/averages/) shows Easter falls during one of the most pleasant outdoor seasons in Australia — with temperatures typically 18–26°C and lower humidity than summer, it's the ideal time for outdoor entertaining.
 
 Here are the 12 decorating ideas that make our Easter outdoor space genuinely beautiful.
 
@@ -107,6 +110,16 @@ The Easter Sunday outdoor lunch that is most distinctly Australian: roasted lamb
 The best Easter gatherings I've hosted have been the simplest: a beautiful table, fresh flowers, good food, and the full four-day weekend to enjoy it. Easter outdoor decorating serves the gathering — it doesn't replace it. A few considered elements (the hessian runner, the dahlia centrepiece, the terracotta egg holders, the beeswax candles) are all that's needed.
 
 ![Easter Sunday outdoor lunch table with roast lamb, autumn salads, and dahlias on a warm Gold Coast afternoon](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+
+## Start Here: Priority Order
+
+| Priority | Action | Approx. Cost |
+|----------|--------|--------------|
+| 1 | Set the outdoor dining table the evening before — it makes the morning relaxed | ~$0 |
+| 2 | Add an autumnal centrepiece: dried natives, terracotta pots, candles | ~$15–$40 AUD |
+| 3 | Style outdoor cushions in warm Easter tones: terracotta, sage, and ochre | ~$30–$60 AUD each |
+| 4 | Set up a self-serve hot drinks station (coffee + tea) for cool mornings | ~$20–$50 AUD |
+| 5 | Add festoon lights for evening continuation — Easter weekends run long | ~$40–$100 AUD |
 
 ---
 
