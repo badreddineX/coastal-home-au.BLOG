@@ -69,28 +69,12 @@ const categories = [
         </div>
       </section>
 
-      <!-- ── Explore bar ── -->
-      <div class="explore-bar">
-        <div class="container explore-inner">
-          <span class="explore-label">Explore</span>
-          <nav class="explore-cats" aria-label="Browse by category">
-            {categories.map((cat, i) => (
-              <>
-                <a href={cat.href} class="explore-cat">{cat.label}</a>
-                {i < categories.length - 1 && <span class="explore-dot" aria-hidden="true">·</span>}
-              </>
-            ))}
-          </nav>
-          <a href="/blog" class="explore-all">All Posts →</a>
-        </div>
-      </div>
-
       <!-- ── Editor's Picks ── -->
       <section class="editors-section" aria-labelledby="editors-heading">
         <div class="container">
           <div class="editors-header">
             <span class="editors-label" id="editors-heading">Editor's Picks</span>
-            <a href="/blog" class="editors-view-all">View All Posts</a>
+            <a href="/blog" class="editors-view-all">All Posts →</a>
           </div>
           <div class="editors-grid">
 
@@ -363,61 +347,6 @@ const categories = [
 }
 .hero-btn-ghost:hover { background: rgba(255,255,255,0.20); color: #ffffff; text-decoration: none; }
 
-/* ── Explore bar ── */
-.explore-bar {
-  background: var(--color-bg);
-  border-bottom: 1px solid var(--color-border);
-}
-.explore-inner {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  flex-wrap: wrap;
-}
-.explore-label {
-  font-family: var(--font-heading);
-  font-size: 0.68rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: var(--color-heading);
-  flex-shrink: 0;
-  padding-right: 12px;
-  border-right: 1px solid var(--color-border);
-}
-.explore-cats {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  flex: 1;
-  flex-wrap: wrap;
-}
-.explore-cat {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1rem;
-  font-weight: 400;
-  color: var(--color-heading);
-  text-decoration: none;
-  transition: color var(--transition);
-}
-.explore-cat:hover { color: var(--color-primary); text-decoration: none; }
-.explore-dot { color: var(--color-text-muted); font-size: 0.85rem; }
-.explore-all {
-  font-family: var(--font-heading);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--color-heading);
-  text-decoration: none;
-  flex-shrink: 0;
-  margin-left: auto;
-  transition: color var(--transition);
-}
-.explore-all:hover { color: var(--color-primary); text-decoration: none; }
 
 /* ── Editor's Picks ── */
 .editors-section {
