@@ -39,8 +39,8 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
           width="1600" height="700"
           loading="eager" fetchpriority="high"
         />
+        <div class="blog-hero-overlay" aria-hidden="true"></div>
         <div class="container blog-hero-content">
-          <span id="results-count" hidden></span>
           <h1 class="display blog-title">All Ideas</h1>
           <p class="blog-sub">Outdoor living, coastal decor, and Hamptons style ideas — written for Australian homes.</p>
         </div>
@@ -165,6 +165,11 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   object-fit: cover;
   object-position: center 60%;
 }
+.blog-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 25, 35, 0.52);
+}
 .blog-hero-content {
   position: relative;
   z-index: 2;
@@ -175,14 +180,15 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   font-size: clamp(3rem, 8vw, 5.5rem);
   line-height: 1;
   margin: 0 0 16px 0;
-  color: var(--color-white);
-  text-shadow: 0 2px 16px rgba(0,0,0,0.45);
+  color: #ffffff;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.3);
 }
 .blog-sub {
   font-size: 1rem;
-  color: rgba(255,255,255,0.75);
+  color: rgba(255,255,255,0.85);
   max-width: 480px;
   margin: 0;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.3);
 }
 
 /* Filter bar */
