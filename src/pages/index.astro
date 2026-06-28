@@ -156,8 +156,8 @@ const categories = [
           <!-- All Posts CTA -->
           <div class="cat-all-posts">
             <a href="/blog" class="cat-all-btn">
-              Browse All Posts
-              <svg viewBox="0 0 16 16" fill="none" width="14" height="14" aria-hidden="true">
+              View All Posts
+              <svg viewBox="0 0 16 16" fill="none" width="16" height="16" aria-hidden="true">
                 <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
               </svg>
             </a>
@@ -634,33 +634,26 @@ const categories = [
 }
 .cat-card:hover .cat-card-arrow { transform: translateX(5px); color: #ffffff; }
 
-.cat-all-posts {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-}
+.cat-all-posts { margin-top: 20px; }
 .cat-all-btn {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  gap: 10px;
-  font-family: var(--font-heading);
-  font-size: 0.82rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--color-heading);
-  text-decoration: none;
-  border: 2px solid var(--color-heading);
-  padding: 14px 36px;
-  transition: all 0.2s ease;
-}
-.cat-all-btn:hover {
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  padding: 22px;
   background: var(--color-heading);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  font-weight: 400;
   color: #ffffff;
   text-decoration: none;
+  transition: opacity 0.2s ease;
 }
+.cat-all-btn:hover { opacity: 0.88; text-decoration: none; }
 .cat-all-btn svg { transition: transform var(--transition); }
-.cat-all-btn:hover svg { transform: translateX(4px); }
+.cat-all-btn:hover svg { transform: translateX(5px); }
 
 /* ── Latest posts ── */
 .latest-title {
