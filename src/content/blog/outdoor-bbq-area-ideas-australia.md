@@ -15,13 +15,13 @@ tldr:
   - "Stone benchtops, stainless steel appliances, and good lighting are the non-negotiables."
 faqs:
   - q: "What is the best BBQ for Australian outdoor entertaining?"
-    a: "For most Australian families, a four-burner gas BBQ is the sweet spot â€” it has enough cooking surface for a crowd without being unmanageable. Weber and BeefEater are the most trusted brands in Australia. If budget allows, a built-in BBQ as part of an outdoor kitchen is the ultimate long-term investment."
+    a: "For most Australian families, a four-burner gas BBQ is the sweet spot "” it has enough cooking surface for a crowd without being unmanageable. Weber and BeefEater are the most trusted brands in Australia. If budget allows, a built-in BBQ as part of an outdoor kitchen is the ultimate long-term investment."
   - q: "How much does an outdoor kitchen cost in Australia?"
-    a: "A basic built-in outdoor kitchen starts from around $8,000â€“$12,000 AUD installed, with premium setups reaching $30,000 or more. A mid-range option with stone benchtops, a built-in BBQ, a sink, and under-bench storage typically sits around $15,000â€“$20,000. For a fraction of the cost, a good freestanding BBQ with a prep trolley achieves 80% of the functionality."
+    a: "A basic built-in outdoor kitchen starts from around $8,000"“$12,000 AUD installed, with premium setups reaching $30,000 or more. A mid-range option with stone benchtops, a built-in BBQ, a sink, and under-bench storage typically sits around $15,000"“$20,000. For a fraction of the cost, a good freestanding BBQ with a prep trolley achieves 80% of the functionality."
   - q: "What benchtop material is best for an outdoor kitchen in Australia?"
-    a: "Porcelain slab and bluestone are the two best performers in Australian outdoor conditions â€” both handle UV, rain, heat, and coastal salt air exceptionally well. Granite is also excellent but can stain. Avoid concrete benchtops without proper sealing as they can crack in temperature extremes."
+    a: "Porcelain slab and bluestone are the two best performers in Australian outdoor conditions "” both handle UV, rain, heat, and coastal salt air exceptionally well. Granite is also excellent but can stain. Avoid concrete benchtops without proper sealing as they can crack in temperature extremes."
   - q: "Do I need council approval for an outdoor kitchen in Australia?"
-    a: "In most states, a basic outdoor BBQ area doesn't require council approval. However, a built-in outdoor kitchen attached to your home may require a building permit depending on your council and state regulations â€” especially if it involves gas fittings, plumbing, or structural changes. Always check with your local council before starting a built-in project."
+    a: "In most states, a basic outdoor BBQ area doesn't require council approval. However, a built-in outdoor kitchen attached to your home may require a building permit depending on your council and state regulations "” especially if it involves gas fittings, plumbing, or structural changes. Always check with your local council before starting a built-in project."
 ---
 
 If there's one thing that defines Australian outdoor entertaining, it's the BBQ. It's where we gather, where the stories get told, and where the weekend actually begins. Getting your BBQ area right is the single highest-impact upgrade you can make to your outdoor space.
@@ -36,7 +36,7 @@ The starting point for most Australians. A quality four-burner gas BBQ on wheels
 
 What makes it work:
 - A quality freestanding BBQ (Weber Q or BeefEater are the gold standards)
-- A prep bench positioned alongside â€” even a simple stainless steel outdoor bench from Bunnings works brilliantly
+- A prep bench positioned alongside "” even a simple stainless steel outdoor bench from Bunnings works brilliantly
 - A small outdoor bar fridge nearby for drinks and marinades
 
 ### The Built-In BBQ Kitchen
@@ -44,7 +44,7 @@ What makes it work:
 The dream for serious outdoor entertainers. A built-in outdoor kitchen integrates the BBQ, a sink, storage, and a benchtop into a permanent outdoor cooking station.
 
 Essential elements:
-- **Stone or porcelain benchtop** â€” granite, bluestone, or porcelain slab all handle weather beautifully
+- **Stone or porcelain benchtop** "” granite, bluestone, or porcelain slab all handle weather beautifully
 - **Built-in BBQ or pizza oven** set into the benchtop
 - **Under-bench storage** in marine-grade stainless or powder-coated aluminium
 - **Outdoor sink** with a cold tap at minimum (hot and cold if you're going all in)
@@ -52,22 +52,22 @@ Essential elements:
 
 ### The Outdoor Pizza Oven Setup
 
-Pizza ovens have exploded in popularity in Australian backyards. A wood-fired pizza oven creates an incredible social focal point and opens up a whole new world of outdoor cooking â€” not just pizza but bread, slow-cooked meats, and roasted vegetables.
+Pizza ovens have exploded in popularity in Australian backyards. A wood-fired pizza oven creates an incredible social focal point and opens up a whole new world of outdoor cooking "” not just pizza but bread, slow-cooked meats, and roasted vegetables.
 
 ![Built-in outdoor kitchen with bluestone benchtop, sink, and outdoor bar fridge in an Australian backyard](https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=900&q=80)
 
 ## Layout and Positioning
 
 Position your BBQ area:
-- **Downwind** of your main seating area â€” nobody wants smoke in their face
+- **Downwind** of your main seating area "” nobody wants smoke in their face
 - **Close to the house** for easy access to the kitchen for supplies
 - **Near power** for lighting, a bar fridge, and any electric appliances
-- **Under cover** â€” cooking in the rain is miserable, cooking under a pergola is wonderful
+- **Under cover** "” cooking in the rain is miserable, cooking under a pergola is wonderful
 
 ## The Finishing Details
 
-- **Task lighting** directly over the cooking surface â€” you need to see what you're cooking
-- **A good outdoor speaker** â€” cooking is more fun with music
+- **Task lighting** directly over the cooking surface "” you need to see what you're cooking
+- **A good outdoor speaker** "” cooking is more fun with music
 - **An esky or outdoor bar fridge** within arm's reach
 - **A hose connection** nearby for easy clean-up
 - **Splashback** behind the BBQ in tile or stainless steel to protect the wall
@@ -78,26 +78,26 @@ Position your BBQ area:
 
 A functional BBQ area and a beautiful one are not the same thing. The styling layer is what takes it from practical to impressive:
 
-- **A good splashback** â€” stainless steel, tile, or a feature stone behind the BBQ protects the wall and adds a polished finish
-- **Pot herbs** on the bench â€” fresh rosemary, thyme, and basil within reach of the grill
-- **Outdoor-rated pendant light** directly over the cooking surface â€” you need task lighting and it looks great
-- **A chalkboard or tile menu panel** â€” a fun touch for frequent entertainers
+- **A good splashback** "” stainless steel, tile, or a feature stone behind the BBQ protects the wall and adds a polished finish
+- **Pot herbs** on the bench "” fresh rosemary, thyme, and basil within reach of the grill
+- **Outdoor-rated pendant light** directly over the cooking surface "” you need task lighting and it looks great
+- **A chalkboard or tile menu panel** "” a fun touch for frequent entertainers
 
 ![Styled BBQ zone with splashback tile, pot herbs on the bench, and outdoor pendant light overhead](https://images.unsplash.com/photo-1565608438257-fac3c27bdbdb?auto=format&fit=crop&w=900&q=80)
 
 ## Australian BBQ Brands Worth Knowing
 
-- **[Weber](https://www.weber.com/AU/en/grills/)** â€” the most trusted BBQ brand in Australia, excellent warranty and support
-- **[BeefEater](https://www.beefeaterbbq.com.au/)** â€” Australian-owned, excellent quality, built for our conditions
-- **[Everdure by Heston](https://everdure.com/en-au/)** â€” premium, design-forward, genuinely beautiful BBQs
-- **[Barbeques Galore](https://www.barbequesgalore.com.au/)** â€” wide range of built-in outdoor kitchen setups and accessories
-- **[Matador at Bunnings](https://www.bunnings.com.au/our-range/barbecues-outdoor-cooking/bbqs)** â€” solid entry-level option if you're budget-conscious
+- **[Weber](https://www.weber.com/AU/en/grills/)** "” the most trusted BBQ brand in Australia, excellent warranty and support
+- **[BeefEater](https://www.beefeaterbbq.com.au/)** "” Australian-owned, excellent quality, built for our conditions
+- **[Everdure by Heston](https://everdure.com/en-au/)** "” premium, design-forward, genuinely beautiful BBQs
+- **[Barbeques Galore](https://www.barbequesgalore.com.au/)** "” wide range of built-in outdoor kitchen setups and accessories
+- **[Matador at Bunnings](https://www.bunnings.com.au/our-range/barbecues-outdoor-cooking/bbqs)** "” solid entry-level option if you're budget-conscious
 
 For council approval queries on built-in kitchens, start at your [local council's planning portal](https://www.planningportal.nsw.gov.au/) (NSW) or your state equivalent.
 
 ---
 
-The BBQ area is the heart of Australian outdoor entertaining â€” and it deserves to be designed like it. Whether you're starting with a freestanding Weber on a prep trolley or building a full outdoor kitchen from scratch, getting the layout, lighting, and finishing details right will transform how much you use and enjoy your outdoor space. This is the one upgrade that pays back every single weekend.
+The BBQ area is the heart of Australian outdoor entertaining "” and it deserves to be designed like it. Whether you're starting with a freestanding Weber on a prep trolley or building a full outdoor kitchen from scratch, getting the layout, lighting, and finishing details right will transform how much you use and enjoy your outdoor space. This is the one upgrade that pays back every single weekend.
 
 ---
 
