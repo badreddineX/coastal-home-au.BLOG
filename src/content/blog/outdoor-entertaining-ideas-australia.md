@@ -182,3 +182,18 @@ The most consistently beautiful Australian outdoor tables share three things: so
 
 Australian outdoor entertaining is one of the genuine pleasures of living here â€” and it doesn't require an enormous budget or a perfectly designed space. Start with one or two of these ideas and build from there. Your outdoor area is waiting to become the best room in your house.
 
+## Where to Shop for Outdoor Entertaining in Australia
+
+- **[Temple & Webster](https://www.templeandwebster.com.au/outdoor/)** â€” outdoor furniture, rugs, and lighting
+- **[Adairs](https://www.adairs.com.au/outdoor/)** â€” cushions, throws, and outdoor textiles
+- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining)** â€” shade sails, misting systems, and BBQ essentials
+- **[Kmart Australia](https://www.kmart.com.au/category/home/outdoor/)** â€” budget-friendly styling pieces that genuinely work
+- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** â€” premium outdoor furniture for a long-term investment
+
+---
+
+**Related reading:**
+- [Outdoor BBQ Area Ideas for Australian Backyards](/blog/outdoor-bbq-area-ideas-australia)
+- [Backyard Fire Pit Ideas for Australian Homes](/blog/backyard-fire-pit-ideas-australia)
+- [Pergola Entertaining Ideas for Australian Homes](/blog/01-pergola-entertaining-ideas-australia)
+

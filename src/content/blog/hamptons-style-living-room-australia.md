@@ -117,3 +117,20 @@ You don't need all of these at once. Start with one and add from there. The Hamp
 
 One final note: the most successful Australian Hamptons interiors are the ones that feel lived-in, not staged. The slipcovered sofa with a dog curled up on it. The stack of Australian Geographic magazines on the coffee table. The bunch of dahlias from the weekend market in a simple white jug. Hamptons style, done in Australia, is ultimately about a certain ease â€” and that's very much who we are.
 
+## Where to Shop for Your Hamptons Living Room
+
+- **[Temple & Webster](https://www.templeandwebster.com.au/living-room/)** â€” sofas, rattan lights, and coastal rugs
+- **[Adairs](https://www.adairs.com.au/homewares/)** â€” cushions, throws, and jute rugs in the right Hamptons palette
+- **[IKEA Australia](https://www.ikea.com/au/en/rooms/living-room/)** â€” AINA linen curtains and affordable basics
+- **[Freedom](https://www.freedom.com.au/living/)** â€” mid-range Hamptons-style sofas and furniture
+- **[Dulux Australia](https://www.dulux.com.au/)** â€” Vivid White and Sail Cloth paint shades for walls
+
+For Australian coastal artwork, [Etsy Australia](https://www.etsy.com/au/) has an excellent community of local artists selling prints from $20 AUD.
+
+---
+
+**Related reading:**
+- [Hamptons Style Bedroom Ideas for Australian Homes](/blog/hamptons-style-bedroom-australia)
+- [Hamptons Outdoor Living: The Perfect Alfresco Space](/blog/hamptons-style-outdoor-living-australia)
+- [Hamptons Style Decor: The Australian Guide](/blog/10-hamptons-style-decor-australia)
+

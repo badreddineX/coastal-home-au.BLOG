@@ -99,5 +99,21 @@ Total investment: under $300 AUD. Total impact: significant.
 
 ---
 
+## Where to Shop for Coastal Bathroom Accessories in Australia
+
+- **[Adairs](https://www.adairs.com.au/bathroom/)** â€" waffle towels, bath mats, and bathroom accessories in coastal-friendly tones
+- **[Temple & Webster](https://www.templeandwebster.com.au/Bathroom-Accessories-C1811429.html)** â€" rattan mirrors, woven baskets, and decorative accessories
+- **[Beaumont Tiles](https://www.beaumont-tiles.com.au/)** â€" zellige, terrazzo, and stone-look tiles at accessible price points
+- **[Ecoya](https://www.ecoya.com.au/)** â€" Australian coastal-scented candles and reed diffusers available at Myer and David Jones
+
+---
+
 The coastal bathroom is one of those rare interior styles that works equally well in a basic builder's bathroom and a fully renovated spa retreat. It's about the feeling â€” light, natural, calm â€” more than it is about the tiles or fixtures. Start small, add layer by layer, and you'll be surprised how quickly the transformation happens.
+
+---
+
+**Related reading:**
+- [Coastal Home Decor Ideas for Australian Homes](/blog/06-coastal-home-decor-australia)
+- [Modern Coastal Home Decor: The Australian Edit](/blog/17-modern-coastal-home-decor-australia)
+- [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 

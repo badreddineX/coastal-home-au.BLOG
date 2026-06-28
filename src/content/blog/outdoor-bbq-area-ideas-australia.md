@@ -79,12 +79,22 @@ A functional BBQ area and a beautiful one are not the same thing. The styling la
 
 ## Australian BBQ Brands Worth Knowing
 
-- **Weber** â€” the most trusted BBQ brand in Australia, excellent warranty and support
-- **BeefEater** â€” Australian-owned, excellent quality, built for our conditions
-- **Everdure by Heston** â€” premium, design-forward, genuinely beautiful BBQs
-- **Matador (Bunnings)** â€” solid entry-level option if you're budget-conscious
+- **[Weber](https://www.weber.com/AU/en/grills/)** â€” the most trusted BBQ brand in Australia, excellent warranty and support
+- **[BeefEater](https://www.beefeaterbbq.com.au/)** â€” Australian-owned, excellent quality, built for our conditions
+- **[Everdure by Heston](https://everdure.com/en-au/)** â€” premium, design-forward, genuinely beautiful BBQs
+- **[Barbeques Galore](https://www.barbequesgalore.com.au/)** â€” wide range of built-in outdoor kitchen setups and accessories
+- **[Matador at Bunnings](https://www.bunnings.com.au/our-range/barbecues-outdoor-cooking/bbqs)** â€” solid entry-level option if you're budget-conscious
+
+For council approval queries on built-in kitchens, start at your [local council's planning portal](https://www.planningportal.nsw.gov.au/) (NSW) or your state equivalent.
 
 ---
 
 The BBQ area is the heart of Australian outdoor entertaining â€” and it deserves to be designed like it. Whether you're starting with a freestanding Weber on a prep trolley or building a full outdoor kitchen from scratch, getting the layout, lighting, and finishing details right will transform how much you use and enjoy your outdoor space. This is the one upgrade that pays back every single weekend.
+
+---
+
+**Related reading:**
+- [Outdoor Entertaining Ideas for Australian Backyards](/blog/outdoor-entertaining-ideas-australia)
+- [Pergola Entertaining Ideas for Australian Homes](/blog/01-pergola-entertaining-ideas-australia)
+- [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
 

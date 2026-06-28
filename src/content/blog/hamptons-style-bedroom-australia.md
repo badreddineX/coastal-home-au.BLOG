@@ -73,13 +73,21 @@ Both sides should match â€” asymmetry doesn't suit the Hamptons aesthetic.
 
 ## Australian Retailers to Shop
 
-- **Temple & Webster** â€” excellent selection of Hamptons furniture and bedheads
-- **Adairs** â€” the best Australian source for linen bedding in Hamptons colourways
-- **Freedom** â€” coastal furniture with good quality at mid-range prices
-- **Harvey Norman** â€” solid timber bedroom furniture options
-- **Pillow Talk** â€” great value bedding basics to layer under more statement pieces
+- **[Temple & Webster](https://www.templeandwebster.com.au/bedroom/)** â€” excellent selection of Hamptons furniture and bedheads
+- **[Adairs](https://www.adairs.com.au/bedroom/)** â€” the best Australian source for linen bedding in Hamptons colourways
+- **[Freedom](https://www.freedom.com.au/bedroom/)** â€” coastal furniture with good quality at mid-range prices
+- **[Harvey Norman](https://www.harveynorman.com.au/furniture/bedroom-furniture)** â€” solid timber bedroom furniture options
+- **[Pillow Talk](https://www.pillowtalk.com.au/)** â€” great value bedding basics to layer under more statement pieces
+- **[IKEA Australia](https://www.ikea.com/au/en/rooms/bedroom/)** â€” AINA linen curtains and affordable bedside essentials for the Hamptons look
 
 ---
 
 A Hamptons bedroom done well in an Australian home is one of those spaces that makes you want to spend Sunday morning in bed with a coffee and the windows open to the coastal breeze. It's achievable at almost any budget â€” and every layer you add makes it feel more like the real thing.
+
+---
+
+**Related reading:**
+- [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
+- [Hamptons Style Decor: The Australian Guide](/blog/10-hamptons-style-decor-australia)
+- [Coastal Home Decor Ideas for Australian Homes](/blog/06-coastal-home-decor-australia)
 

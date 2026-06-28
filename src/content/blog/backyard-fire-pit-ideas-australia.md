@@ -80,12 +80,21 @@ A fire pit without thought around it is just a fire pit. Style the zone and it b
 
 ## Where to Buy Fire Pits in Australia
 
-- **Bunnings** â€” best range of entry-level portable steel fire bowls from $80â€“$300 AUD
-- **Temple & Webster** â€” better-looking design options in corten steel and stone from $200â€“$800 AUD
-- **Outdoor Elegance** â€” premium built-in and freestanding options for serious outdoor spaces
-- **Barbeques Galore** â€” strong range of gas fire pits if you prefer the smoke-free option
+- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-heating/fire-pits)** â€” best range of entry-level portable steel fire bowls from $80â€”$300 AUD
+- **[Temple & Webster](https://www.templeandwebster.com.au/Fire-Pits-C1811433.html)** â€” better-looking design options in corten steel and stone from $200â€”$800 AUD
+- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** â€” premium built-in and freestanding options for serious outdoor spaces
+- **[Barbeques Galore](https://www.barbequesgalore.com.au/)** â€” strong range of gas fire pits if you prefer the smoke-free option
+
+Before purchasing, confirm your local rules â€” the [NSW RFS](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans) and [CFA Victoria](https://www.cfa.vic.gov.au/warnings-restrictions/total-fire-bans-season/current-fire-ban) publish daily fire ban updates.
 
 ---
 
 A fire pit is one of those backyard investments that pays you back every single time you light it. The conversations that happen around a fire are different from any other kind â€” slower, deeper, longer. Build the space right, and your backyard will become the place everyone wants to be as the evening cools.
+
+---
+
+**Related reading:**
+- [Backyard Landscaping Ideas for Australian Homes](/blog/backyard-landscaping-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Backyards](/blog/outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Area Ideas Australia](/blog/15-outdoor-entertaining-area-ideas-australia)
 

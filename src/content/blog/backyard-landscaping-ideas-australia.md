@@ -103,7 +103,23 @@ You don't need to landscape your entire backyard at once. The most satisfying ap
 
 Four weekends, a realistic budget, and you have a backyard you'll actually use.
 
+## Where to Shop for Landscaping in Australia
+
+- **[Bunnings](https://www.bunnings.com.au/our-range/garden)** â€” pavers, garden edging, native plants, and irrigation supplies
+- **[Temple & Webster](https://www.templeandwebster.com.au/Outdoor-Furniture-C27170.html)** â€” outdoor furniture and pot plants to style the entertaining zone
+- **[Garden Express](https://www.gardenexpress.com.au/)** â€” wide range of native and coastal plants delivered Australia-wide
+- **[Beaumont Tiles](https://www.beaumont-tiles.com.au/outdoor-tiles)** â€” outdoor pavers and tiles for a polished finish
+
+For native plant advice specific to your region, the [Australian Native Plants Society](https://anpsa.org.au/) is an excellent free resource.
+
 ---
 
 The best Australian backyards aren't the most expensive ones â€” they're the most considered ones. A well-planned backyard with the right zones, the right plants, and some decent lighting will serve you better than a budget spent on a single impressive feature. Start with the plan, and the rest follows.
+
+---
+
+**Related reading:**
+- [Backyard Fire Pit Ideas for Australian Homes](/blog/backyard-fire-pit-ideas-australia)
+- [Outdoor BBQ Area Ideas for Australian Backyards](/blog/outdoor-bbq-area-ideas-australia)
+- [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
 

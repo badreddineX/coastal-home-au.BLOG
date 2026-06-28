@@ -69,13 +69,21 @@ All of these are replaceable and storable, making them a practical first step fo
 
 ## Where to Shop in Australia
 
-- **Outdoor Elegance** â€” premium Hamptons outdoor furniture
-- **Temple & Webster** â€” excellent mid-range outdoor dining and lounge
-- **Bunnings** â€” for the white pergola paint and structure elements
-- **Kmart** â€” budget-friendly cushions and accessories that punch above their weight
-- **Adairs** â€” outdoor textiles and cushions in the right coastal palette
+- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** â€” premium Hamptons outdoor furniture
+- **[Temple & Webster](https://www.templeandwebster.com.au/outdoor/)** â€” excellent mid-range outdoor dining and lounge
+- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining)** â€” white pergola paint, structure elements, and shade sails
+- **[Kmart](https://www.kmart.com.au/category/home/outdoor/)** â€” budget-friendly cushions and accessories that punch above their weight
+- **[Adairs](https://www.adairs.com.au/outdoor/)** â€” outdoor textiles and cushions in the right coastal palette
+- **[Freedom](https://www.freedom.com.au/outdoor/)** â€” Hamptons-style outdoor lounge and dining furniture at mid-range prices
 
 ---
 
 The Hamptons outdoor look is one of the most achievable in Australia precisely because it doesn't require a large budget to get started. A tin of white paint, a striped outdoor rug, and some decent cushions can transform a basic covered alfresco into something that genuinely looks like it belongs on a lifestyle magazine page. Start there, and layer in the bigger pieces over time.
+
+---
+
+**Related reading:**
+- [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
+- [Hamptons Style Bedroom Ideas for Australian Homes](/blog/hamptons-style-bedroom-australia)
+- [Pergola Entertaining Ideas for Australian Homes](/blog/01-pergola-entertaining-ideas-australia)
 
