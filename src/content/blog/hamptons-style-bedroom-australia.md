@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hamptons Style Bedroom Ideas for Australian Homes (2026)"
-description: "Create a dreamy Hamptons bedroom with coastal colours, linen bedding, and timeless furniture "” all sourced from Australian retailers."
+description: "Create a dreamy Hamptons bedroom with coastal colours, linen bedding, and timeless furniture — all sourced from Australian retailers."
 image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-18"
 dateModified: "2026-06-01"
@@ -16,20 +16,20 @@ faqs:
   - q: "What colours define a Hamptons style bedroom?"
     a: "White, soft navy, sandy beige, and warm grey are the signature Hamptons palette. Keep walls white or very light, and layer in navy through cushions, throws, or a bedhead for that classic coastal contrast."
   - q: "What bedding works best for a Hamptons bedroom in Australia?"
-    a: "100% linen or linen-cotton blend is perfect for the Australian climate "” it breathes well in summer and feels luxurious year-round. Adairs and Pillow Talk both carry excellent ranges in the right Hamptons colourway."
+    a: "100% linen or linen-cotton blend is perfect for the Australian climate — it breathes well in summer and feels luxurious year-round. Adairs and Pillow Talk both carry excellent ranges in the right Hamptons colourway."
   - q: "How do I get the Hamptons bedroom look without renovating?"
     a: "Focus on what's on the bed and around it. New linen bedding, a layered cushion arrangement, and matching bedside lamps in white or rattan will transform any bedroom regardless of what the walls or floors look like. These three changes cost under $500 AUD and have an outsized visual impact."
   - q: "What flooring suits a Hamptons bedroom?"
-    a: "Timber floorboards in a light or mid-tone finish are the most authentic Hamptons floor "” natural timber, whitewashed, or a pale oak stain. If you have carpet, a large jute or cotton flatweave rug over the top achieves a similar grounded feel. Avoid dark timber or highly polished floors "” they feel too formal for the relaxed Hamptons aesthetic."
+    a: "Timber floorboards in a light or mid-tone finish are the most authentic Hamptons floor — natural timber, whitewashed, or a pale oak stain. If you have carpet, a large jute or cotton flatweave rug over the top achieves a similar grounded feel. Avoid dark timber or highly polished floors — they feel too formal for the relaxed Hamptons aesthetic."
 ---
 
-There's a reason Hamptons style bedrooms never go out of fashion. They're calm, they're considered, and they feel like the best version of coastal living "” relaxed but refined. And for Australian homes, the aesthetic translates beautifully.
+There's a reason Hamptons style bedrooms never go out of fashion. They're calm, they're considered, and they feel like the best version of coastal living — relaxed but refined. And for Australian homes, the aesthetic translates beautifully.
 
 ![Hamptons bedroom with white linen bedding, navy cushions, and natural timber floors](https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80)
 
 ## The Core Colour Palette
 
-Start with white walls "” either a warm white or a crisp bright white depending on your light. Then layer in:
+Start with white walls — either a warm white or a crisp bright white depending on your light. Then layer in:
 
 - **Navy** through cushions, a throw, or a bedhead
 - **Sandy beige** in timber floors or a natural jute rug
@@ -50,7 +50,7 @@ Stack pillows in whites and navies. Two European pillows, two standard pillows, 
 Keep furniture simple and substantial. Think:
 
 - **Solid timber bedframes** in white, whitewashed, or natural oak
-- **Bedside tables** with a classic shape "” simple drawers, perhaps with rattan or cane detailing
+- **Bedside tables** with a classic shape — simple drawers, perhaps with rattan or cane detailing
 - **A linen upholstered bedhead** for that signature Hamptons softness
 
 Avoid anything too modern or too ornate. Hamptons is about comfortable, classic pieces that feel like they've always been there.
@@ -63,7 +63,7 @@ Soft, layered lighting is essential. A statement pendant or chandelier above the
 
 ## Window Treatments
 
-Hamptons bedrooms are known for their generous, flowing curtains. Floor-to-ceiling linen or linen-look curtains in white or natural are the signature look. Hang the rod at ceiling height "” even if your ceilings are standard 2.4m "” to create the illusion of height.
+Hamptons bedrooms are known for their generous, flowing curtains. Floor-to-ceiling linen or linen-look curtains in white or natural are the signature look. Hang the rod at ceiling height — even if your ceilings are standard 2.4m — to create the illusion of height.
 
 IKEA AU's AINA linen curtains are a reliable, affordable option that genuinely captures the Hamptons aesthetic without the price tag of custom curtains.
 
@@ -77,20 +77,20 @@ The bedside table and lamp setup is often what separates a styled Hamptons bedro
 - **Lamp:** A ceramic base in white or sandy beige with a linen shade is the classic Hamptons lamp
 - **Styling:** A small stack of books, a coastal candle, and a simple white vase with dried coastal grasses
 
-Both sides should match "” asymmetry doesn't suit the Hamptons aesthetic.
+Both sides should match — asymmetry doesn't suit the Hamptons aesthetic.
 
 ## Australian Retailers to Shop
 
-- **[Temple & Webster](https://www.templeandwebster.com.au/bedroom/)** "” excellent selection of Hamptons furniture and bedheads
-- **[Adairs](https://www.adairs.com.au/bedroom/)** "” the best Australian source for linen bedding in Hamptons colourways
-- **[Freedom](https://www.freedom.com.au/bedroom/)** "” coastal furniture with good quality at mid-range prices
-- **[Harvey Norman](https://www.harveynorman.com.au/furniture/bedroom-furniture)** "” solid timber bedroom furniture options
-- **[Pillow Talk](https://www.pillowtalk.com.au/)** "” great value bedding basics to layer under more statement pieces
-- **[IKEA Australia](https://www.ikea.com/au/en/rooms/bedroom/)** "” AINA linen curtains and affordable bedside essentials for the Hamptons look
+- **[Temple & Webster](https://www.templeandwebster.com.au/bedroom/)** — excellent selection of Hamptons furniture and bedheads
+- **[Adairs](https://www.adairs.com.au/bedroom/)** — the best Australian source for linen bedding in Hamptons colourways
+- **[Freedom](https://www.freedom.com.au/bedroom/)** — coastal furniture with good quality at mid-range prices
+- **[Harvey Norman](https://www.harveynorman.com.au/furniture/bedroom-furniture)** — solid timber bedroom furniture options
+- **[Pillow Talk](https://www.pillowtalk.com.au/)** — great value bedding basics to layer under more statement pieces
+- **[IKEA Australia](https://www.ikea.com/au/en/rooms/bedroom/)** — AINA linen curtains and affordable bedside essentials for the Hamptons look
 
 ---
 
-A Hamptons bedroom done well in an Australian home is one of those spaces that makes you want to spend Sunday morning in bed with a coffee and the windows open to the coastal breeze. It's achievable at almost any budget "” and every layer you add makes it feel more like the real thing.
+A Hamptons bedroom done well in an Australian home is one of those spaces that makes you want to spend Sunday morning in bed with a coffee and the windows open to the coastal breeze. It's achievable at almost any budget — and every layer you add makes it feel more like the real thing.
 
 ---
 
