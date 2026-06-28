@@ -28,6 +28,8 @@ The Hamptons style has become one of the most popular interior aesthetics in Aus
 
 But Hamptons done well in an Australian context looks slightly different from its American original. It's a little warmer, a little more relaxed, and grounded in a landscape that's uniquely ours. Here's how to achieve it.
 
+![Hamptons living room with white walls, linen sofa, jute rug, and rattan pendant light in an Australian home](https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=900&q=80)
+
 ## The Foundation: Colour, Light, and Walls
 
 The Hamptons look starts with walls. In the original American Hamptons, that means crisp white â€” but Australian light is far more intense than New England light, which means pure white can feel harsh and glaring during the day.
@@ -60,6 +62,8 @@ The classic Hamptons palette is white, navy, and sandy beige. But in Australian 
 
 This palette works in every Australian state and across every home type, from a terrace in Paddington to a weatherboard in Ballarat.
 
+![Deep linen sofa in natural with layered cushions and a woven coffee table in a coastal living room](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
+
 ## Texture Is Everything
 
 One of the most common Hamptons mistakes is keeping everything flat and smooth. Real Hamptons style is deeply textural â€” it's the contrast between smooth white walls and a chunky rattan pendant light, between a linen sofa and a jute rug, between painted shiplap and a worn timber coffee table.
@@ -83,6 +87,8 @@ For Hamptons style in an Australian living room:
 
 The Baya Havana Jute rug from Adairs and similar woven options from Temple & Webster start from $180 AUD for a 160x230cm size.
 
+![Large jute rug anchoring a Hamptons coastal living room with navy and white cushions](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+
 ## Curtains and Window Treatments
 
 Hamptons style loves a generous curtain â€” floor-to-ceiling, linen or linen-look, in white or natural. This is the single change that makes a room feel more spacious and more luxurious than almost anything else.
@@ -90,6 +96,8 @@ Hamptons style loves a generous curtain â€” floor-to-ceiling, linen or line
 Hang your curtain rod as high as possible (at ceiling height if the space allows) and let the curtains drop all the way to the floor. This creates a sense of height and grandeur that's entirely Hamptons.
 
 IKEA AU's AINA linen curtains are a beloved Australian option â€” affordable, genuinely beautiful, and available in a soft natural linen that works perfectly for the coastal aesthetic.
+
+![Floor-to-ceiling linen curtains in white framing a bright Hamptons coastal living room](https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=900&q=80)
 
 ## Artwork: Where to Find Coastal Australian Prints
 

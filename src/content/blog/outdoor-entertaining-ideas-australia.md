@@ -28,6 +28,8 @@ There's something uniquely Australian about a backyard that doubles as your main
 
 Whether you have a sprawling suburban block in Brisbane, a compact terrace in inner Sydney, or a coastal property on the Sunshine Coast, these outdoor entertaining ideas will help you make the most of your outdoor space â€” on any budget.
 
+![Australian alfresco entertaining area with shade sail, outdoor dining table, and coastal garden](https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=80)
+
 ## 1. Start With a Proper Alfresco Foundation
 
 The difference between an outdoor area you use once a week and one you use every day comes down to the foundation: level ground, a defined space, and some form of overhead shelter.
@@ -65,6 +67,8 @@ All three layers together cost $200â€“$400 AUD and completely transform how
 One of the fastest ways to make an outdoor area feel designed (rather than just furnished) is to define zones with outdoor rugs. A rug under your outdoor dining table, and a second one under your lounge setting, instantly creates the sense of two separate rooms.
 
 Look for polypropylene rugs â€” they're designed for outdoor use, resist mould and UV fading, and can be hosed down. Adairs and Temple & Webster both carry excellent coastal-style outdoor rugs in the $150â€“$400 AUD range.
+
+![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=900&q=80)
 
 ## 5. Build a BBQ Station Worth Using
 
@@ -112,6 +116,8 @@ The best choices for outdoor entertaining areas:
 
 All four are available at most Bunnings locations for under $20 AUD per plant.
 
+![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80)
+
 ## 9. Install a Misting System for Australian Summer Heat
 
 This is the single outdoor upgrade most Australians haven't yet discovered â€” and it makes summer entertaining genuinely comfortable rather than something to be endured.
@@ -153,6 +159,8 @@ Several beautiful coastal-themed outdoor melamine sets are available from Adairs
 A small pot of herbs close to the BBQ and outdoor kitchen area is both practical and beautiful. Fresh rosemary, thyme, and basil within arm's reach of the grill is exactly how outdoor cooking should feel.
 
 Use terracotta pots for a Hamptons-meets-Mediterranean coastal aesthetic that suits the Australian outdoor environment perfectly.
+
+![Outdoor dining table styled with native Australian flowers, linen napkins, and candles for an alfresco dinner](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
 
 ## 16. Create an Outdoor Fire Pit or Fireplace Zone
 

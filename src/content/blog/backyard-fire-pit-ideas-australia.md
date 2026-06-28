@@ -28,6 +28,8 @@ There's something primal about gathering around a fire. In Australia, where we l
 
 ## Types of Fire Pits for Australian Backyards
 
+![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80)
+
 ### Portable Steel Fire Bowls
 
 The most accessible option. These sit on legs, can be moved around the yard, and packed away when not needed â€” which makes them perfect for renters or those who like flexibility. Starting from around $80 at Bunnings, they're the entry point for most Australians.
@@ -50,6 +52,8 @@ Materials that work well in Australian conditions:
 
 No smoke, no mess, instant flame at the turn of a dial. Gas fire pits are increasingly popular in Australian backyards, particularly in areas with strict fire regulations. They're more expensive upfront but lower maintenance.
 
+![Built-in stone fire pit with curved concrete bench seating in a coastal Australian backyard](https://images.unsplash.com/photo-1558618047-f4e60cef5e5d?auto=format&fit=crop&w=900&q=80)
+
 ## Seating Around the Fire Pit
 
 The seating arrangement matters as much as the fire pit itself. Go for:
@@ -60,6 +64,8 @@ The seating arrangement matters as much as the fire pit itself. Go for:
 
 Keep seating at a comfortable distance â€” at least 1.5 metres from the edge of the pit.
 
+![Outdoor fire pit seating area with low lounge chairs, lanterns, and throw blankets at dusk](https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?auto=format&fit=crop&w=900&q=80)
+
 ## Styling the Fire Pit Zone
 
 A fire pit without thought around it is just a fire pit. Style the zone and it becomes a destination.
@@ -69,6 +75,8 @@ A fire pit without thought around it is just a fire pit. Style the zone and it b
 - **Use lanterns** on the ground at different heights to supplement the fire light
 - **Layer throws** in a basket nearby â€” coastal evenings in June and July genuinely need them
 - **Define the space** with an outdoor rug that circles the pit, anchoring the whole zone
+
+![Styled fire pit zone with lanterns, outdoor rug, and timber side tables on an Australian patio](https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80)
 
 ## Safety Essentials
 

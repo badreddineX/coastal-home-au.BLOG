@@ -25,6 +25,8 @@ faqs:
 
 The Hamptons aesthetic was built for outdoor living. Those wide verandahs, the white timber, the sound of the sea â€” it's a style that was always meant to blur the line between inside and out. In Australia, we have the perfect climate to live this dream year-round.
 
+![White timber pergola with ceiling fan, outdoor dining table, and festoon lights on an Australian alfresco](https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80)
+
 ## The Hamptons Outdoor Palette
 
 Outside, the Hamptons palette gets a slightly more relaxed treatment:
@@ -39,6 +41,8 @@ Outside, the Hamptons palette gets a slightly more relaxed treatment:
 A white-painted pergola or verandah is the quintessential Hamptons outdoor element. If you're building from scratch, choose a classic colonial profile with simple detailing. If you're working with what you have, a fresh coat of white paint on an existing pergola can transform the space overnight.
 
 Add a ceiling fan in white, some outdoor pendant lights, and you have the bones of something genuinely beautiful.
+
+![White-painted colonial pergola with standard bay trees in white pots and navy stripe outdoor cushions](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
 
 ## Furniture
 
@@ -56,6 +60,8 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 - **Potted plants** â€” standard bay trees or olive trees in white pots
 - **String lights** â€” warm white, strung along the pergola beams
 
+![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+
 ## Textiles and Soft Furnishings
 
 The textiles are what make a Hamptons outdoor space feel finished rather than furnished:
@@ -66,6 +72,8 @@ The textiles are what make a Hamptons outdoor space feel finished rather than fu
 - **Linen-look outdoor curtains** on the pergola for privacy and shade â€” white, tied back with a nautical rope
 
 All of these are replaceable and storable, making them a practical first step for anyone testing the Hamptons look before committing to permanent changes.
+
+![Hamptons outdoor lounge with navy-stripe rug, white throw blankets in a basket, and lanterns at dusk](https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=900&q=80)
 
 ## Where to Shop in Australia
 

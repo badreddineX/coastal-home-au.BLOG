@@ -25,6 +25,8 @@ faqs:
 
 There's a reason Hamptons style bedrooms never go out of fashion. They're calm, they're considered, and they feel like the best version of coastal living â€” relaxed but refined. And for Australian homes, the aesthetic translates beautifully.
 
+![Hamptons bedroom with white linen bedding, navy cushions, and natural timber floors](https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80)
+
 ## The Core Colour Palette
 
 Start with white walls â€” either a warm white or a crisp bright white depending on your light. Then layer in:
@@ -41,6 +43,8 @@ In Australia's climate, linen is your best friend. It regulates temperature, loo
 
 Stack pillows in whites and navies. Two European pillows, two standard pillows, and two cushions is the classic Hamptons layered look.
 
+![Layered Hamptons bed with white European pillows, linen quilt, and navy stripe throw](https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=900&q=80)
+
 ## Furniture Choices
 
 Keep furniture simple and substantial. Think:
@@ -55,11 +59,15 @@ Avoid anything too modern or too ornate. Hamptons is about comfortable, classic 
 
 Soft, layered lighting is essential. A statement pendant or chandelier above the bed, bedside table lamps with linen shades, and dimmer switches throughout. In a Hamptons bedroom, you never want harsh overhead lighting.
 
+![White timber bedframe with rattan bedside table, ceramic lamp, and linen shade in a coastal bedroom](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80)
+
 ## Window Treatments
 
 Hamptons bedrooms are known for their generous, flowing curtains. Floor-to-ceiling linen or linen-look curtains in white or natural are the signature look. Hang the rod at ceiling height â€” even if your ceilings are standard 2.4m â€” to create the illusion of height.
 
 IKEA AU's AINA linen curtains are a reliable, affordable option that genuinely captures the Hamptons aesthetic without the price tag of custom curtains.
+
+![Floor-to-ceiling white linen curtains in a Hamptons bedroom with natural light flooding in](https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80)
 
 ## Styling the Bedside
 

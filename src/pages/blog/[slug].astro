@@ -49,7 +49,21 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 
+const siteUrl = 'https://coastalhomeau.com.au';
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home',  item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: 'Blog',  item: `${siteUrl}/blog` },
+    { '@type': 'ListItem', position: 3, name: title,   item: `${siteUrl}/blog/${post.slug}` },
+  ],
+};
+
 ---
+
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
 {faqs.length > 0 && (
   <script type="application/ld+json" set:html={JSON.stringify({

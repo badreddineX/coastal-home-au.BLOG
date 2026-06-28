@@ -26,6 +26,8 @@ faqs:
 
 The bathroom is one of the most overlooked rooms when it comes to coastal styling â€” but it's also one of the easiest to transform. The right towels, a couple of plants, and some thoughtfully chosen accessories can turn a builder's basic into something that feels like a boutique coastal hotel.
 
+![Coastal bathroom with white subway tiles, rattan mirror, and waffle towels in soft blue and white](https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=900&q=80)
+
 ## The Coastal Bathroom Palette
 
 Keep it calm and natural:
@@ -51,6 +53,8 @@ If you're renovating, tiles are where the coastal bathroom really comes to life:
 - Hexagonal mosaic in white or sandy tone
 - Classic black-and-white hex for a more classic coastal look
 
+![Zellige tile feature wall in soft white with brushed nickel fittings in a coastal bathroom](https://images.unsplash.com/photo-1620626011761-996317702782?auto=format&fit=crop&w=900&q=80)
+
 ## Fixtures and Fittings
 
 Go for brushed nickel or matte black over chrome â€” they feel more considered and less dated. If you have chrome already, don't panic â€” it can still work with the right accessories around it.
@@ -64,6 +68,8 @@ A freestanding bath is the ultimate coastal bathroom statement if your space all
 - **Timber bath mat** â€” looks beautiful and dries faster than standard cotton mats
 - **Woven baskets** for storage â€” replace plastic containers with natural textures
 - **Candles** in coastal scents â€” sea salt, coastal pine, or driftwood
+
+![Bathroom shelf styled with rattan basket, white ceramic soap dish, and a pothos plant](https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=900&q=80)
 
 ## Plants for the Bathroom
 
@@ -84,6 +90,8 @@ The best coastal scents for Australian bathrooms:
 - **White tea and jasmine** â€” lighter and more floral, suits smaller bathrooms
 
 Ecoya, Glasshouse, and Circa Home all make excellent Australian coastal-scented products available at Myer, David Jones, and online.
+
+![Freestanding bath in white stone composite with a coastal candle and timber bath tray](https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?auto=format&fit=crop&w=900&q=80)
 
 ## The Budget Coastal Bathroom: Start Here
 

@@ -26,6 +26,8 @@ faqs:
 
 If there's one thing that defines Australian outdoor entertaining, it's the BBQ. It's where we gather, where the stories get told, and where the weekend actually begins. Getting your BBQ area right is the single highest-impact upgrade you can make to your outdoor space.
 
+![Outdoor BBQ kitchen with stone benchtop, built-in Weber, and bar fridge under a covered pergola](https://images.unsplash.com/photo-1534361960057-19f073d17f6c?auto=format&fit=crop&w=900&q=80)
+
 ## Types of Outdoor BBQ Setups
 
 ### The Freestanding BBQ with a Prep Zone
@@ -52,6 +54,8 @@ Essential elements:
 
 Pizza ovens have exploded in popularity in Australian backyards. A wood-fired pizza oven creates an incredible social focal point and opens up a whole new world of outdoor cooking â€” not just pizza but bread, slow-cooked meats, and roasted vegetables.
 
+![Built-in outdoor kitchen with bluestone benchtop, sink, and outdoor bar fridge in an Australian backyard](https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=900&q=80)
+
 ## Layout and Positioning
 
 Position your BBQ area:
@@ -68,6 +72,8 @@ Position your BBQ area:
 - **A hose connection** nearby for easy clean-up
 - **Splashback** behind the BBQ in tile or stainless steel to protect the wall
 
+![Outdoor pizza oven with wood stacked beside it and a gathering of friends around a backyard entertaining area](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+
 ## Styling the BBQ Zone
 
 A functional BBQ area and a beautiful one are not the same thing. The styling layer is what takes it from practical to impressive:
@@ -76,6 +82,8 @@ A functional BBQ area and a beautiful one are not the same thing. The styling la
 - **Pot herbs** on the bench â€” fresh rosemary, thyme, and basil within reach of the grill
 - **Outdoor-rated pendant light** directly over the cooking surface â€” you need task lighting and it looks great
 - **A chalkboard or tile menu panel** â€” a fun touch for frequent entertainers
+
+![Styled BBQ zone with splashback tile, pot herbs on the bench, and outdoor pendant light overhead](https://images.unsplash.com/photo-1565608438257-fac3c27bdbdb?auto=format&fit=crop&w=900&q=80)
 
 ## Australian BBQ Brands Worth Knowing
 

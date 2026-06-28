@@ -26,6 +26,8 @@ faqs:
 
 Your backyard is your most underutilised space. Most Australians have more outdoor space than they realise â€” they just haven't organised it into something they want to actually spend time in. Good landscaping changes that.
 
+![Well-designed Australian backyard with defined zones — paving, garden beds, and lawn](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
+
 ## Start With a Plan
 
 Before you spend a dollar, sketch your backyard and define the zones you want:
@@ -49,6 +51,8 @@ The ground is the largest surface in your backyard â€” getting it right mat
 
 Consider a combination: paving in the entertaining zone, lawn or turf in the play area, garden beds around the perimeter.
 
+![Sandstone paving with timber deck edge and coastal garden beds in an Australian backyard](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
+
 ## Plants: Go Native First
 
 Australian native plants are the smartest choice for most backyards:
@@ -69,6 +73,8 @@ A curved garden bed looks far more natural and considered than a straight-edged 
 
 Mulch heavily â€” it suppresses weeds, retains moisture, and makes the whole garden look cared for with minimal effort.
 
+![Lomandra and coastal grasses in curved garden beds with steel edging in an Australian garden](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
+
 ## Water Features
 
 A simple water feature adds an unexpected layer to backyard landscaping â€” the sound of moving water is genuinely calming and masks street noise better than any fence.
@@ -88,6 +94,8 @@ Good landscape lighting transforms your backyard after dark:
 - **Step lights** if you have level changes
 
 Solar-powered options have improved enormously â€” Bunnings now carries excellent ranges that look good and actually work.
+
+![Backyard with solar path lights along garden edge and string lights overhead in the evening](https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=80)
 
 ## The Weekend DIY Approach
 
