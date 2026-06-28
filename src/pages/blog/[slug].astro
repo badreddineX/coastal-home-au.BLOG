@@ -126,7 +126,7 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
           <nav class="toc-mobile" aria-label="Table of contents">
             <details>
               <summary class="toc-mobile-summary">
-                <span>In this article</span>
+                <span>Table of Contents</span>
                 <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" width="14" height="14">
                   <path d="M5 7l5 5 5-5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
                 </svg>
@@ -173,10 +173,10 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
       <!-- Sticky sidebar -->
       <aside class="post-sidebar">
 
-        <!-- "In this article" TOC -->
+        <!-- "Table of Contents" TOC -->
         {tocHeadings.length > 0 && (
           <nav class="sidebar-toc" aria-label="Table of contents">
-            <h2 class="sidebar-toc-heading">In this article</h2>
+            <h2 class="sidebar-toc-heading">Table of Contents</h2>
             <ol class="sidebar-toc-list">
               {tocHeadings.map(h => (
                 <li class={h.depth === 3 ? 'toc-sub' : ''}>
@@ -301,43 +301,63 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
 
 /* Mobile TOC */
 .toc-mobile {
-  border: 1px solid var(--color-border);
+  border-radius: 8px;
   margin: 0 0 2rem;
   display: block;
+  overflow: hidden;
+  background: #EDE5D8;
 }
 .toc-mobile-summary {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 16px;
+  padding: 14px 20px;
   cursor: pointer;
   list-style: none;
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.1em;
   color: var(--color-heading);
+  background: #DDD0BC;
 }
 .toc-mobile-summary::-webkit-details-marker { display: none; }
-.toc-mobile-summary svg { color: var(--color-primary); transition: transform 0.2s; }
+.toc-mobile-summary svg { color: var(--color-heading); transition: transform 0.2s; }
 details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
 .toc-mobile-list {
-  padding: 8px 16px 16px 32px;
+  padding: 12px 20px 18px 20px;
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  border-top: 1px solid var(--color-border);
-  background: var(--color-surface);
+  gap: 4px;
+  counter-reset: toc-counter;
+}
+.toc-mobile-list li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.toc-mobile-list li::before {
+  content: counter(toc-counter) ".";
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  min-width: 18px;
+  padding-top: 6px;
+  flex-shrink: 0;
 }
 .toc-mobile-list a {
   font-size: 0.875rem;
-  color: var(--color-text-muted);
+  color: var(--color-heading);
   text-decoration: none;
+  padding: 5px 0;
+  line-height: 1.4;
   transition: color var(--transition);
 }
-.toc-mobile-list a:hover { color: var(--color-primary); }
+.toc-mobile-list a:hover { color: #8B6914; text-decoration: none; }
 
 @media (min-width: 1024px) {
   .toc-mobile { display: none; }
@@ -427,39 +447,58 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
 
 /* Sidebar TOC */
 .sidebar-toc {
-  border: 1px solid var(--color-border);
-  padding: 24px;
-  background: var(--color-bg);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #EDE5D8;
 }
 .sidebar-toc-heading {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.72rem;
   color: var(--color-heading);
-  margin: 0 0 16px 0;
-  letter-spacing: 0.01em;
+  margin: 0;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background: #DDD0BC;
+  padding: 16px 20px;
 }
 .sidebar-toc-list {
   list-style: none;
-  padding: 0;
+  padding: 14px 20px 18px 20px;
   margin: 0;
   display: flex;
   flex-direction: column;
   gap: 2px;
+  counter-reset: toc-counter;
 }
-.sidebar-toc-list li { margin: 0; }
+.sidebar-toc-list li {
+  margin: 0;
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.sidebar-toc-list li::before {
+  content: counter(toc-counter) ".";
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  min-width: 18px;
+  padding-top: 5px;
+  flex-shrink: 0;
+}
 .sidebar-toc-list a {
   display: block;
   font-size: 0.875rem;
-  color: var(--color-text-muted);
+  color: var(--color-heading);
   text-decoration: none;
-  padding: 5px 0;
-  border-bottom: 1px solid transparent;
+  padding: 4px 0;
   line-height: 1.4;
   transition: color var(--transition);
 }
-.sidebar-toc-list a:hover { color: var(--color-primary); text-decoration: underline; }
-.sidebar-toc-list .toc-sub a { padding-left: 12px; font-size: 0.82rem; }
+.sidebar-toc-list a:hover { color: #8B6914; text-decoration: none; }
+.sidebar-toc-list .toc-sub a { padding-left: 0; font-size: 0.82rem; }
 
 /* Sidebar card */
 .sidebar-card {
