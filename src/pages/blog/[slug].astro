@@ -534,15 +534,15 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
   min-width: 20px;
   flex-shrink: 0;
 }
-.toc-widget__list-item-text {
+:global(.toc-widget__list-item-text) {
   font-size: 0.875rem;
   line-height: 1.5;
-  color: var(--color-heading);
-  text-decoration: none;
+  color: var(--color-heading) !important;
+  text-decoration: none !important;
   transition: color 0.2s;
 }
-.toc-widget__list-item-text:hover { color: var(--color-primary); text-decoration: none; }
-.toc-widget__list-item-text.is-active { color: var(--color-primary); font-weight: 600; }
+:global(.toc-widget__list-item-text:hover) { color: var(--color-primary) !important; text-decoration: none !important; }
+:global(.toc-widget__list-item-text.is-active) { color: var(--color-primary) !important; font-weight: 600; }
 
 /* Sidebar card */
 .sidebar-card {
