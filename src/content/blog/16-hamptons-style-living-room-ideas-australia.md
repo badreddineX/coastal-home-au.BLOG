@@ -1,7 +1,7 @@
 ---
 title: "Hamptons Style Living Room Ideas Australia: 13 Tips That Get the Look Right (2026)"
 description: "I've built a Hamptons living room on the Gold Coast over three years. Here are 13 specific ideas that work — from the right white to the right navy balance — with real AUD prices."
-image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-07-15"
 dateModified: "2026-07-15"
 author: "Sarah Mitchell"

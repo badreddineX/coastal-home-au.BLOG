@@ -1,7 +1,7 @@
 ---
 title: "Small Backyard Entertaining Ideas Australia: 12 Tips That Actually Work (2026)"
 description: "I entertain 12 people regularly in a 6×8m Gold Coast backyard. Here are 12 small backyard entertaining ideas that made it possible — real AUD prices, real results."
-image: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1565608438257-fac3c27bdbdb?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-07-03"
 dateModified: "2026-07-03"
 author: "Sarah Mitchell"

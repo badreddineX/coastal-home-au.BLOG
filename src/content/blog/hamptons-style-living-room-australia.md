@@ -1,7 +1,7 @@
 ---
 title: "Hamptons Style Living Room Ideas for Australian Homes (2026)"
 description: "Achieve the Hamptons look in your Australian living room with these budget-friendly decor ideas. Shop Temple & Webster, Adairs, and IKEA AU for the perfect coastal palette."
-image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-10"
 dateModified: "2026-06-01"
 author: "Sarah Mitchell"

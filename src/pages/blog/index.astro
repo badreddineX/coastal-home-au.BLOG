@@ -34,8 +34,8 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
       <section class="blog-hero">
         <img
           class="blog-hero-bg"
-          src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=80"
-          alt="Australian coastal outdoor living area"
+          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          alt="Australian coastal beach and ocean view"
           width="1600" height="700"
           loading="eager" fetchpriority="high"
         />
@@ -467,14 +467,13 @@ const catFilters   = document.querySelectorAll<HTMLButtonElement>('.cat-filter')
 const postItems    = document.querySelectorAll<HTMLElement>('.post-item');
 const emptyState   = document.getElementById('empty-state') as HTMLElement | null;
 const comingSoon   = document.getElementById('coming-soon') as HTMLElement | null;
-const resultsCount = document.getElementById('results-count') as HTMLElement | null;
 const resetBtn     = document.getElementById('reset-btn') as HTMLButtonElement | null;
 const pagination   = document.getElementById('pagination') as HTMLElement | null;
 const pageNumbers  = document.getElementById('page-numbers') as HTMLElement | null;
 const pagePrev     = document.getElementById('page-prev') as HTMLButtonElement | null;
 const pageNext     = document.getElementById('page-next') as HTMLButtonElement | null;
 
-if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !emptyState || !comingSoon) {
+if (!searchInput || !pagination || !pageNumbers || !pagePrev || !pageNext || !emptyState || !comingSoon || !resetBtn) {
   console.warn('Blog filter: required elements missing');
 }
 
@@ -617,12 +616,8 @@ function applyFilters() {
     matched.forEach((item, i) => { item.hidden = i < start || i >= end; });
   }
 
-  if (emptyState)   emptyState.hidden  = !(searchQuery !== '' && total === 0);
-  if (comingSoon)   comingSoon.hidden  = !(activeCategory !== 'all' && searchQuery === '' && total === 0);
-  if (resultsCount) {
-    resultsCount.hidden = false;
-    resultsCount.textContent = `${total} Article${total !== 1 ? 's' : ''}`;
-  }
+  if (emptyState) emptyState.hidden = !(searchQuery !== '' && total === 0);
+  if (comingSoon) comingSoon.hidden = !(activeCategory !== 'all' && searchQuery === '' && total === 0);
   buildPagination(total);
 }
 
