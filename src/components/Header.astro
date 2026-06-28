@@ -10,13 +10,13 @@ const navLinks = [
 <a href="#main-content" class="skip-link">Skip to main content</a>
 <header class="site-header">
   <div class="header-bar">
-    <div class="container header-inner">
 
-      <a href="/" class="logo" aria-label="Outdoor & Coastal Home Decor">
-        <span class="logo-monogram">O &amp; H</span>
-        <span class="logo-wordmark">Outdoor &amp; Coastal-Home</span>
-      </a>
+    <a href="/" class="logo" aria-label="Outdoor & Coastal Home Decor">
+      <span class="logo-monogram">O &amp; H</span>
+      <span class="logo-wordmark">Outdoor &amp; Coastal-Home</span>
+    </a>
 
+    <div class="header-right">
       <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="main-nav">
         <span></span><span></span><span></span>
       </button>
@@ -41,8 +41,8 @@ const navLinks = [
           </svg>
         </a>
       </nav>
-
     </div>
+
   </div>
 </header>
 
@@ -68,17 +68,23 @@ const navLinks = [
   backdrop-filter: blur(12px);
 }
 
-.header-bar { border-bottom: 1px solid var(--color-border); }
-
-.header-inner {
+.header-bar {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items: stretch;
   height: 72px;
-  padding-left: 0;
+  border-bottom: 1px solid var(--color-border);
 }
 
-/* Logotype — left corner */
+.header-right {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  justify-content: flex-end;
+  padding-right: 24px;
+  position: relative;
+}
+
+/* Logotype — flush left edge */
 .logo {
   display: flex;
   flex-direction: column;
@@ -89,8 +95,6 @@ const navLinks = [
   line-height: 1;
   flex-shrink: 0;
   padding: 0 20px;
-  height: 100%;
-  border-left: 1px solid var(--color-border);
   border-right: 1px solid var(--color-border);
 }
 .logo:hover { text-decoration: none; }
@@ -139,8 +143,8 @@ const navLinks = [
 /* Mobile nav */
 .site-nav {
   display: none;
-  position: absolute;
-  top: 64px;
+  position: fixed;
+  top: 72px;
   left: 0;
   right: 0;
   background: var(--color-bg);
