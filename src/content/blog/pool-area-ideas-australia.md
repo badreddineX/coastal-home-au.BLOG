@@ -48,7 +48,7 @@ Travertine is the gold standard for Australian pool areas. It's naturally non-sl
 
 **Key point:** Large-format travertine pavers start from ~$65–$120 AUD per m2, and sandstone alternatives from ~$45–$90 AUD per m2, both available through [Bunnings](https://www.bunnings.com.au/our-range/garden) or specialist tile suppliers. For a standard 50m2 pool surround, budget ~$3,000–$6,000 AUD for materials plus installation.
 
-[INTERNAL-LINK: pool paving ideas -> /blog/backyard-landscaping-ideas-australia]
+
 
 ---
 
@@ -104,7 +104,7 @@ The golden rules for pool planting: choose evergreens (no seasonal leaf drop), p
 
 **Key point:** All of these plants are available at most [Bunnings](https://www.bunnings.com.au/our-range/garden) locations for $8–$25 AUD per plant. Use large, matching pots around the pool perimeter for a polished look — white or grey rendered pots (~$30–$80 AUD at Bunnings) are the most versatile choice.
 
-[INTERNAL-LINK: backyard planting ideas -> /blog/09-backyard-entertaining-ideas-australia]
+
 
 [IMAGE: Pool area with white pots, agapanthus and coastal grasses along travertine pavers - search: "pool landscaping coastal plants australia"]
 
@@ -152,7 +152,7 @@ A painted white wall behind the pool reflects light back into the water beautifu
 
 **Key point:** An artificial vertical garden panel costs ~$80–$200 AUD per panel at [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Bunnings](https://www.bunnings.com.au/our-range/garden). Timber slatted privacy screens start from ~$60–$150 AUD at Bunnings for a flat-pack version that installs in a weekend.
 
-[INTERNAL-LINK: outdoor privacy ideas -> /blog/15-outdoor-entertaining-area-ideas-australia]
+
 
 ---
 
@@ -172,7 +172,7 @@ The difference between a pool area that looks styled and one that looks lived-in
 
 A consistent material palette across the pool area — the same stone, the same timber finish, the same metal colour in every fixture — creates cohesion. Mismatched metals (chrome fittings next to brass accessories next to stainless fixtures) read as unresolved and busy. Choose one and repeat it.
 
-[PERSONAL EXPERIENCE] I've found that the single addition that generates the most comments from visitors is a large, white ceramic pot with a tall grass planted in each corner of the pool area. It costs under $100 AUD total and creates instant architectural framing. People always ask if a designer did it.
+ I've found that the single addition that generates the most comments from visitors is a large, white ceramic pot with a tall grass planted in each corner of the pool area. It costs under $100 AUD total and creates instant architectural framing. People always ask if a designer did it.
 
 **Key point:** A teak or bamboo drinks tray left on the side table, a good-quality ice bucket, coastal-printed melamine serveware from [Adairs](https://www.adairs.com.au/outdoor/), and a couple of white lanterns with pillar candles (~$15–$30 AUD each from [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/)) are the finishing touches that cost almost nothing and make the entire space look intentional.
 

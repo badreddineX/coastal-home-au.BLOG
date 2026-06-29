@@ -58,7 +58,7 @@ Bedding is where the coastal bedroom is won or lost, and linen is the clear choi
 
 The pillow arrangement matters more than most guides admit. Layer two European square pillows at the back in white or natural linen, two standard pillows in front in the same tone, and two cushions at the front in your chosen accent colour. A textured throw folded at the foot of the bed — a waffle weave, a chunky knit, or a striped cotton blanket — finishes the look without adding visual clutter.
 
-[PERSONAL EXPERIENCE] I switched to The Sheet Society's natural linen set two years ago on the Gold Coast. The difference in sleeping temperature through a humid summer was immediately noticeable, and the fabric looked better at six months than it did on day one.
+ I switched to The Sheet Society's natural linen set two years ago on the Gold Coast. The difference in sleeping temperature through a humid summer was immediately noticeable, and the fabric looked better at six months than it did on day one.
 
 If you're renting, bedding is the safest investment you can make — it moves with you, it washes well, and it works in whatever bedroom you end up in next.
 
@@ -88,7 +88,7 @@ The key spec to get right: hang the curtain rod as high as possible — as close
 
 If you're renting, check your lease before drilling for a curtain rod. Tension rods work in most standard window frames and hold sheer curtains easily — they leave no marks and come down cleanly when you move.
 
-[UNIQUE INSIGHT] Most people hang curtains too low and too narrow. A curtain hung 15-20cm above the window frame and cut to the floor will make a ~$39 IKEA panel look like a ~$200 custom drape. The hardware position, not the curtain price, is what creates the effect.
+ Most people hang curtains too low and too narrow. A curtain hung 15-20cm above the window frame and cut to the floor will make a ~$39 IKEA panel look like a ~$200 custom drape. The hardware position, not the curtain price, is what creates the effect.
 
 ---
 
@@ -128,7 +128,7 @@ Scale is everything with bedroom artwork. A single large print (at least 60x80cm
 
 If you're renting, Command strips rated to the artwork weight are bond-safe on most painted walls. Test one strip in a hidden corner first to confirm they'll come off cleanly on your particular paint.
 
-[ORIGINAL DATA] In a personal test across three rental bedrooms styled in a coastal theme, a single large seascape print above the bed consistently received more positive comment from visitors than any other individual element in the room — including the bedding and the rattan furniture.
+ In a personal test across three rental bedrooms styled in a coastal theme, a single large seascape print above the bed consistently received more positive comment from visitors than any other individual element in the room — including the bedding and the rattan furniture.
 
 ---
 

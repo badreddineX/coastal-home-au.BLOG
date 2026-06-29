@@ -1,7 +1,7 @@
 ---
 title: "Coastal Interior Design Australia: 13 Principles I Apply to Every Room (2026)"
 description: "I've used coastal interior design principles across three Gold Coast homes. Here are 13 rules that work — covering palette, materials, spatial techniques, and styling."
-image: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-07-10"
 dateModified: "2026-07-10"
 author: "Badreddine Br"

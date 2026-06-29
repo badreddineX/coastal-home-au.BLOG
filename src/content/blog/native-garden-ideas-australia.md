@@ -27,7 +27,7 @@ faqs:
 
 I used to think a native garden meant a scrubby patch of gum trees and not much else. I was completely wrong. The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) documents over 25,000 native species suited to Australian garden conditions — from lush rainforest ferns to structural coastal banksias to cheerful flowering groundcovers. My first attempt at a native garden in Queensland looked tired by midsummer because I picked the wrong plants for my soil and skipped mulching. My second attempt, properly planned, barely needed a hose from April through September. This guide covers everything I learned: layout, plant selection, mulching, wildlife attraction, and how to sequence the whole project so it actually gets finished.
 
-[INTERNAL-LINK: related pillar content -> /blog/backyard-landscaping-ideas-australia]
+
 
 ![Established Australian native garden with layered planting, Grevillea and Banksia in full colour](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
 
@@ -67,7 +67,7 @@ Top structural picks for Australian coastal and suburban gardens:
 
 **Key point:** Structural native shrubs cost ~$12-$35 AUD each at [Bunnings](https://www.bunnings.com.au/our-range/garden) or [Garden Express](https://www.gardenexpress.com.au/), which ships nationwide with excellent plant condition guarantees.
 
-[INTERNAL-LINK: native plant garden beds -> /blog/backyard-landscaping-ideas-australia]
+
 
 ---
 
@@ -75,7 +75,7 @@ Top structural picks for Australian coastal and suburban gardens:
 
 The mid-layer is where your garden earns its keep visually. These plants sit between knee and shoulder height and deliver most of the flowers, foliage colour, and movement that make a native garden look alive. Pick at least three to four species with staggered flowering seasons so something is always blooming.
 
-[PERSONAL EXPERIENCE] In my garden, I planted Grevillea 'Moonlight', Kangaroo Paw in red and yellow, and a mid-sized Hakea. Between them, something was flowering in every month of the year. The Kangaroo Paw attracted honeyeaters within the first fortnight after planting, which I hadn't expected.
+ In my garden, I planted Grevillea 'Moonlight', Kangaroo Paw in red and yellow, and a mid-sized Hakea. Between them, something was flowering in every month of the year. The Kangaroo Paw attracted honeyeaters within the first fortnight after planting, which I hadn't expected.
 
 Strong mid-layer choices:
 
@@ -94,7 +94,7 @@ Strong mid-layer choices:
 
 Bare soil between plants is an open invitation for weeds. Native groundcovers solve this beautifully — they're low, spreading, and suited to Australian conditions in a way that most exotic groundcovers simply aren't.
 
-[ORIGINAL DATA] In my 40sqm native garden, replacing bare soil with native groundcovers reduced my weeding time from approximately 45 minutes per week to under 10 minutes per week after one full growing season. The savings in labour alone justified the ~$120 AUD I spent on plants.
+ In my 40sqm native garden, replacing bare soil with native groundcovers reduced my weeding time from approximately 45 minutes per week to under 10 minutes per week after one full growing season. The savings in labour alone justified the ~$120 AUD I spent on plants.
 
 The most reliable Australian native groundcovers:
 
@@ -147,7 +147,7 @@ Group plants with similar water needs together. This sounds simple, but it makes
 
 **Key point:** A basic drip irrigation timer and drip kit from Bunnings costs ~$60-$120 AUD and can reduce hand-watering time to zero once programmed correctly.
 
-[INTERNAL-LINK: waterwise outdoor design -> /blog/09-backyard-entertaining-ideas-australia]
+
 
 ---
 
@@ -164,7 +164,7 @@ The essentials for a wildlife-friendly native garden:
 - **A shallow bird bath:** 3-5cm of water, positioned where cats cannot approach unseen. Clean it twice a week.
 - **No pesticides:** Insecticides kill the prey that insect-eating birds depend on. If your natives are healthy and well-matched to your soil, pest pressure is minimal anyway.
 
-[PERSONAL EXPERIENCE] After my second native garden was established, I counted 11 different bird species visiting within the first year, including Eastern Spinebills and Blue-Faced Honeyeaters I had never seen in the suburb before. The bird bath cost ~$35 AUD from Kmart and is used every single day.
+ After my second native garden was established, I counted 11 different bird species visiting within the first year, including Eastern Spinebills and Blue-Faced Honeyeaters I had never seen in the suburb before. The bird bath cost ~$35 AUD from Kmart and is used every single day.
 
 **Key point:** A terracotta or ceramic bird bath costs ~$25-$80 AUD at [Kmart](https://www.kmart.com.au) or [Temple & Webster](https://www.templeandwebster.com.au/) and is the simplest single step toward making a native garden a genuine wildlife habitat.
 
@@ -174,7 +174,7 @@ The essentials for a wildlife-friendly native garden:
 
 Absolutely. The scale of native planting adapts readily to any size space. Small backyards actually benefit more from a native approach because water is scarce in small soil volumes, and natives are far more forgiving of the heat reflected off fences and paving in compact urban spaces.
 
-[UNIQUE INSIGHT] Most "small garden native plant lists" suggest the same dwarf shrubs in every climate. A more effective approach is to choose one structural statement plant scaled to your boundary height, two mid-layer flowering species with staggered bloom times, and a single groundcover. This three-species rule produces a more cohesive, higher-impact result than filling a small bed with ten different species.
+ Most "small garden native plant lists" suggest the same dwarf shrubs in every climate. A more effective approach is to choose one structural statement plant scaled to your boundary height, two mid-layer flowering species with staggered bloom times, and a single groundcover. This three-species rule produces a more cohesive, higher-impact result than filling a small bed with ten different species.
 
 For small courtyard and terrace gardens, focus on:
 
@@ -225,7 +225,7 @@ Low-phosphorus native fertiliser is important. Most standard garden fertilisers 
 
 ## 12. Sequencing the Project: How to Build a Native Garden Over Time
 
-[ORIGINAL DATA] Based on my own native garden projects in Queensland, the most sustainable approach is to complete one garden bed per season rather than attempting the whole space at once. This staggers costs, allows you to learn from each bed, and means every planting goes in at the optimal autumn-winter establishment window rather than being rushed in summer.
+ Based on my own native garden projects in Queensland, the most sustainable approach is to complete one garden bed per season rather than attempting the whole space at once. This staggers costs, allows you to learn from each bed, and means every planting goes in at the optimal autumn-winter establishment window rather than being rushed in summer.
 
 Most people plan a native garden in full, attempt to install it in a single weekend, run out of energy by mid-afternoon, and end up with half-planted beds that struggle. A staged approach removes all of that pressure.
 

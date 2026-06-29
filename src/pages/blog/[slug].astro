@@ -173,7 +173,7 @@ const breadcrumbSchema = {
         <!-- Author bio -->
         <div class="author-bio">
           <div class="author-bio-logo" aria-hidden="true">
-            <span class="bio-logo-monogram">O &amp; H</span>
+            <span class="bio-logo-initial">B</span>
           </div>
           <div>
             <span class="author-bio-name">{author}</span>
@@ -468,12 +468,13 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
   justify-content: center;
   flex-shrink: 0;
 }
-.bio-logo-monogram {
-  font-family: 'Pinyon Script', cursive;
-  font-size: 1.6rem;
+.bio-logo-initial {
+  font-family: var(--font-heading);
+  font-size: 1.7rem;
+  font-weight: 700;
   color: var(--color-white);
   line-height: 1;
-  letter-spacing: 0.02em;
+  letter-spacing: -0.02em;
 }
 .author-bio-name {
   display: block;

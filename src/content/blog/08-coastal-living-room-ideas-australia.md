@@ -1,7 +1,7 @@
 ---
 title: "Coastal Living Room Ideas Australia: 13 Tips That Transformed My Space (2026)"
 description: "I redesigned our Gold Coast living room from scratch using coastal style principles. Here are the 13 tips that worked — with real AUD prices and honest trade-offs."
-image: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-07-07"
 dateModified: "2026-07-07"
 author: "Badreddine Br"
