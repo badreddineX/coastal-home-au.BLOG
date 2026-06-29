@@ -2,8 +2,8 @@
 title: "Coastal Home Decor on a Budget Australia: 12 Tips Under $150 Each (2026)"
 description: "I transformed my Gold Coast home on a tight budget using these coastal decor strategies. Here are 12 high-impact changes — all under $150 — with real Australian prices."
 image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-13"
-dateModified: "2026-07-13"
+datePublished: "2026-06-06"
+dateModified: "2026-06-06"
 author: "Badreddine Br"
 tags: ["coastal home decor on a budget australia", "budget coastal decor australia", "cheap coastal decor", "coastal decor ideas australia budget", "affordable coastal home australia"]
 category: "Coastal Decor"

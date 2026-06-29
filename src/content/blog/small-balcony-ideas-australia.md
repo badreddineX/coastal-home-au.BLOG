@@ -2,8 +2,8 @@
 title: "Small Balcony Ideas Australia: 12 Ways to Make It Feel Like an Outdoor Room"
 description: "Transform a small Australian apartment balcony into a proper outdoor room. Renter-friendly ideas with AUD prices from Kmart, Temple & Webster, and Bunnings."
 image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-01"
-dateModified: "2026-07-01"
+datePublished: "2026-04-12"
+dateModified: "2026-04-12"
 author: "Badreddine Br"
 tags: ["small balcony ideas australia", "balcony decor australia", "apartment balcony", "outdoor entertaining", "renter friendly"]
 featured: false

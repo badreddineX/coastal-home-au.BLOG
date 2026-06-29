@@ -2,8 +2,8 @@
 title: "Hamptons Style Decor Australia: 13 Tips to Get the Look Right (2026)"
 description: "I've spent three years building a Hamptons-style home on the Gold Coast. Here's what actually works in Australia — with real AUD prices and honest advice on where to save."
 image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-09"
-dateModified: "2026-07-09"
+datePublished: "2026-05-25"
+dateModified: "2026-05-25"
 author: "Badreddine Br"
 tags: ["hamptons style decor australia", "hamptons decor australia", "hamptons interior australia", "hamptons home style", "hamptons look australia"]
 category: "Hamptons Style"

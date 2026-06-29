@@ -2,8 +2,8 @@
 title: "Backyard Entertaining Ideas Australia: 14 Things I Wish I'd Done Sooner (2026)"
 description: "Five years of hosting backyard gatherings on the Gold Coast taught me exactly what works and what doesn't. Here are 14 backyard entertaining ideas — with real AUD prices."
 image: "https://images.unsplash.com/photo-1530062845289-9109b2c9c868?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-08"
-dateModified: "2026-07-08"
+datePublished: "2026-05-22"
+dateModified: "2026-05-22"
 author: "Badreddine Br"
 tags: ["backyard entertaining ideas australia", "backyard entertaining australia", "outdoor backyard ideas", "backyard party ideas australia", "alfresco backyard"]
 category: "Backyard Ideas"

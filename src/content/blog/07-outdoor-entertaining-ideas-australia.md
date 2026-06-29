@@ -2,8 +2,8 @@
 title: "Outdoor Entertaining Ideas Australia: 15 Tips From Someone Who Does It Weekly (2026)"
 description: "I host outdoors almost every weekend on the Gold Coast. Here are 15 outdoor entertaining ideas that actually work in the Australian climate — with AUD prices throughout."
 image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-06"
-dateModified: "2026-07-06"
+datePublished: "2026-05-16"
+dateModified: "2026-05-16"
 author: "Badreddine Br"
 tags: ["outdoor entertaining ideas australia", "outdoor entertaining australia", "alfresco entertaining", "backyard entertaining ideas australia", "outdoor dining australia"]
 category: "Outdoor Entertaining"

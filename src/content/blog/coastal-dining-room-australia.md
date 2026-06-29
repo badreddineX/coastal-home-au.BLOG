@@ -2,8 +2,8 @@
 title: "Coastal Dining Room Australia: 11 Ideas for a Light and Relaxed Space"
 description: "Style a coastal dining room in Australia with the right table, chairs, rattan lighting, colour palette, and textiles. Real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-05"
-dateModified: "2026-07-05"
+datePublished: "2026-06-25"
+dateModified: "2026-06-25"
 author: "Badreddine Br"
 tags: ["coastal dining room australia", "coastal dining room ideas", "rattan pendant light", "coastal home decor"]
 featured: false

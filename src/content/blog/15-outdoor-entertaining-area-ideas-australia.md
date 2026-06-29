@@ -2,8 +2,8 @@
 title: "Outdoor Entertaining Area Ideas Australia: 14 Things That Made Ours Extraordinary (2026)"
 description: "I've designed and refined our Gold Coast outdoor entertaining area over five years. These 14 ideas are what took it from functional to genuinely extraordinary — with real AUD prices."
 image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-14"
-dateModified: "2026-07-14"
+datePublished: "2026-06-09"
+dateModified: "2026-06-09"
 author: "Badreddine Br"
 tags: ["outdoor entertaining area ideas australia", "outdoor entertaining area australia", "alfresco area ideas", "outdoor entertainment area design", "australian alfresco ideas"]
 category: "Outdoor Entertaining"

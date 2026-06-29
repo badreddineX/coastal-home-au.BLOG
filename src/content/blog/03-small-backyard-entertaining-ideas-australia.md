@@ -2,8 +2,8 @@
 title: "Small Backyard Entertaining Ideas Australia: 12 Tips That Actually Work (2026)"
 description: "I entertain 12 people regularly in a 6×8m Gold Coast backyard. Here are 12 small backyard entertaining ideas that made it possible — real AUD prices, real results."
 image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-03"
-dateModified: "2026-07-03"
+datePublished: "2026-05-07"
+dateModified: "2026-05-07"
 author: "Badreddine Br"
 tags: ["small backyard entertaining ideas australia", "small backyard ideas australia", "small outdoor entertaining space", "compact backyard entertaining", "small alfresco ideas"]
 category: "Backyard Ideas"

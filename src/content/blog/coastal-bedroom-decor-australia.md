@@ -2,8 +2,8 @@
 title: "Coastal Bedroom Decor Australia: 11 Ideas That Actually Work (2026)"
 description: "Style a coastal bedroom in Australia with linen bedding, rattan furniture, and the right colour palette. Real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-01"
-dateModified: "2026-07-01"
+datePublished: "2026-04-05"
+dateModified: "2026-04-05"
 author: "Badreddine Br"
 tags: ["coastal bedroom decor australia", "coastal bedroom", "coastal decor", "bedroom ideas australia", "linen bedding"]
 featured: false

@@ -2,8 +2,8 @@
 title: "Australian Home Decor Ideas: 13 Tips That Define the Real Australian Style (2026)"
 description: "I've been decorating Australian coastal homes for eight years. Here's what genuine Australian home decor actually looks like — beyond Pinterest trends and imported aesthetics."
 image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-07-12"
-dateModified: "2026-07-12"
+datePublished: "2026-06-03"
+dateModified: "2026-06-03"
 author: "Badreddine Br"
 tags: ["australian home decor ideas", "australian home decor", "australian interior decor", "australian style interior", "home decor ideas australia"]
 category: "Coastal Decor"
