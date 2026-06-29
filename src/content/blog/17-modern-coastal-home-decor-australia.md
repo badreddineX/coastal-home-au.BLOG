@@ -1,7 +1,7 @@
 ---
 title: "Modern Coastal Home Decor Australia: 13 Ways to Update the Look for 2026"
 description: "Modern coastal is different from the beachy coastal of a decade ago — here's how to achieve the contemporary version in an Australian home, with specific products and real AUD prices."
-image: "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-14"
 dateModified: "2026-06-14"
 author: "Badreddine Br"

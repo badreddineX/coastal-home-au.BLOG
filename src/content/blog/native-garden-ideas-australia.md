@@ -1,7 +1,7 @@
 ---
 title: "Native Garden Ideas Australia: 12 Low-Maintenance Designs That Thrive"
 description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs that thrive in our climate."
-image: "https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-27"
 dateModified: "2026-06-27"
 author: "Badreddine Br"
