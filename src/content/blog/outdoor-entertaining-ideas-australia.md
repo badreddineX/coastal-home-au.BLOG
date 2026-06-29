@@ -7,7 +7,7 @@ dateModified: "2026-06-01"
 author: "Badreddine Br"
 tags: ["outdoor entertaining Australia", "alfresco ideas", "backyard ideas", "coastal decor"]
 category: "Outdoor Entertaining"
-featured: false
+featured: true
 readTime: "9 min read"
 tldr:
   - "19 practical outdoor entertaining ideas suited to Australian homes and climate."

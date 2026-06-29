@@ -7,7 +7,7 @@ dateModified: "2026-07-09"
 author: "Badreddine Br"
 tags: ["hamptons style decor australia", "hamptons decor australia", "hamptons interior australia", "hamptons home style", "hamptons look australia"]
 category: "Hamptons Style"
-featured: false
+featured: true
 readTime: "9 min read"
 tldr:
   - "Hamptons style is coastal elegance — more formal and structured than relaxed beach house, but built on the same white, navy, and natural palette."

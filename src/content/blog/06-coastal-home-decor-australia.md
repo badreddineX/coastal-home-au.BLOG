@@ -7,7 +7,7 @@ dateModified: "2026-07-05"
 author: "Badreddine Br"
 tags: ["coastal home decor", "coastal decor australia", "coastal style home", "beach house decor", "coastal interior australia"]
 category: "Coastal Decor"
-featured: false
+featured: true
 readTime: "10 min read"
 tldr:
   - "Coastal home decor is built on four things: a warm light palette, natural materials, ocean-inspired accents, and a lived-in ease."

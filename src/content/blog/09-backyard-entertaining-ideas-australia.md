@@ -7,7 +7,7 @@ dateModified: "2026-07-08"
 author: "Badreddine Br"
 tags: ["backyard entertaining ideas australia", "backyard entertaining australia", "outdoor backyard ideas", "backyard party ideas australia", "alfresco backyard"]
 category: "Backyard Ideas"
-featured: false
+featured: true
 readTime: "9 min read"
 tldr:
   - "The best backyard entertaining spaces have three distinct zones: dining, lounge, and BBQ/prep."

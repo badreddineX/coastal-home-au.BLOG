@@ -7,7 +7,7 @@ dateModified: "2026-06-01"
 author: "Badreddine Br"
 tags: ["backyard landscaping australia", "australian garden ideas", "coastal garden", "backyard ideas"]
 category: "Backyard Ideas"
-featured: false
+featured: true
 readTime: "9 min read"
 tldr:
   - "Australian native plants are the smartest starting point — drought tolerant and beautiful."

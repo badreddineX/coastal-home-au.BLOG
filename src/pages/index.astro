@@ -9,8 +9,8 @@ import '../styles/global.css';
 const allPosts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
-const featured = allPosts.slice(0, 6);
-const latest   = allPosts.slice(6, 10);
+const featured = allPosts.filter(p => p.data.featured === true).slice(0, 6);
+const latest   = allPosts.filter(p => !p.data.featured).slice(0, 4);
 
 function fmtDate(d: string) {
   return new Date(d).toLocaleDateString('en-AU', { day: 'numeric', month: 'short', year: 'numeric' });
