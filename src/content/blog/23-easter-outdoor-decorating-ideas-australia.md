@@ -1,6 +1,6 @@
 ---
-title: "Easter Outdoor Decorating Ideas Australia: 12 Tips for a Beautiful Autumn Alfresco (2026)"
-description: "Easter in Australia is a beautiful autumn gathering. Here are 12 outdoor decorating ideas that suit the season — fresh flowers, earthy tones, and relaxed alfresco styling with real AUD prices."
+title: "Easter Outdoor Decor Australia: 12 Alfresco Ideas"
+description: "Easter in Australia is a beautiful autumn gathering. Here are 12 outdoor decorating ideas — fresh flowers, earthy tones, and relaxed alfresco styling. AUD prices."
 image: "https://images.unsplash.com/photo-1490818387583-1baba5e638af?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-15"
 dateModified: "2026-02-15"

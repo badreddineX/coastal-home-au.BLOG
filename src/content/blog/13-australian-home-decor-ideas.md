@@ -1,6 +1,6 @@
 ---
 title: "Australian Home Decor Ideas: 13 Ways to Own the Local Style"
-description: "Australian home decor that goes beyond coastal clichés — native timbers, indigenous influences, bush-meets-coast materials, and a style that is genuinely local. Real AUD prices."
+description: "Australian home decor beyond coastal clichés — native timbers, indigenous influences, bush-meets-coast materials, and a style that's genuinely local. Real AUD prices."
 image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-03"
 dateModified: "2026-06-03"

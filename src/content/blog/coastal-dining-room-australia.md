@@ -1,6 +1,6 @@
 ---
-title: "Coastal Dining Room Australia: 11 Ideas for a Light and Relaxed Space"
-description: "Style a coastal dining room in Australia with the right table, rattan pendant lighting, and colour palette. Real AUD prices from Australian retailers including Temple and Webster."
+title: "Coastal Dining Room Australia: 11 Light, Relaxed Ideas"
+description: "Style a coastal dining room in Australia with the right table, rattan pendant lighting, and colour palette. AUD prices from retailers including Temple and Webster."
 image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-25"
 dateModified: "2026-06-25"

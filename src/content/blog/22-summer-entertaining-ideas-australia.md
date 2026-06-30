@@ -1,6 +1,6 @@
 ---
-title: "Summer Entertaining Ideas Australia: 13 Menu and Hosting Tips"
-description: "The Australian summer lunch and dinner party — menu ideas, grazing tables, drink pairings, and hosting flow that actually works outdoors. Personal tips with AUD costs."
+title: "Summer Entertaining Ideas Australia: Hosting Tips"
+description: "The Australian summer lunch and dinner party — menu ideas, grazing tables, drink pairings, and hosting flow that works outdoors. Personal tips with AUD costs."
 image: "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-22"
 dateModified: "2026-06-22"

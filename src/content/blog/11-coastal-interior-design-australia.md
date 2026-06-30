@@ -1,6 +1,6 @@
 ---
 title: "Coastal Interior Design Principles Australia: 13 Rules"
-description: "The 13 design principles behind Australian coastal interiors — spatial rules, material logic, and colour theory that professional designers use. No shopping list, pure technique."
+description: "The 13 design principles behind Australian coastal interiors — spatial rules, material logic, and colour theory that professional designers use. Pure technique."
 image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-28"
 dateModified: "2026-05-28"

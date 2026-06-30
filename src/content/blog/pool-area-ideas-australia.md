@@ -1,5 +1,5 @@
 ---
-title: "Pool Area Ideas Australia: 12 Ways to Style Your Backyard Pool"
+title: "Pool Area Ideas Australia: Style Your Backyard Pool"
 description: "Transform your Australian backyard pool area with 12 styling ideas — pavers, sun loungers, shade, plants, and lighting. Real AUD prices and specific product picks included."
 image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-22"

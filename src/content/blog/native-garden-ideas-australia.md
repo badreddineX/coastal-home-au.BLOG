@@ -1,6 +1,6 @@
 ---
-title: "Native Garden Ideas Australia: 12 Low-Maintenance Designs That Thrive"
-description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs. Thrive in our climate with real AUD prices from Bunnings."
+title: "Native Garden Ideas Australia: 12 Designs That Thrive"
+description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs. Real AUD prices from Bunnings included."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-27"
 dateModified: "2026-06-27"

@@ -1,6 +1,6 @@
 ---
 title: "Coastal Bathroom Decor Ideas for Australian Homes (2026)"
-description: "Transform your Australian bathroom into a coastal retreat with natural textures, soft blues, and rattan accents. Renter-friendly ideas with real AUD prices from local retailers."
+description: "Transform your bathroom into a coastal retreat with natural textures, soft blues, and rattan accents. Renter-friendly Australian ideas with real AUD prices."
 image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-02"
 dateModified: "2026-06-01"

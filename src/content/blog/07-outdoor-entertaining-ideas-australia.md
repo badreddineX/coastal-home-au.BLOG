@@ -1,6 +1,6 @@
 ---
 title: "Outdoor Entertaining Ideas Australia: 15 Proven Tips"
-description: "I host outdoors almost every weekend on the Gold Coast. Here are 15 outdoor entertaining ideas that actually work in the Australian climate — with AUD prices throughout."
+description: "I host outdoors every weekend on the Gold Coast. Here are 15 outdoor entertaining ideas that actually work in the Australian climate — AUD prices included."
 image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-16"
 dateModified: "2026-05-16"

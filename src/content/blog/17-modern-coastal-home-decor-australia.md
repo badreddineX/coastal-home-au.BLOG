@@ -1,5 +1,5 @@
 ---
-title: "Modern Coastal Home Decor Australia: What Has Changed in 2026"
+title: "Modern Coastal Home Decor Australia: 2026 Trends"
 description: "How Australian coastal decor has evolved in 2026 — what is out, what replaced it, and which new materials and colours define the current look. Trend-forward guide."
 image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-14"

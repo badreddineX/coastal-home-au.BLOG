@@ -1,6 +1,6 @@
 ---
-title: "Coastal Kitchen Decor Australia: 10 Ideas for a Light, Airy Feel"
-description: "Style a coastal kitchen in Australia with the right cabinet colours, hardware, splashbacks, and accessories. Real AUD prices and specific product picks from Australian retailers."
+title: "Coastal Kitchen Decor Australia: 10 Light, Airy Ideas"
+description: "Style a coastal kitchen in Australia with the right cabinet colours, hardware, splashbacks, and accessories. AUD prices and specific product picks from local retailers."
 image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-08"
 dateModified: "2026-04-08"
