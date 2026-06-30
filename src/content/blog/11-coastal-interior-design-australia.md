@@ -1,6 +1,6 @@
 ---
-title: "Coastal Interior Design Australia: 13 Principles"
-description: "I've used coastal interior design principles across three Gold Coast homes. Here are 13 rules that work — covering palette, materials, spatial techniques, and styling."
+title: "Coastal Interior Design Principles Australia: 13 Rules"
+description: "The 13 design principles behind Australian coastal interiors — spatial rules, material logic, and colour theory that professional designers use. No shopping list, pure technique."
 image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-28"
 dateModified: "2026-05-28"
@@ -48,7 +48,7 @@ The first investment in any coastal interior is never furniture — it's removin
 
 ## Tip 2: Apply the Warm White Palette Before Everything Else
 
-Warm white walls are the pre-condition for everything else in coastal interior design. Every natural material — jute, rattan, linen, timber — looks beautiful against warm white. The same materials against cool grey, dark colour, or cream-beige look heavy and confused.
+Warm white walls are the pre-condition for everything else in coastal interior design. Every natural material — jute, rattan, linen, timber — looks beautiful against warm white. The same materials against cool grey, dark colour, or cream-beige look heavy and confused. For a thorough room-by-room breakdown of how to apply this palette, the [coastal home decor Australia](/blog/06-coastal-home-decor-australia) guide covers every space from the living room to the alfresco.
 
 **My palette applied across an entire home:**
 - Walls: Dulux Natural White (all rooms, consistent)
@@ -126,7 +126,7 @@ Australian coastal design has moved away from the high-back sofa and the formal 
 
 ## Tip 9: Design the Kitchen in White and Natural Timber
 
-The coastal kitchen is a white kitchen — white shaker-profile cabinetry, white or stone-look benchtops, white subway tile splashback. The natural timber element: open shelving in light timber, or timber legs on a kitchen island.
+The coastal kitchen is a white kitchen — white shaker-profile cabinetry, white or stone-look benchtops, white subway tile splashback. The natural timber element: open shelving in light timber, or timber legs on a kitchen island. The [Australian coastal colour palette](/blog/australian-coastal-colour-palette) guide goes deeper into how to choose whites, timber tones, and accent shades that work together across the entire home including the kitchen.
 
 **The details that make a coastal kitchen:**
 - Brushed nickel or matte brass hardware on white cabinetry

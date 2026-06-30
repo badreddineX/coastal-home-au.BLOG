@@ -1,6 +1,6 @@
 ---
-title: "Summer Backyard Party Ideas Australia: 13 Best Tips"
-description: "I've hosted summer backyard parties on the Gold Coast for six years. Here are 13 tips that make the difference between a good gathering and an extraordinary one — with real AUD prices."
+title: "Summer Backyard Party Australia: 13 Setup and Styling Tips"
+description: "How to set up and style a summer backyard party in Australia — layout, shade, food stations, drinks, lighting, and decor. Real AUD costs and specific product picks."
 image: "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-18"
 dateModified: "2026-06-18"
@@ -30,7 +30,7 @@ faqs:
 
 Six years of hosting summer backyard parties on the Gold Coast — from intimate dinners for 8 to 50-person summer celebrations — has taught me exactly what makes the difference between a gathering that works and one that's a comfort-management exercise.
 
-[BOM climate data](http://www.bom.gov.au/climate/averages/) shows Australian summer averages 8+ hours of sunshine daily in most capital cities — the backyard is the natural setting for summer entertaining, and getting it right pays off for months.
+[BOM climate data](http://www.bom.gov.au/climate/averages/) shows Australian summer averages 8+ hours of sunshine daily in most capital cities — the backyard is the natural setting for summer entertaining, and getting it right pays off for months. If your outdoor space needs a proper foundation before you host, the [backyard entertaining guide for Australian homes](/blog/09-backyard-entertaining-ideas-australia) covers furniture, shade, and layout decisions in full.
 
 Here are the 13 ideas I return to every year.
 
@@ -67,6 +67,8 @@ The summer party bottleneck that ruins hosts: guests asking for drinks while you
 - 5L glass drinks dispenser ($25–$35 from Kmart) filled with the batch cocktail (Aperol and prosecco punch with ice and orange slices, or a non-alcoholic mint lemonade)
 - 60L Coleman esky ($149 from BCF) packed with ice, beer, wine, and soft drinks
 - A small bucket of ice and tongs for self-service
+
+The BBQ deserves its own planning attention: the [outdoor BBQ area ideas guide for Australian backyards](/blog/outdoor-bbq-area-ideas-australia) covers bench space, brand selection, and layout so the cook can stay part of the gathering.
 
 I fill the esky in the morning. I refill the drinks dispenser once during the party. I don't manage drinks again — and the party is better for it.
 

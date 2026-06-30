@@ -33,7 +33,7 @@ If there's one thing that defines Australian outdoor life, it's the BBQ. It's wh
 
 The first decision shapes everything else. A freestanding BBQ suits renters, smaller yards, and anyone who wants flexibility without committing to a build. A built-in kitchen suits homeowners who entertain regularly and want a permanent outdoor cooking station that adds real property value.
 
-I always recommend starting with a freestanding setup if you're new to outdoor entertaining. You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
+I always recommend starting with a freestanding setup if you're new to [outdoor entertaining](/blog/07-outdoor-entertaining-ideas-australia). You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
 
 **Key point:** A quality four-burner freestanding gas BBQ from [Weber](https://www.weber.com/AU/en/grills/) or [BeefEater](https://www.beefeaterbbq.com.au/) runs ~$700–$2,000 AUD and handles everything a built-in kitchen does for cooking.
 
@@ -67,7 +67,7 @@ For a freestanding setup, a stainless steel outdoor bench from [Bunnings](https:
 
 If you're going the built-in route, the BBQ or pizza oven is the centrepiece. [Barbeques Galore](https://www.barbequesgalore.com.au/) has one of the widest ranges of built-in outdoor kitchen setups in Australia, with both modular cabinetry and custom options.
 
-Pizza ovens have genuinely taken off in Australian backyards, and I understand why. A wood-fired oven creates a social focal point that a gas BBQ simply can't match. It's also surprisingly versatile: bread, slow-cooked lamb shoulder, roasted capsicums. The social ritual of everyone gathering around a glowing oven while it reaches temperature is hard to replicate with anything else.
+Pizza ovens have genuinely taken off in Australian backyards, and I understand why. A wood-fired oven creates a social focal point that a gas BBQ simply can't match. For a similar evening-gathering focal point that extends into cooler months, a [fire pit](/blog/backyard-fire-pit-ideas-australia) is the natural companion to any outdoor BBQ zone. It's also surprisingly versatile: bread, slow-cooked lamb shoulder, roasted capsicums. The social ritual of everyone gathering around a glowing oven while it reaches temperature is hard to replicate with anything else.
 
 **Key point:** A quality freestanding pizza oven like the Ooni Karu or a BeefEater built-in model runs ~$500–$3,500 AUD. Built-in outdoor kitchens with BBQ, sink, and storage start from ~$8,000 AUD installed. Always check with your local council before starting a built-in project involving gas fittings or structural work.
 

@@ -1,6 +1,6 @@
 ---
-title: "Backyard Entertaining Ideas Australia: 14 Best Tips"
-description: "Five years of hosting backyard gatherings on the Gold Coast taught me exactly what works and what doesn't. Here are 14 backyard entertaining ideas — with real AUD prices."
+title: "Backyard Entertaining Zones Australia: 14 Layout Tips"
+description: "How to zone your Australian backyard for entertaining — from shade structures to bar areas, seating zones, and lighting. Real AUD costs for every element included."
 image: "https://images.unsplash.com/photo-1530062845289-9109b2c9c868?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-22"
 dateModified: "2026-05-22"
@@ -64,7 +64,7 @@ Three summers on, the festoon lights are still the element that guests mention f
 
 ## Tip 5: Solve the Shade Problem Properly
 
-Our backyard's western exposure meant it was unusable between 2pm and 6pm in Queensland summer. I tried umbrellas (not stable in the afternoon wind), then a cantilever umbrella (better, but too small for the full dining table footprint), then a 4×3m shade sail from Bunnings ($159, Coolaroo 90% block). The shade sail was the right solution — large enough to cover the dining area, stable in moderate wind, and properly attached to fence posts with stainless marine rope.
+Our backyard's western exposure meant it was unusable between 2pm and 6pm in Queensland summer. I tried umbrellas (not stable in the afternoon wind), then a cantilever umbrella (better, but too small for the full dining table footprint), then a 4×3m shade sail from Bunnings ($159, Coolaroo 90% block). The shade sail was the right solution — large enough to cover the dining area, stable in moderate wind, and properly attached to fence posts with stainless marine rope. If you're considering a permanent covered structure instead, the full guide to [pergola entertaining ideas Australia](/blog/01-pergola-entertaining-ideas-australia) covers every furnishing and shade option for a built pergola.
 
 **Cost comparison:**
 - Standard market umbrella: $99–$299 (too small, not stable in wind)
@@ -100,7 +100,7 @@ The solution: a dedicated cold drinks station in the outdoor area with its own e
 
 The backyard that feels most like a destination — the kind that guests arrive in and immediately say "wow" — is the one where the perimeter is green. Not necessarily landscaped gardens; it can be as simple as large potted plants arranged around the boundary.
 
-I have a row of large potted Lilly Pillies along the back fence (privacy and green volume), three standard olive trees in terracotta pots along the east fence, and a large Frangipani in the corner. Total cost over two years: approximately $380 in plants and pots. The effect: a backyard that feels enclosed, lush, and cared-for.
+I have a row of large potted Lilly Pillies along the back fence (privacy and green volume), three standard olive trees in terracotta pots along the east fence, and a large Frangipani in the corner. Total cost over two years: approximately $380 in plants and pots. The effect: a backyard that feels enclosed, lush, and cared-for. If you want to take the planting further, [outdoor BBQ area ideas Australia](/blog/outdoor-bbq-area-ideas-australia) includes specific planting layouts designed to frame a cooking and dining zone.
 
 ## Tip 10: Add a Misting System for Summer Afternoon Entertaining
 

@@ -1,6 +1,6 @@
 ---
-title: "Outdoor Christmas Entertaining Australia: 12 Backyard Tips"
-description: "I've hosted Christmas outdoors on the Gold Coast for six years running. Here's exactly what makes an Australian backyard Christmas succeed — from shade and food to styling and timing."
+title: "Outdoor Christmas Entertaining Australia: 12 Hosting Tips"
+description: "How to host a backyard Christmas in Australia — managing summer heat, feeding a crowd outdoors, timing, and setup. Personal hosting tips with real AUD costs throughout."
 image: "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-10-15"
 dateModified: "2026-10-15"

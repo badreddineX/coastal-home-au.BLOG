@@ -102,7 +102,7 @@ The room looked immediately better. More edited rooms always do.
 
 The TV unit or sideboard in a coastal living room should disappear rather than compete. White painted timber or pale oak are the two options that work. Dark timber units anchor the room with weight rather than lightness and contradict the airy coastal aesthetic.
 
-I painted our existing dark timber media unit in Dulux Vivid White (chalk paint, no sanding required) in an afternoon. Total cost: $45 for a litre of chalk paint from a local art supplier. The transformation took the unit from the most visually heavy element in the room to something that recedes into the background where it belongs.
+I painted our existing dark timber media unit in Dulux Vivid White (chalk paint, no sanding required) in an afternoon. Total cost: $45 for a litre of chalk paint from a local art supplier. The transformation took the unit from the most visually heavy element in the room to something that recedes into the background where it belongs. For the bedroom version of the same material discipline, [coastal bedroom decor Australia](/blog/coastal-bedroom-decor-australia) covers how to carry pale timber and linen through to a restful sleeping space.
 
 ## Tip 11: Let Natural Light Be the Primary Light Source
 
@@ -118,7 +118,7 @@ The sensory detail that most reinforces a coastal aesthetic without any visual c
 
 The finest coastal living rooms in Australia have direct visual and physical access to the outdoor space. A sliding glass door to the alfresco, open during the day, is the best possible backdrop to a coastal interior — the living room literally extends to the garden or alfresco, and the indoor-outdoor continuity is what the Australian coastal lifestyle is fundamentally about.
 
-If the connection isn't architectural, approximate it: position the sofa to face the garden view rather than the TV, use plants and materials that echo the outside, and if possible, keep outdoor furniture in the same colour palette as the indoor furniture so the transition feels seamless.
+If the connection isn't architectural, approximate it: position the sofa to face the garden view rather than the TV, use plants and materials that echo the outside, and if possible, keep outdoor furniture in the same colour palette as the indoor furniture so the transition feels seamless. The whole-home approach to this aesthetic is covered in [coastal home decor Australia](/blog/06-coastal-home-decor-australia), where the same principles are applied room by room.
 
 ![Australian coastal living room with sliding glass doors open to the alfresco — seamless indoor-outdoor connection](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
 

@@ -1,6 +1,6 @@
 ---
-title: "Rattan and Linen Coastal Decor Australia: 12 Tips"
-description: "Rattan and linen are the two defining materials of Australian coastal decor. I've built our Gold Coast home around both. Here's exactly how to use them — with AUD prices."
+title: "Rattan and Linen Coastal Styling Australia: How to Mix Them"
+description: "How to style rattan and linen together in an Australian coastal home — room compositions, ratios, colour pairings, and the layering order that works every time."
 image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-10"
 dateModified: "2026-05-10"

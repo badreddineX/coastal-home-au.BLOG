@@ -38,7 +38,7 @@ A [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furn
 
 This is non-negotiable and it's the cheapest transformation available in any interior. Our previous wall colour was a warm taupe that looked dated, made the rooms feel smaller than they were, and clashed with every natural material I tried to introduce. One weekend and two tins of Dulux Natural White from Bunnings ($68 each for 4L, covers approximately 12—14 square metres per coat) changed every room.
 
-Before the warm white: the jute rugs looked wrong, the rattan chair looked out of place, the linen curtains didn't read. After: everything cohered.
+Before the warm white: the jute rugs looked wrong, the rattan chair looked out of place, the linen curtains didn't read. After: everything cohered. If you want to understand the complete design system behind this palette, [coastal home decor Australia](/blog/06-coastal-home-decor-australia) covers how to layer every room from the walls outward.
 
 **Budget:** $68–$95 per 4L tin from Bunnings. One bedroom or standard living room: typically 1.5—2 tins for two coats.
 
@@ -99,7 +99,7 @@ I shop op shops monthly. The Southport Vinnies and Broadbeach Salvos have yielde
 
 A large indoor plant in a terracotta pot costs $30–$80 from a nursery and lasts years if well cared for. In terms of visual impact per dollar for coastal home decor, it's in the top five. A mature fiddle leaf fig ($60–$150 depending on size), a golden cane palm ($40–$80), or a monstera ($30–$60) in a terracotta pot ($8–$25 from Bunnings) completes the natural-material story in any room.
 
-Buy plants at Bunnings for the widest range at competitive prices. For statement pieces, a local nursery will have better-quality specimens at comparable prices.
+Buy plants at Bunnings for the widest range at competitive prices. For statement pieces, a local nursery will have better-quality specimens at comparable prices. The kitchen is one of the best rooms for a statement plant — the [coastal kitchen decor Australia](/blog/coastal-kitchen-decor-australia) guide covers plant placement alongside budget-friendly cabinetry and accessory ideas.
 
 ## Tip 10: Use White Ceramic Accessories to Replace Everything Synthetic
 

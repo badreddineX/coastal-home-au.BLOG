@@ -45,7 +45,7 @@ Getting these zones clear on paper costs nothing. Every decision you make after 
 
 The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) documents over 25,000 native species suited to Australian conditions. Many coastal varieties establish in under one season and survive on rainfall alone once their root systems are set, making them far more economical than imported exotic species over a three-to-five year horizon. ([ANPSA](https://anpsa.org.au/), 2025)
 
-In my Queensland garden, I planted Lomandra along the fence line in April and it was thriving without irrigation by November. It's the most forgiving plant I've ever grown.
+In my Queensland garden, I planted Lomandra along the fence line in April and it was thriving without irrigation by November. It's the most forgiving plant I've ever grown. For a dedicated look at native garden planning in Australian coastal conditions, the [native garden ideas guide for Australian homes](/blog/native-garden-ideas-australia) covers species selection, spacing, and soil preparation.
 
 Start with these proven performers:
 
@@ -173,7 +173,7 @@ A landscaper for structural work typically runs ~$450–$800 AUD per day in most
 
 ## 11. Styling the Entertaining Zone: Furniture and Finishing Touches
 
-The physical landscaping sets the stage, but the furniture and accessories make it feel lived-in and worth spending time in. Keep the entertaining zone simple: a table, chairs, and a shade solution are the core.
+The physical landscaping sets the stage, but the furniture and accessories make it feel lived-in and worth spending time in. Keep the entertaining zone simple: a table, chairs, and a shade solution are the core. If your backyard includes or is destined for a pool, the guide to [pool area ideas for Australian homes](/blog/pool-area-ideas-australia) covers decking, furniture, and planting around the water.
 
 For outdoor furniture that handles Australian UV and humidity, look at [Temple & Webster](https://www.templeandwebster.com.au/Outdoor-Furniture-C27170.html) for a wide range at different price points, or [Outdoor Elegance](https://www.outdoorelegance.com.au/) for higher-end teak and aluminium pieces that genuinely last.
 

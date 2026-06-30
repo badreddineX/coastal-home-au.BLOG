@@ -1,6 +1,6 @@
 ---
-title: "Summer Entertaining Ideas Australia: 13 Expert Tips"
-description: "I've been entertaining through Australian summers on the Gold Coast for eight years. Here are 13 ideas that make summer hosting genuinely beautiful and genuinely manageable."
+title: "Summer Entertaining Ideas Australia: 13 Menu and Hosting Tips"
+description: "The Australian summer lunch and dinner party — menu ideas, grazing tables, drink pairings, and hosting flow that actually works outdoors. Personal tips with AUD costs."
 image: "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-22"
 dateModified: "2026-06-22"
@@ -30,7 +30,7 @@ faqs:
 
 The Australian summer is eight months long, depending on where you live. For those of us on the Gold Coast, genuinely warm outdoor entertaining weather runs from October through April. Eight years of working with that window — and making the most of it — has taught me exactly what Australian summer entertaining looks like at its best.
 
-According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March.
+According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March. For the full foundation of how to set up that space year-round, the [outdoor entertaining ideas guide for Australian homes](/blog/07-outdoor-entertaining-ideas-australia) covers furniture, shade, and styling from first principles.
 
 These are the 13 ideas that have defined our summer hosting.
 
@@ -107,7 +107,7 @@ I stopped using elaborate tablescapes three years ago. The simpler the table, th
 
 ## Tip 10: Plan the Evening Transition Deliberately
 
-The summer gathering that stays beautiful after dark is the one where the evening transition was planned. The festoon lights on a timer. The table candles lit when guests move from the starter to the main. The lounge zone ready with cushions and a throw for the after-dinner conversation. The transition from bright afternoon to warm evening to candlelit conversation is the arc of the best Australian summer gatherings.
+The summer gathering that stays beautiful after dark is the one where the evening transition was planned. The festoon lights on a timer. The table candles lit when guests move from the starter to the main. The lounge zone ready with cushions and a throw for the after-dinner conversation. The transition from bright afternoon to warm evening to candlelit conversation is the arc of the best Australian summer gatherings. For inspiration on how to set up that lounge zone properly, the [outdoor lounge ideas guide for Australian homes](/blog/outdoor-lounge-ideas-australia) covers seating, rugs, and shade structures in detail.
 
 ## Tip 11: Make the Pavlova the Summer Centrepiece
 

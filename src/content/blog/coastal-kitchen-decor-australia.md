@@ -25,7 +25,7 @@ faqs:
     a: "Rattan or woven pendant lights above the island or dining table create coastal texture and warmth. Warm white globes (2700K-3000K) make the kitchen feel sun-washed rather than clinical. Under-cabinet strip lighting in warm white adds practical light while maintaining the coastal mood."
 ---
 
-The kitchen is the hardest room to style on a budget because so much of its character is locked into fixed elements — the cabinets, the benchtop, the splashback, the layout. But in my experience working with Australian coastal homes, the gap between a generic builder's kitchen and a genuinely beautiful coastal kitchen is far smaller than most people think. A [Choice.com.au](https://www.choice.com.au/home-improvement/renovating/kitchens/articles/kitchen-renovation-guide) report found that Australians spend an average of $22,000 on a full kitchen renovation — yet many of the most dramatic coastal kitchen transformations I've seen cost under $500 using surface changes, accessories, and lighting alone. Here's exactly how to approach it, whether you're renovating completely or working with what you have.
+The kitchen is the hardest room to style on a budget because so much of its character is locked into fixed elements — the cabinets, the benchtop, the splashback, the layout. But in my experience working with Australian [coastal home decor](/blog/06-coastal-home-decor-australia), the gap between a generic builder's kitchen and a genuinely beautiful coastal kitchen is far smaller than most people think. A [Choice.com.au](https://www.choice.com.au/home-improvement/renovating/kitchens/articles/kitchen-renovation-guide) report found that Australians spend an average of $22,000 on a full kitchen renovation — yet many of the most dramatic coastal kitchen transformations I've seen cost under $500 using surface changes, accessories, and lighting alone. Here's exactly how to approach it, whether you're renovating completely or working with what you have.
 
 > **Key Takeaways**
 > - Full kitchen renovations average $22,000 in Australia ([Choice.com.au](https://www.choice.com.au/home-improvement/renovating/kitchens/articles/kitchen-renovation-guide)), but surface-level changes can transform the coastal feel for under $500
@@ -104,7 +104,7 @@ A rattan pendant adds material warmth and texture to a room that is usually domi
 
 **Key point:** [Temple & Webster](https://www.templeandwebster.com.au/lighting/pendant-lights/) carries rattan pendant lights from ~$59-$249 AUD. [Kmart Australia](https://www.kmart.com.au) stocks more affordable rattan-look shades from ~$19-$49 AUD that serve the same visual function at a lower price point. Pair any pendant with a warm white globe (2700K-3000K) — cool white globes kill the coastal warmth immediately.
 
-The standard kitchen island pendant position is 70-85cm from the benchtop to the bottom of the shade. Two pendants spaced evenly along a standard island look more considered than one large central pendant. If your kitchen has no island, a single rattan pendant over the dining table adjacent to the kitchen does the same coastal work.
+The standard kitchen island pendant position is 70-85cm from the benchtop to the bottom of the shade. Two pendants spaced evenly along a standard island look more considered than one large central pendant. If your kitchen has no island, a single rattan pendant over the [coastal dining room](/blog/coastal-dining-room-australia) table adjacent to the kitchen does the same coastal work.
 
 ---
 

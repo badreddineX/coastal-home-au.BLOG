@@ -64,7 +64,7 @@ Alternative: simple white roller blinds with a white linen curtain layered over 
 
 ## Tip 5: Choose Quality Furniture in a Limited Palette
 
-Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy.
+Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy. For how this applies specifically to the main living space, [Hamptons style living room ideas Australia](/blog/16-hamptons-style-living-room-ideas-australia) walks through sofa placement, rug choice, and furniture arrangement in detail.
 
 **Where I invested:**
 - Sofa: 3.5-seater linen sofa in cream from Freedom ($2,499)
@@ -107,7 +107,7 @@ Hamptons art is framed simply and classically — white frames, dark timber fram
 
 Built-in shelving is the most Hamptons architectural investment possible in a living room. White-painted timber shelves flanking a fireplace or television, styled with books, coastal objects, and plants, are the definitive Hamptons living room background.
 
-**Without built-ins:** A freestanding white bookshelf from IKEA (BILLY unit, $129–$299) painted the same white as the walls and styled with coastal objects creates a convincing Hamptons built-in effect for minimal cost.
+**Without built-ins:** A freestanding white bookshelf from IKEA (BILLY unit, $129–$299) painted the same white as the walls and styled with coastal objects creates a convincing Hamptons built-in effect for minimal cost. The same shelving approach works beautifully in a bedroom — [Hamptons style bedroom Australia](/blog/hamptons-style-bedroom-australia) covers how to carry the shelving, linen, and white palette through to the sleeping space.
 
 ## Tip 11: Use Striped Textiles as the Pattern Signature
 

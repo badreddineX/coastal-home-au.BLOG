@@ -30,7 +30,7 @@ faqs:
 
 I've been building the Hamptons living room in our Gold Coast home for three years — gradually, as budget allowed, and with a clear picture of what I was working toward. The Australian version of Hamptons is not the formal, heavily panelled American original. It's warmer, more relaxed, and more suited to living with.
 
-The Hamptons aesthetic ranks among the most searched interior styles in Australia year after year, per [Domain.com.au research](https://www.domain.com.au/research/) — its clean, coastal confidence resonates with how Australians want to live.
+The Hamptons aesthetic ranks among the most searched interior styles in Australia year after year, per [Domain.com.au research](https://www.domain.com.au/research/) — its clean, coastal confidence resonates with how Australians want to live. If you're building the full look across your home, start with the [complete Hamptons style decor guide for Australia](/blog/10-hamptons-style-decor-australia) for an overview of the colour rules and furniture principles that apply to every room.
 
 Here are the 13 specific ideas that made our living room read as genuinely Hamptons rather than just "white and navy."
 
@@ -76,7 +76,7 @@ The Hamptons living room has a jute, sisal, or natural fibre rug as the floor an
 
 ## Tip 5: Choose a White or Pale Timber Coffee Table
 
-The Hamptons coffee table is either white-painted timber (with turned legs — a classic Hamptons detail) or pale, whitewashed natural timber. Both read as appropriately Hamptons. Dark timber, glass, or industrial metal coffee tables all break the Hamptons palette.
+The Hamptons coffee table is either white-painted timber (with turned legs — a classic Hamptons detail) or pale, whitewashed natural timber. Both read as appropriately Hamptons. Dark timber, glass, or industrial metal coffee tables all break the Hamptons palette. The same palette principles carry directly into a [Hamptons style bedroom in Australia](/blog/hamptons-style-bedroom-australia), where the white-and-natural foundation translates beautifully.
 
 **What I have:** A whitewashed timber coffee table with turned legs from Temple & Webster ($349). It's the most Hamptons piece in the room and one of the most frequently asked about by guests.
 

@@ -25,7 +25,7 @@ faqs:
     a: "Ventilation is the key — run your exhaust fan for at least 15 minutes after a shower. For timber elements like bath mats and shelving, use teak (naturally mould-resistant) and allow them to dry fully between uses. Rattan accessories can be lightly sprayed with white vinegar if mould appears."
 ---
 
-The bathroom is the most overlooked room for coastal styling — and the most renter-friendly room to transform. A [Choice.com.au](https://www.choice.com.au/home-improvement/renovating/bathrooms/articles/bathroom-renovation-guide) bathroom renovation survey found that Australians spend an average of $17,000 on bathroom renovations, but the most impactful coastal bathroom transformations I've seen cost under $300 using accessories alone. I transformed the bathroom in my Gold Coast rental without touching a single tile, and the result looked like a boutique coastal hotel. Here's exactly how to do it.
+The bathroom is the most overlooked room for coastal styling — and the most renter-friendly room to transform. A [Choice.com.au](https://www.choice.com.au/home-improvement/renovating/bathrooms/articles/bathroom-renovation-guide) bathroom renovation survey found that Australians spend an average of $17,000 on bathroom renovations, but the most impactful coastal bathroom transformations I've seen cost under $300 using accessories alone. I transformed the bathroom in my Gold Coast rental without touching a single tile, and the result looked like a boutique coastal hotel. The same palette principles that work here apply throughout the home — the full [coastal home decor guide for Australia](/blog/06-coastal-home-decor-australia) covers every room from the living room to the kitchen. Here's exactly how to do it.
 
 > **Key Takeaways**
 > - The bathroom is the easiest room to style coastally without renovating
@@ -39,7 +39,7 @@ The bathroom is the most overlooked room for coastal styling — and the most re
 
 ## 1. Start With the Colour Palette
 
-Getting the colours right costs nothing and changes everything. A coastal bathroom palette keeps white as the dominant base, layering soft blue or aqua as an accent, sandy beige in textiles and timber, and natural green from plants. Avoid saturated teals or anything too dark — coastal bathrooms should feel like early morning sunlight, not a hotel lobby.
+Getting the colours right costs nothing and changes everything. A coastal bathroom palette keeps white as the dominant base, layering soft blue or aqua as an accent, sandy beige in textiles and timber, and natural green from plants. The same palette logic applies to the [coastal bedroom](/blog/coastal-bedroom-decor-australia) next door — consistent tones across adjoining rooms create a cohesive coastal home. Avoid saturated teals or anything too dark — coastal bathrooms should feel like early morning sunlight, not a hotel lobby.
 
 **Bold key point:** Pale sky blue works harder than any other accent colour in a coastal bathroom. It reads calmer in a small space than deep navy and pairs with everything from chrome fittings to rattan mirrors.
 

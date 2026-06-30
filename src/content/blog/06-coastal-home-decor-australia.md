@@ -62,7 +62,7 @@ Go 200×300cm minimum for a living room, even in a smaller space. The larger sca
 
 Linen in white and natural tones is to coastal decorating what oil paint is to painting — you can technically use something else, but it's not the same. I replaced every cotton cushion cover, every polyester throw, and every non-linen curtain in our home over about 18 months, spending roughly $600 total across The Sheet Society, Adairs, and IKEA AINA for curtains.
 
-The difference isn't subtle. Linen has a natural texture and a slightly rumpled quality that reads instantly as relaxed and coastal. Cotton in the same colour reads as tidy but impersonal.
+The difference isn't subtle. Linen has a natural texture and a slightly rumpled quality that reads instantly as relaxed and coastal. Cotton in the same colour reads as tidy but impersonal. If you prefer a more structured take on the palette, [Hamptons style decor Australia](/blog/10-hamptons-style-decor-australia) uses similar linen tones but pairs them with crisp white trim and classic furniture lines.
 
 ## Tip 4: Add Rattan in One or Two Key Pieces Per Room
 
@@ -118,7 +118,7 @@ I styled our alfresco with an outdoor rug that echoes our indoor jute, outdoor c
 
 The wall art in a coastal home should feel curated rather than purchased. I've built our art collection over five years: a seascape print from a Gold Coast market ($45), a botanical print from Juniper Print Shop ($65), a watercolour commissioned from a local artist ($180), and a framed vintage QANTAS Australia travel poster from an op shop ($8).
 
-The result is a gallery wall with genuine stories behind every piece. You can't buy that quality from a single online shopping session.
+The result is a gallery wall with genuine stories behind every piece. You can't buy that quality from a single online shopping session. For room-specific art ideas, the guide to [coastal bedroom decor Australia](/blog/coastal-bedroom-decor-australia) covers how to apply this same layered approach in a bedroom setting.
 
 ## Tip 11: Remove as Much as You Add
 

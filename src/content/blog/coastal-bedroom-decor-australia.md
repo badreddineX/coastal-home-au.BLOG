@@ -25,7 +25,7 @@ faqs:
     a: "Start with just one rattan piece — a bedside table or a small chair is enough to read as intentionally coastal. Temple & Webster carries rattan bedside tables from ~$89-$199 AUD. Kmart Australia also stocks rattan-look pieces from ~$29-$69 AUD that are genuinely good value."
 ---
 
-I transformed my Gold Coast bedroom into a proper coastal retreat for under $600 — and the biggest lesson was how few things you actually need to change. The right bedding, one piece of rattan, a pair of sheer curtains, and a deliberate colour palette do almost all the work. According to [Domain.com.au property research](https://www.domain.com.au/research/), coastal-styled rooms consistently rank among the most aspirational interior aesthetics searched by Australian homeowners and renters, particularly in Queensland, NSW, and Western Australia. This guide covers every element of coastal bedroom decor in Australia — from the bedding and furniture to the curtains, artwork, and colour palette — with real AUD prices at every step and renter-friendly options throughout.
+I transformed my Gold Coast bedroom into a proper coastal retreat for under $600 — and the biggest lesson was how few things you actually need to change. The right bedding, one piece of rattan, a pair of sheer curtains, and a deliberate colour palette do almost all the work. According to [Domain.com.au property research](https://www.domain.com.au/research/), coastal-styled rooms consistently rank among the most aspirational interior aesthetics searched by Australian homeowners and renters, particularly in Queensland, NSW, and Western Australia. This guide covers every element of coastal bedroom decor in Australia — from the bedding and furniture to the curtains, artwork, and colour palette — with real AUD prices at every step and renter-friendly options throughout. For the adjoining space, the [coastal bathroom decor guide for Australian homes](/blog/coastal-bathroom-decor-australia) applies the same principles to tiles, mirrors, and accessories.
 
 > **Key Takeaways**
 > - Linen bedding is the single highest-impact change: one new set transforms the whole room
@@ -66,7 +66,7 @@ If you're renting, bedding is the safest investment you can make — it moves wi
 
 ## 3. Add a Rattan Bedhead or Rattan Furniture Piece
 
-Rattan is the material that most clearly reads as coastal in an Australian context. It's warm, textural, and it photographs well against white walls without looking try-hard. You don't need multiple rattan pieces to make an impact — one is enough.
+Rattan is the material that most clearly reads as coastal in an Australian context. It's warm, textural, and it photographs well against white walls without looking try-hard. You don't need multiple rattan pieces to make an impact — one is enough. For a broader look at how [rattan furniture](/blog/rattan-furniture-australia) fits into the Australian coastal home, the dedicated rattan guide covers every room and price point.
 
 The rattan bedhead is the highest-impact single piece you can add to a coastal bedroom. It dominates the wall behind the bed and sets the whole tone of the room. Natural rattan or cane-webbing frames in a rounded or arched shape are the most versatile — they suit both classic and contemporary coastal styles.
 

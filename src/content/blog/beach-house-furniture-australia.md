@@ -61,7 +61,7 @@ Linen upholstery breathes in coastal heat, softens beautifully with use, and hol
 
 ## 2. The Rattan Armchair: Texture, Warmth, and Coastal Identity
 
-Every Australian beach house living room needs at least one rattan armchair. It's the piece that immediately signals "coastal home" without trying — and it provides the warm texture that balances the lightness of white walls and linen.
+Every Australian beach house living room needs at least one [rattan](/blog/rattan-furniture-australia) armchair. It's the piece that immediately signals "coastal home" without trying — and it provides the warm texture that balances the lightness of white walls and linen.
 
 ![Rattan armchair with white linen cushion beside a tall indoor plant in a bright coastal Australian living room](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
 
@@ -81,7 +81,7 @@ Natural rattan is the authentic choice for indoor use — it ages beautifully, d
 
 ## 3. The Coastal Dining Table: Pale Timber or Teak for the Win
 
-The dining table is the social centre of a beach house. It handles more practical punishment than any other piece of furniture — sand tracked in on feet, salt spray through open doors, spilled wine during long lunches, and direct coastal humidity every day.
+The [dining room](/blog/coastal-dining-room-australia) table is the social centre of a beach house. It handles more practical punishment than any other piece of furniture — sand tracked in on feet, salt spray through open doors, spilled wine during long lunches, and direct coastal humidity every day.
 
 The wrong material choice here is obvious and expensive. The right choice is almost invisible — because good coastal dining furniture just looks right and keeps looking right for years.
 

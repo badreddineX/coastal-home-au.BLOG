@@ -59,7 +59,7 @@ No outdoor furniture, no lighting, and no food styling compensates for guests si
 - Cantilever umbrella: $249–$799 from Bunnings
 - Louvre pergola: $8,000—$25,000 installed (worth it as a permanent solution)
 
-My solution for our primary dining area: a 4×3m shade sail attached to the pergola posts and one fence post, $159 from Bunnings. Blocks 90% UV and handles Queensland wind better than I expected.
+My solution for our primary dining area: a 4×3m shade sail attached to the [pergola](/blog/01-pergola-entertaining-ideas-australia) posts and one fence post, $159 from Bunnings. Blocks 90% UV and handles Queensland wind better than I expected.
 
 ## Tip 4: Create a Dedicated Cold Drinks Station
 
@@ -105,7 +105,7 @@ The outdoor gatherings that go longest — the ones that start at 5pm and end at
 
 ## Tip 9: Add a Misting System for Summer Afternoon Events
 
-The most frequently praised investment in our outdoor space is a misting system from Bunnings ($79–$149) attached to the pergola perimeter. In the 2—4pm window when Queensland heat peaks, it drops the perceived temperature by 5—8 degrees and makes the alfresco genuinely comfortable.
+The most frequently praised investment in our outdoor space is a misting system from Bunnings ($79–$149) attached to the pergola perimeter. In the 2—4pm window when Queensland heat peaks, it drops the perceived temperature by 5—8 degrees and makes the alfresco genuinely comfortable. For the full backyard setup that surrounds this entertaining area, the [backyard fire pit ideas Australia](/blog/backyard-fire-pit-ideas-australia) guide covers how to extend gathering time into cool winter evenings.
 
 The Bunnings Greenmill misting kit ($79) attaches easily to most pergola or shade sail structures with zip ties and connects to a standard garden tap. Installation takes under an hour.
 

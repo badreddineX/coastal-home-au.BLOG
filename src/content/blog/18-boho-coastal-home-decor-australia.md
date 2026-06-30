@@ -74,13 +74,13 @@ The top rug introduces pattern and colour that a single rug approach doesn't all
 
 ## Tip 5: Collect Vintage Rattan — Don't Just Buy New
 
-Vintage rattan furniture — the kind from the 1970s—1990s with the traditional weave patterns that newer rattan doesn't replicate — is the most distinctive rattan element in a boho coastal interior. A vintage rattan peacock chair, a rattan cabinet with glass doors, or a vintage rattan bar cart introduces both the material and a sense of history that new rattan doesn't have.
+Vintage rattan furniture — the kind from the 1970s—1990s with the traditional weave patterns that newer rattan doesn't replicate — is the most distinctive rattan element in a boho coastal interior. A vintage rattan peacock chair, a rattan cabinet with glass doors, or a vintage rattan bar cart introduces both the material and a sense of history that new rattan doesn't have. For a deeper look at where rattan fits into the broader coastal material palette, the guide to [rattan furniture in Australian coastal homes](/blog/rattan-furniture-australia) covers sizing, placement, and sourcing in detail.
 
 **Where to find vintage rattan in Australia:** Facebook Marketplace is the best source — $30–$200 for excellent pieces that would cost $500+ new. Op shops in coastal cities, particularly in Queensland, NSW, and WA, regularly yield good vintage rattan. Gumtree and eBay are secondary options.
 
 ## Tip 6: Build a Plant Collection — Generously
 
-Boho coastal homes have more plants than pure coastal or Hamptons homes. Not in a controlled, one-plant-per-room way — in a genuinely abundant way, where multiple plants of varying species and sizes create a lush indoor garden quality in the primary living spaces.
+Boho coastal homes have more plants than pure coastal or Hamptons homes. Not in a controlled, one-plant-per-room way — in a genuinely abundant way, where multiple plants of varying species and sizes create a lush indoor garden quality in the primary living spaces. Choosing the right species for each room is covered thoroughly in the guide to [indoor plants for coastal homes in Australia](/blog/indoor-plants-coastal-home-australia), which includes care requirements and pot pairing advice.
 
 **Our current plant collection:**
 - Living room: fiddle leaf fig (2m), monstera, trailing devil's ivy over the bookshelf, a small terracotta pot collection of succulents on the window ledge

@@ -1,6 +1,6 @@
 ---
-title: "Modern Coastal Home Decor Australia: 13 Ways to Update the Look for 2026"
-description: "Modern coastal is different from the beachy coastal of a decade ago — here's how to achieve the contemporary version in an Australian home, with specific products and real AUD prices."
+title: "Modern Coastal Home Decor Australia: What Has Changed in 2026"
+description: "How Australian coastal decor has evolved in 2026 — what is out, what replaced it, and which new materials and colours define the current look. Trend-forward guide."
 image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-14"
 dateModified: "2026-06-14"
@@ -70,13 +70,13 @@ Limewash paint — a traditional finish where a diluted lime solution is applied
 
 ## Tip 6: Choose Rattan in Natural and Honey Tones
 
-Rattan remains in the modern coastal vocabulary, but the 2026 version leans toward natural and honey tones rather than painted white or dark. The natural rattan — the material as it looks without any surface treatment — suits the warmer, earthier modern coastal palette better than white-painted rattan suits the older, cooler coastal style.
+Rattan remains in the modern coastal vocabulary, but the 2026 version leans toward natural and honey tones rather than painted white or dark. The natural rattan — the material as it looks without any surface treatment — suits the warmer, earthier modern [coastal home decor](/blog/06-coastal-home-decor-australia) palette better than white-painted rattan suits the older, cooler coastal style. For a full breakdown of how to build a home around these core materials, the complete coastal home decor guide for Australia covers every room in detail.
 
 **Where this matters:** A natural rattan armchair reads as modern coastal in 2026. A white-painted rattan chair reads as more Hamptons or vintage. The distinction is subtle, but the natural rattan sits more easily alongside stone-look tiles, aged brass, and terracotta pots.
 
 ## Tip 7: Introduce Sage Green as the Primary Accent Colour
 
-Navy was the accent colour of traditional Hamptons-coastal. In 2026 modern coastal, sage green has largely taken this position — it connects to the coastal landscape (the dune grasses, the salt bush, the eucalyptus), reads as distinctly Australian, and sits beautifully against warm white walls and natural timber.
+Navy was the accent colour of traditional Hamptons-coastal. In 2026 modern coastal, sage green has largely taken this position — it connects to the coastal landscape (the dune grasses, the salt bush, the eucalyptus), reads as distinctly Australian, and sits beautifully against warm white walls and natural timber. Choosing the right shades for each room is easier with a reference point like the [Australian coastal colour palette guide](/blog/australian-coastal-colour-palette), which covers how to apply these tones consistently across the whole home.
 
 **How I use sage:**
 - Three sage linen cushions on the sofa (replacing the navy)

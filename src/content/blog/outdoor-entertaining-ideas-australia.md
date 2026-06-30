@@ -37,7 +37,7 @@ Whether you have a sprawling suburban block in Brisbane, a compact terrace in in
 
 The difference between an outdoor area you use once a week and one you use every day comes down to the foundation: level ground, a defined space, and some form of overhead shelter.
 
-If you don't have a covered alfresco area, a shade sail or a freestanding pergola from Bunnings can completely transform an open backyard into a usable, weather-protected entertaining zone. Look for a shade sail with at least 90% UV block — it makes a significant difference in Australian summer conditions.
+If you don't have a covered alfresco area, a shade sail or a freestanding [pergola](/blog/01-pergola-entertaining-ideas-australia) from Bunnings can completely transform an open backyard into a usable, weather-protected entertaining zone. Look for a shade sail with at least 90% UV block — it makes a significant difference in Australian summer conditions.
 
 **Budget option:** A 5x5m shade sail from Bunnings starts at around $150 AUD and can be installed in an afternoon.
 
@@ -125,7 +125,9 @@ All four are available at most Bunnings locations for under $20 AUD per plant.
 
 This is the single outdoor upgrade most Australians haven't yet discovered — and it makes summer entertaining genuinely comfortable rather than something to be endured.
 
-A simple misting system attached to your pergola or shade structure reduces the ambient temperature by 5—10°C on a hot day. Basic kits start at around $100 AUD from Bunnings and are installed in under an hour.
+A simple misting system attached to your pergola or shade structure reduces the ambient temperature by 5-10°C on a hot day. Basic kits start at around $100 AUD from Bunnings and are installed in under an hour.
+
+**Budget option:** The Ozito 10-Nozzle Misting Kit at Bunnings is ~$89 AUD and covers a pergola or shade sail up to 5m wide — one of the best-value summer upgrades available.
 
 ## 10. Create a Dedicated Outdoor Bar Area
 
@@ -151,6 +153,8 @@ Coastal outdoor entertaining doesn't always need bright task lighting. For dinne
 
 Cluster three or five lanterns of different heights on a side table or along the centre of a dining table. Look for lanterns in natural materials — rattan, bamboo, weathered wood — rather than metal, which can feel too formal for a relaxed coastal aesthetic.
 
+**Budget option:** Kmart's rattan and bamboo lantern sets (~$19-$29 AUD each) are excellent value. Temple & Webster carries larger statement lanterns in whitewashed timber from ~$69-$129 AUD.
+
 ## 14. Invest in Quality Outdoor Dinnerware
 
 Melamine dinnerware has come a long way. Modern outdoor melamine looks almost identical to ceramic, is completely unbreakable, and is dishwasher safe. For outdoor entertaining in Australia — where dinner tends to flow into dancing, which tends to flow into someone inevitably knocking things over — this is a practical choice.
@@ -163,25 +167,29 @@ A small pot of herbs close to the BBQ and outdoor kitchen area is both practical
 
 Use terracotta pots for a Hamptons-meets-Mediterranean coastal aesthetic that suits the Australian outdoor environment perfectly.
 
+**Budget option:** A trio of terracotta herb pots from Bunnings (~$5-$12 AUD each) with herb seedlings (~$4-$6 AUD each at Bunnings garden centre) costs under $60 AUD total and looks beautiful within a week.
+
 ![Outdoor dining table styled with native Australian flowers, linen napkins, and candles for an alfresco dinner](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
 
 ## 16. Create an Outdoor Fire Pit or Fireplace Zone
 
 While Australian winters are mild compared to most of the world, coastal evenings in June and July call for some warmth. An outdoor fire pit or portable fireplace extends your outdoor entertaining season through the cooler months.
 
-A simple fire pit bowl from Bunnings starts from $150 AUD. Surround it with deep lounge chairs and add some woollen throw blankets from Adairs, and you have a genuinely beautiful and functional winter entertaining zone.
+A simple fire pit bowl from Bunnings starts from $150 AUD. Surround it with deep [outdoor lounge](/blog/outdoor-lounge-ideas-australia) chairs and add some woollen throw blankets from Adairs, and you have a genuinely beautiful and functional winter entertaining zone.
 
 ## 17. Add a Hammock or Daybed for a Resort Feel
 
 Every great outdoor space needs somewhere to completely relax — not just sit. A hammock strung between two established trees, or a freestanding daybed with a canopy, creates that resort-at-home feeling that makes Australian outdoor living genuinely special.
 
-Temple & Webster carries several beautiful freestanding hammock and daybed options from $350 AUD.
+Temple & Webster carries several beautiful freestanding hammock and daybed options from $350 AUD. For a budget hammock that still looks stylish, Kmart's cotton rope hammock (~$49 AUD) is a genuine bargain — hang it between two posts and pair with an Adairs outdoor throw (~$39 AUD) for a resort-quality corner for under $90 AUD total.
 
 ## 18. Use Colour Strategically in Your Outdoor Cushions and Accessories
 
 The Australian coastal palette doesn't mean everything has to be white and navy. A pop of seafoam green, a terracotta pot, or a sandy beige rug adds warmth and prevents the look from feeling too corporate or showroom-like.
 
 The key is to choose one or two accent colours and repeat them throughout the space — in your cushions, your planters, your lanterns — so the area feels cohesive rather than collected.
+
+**Budget option:** Kmart's seasonal outdoor cushion range (~$12-$19 AUD each) covers the full coastal palette. Adairs outdoor cushion covers start from ~$29 AUD and are a step up in texture and finish for a small price difference.
 
 ## 19. Style Your Table Like You Mean It
 

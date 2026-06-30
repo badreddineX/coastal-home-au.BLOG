@@ -1,6 +1,6 @@
 ---
-title: "Outdoor Patio Decor Australia: 13 Tips to Style It Right"
-description: "I've styled multiple patios on the Gold Coast and learned what actually makes them look beautiful. Here are 13 specific tips for Australian patio decor — with real AUD prices."
+title: "Outdoor Patio Decor Australia: 13 Styling Tips for Any Space"
+description: "How to style an existing outdoor patio in Australia — furniture arrangement, rugs, cushions, plants and lighting. Real AUD prices from local retailers throughout."
 image: "https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-31"
 dateModified: "2026-05-31"
@@ -38,7 +38,7 @@ Here are the 13 things that reliably make the difference between a patio that lo
 
 The patio that looks like a designed space rather than furniture on concrete starts with the floor. If you have bare concrete, aged tiles, or an awkward mix of surfaces, an outdoor rug is the most cost-effective fix. If you have the opportunity to pave or deck, choose large-format tiles or boards — 600×600mm pavers or wider decking boards read as more considered and more contemporary than small-format paving.
 
-A polypropylene outdoor rug from Kmart ($89–$179 for 200×290cm) lays directly over any existing surface and immediately creates the visual foundation for everything else.
+A polypropylene outdoor rug from Kmart ($89–$179 for 200×290cm) lays directly over any existing surface and immediately creates the visual foundation for everything else. If the patio is covered by a [pergola](/blog/01-pergola-entertaining-ideas-australia), the same floor-first principle applies — the rug under the pergola defines the dining zone before any furniture is placed.
 
 ## Tip 2: Lay the Outdoor Rug First, Then Buy Furniture
 
@@ -82,7 +82,7 @@ The combined effect: a patio that feels enclosed and lush rather than exposed an
 
 The patio that functions as an all-day destination — not just a place to eat — has two zones. A dining zone (table and chairs) and a lounge zone (outdoor sofa or armchairs, coffee table, somewhere to be without eating or drinking). Even on a small patio, two armchairs and a low table separated from the dining area by 1.5—2m creates a distinct lounge zone.
 
-Budget lounge zone: two Kmart outdoor rattan armchairs ($149–$199 each) and a small Kmart coffee table ($89). Under $500 and creates an entirely different dynamic for the outdoor space.
+Budget lounge zone: two Kmart outdoor rattan armchairs ($149–$199 each) and a small Kmart coffee table ($89). Under $500 and creates an entirely different dynamic for the outdoor space. For a dedicated look at seating and sofa configurations outdoors, [outdoor lounge ideas Australia](/blog/outdoor-lounge-ideas-australia) covers layout, cushion choices, and material selection for the lounge zone specifically.
 
 ## Tip 7: Style the Table With a Centrepiece That Changes Seasonally
 

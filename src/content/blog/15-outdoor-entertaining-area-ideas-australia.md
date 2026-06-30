@@ -1,6 +1,6 @@
 ---
-title: "Outdoor Entertaining Area Ideas Australia: 14 Tips"
-description: "I've designed and refined our Gold Coast outdoor entertaining area over five years. These 14 ideas are what took it from functional to genuinely extraordinary — with real AUD prices."
+title: "Outdoor Entertaining Area Design Australia: 14 Build Tips"
+description: "How to design and build an outdoor entertaining area in Australia — pergolas, decking, paving, and structure decisions with real AUD costs and builder tips."
 image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-09"
 dateModified: "2026-06-09"
@@ -40,7 +40,7 @@ Here are the 14 things that made the difference.
 
 The outdoor entertaining area decision that determines everything else — including what furniture to buy, what shade solution to install, and what the space can realistically become — is the structural decision: deck or paving? Covered or open?
 
-My recommendation for most Australian outdoor entertaining areas: covered and paved. A concrete or stone-tile paved surface is more durable and lower maintenance than timber decking (which requires annual oiling and eventually boards replacement). A covered pergola or louvre system makes the space usable year-round, including through the Queensland wet season and the summer heat peak.
+My recommendation for most Australian outdoor entertaining areas: covered and paved. A concrete or stone-tile paved surface is more durable and lower maintenance than timber decking (which requires annual oiling and eventually boards replacement). A covered [pergola](/blog/01-pergola-entertaining-ideas-australia) or louvre system makes the space usable year-round, including through the Queensland wet season and the summer heat peak.
 
 If you're planning a new outdoor entertaining area and can afford only one structural investment: prioritise the roof over the furniture. You can use inexpensive furniture in a covered space indefinitely. The best furniture in an uncovered Queensland summer is frequently unusable.
 
@@ -104,7 +104,7 @@ Guests self-serve from the drinks station. The dispenser is refilled once during
 
 ## Tip 9: Plant the Perimeter for Enclosure and Lushness
 
-The outdoor entertaining area that feels like a destination rather than an exposure has a green perimeter. Even without landscaping — just large potted plants arranged along the fences and boundaries — the enclosed, lush quality of a well-planted outdoor space changes the experience of being in it.
+The outdoor entertaining area that feels like a destination rather than an exposure has a green perimeter. Even without landscaping — just large potted plants arranged along the fences and boundaries — the enclosed, lush quality of a well-planted outdoor space changes the experience of being in it. For a full breakdown of plant selection and garden layout ideas around the entertaining area, the [backyard landscaping ideas Australia](/blog/backyard-landscaping-ideas-australia) guide covers species choice, pot sizing, and placement by climate zone.
 
 **My current perimeter:**
 - Rear fence: six large Lilly Pilly pots creating a dense green hedge

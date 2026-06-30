@@ -1,6 +1,6 @@
 ---
-title: "Hamptons Style Living Room Ideas for Australian Homes (2026)"
-description: "Achieve the Hamptons look in your Australian living room with these budget-friendly decor ideas. Shop Temple & Webster, Adairs, and IKEA AU for the perfect coastal palette."
+title: "Hamptons Living Room Furniture Australia: What to Buy"
+description: "The exact furniture pieces for a Hamptons living room in Australia — sofas, coffee tables, rugs, and lighting with real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1617104678098-de229db51175?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-10"
 dateModified: "2026-06-01"

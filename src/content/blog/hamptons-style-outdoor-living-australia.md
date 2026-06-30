@@ -45,7 +45,7 @@ Keep the ratio roughly 70% white, 20% navy, 10% natural. Add any other colour an
 
 ## 2. Does a Pergola Make or Break the Hamptons Alfresco?
 
-Yes — more than any other single element. A white-painted pergola or verandah is the structural foundation of the look. If you're building from scratch, choose a classic colonial profile with simple beam detailing and no fussy ornament. If you're working with what you already have, a fresh coat of white paint on an existing pergola can transform the space in a weekend.
+Yes — more than any other single element. A white-painted [pergola](/blog/01-pergola-entertaining-ideas-australia) or verandah is the structural foundation of the look. If you're building from scratch, choose a classic colonial profile with simple beam detailing and no fussy ornament. If you're working with what you already have, a fresh coat of white paint on an existing pergola can transform the space in a weekend.
 
 **Always check with your local council before erecting any permanent structure.** Most Australian local councils require a development application or at least a building notification for pergolas over a certain size. [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) stocks quality exterior white paint from ~$65–$200 AUD depending on coverage area. Add a ceiling fan in white and you have the bones of something genuinely beautiful.
 
@@ -110,7 +110,7 @@ Structure first, then softness. The classic Hamptons plant is a clipped standard
 
 The mistake I see most often is choosing pots that are too small. The pot should be about a third of the plant's total height. Undersized pots make even beautiful plants look like afterthoughts.
 
-Layer in some coastal natives — lomandra, coastal rosemary, or pig face ground cover in white pots — for a look that's unmistakably Australian beneath the Hamptons overlay.
+Layer in some coastal natives — lomandra, coastal rosemary, or pig face ground cover in white pots — for a look that's unmistakably Australian beneath the Hamptons overlay. If your outdoor space includes a pool, the [pool area ideas guide for Australian homes](/blog/pool-area-ideas-australia) covers the Hamptons-compatible decking, fencing, and furniture options in detail.
 
 ---
 

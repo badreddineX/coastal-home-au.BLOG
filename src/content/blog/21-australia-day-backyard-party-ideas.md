@@ -30,7 +30,7 @@ faqs:
 
 Australia Day on the Gold Coast is consistently 28—36 degrees. Five years of hosting January 26 backyard parties has taught me everything about what makes the day genuinely enjoyable versus what makes it a heat management exercise.
 
-[BOM data](http://www.bom.gov.au/climate/averages/) shows January 26 temperatures average 28–34°C in Australian capitals — which means shade and hydration are the two most important logistics for any Australia Day backyard party.
+[BOM data](http://www.bom.gov.au/climate/averages/) shows January 26 temperatures average 28–34°C in Australian capitals — which means shade and hydration are the two most important logistics for any Australia Day backyard party. For the BBQ planning specifics — which brand, how much bench space, and how to set up a proper cook station — the [outdoor BBQ area ideas guide](/blog/outdoor-bbq-area-ideas-australia) is the place to start.
 
 Here are the 13 tips that changed our Australia Day gatherings.
 
@@ -64,7 +64,7 @@ Our cricket setup: the tape ball and coloured stumps from Kmart, the rules that 
 
 ## Tip 4: Set Up the BBQ as the Party Centrepiece
 
-Australia Day is fundamentally a BBQ event. The BBQ setup should be treated as a centrepiece, not an afterthought: the BBQ positioned where the cook can see and be part of the gathering, a prep table beside it with plates, tongs, condiments, and a resting area for cooked meat, and a clear system for keeping the queue moving.
+Australia Day is fundamentally a BBQ event. The BBQ setup should be treated as a centrepiece, not an afterthought: the BBQ positioned where the cook can see and be part of the gathering, a prep table beside it with plates, tongs, condiments, and a resting area for cooked meat, and a clear system for keeping the queue moving. If you want a deeper framework for how the whole outdoor entertaining space should be set up for a big day, the [backyard entertaining ideas guide for Australian homes](/blog/09-backyard-entertaining-ideas-australia) covers furniture, shade, and layout decisions in full.
 
 **The Australia Day BBQ menu I've landed on:**
 - Beef burgers (pre-formed patties, $12–$15 for 10 from a good butcher)

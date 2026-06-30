@@ -87,7 +87,7 @@ If your BBQ is adjacent to the pergola, a dedicated prep table changes how you h
 
 ## Tip 8: Create a Dedicated Drinks Station
 
-Designating one corner of the pergola as the drinks station removed the constant bottleneck at the dining table. A small outdoor bar cart or sideboard (Temple & Webster, $180–$480) with an esky below and drinks display on top keeps guests self-sufficient and the host free.
+Designating one corner of the pergola as the drinks station removed the constant bottleneck at the dining table. A small outdoor bar cart or sideboard (Temple & Webster, $180–$480) with an esky below and drinks display on top keeps guests self-sufficient and the host free. For a full [outdoor lounge ideas](/blog/outdoor-lounge-ideas-australia) setup beyond the dining zone, a bar cart pairs well with a separate seating area.
 
 **My setup:** A powder-coated aluminium bar cart ($230, Temple & Webster), a 60L Coleman esky underneath, and a drinks dispenser on top for the batch cocktail. Guests haven't interrupted me at the BBQ since.
 
@@ -119,7 +119,7 @@ The upgrade most commented on by guests was a Sonos Move 2 ($649) on the outdoor
 
 ## Tip 14: Anchor the Style with a Cohesive Palette
 
-The pergola that looks "designed" rather than accumulated is one where all elements share a palette. Mine is: natural timber tones, white/linen cushions, warm white lights, and terracotta pots. Every purchase gets evaluated against this palette. When I stay consistent, the space looks intentional.
+The pergola that looks "designed" rather than accumulated is one where all elements share a palette. Mine is: natural timber tones, white/linen cushions, warm white lights, and terracotta pots. Every purchase gets evaluated against this palette. When I stay consistent, the space looks intentional. If you're planning [backyard landscaping ideas Australia](/blog/backyard-landscaping-ideas-australia) around the pergola, maintaining this palette into the garden planting makes the whole yard feel cohesive.
 
 **The easy palette for Australian pergolas:** White/linen + natural timber + warm brass/gold hardware + terracotta accessories. Everything from Kmart, Temple & Webster, and Bunnings is available in this palette.
 

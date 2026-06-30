@@ -1,6 +1,6 @@
 ---
-title: "Outdoor Christmas Decor Australia: 12 Stunning Tips"
-description: "I've decorated our Gold Coast outdoor space for Christmas six years running. Here are 12 specific outdoor Christmas decor ideas that suit the Australian summer aesthetic — with real AUD prices."
+title: "Outdoor Christmas Decor Australia: 12 Styling Ideas"
+description: "How to style your outdoor space for Christmas in Australia — specific decor ideas, product picks, colour schemes, and lighting. Real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1512389142860-9c449e58a543?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-10-01"
 dateModified: "2026-10-01"
