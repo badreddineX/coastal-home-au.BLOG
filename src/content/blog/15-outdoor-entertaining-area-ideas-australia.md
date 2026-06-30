@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Entertaining Area Ideas Australia: 14 Things That Made Ours Extraordinary (2026)"
+title: "Outdoor Entertaining Area Ideas Australia: 14 Tips"
 description: "I've designed and refined our Gold Coast outdoor entertaining area over five years. These 14 ideas are what took it from functional to genuinely extraordinary — with real AUD prices."
 image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-09"
@@ -162,4 +162,6 @@ The outdoor entertaining area that gets used daily is the most loved room in the
 - [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 - [Pergola Outdoor Entertaining Ideas Australia](/blog/01-pergola-entertaining-ideas-australia)
+- [Outdoor Lounge Ideas Australia](/blog/outdoor-lounge-ideas-australia)
+- [Pool Area Ideas Australia](/blog/pool-area-ideas-australia)
 

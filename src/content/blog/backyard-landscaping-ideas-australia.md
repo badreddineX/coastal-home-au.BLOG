@@ -1,6 +1,6 @@
 ---
 title: "Backyard Landscaping Ideas for Australian Homes (2026)"
-description: "Transform your Australian backyard with smart landscaping ideas that work with our climate — from low-maintenance natives to stunning coastal gardens."
+description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to stunning coastal gardens. Real AUD costs included."
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-03-18"
 dateModified: "2026-06-01"
@@ -43,7 +43,7 @@ Getting these zones clear on paper costs nothing. Every decision you make after 
 
 ## 2. Which Native Plants Work Best for Australian Coastal Gardens?
 
-[CITATION CAPSULE] The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) documents over 25,000 native species suited to Australian conditions. Many coastal varieties establish in under one season and survive on rainfall alone once their root systems are set, making them far more economical than imported exotic species over a three-to-five year horizon. ([ANPSA](https://anpsa.org.au/), 2025)
+The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) documents over 25,000 native species suited to Australian conditions. Many coastal varieties establish in under one season and survive on rainfall alone once their root systems are set, making them far more economical than imported exotic species over a three-to-five year horizon. ([ANPSA](https://anpsa.org.au/), 2025)
 
 In my Queensland garden, I planted Lomandra along the fence line in April and it was thriving without irrigation by November. It's the most forgiving plant I've ever grown.
 
@@ -129,7 +129,7 @@ If you want something more permanent, a simple rill or raised pond is a weekend 
 
 ## 8. Landscape Lighting: What Makes the Biggest Difference After Dark?
 
-[CITATION CAPSULE] According to landscape design research cited by the Australian Institute of Landscape Architects, outdoor lighting can extend usable backyard hours by an estimated 40–60% across autumn and winter months, making it one of the highest-return additions for year-round outdoor living. ([AILA](https://www.aila.org.au/), 2024)
+According to landscape design research cited by the Australian Institute of Landscape Architects, outdoor lighting can extend usable backyard hours by an estimated 40–60% across autumn and winter months, making it one of the highest-return additions for year-round outdoor living. ([AILA](https://www.aila.org.au/), 2024)
 
 Good lighting transforms how a backyard feels at night. It also significantly extends how much you actually use the space, especially through the cooler months.
 
@@ -211,3 +211,5 @@ The [Australian Institute of Landscape Architects](https://www.aila.org.au/) has
 - [Backyard Fire Pit Ideas for Australian Homes](/blog/backyard-fire-pit-ideas-australia)
 - [Outdoor Entertaining Ideas for Australian Backyards](/blog/outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
+- [N](/blog/a)
+- [n](/blog/a)

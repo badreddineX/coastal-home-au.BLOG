@@ -1,6 +1,6 @@
 ---
 title: "Hamptons Outdoor Living: Creating the Perfect Alfresco Space"
-description: "Bring the classic Hamptons aesthetic outdoors with white timber, navy accents, and coastal textures — designed for Australian alfresco living."
+description: "Bring the classic Hamptons aesthetic outdoors with white timber, navy accents, and coastal textures. Designed for Australian alfresco living with real AUD prices throughout."
 image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-03-05"
 dateModified: "2026-06-01"

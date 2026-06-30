@@ -1,5 +1,5 @@
 ---
-title: "Pergola Outdoor Entertaining Ideas Australia: 14 Tips That Actually Work (2026)"
+title: "Pergola Entertaining Ideas Australia: 14 Tips That Work"
 description: "I've had a pergola on the Gold Coast for 4 years. Here are 14 pergola entertaining ideas that transformed my outdoor space — with real AUD prices and Australian retailers."
 image: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-29"

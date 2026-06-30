@@ -1,5 +1,5 @@
 ---
-title: "Coastal Interior Design Australia: 13 Principles I Apply to Every Room (2026)"
+title: "Coastal Interior Design Australia: 13 Principles"
 description: "I've used coastal interior design principles across three Gold Coast homes. Here are 13 rules that work — covering palette, materials, spatial techniques, and styling."
 image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-28"
@@ -174,4 +174,6 @@ Design for life, not for photos. The life version is always more beautiful.
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Modern Coastal Home Decor Ideas for Australia](/blog/17-modern-coastal-home-decor-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
+- [Australian Home Decor Ideas](/blog/13-australian-home-decor-ideas)
+- [Coastal Dining Room Australia](/blog/coastal-dining-room-australia)
 

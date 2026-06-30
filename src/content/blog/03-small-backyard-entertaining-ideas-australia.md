@@ -1,5 +1,5 @@
 ---
-title: "Small Backyard Entertaining Ideas Australia: 12 Tips That Actually Work (2026)"
+title: "Small Backyard Entertaining Australia: 12 Tips That Work"
 description: "I entertain 12 people regularly in a 6×8m Gold Coast backyard. Here are 12 small backyard entertaining ideas that made it possible — real AUD prices, real results."
 image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-07"
@@ -147,4 +147,6 @@ For a permanent solution, a licensed electrician can wire outdoor power points a
 - [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
 - [Pergola Outdoor Entertaining Ideas Australia](/blog/01-pergola-entertaining-ideas-australia)
 - [Outdoor Entertaining Area Ideas Australia](/blog/15-outdoor-entertaining-area-ideas-australia)
+- [S](/blog/m)
+- [s](/blog/m)
 

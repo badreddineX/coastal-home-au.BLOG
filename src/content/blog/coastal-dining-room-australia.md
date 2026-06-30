@@ -1,6 +1,6 @@
 ---
 title: "Coastal Dining Room Australia: 11 Ideas for a Light and Relaxed Space"
-description: "Style a coastal dining room in Australia with the right table, chairs, rattan lighting, colour palette, and textiles. Real AUD prices from Australian retailers."
+description: "Style a coastal dining room in Australia with the right table, rattan pendant lighting, and colour palette. Real AUD prices from Australian retailers including Temple and Webster."
 image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-25"
 dateModified: "2026-06-25"
@@ -42,7 +42,7 @@ The dining room is the room that earns its keep. Every family gathering, every s
 
 ## 1. Choose the Right Table as Your Foundation
 
-[CITATION CAPSULE] According to [Domain.com.au](https://www.domain.com.au/), coastal and Hamptons-style interiors consistently dominate Australia's most-searched home decor styles, with natural timber and white-painted furniture identified as the core aesthetic preference among buyers and renters in coastal market suburbs. The dining table is the focal point around which this style is built. ([Domain.com.au](https://www.domain.com.au/), 2025)
+According to [Domain.com.au](https://www.domain.com.au/), coastal and Hamptons-style interiors consistently dominate Australia's most-searched home decor styles, with natural timber and white-painted furniture identified as the core aesthetic preference among buyers and renters in coastal market suburbs. The dining table is the focal point around which this style is built. ([Domain.com.au](https://www.domain.com.au/), 2025)
 
 The table is the anchor of your dining room, and for a coastal look, the choice is straightforward. Go round or oval rather than rectangular if you have space for it. A round table reads more relaxed, suits casual dining better, and avoids the stiff, formal feeling of a long dining table with assigned seats.
 
@@ -77,7 +77,7 @@ Chair options that work well for an Australian coastal dining room:
 
 If I could make one recommendation for a coastal dining room, it would be this: hang a rattan or woven pendant light directly over the table. Nothing else does as much visual work for the money. A rattan pendant replaces overhead light that is too harsh and too flat with something warm, textured, and unmistakably coastal.
 
-[CITATION CAPSULE] Interior design research published by [Domain.com.au](https://www.domain.com.au/) identifies pendant lighting over a dining table as one of the top five highest-impact styling changes in open-plan living spaces, increasing perceived warmth and cohesion scores in consumer preference surveys. Natural fibre pendants rated highest for coastal-style interiors specifically. ([Domain.com.au](https://www.domain.com.au/), 2025)
+Interior design research published by [Domain.com.au](https://www.domain.com.au/) identifies pendant lighting over a dining table as one of the top five highest-impact styling changes in open-plan living spaces, increasing perceived warmth and cohesion scores in consumer preference surveys. Natural fibre pendants rated highest for coastal-style interiors specifically. ([Domain.com.au](https://www.domain.com.au/), 2025)
 
 The size matters more than most people expect. A pendant that's too small will look lost. As a guide, the pendant shade should be at least 50-60% of the table width. For a 120cm round table, aim for a 60-80cm pendant. Hang it so the bottom of the shade sits approximately 70-80cm above the table surface.
 
@@ -95,7 +95,7 @@ The size matters more than most people expect. A pendant that's too small will l
 
 ## 4. How Do You Get the Coastal Colour Palette Right?
 
-[CITATION CAPSULE] Design research by [Domain.com.au](https://www.domain.com.au/) finds that white or off-white walls combined with natural timber tones and one or two soft blue-green accents produce the strongest positive emotional response in Australian coastal-style dining rooms, scoring higher for both "relaxed" and "inviting" than rooms using deeper or brighter colour palettes. ([Domain.com.au](https://www.domain.com.au/), 2025)
+Design research by [Domain.com.au](https://www.domain.com.au/) finds that white or off-white walls combined with natural timber tones and one or two soft blue-green accents produce the strongest positive emotional response in Australian coastal-style dining rooms, scoring higher for both "relaxed" and "inviting" than rooms using deeper or brighter colour palettes. ([Domain.com.au](https://www.domain.com.au/), 2025)
 
 White or warm white walls are the base. Not grey-white or cool-white — in Australian light, both read cold and clinical. Dulux Antique White USA is the most widely used starting point among Australian interior stylists. Warm white reads warm in morning light and cool and clean in the afternoon, which suits a dining room perfectly.
 

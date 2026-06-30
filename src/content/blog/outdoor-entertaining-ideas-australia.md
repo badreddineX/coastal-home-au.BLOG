@@ -1,6 +1,6 @@
 ---
 title: "19 Outdoor Entertaining Ideas for Australian Backyards (2026)"
-description: "Transform your Australian backyard into the ultimate alfresco entertaining space. Budget-friendly coastal outdoor ideas for every home in Australia."
+description: "Transform your Australian backyard into the ultimate alfresco entertaining space. Budget-friendly coastal outdoor ideas with real AUD prices for every home across Australia."
 image: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-01-15"
 dateModified: "2026-06-01"

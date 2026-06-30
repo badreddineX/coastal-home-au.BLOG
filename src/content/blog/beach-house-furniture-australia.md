@@ -1,6 +1,6 @@
 ---
 title: "Beach House Furniture Australia: 11 Pieces Worth Buying in 2026"
-description: "The 11 furniture pieces every Australian beach house needs — with materials that handle salt air, humidity & harsh UV. Real AUD prices from top Australian retailers."
+description: "The 11 furniture pieces every Australian beach house needs — materials that handle salt air, humidity, and harsh UV. Real AUD prices from top Australian retailers included."
 image: "https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-24"
 dateModified: "2026-06-24"

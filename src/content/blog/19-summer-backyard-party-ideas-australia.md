@@ -1,5 +1,5 @@
 ---
-title: "Summer Backyard Party Ideas Australia: 13 Tips for an Unforgettable Gathering (2026)"
+title: "Summer Backyard Party Ideas Australia: 13 Best Tips"
 description: "I've hosted summer backyard parties on the Gold Coast for six years. Here are 13 tips that make the difference between a good gathering and an extraordinary one — with real AUD prices."
 image: "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-18"

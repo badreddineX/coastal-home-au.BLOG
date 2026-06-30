@@ -1,5 +1,5 @@
 ---
-title: "Backyard Entertaining Ideas Australia: 14 Things I Wish I'd Done Sooner (2026)"
+title: "Backyard Entertaining Ideas Australia: 14 Best Tips"
 description: "Five years of hosting backyard gatherings on the Gold Coast taught me exactly what works and what doesn't. Here are 14 backyard entertaining ideas — with real AUD prices."
 image: "https://images.unsplash.com/photo-1530062845289-9109b2c9c868?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-22"
@@ -148,4 +148,6 @@ The gathering starts as soon as guests arrive, not as soon as I finish setting u
 - [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
+- [Pool Area Ideas Australia](/blog/pool-area-ideas-australia)
+- [Native Garden Ideas Australia](/blog/native-garden-ideas-australia)
 

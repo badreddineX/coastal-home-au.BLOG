@@ -1,6 +1,6 @@
 ---
 title: "Hamptons Style Kitchen Australia: 11 Ideas for a Classic Coastal Look"
-description: "Get the Hamptons kitchen look in Australia with shaker cabinets, subway tiles, stone benchtops & brass hardware. AUD prices from real Australian retailers."
+description: "Get the Hamptons kitchen look in Australia with shaker cabinets, subway tiles, stone benchtops, and brass hardware. Real AUD prices from Australian retailers throughout."
 image: "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-18"
 dateModified: "2026-04-18"
@@ -36,7 +36,6 @@ The Hamptons kitchen is the most coveted kitchen style in Australian homes right
 > - Open shelving styled with white ceramics and timber boards adds the lived-in coastal warmth that closed cabinets can't
 > - A Hamptons kitchen refresh (handles + splashback + benchtop styling) is achievable for under $3,000 AUD without renovation
 
-[IMAGE: Bright Hamptons kitchen with white shaker cabinets, subway tile splashback and brass pendants - search: "hamptons kitchen white shaker cabinets brass australia"]
 
 ---
 
@@ -70,7 +69,6 @@ The standard subway tile is 75x150mm in a glossy white ceramic finish. For a mor
 
 **Key point:** Standard white subway tiles cost ~$25–$60 AUD per m2 from [Bunnings](https://www.bunnings.com.au/our-range/building-hardware/tiles) or tile specialists like Beaumont Tiles. A typical kitchen splashback of 3–5m2 costs ~$300–$600 AUD in tiles alone, plus installation. It's one of the best value-for-impact upgrades in this entire guide.
 
-[IMAGE: White subway tile splashback with shaker cabinets and brass tapware in an Australian kitchen - search: "white subway tile kitchen hamptons splashback"]
 
 ---
 
@@ -106,7 +104,6 @@ The common mistake is over-filling open shelves. The Hamptons approach is restra
 
 **Key point:** Floating timber shelves in raw oak or a whitewashed finish cost ~$80–$200 AUD per shelf from [Bunnings](https://www.bunnings.com.au/our-range/building-hardware) or a local timber supplier. The brackets should be substantial enough to carry weight — avoid flimsy concealed brackets for shelves that will hold ceramics. For renters, a freestanding shelving unit works just as well and requires no wall fixing.
 
-[IMAGE: Open timber shelves with white ceramics, a timber board and small coastal plant in a Hamptons kitchen - search: "open shelving hamptons kitchen styled white ceramics"]
 
 ---
 
@@ -144,7 +141,6 @@ Australian homes benefit from adapting the palette slightly toward the warm side
 
 **Key point:** Sample your chosen whites on the actual wall in your kitchen before committing. The light changes dramatically throughout the day in Australian homes, and a white that looks perfect in the morning can appear yellow by afternoon. [Dulux](https://www.dulux.com.au/) and [Taubmans](https://www.taubmans.com.au/) both offer sample pots from ~$8 AUD.
 
-[IMAGE: Hamptons kitchen colour palette — warm white cabinets, navy island and brass hardware - search: "hamptons kitchen navy island white cabinets australia"]
 
 ---
 

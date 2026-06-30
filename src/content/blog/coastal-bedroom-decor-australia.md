@@ -1,6 +1,6 @@
 ---
 title: "Coastal Bedroom Decor Australia: 11 Ideas That Actually Work (2026)"
-description: "Style a coastal bedroom in Australia with linen bedding, rattan furniture, and the right colour palette. Real AUD prices from Australian retailers."
+description: "Style a coastal bedroom in Australia with linen bedding, rattan furniture, and the right colour palette. Real AUD prices from Kmart, Temple and Webster, and Bunnings."
 image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-05"
 dateModified: "2026-04-05"

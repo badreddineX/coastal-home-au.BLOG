@@ -1,5 +1,5 @@
 ---
-title: "Australian Beach House Decor Ideas: 13 Tips From Someone Who Lives It (2026)"
+title: "Australian Beach House Decor Ideas: 13 Proven Tips"
 description: "I've decorated three coastal homes on the Gold Coast. Here are 13 Australian beach house decor ideas that actually work — real AUD prices, real retailers, no staged perfection."
 image: "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-03"
@@ -163,4 +163,6 @@ I allow myself one "found" piece per room — something with a story that didn't
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
+- [Beach House Furniture Australia](/blog/beach-house-furniture-australia)
+- [Best Indoor Plants for Coastal Homes Australia](/blog/indoor-plants-coastal-home-australia)
 

@@ -1,5 +1,5 @@
 ---
-title: "Coastal Home Decor Australia: 14 Tips That Made My Home Look Like a Magazine (2026)"
+title: "Coastal Home Decor Australia: 14 Design Tips That Work"
 description: "I've been refining the coastal home decor look in our Gold Coast home for 5 years. Here are 14 tips that actually work — with real AUD prices and honest advice."
 image: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-13"
@@ -160,4 +160,8 @@ Rushed coastal decorating shows. The homes where the entire room was purchased f
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
 - [Coastal Home Decor on a Budget Australia](/blog/14-coastal-home-decor-on-a-budget-australia)
+- [Coastal Kitchen Decor Australia](/blog/coastal-kitchen-decor-australia)
+- [Coastal Bathroom Decor Australia](/blog/coastal-bathroom-decor-australia)
+- [Australian Coastal Colour Palette](/blog/australian-coastal-colour-palette)
+- [Beach House Furniture Australia](/blog/beach-house-furniture-australia)
 

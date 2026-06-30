@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Patio Decor Australia: 13 Tips to Style Your Patio Like a Magazine (2026)"
+title: "Outdoor Patio Decor Australia: 13 Tips to Style It Right"
 description: "I've styled multiple patios on the Gold Coast and learned what actually makes them look beautiful. Here are 13 specific tips for Australian patio decor — with real AUD prices."
 image: "https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-31"

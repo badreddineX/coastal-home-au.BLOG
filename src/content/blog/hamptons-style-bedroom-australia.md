@@ -1,6 +1,6 @@
 ---
 title: "Hamptons Style Bedroom Ideas for Australian Homes (2026)"
-description: "Create a dreamy Hamptons bedroom with coastal colours, linen bedding, and timeless furniture — all sourced from Australian retailers."
+description: "Create a dreamy Hamptons bedroom in Australia with coastal colours, linen bedding, and timeless furniture. Sourced from Australian retailers with real AUD prices included."
 image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-18"
 dateModified: "2026-06-01"
@@ -147,3 +147,5 @@ If you're renting, here's the key point: focus on fully removable changes. Beddi
 - [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
 - [Hamptons Outdoor Living: The Perfect Alfresco Space](/blog/hamptons-style-outdoor-living-australia)
 - [Hamptons Style Decor: The Australian Guide](/blog/10-hamptons-style-decor-australia)
+- [H](/blog/a)
+- [h](/blog/a)

@@ -36,7 +36,6 @@ Rattan has had one of the most remarkable design revivals of the past decade in 
 > - The egg chair and pendant light are the two most recognisable rattan pieces in Australian coastal homes
 > - Condition natural rattan twice yearly to prevent cracking in Australia's dry climate
 
-[IMAGE: Bright coastal living room with rattan egg chair, linen sofa and natural timber flooring in an Australian home - search: "rattan egg chair coastal living room australia"]
 
 ---
 
@@ -62,7 +61,6 @@ For a cohesive look, pair rattan with linen and cotton textiles in white, cream,
 
 **Key point:** A quality hanging rattan egg chair with cushion costs ~$250–$800 AUD from [Temple & Webster](https://www.templeandwebster.com.au/furniture/) or [Freedom](https://www.freedom.com.au/furniture/). Budget versions from [Kmart Australia](https://www.kmart.com.au/category/home/furniture/) start from ~$79–$129 AUD for a side chair in a rattan-look material. A rattan pendant light from [IKEA AU](https://www.ikea.com/au/en/cat/pendant-lamps-10732/) starts from ~$39 AUD — one of the best design investments available at that price point.
 
-[IMAGE: Rattan pendant light over a coastal living room with linen sofa and jute rug - search: "rattan pendant light coastal living room"]
 
 ---
 
@@ -92,7 +90,6 @@ For bedside tables, a rattan-woven side table with a small lamp on top is one of
 
 **Key point:** A queen rattan headboard costs ~$200–$600 AUD from [Temple & Webster](https://www.templeandwebster.com.au/bedroom/) or [Adairs](https://www.adairs.com.au/bedroom/). Rattan bedside tables start from ~$80–$250 AUD each. [IKEA AU](https://www.ikea.com/au/en/rooms/bedroom/) carries rattan-look woven baskets that work beautifully as budget bedside alternatives from ~$25–$49 AUD.
 
-[IMAGE: Coastal bedroom with rattan headboard, white linen bedding and rattan pendant bedside lamp - search: "rattan headboard coastal bedroom australia white linen"]
 
 ---
 
@@ -120,7 +117,6 @@ For pool areas and balconies with significant sun exposure, choose PE rattan fur
 
 
 
-[IMAGE: Outdoor PE rattan lounge set with coastal cushions under a pergola in an Australian backyard - search: "outdoor rattan lounge set australia coastal pergola"]
 
 ---
 
@@ -172,7 +168,6 @@ For a boho coastal interpretation — popular in younger Australian interiors �
 
 **Key point:** The single most important styling rule for rattan in Australian homes is to limit it to two or three pieces per room. One rattan pendant, one rattan chair, and one woven basket is a complete rattan moment. Beyond that, the room starts reading as a prop store rather than a home.
 
-[IMAGE: Coastal Australian living room styled with rattan chair, white linen and dried coastal botanicals - search: "coastal boho living room rattan australia dried botanicals"]
 
 ---
 

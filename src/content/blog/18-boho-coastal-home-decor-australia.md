@@ -1,5 +1,5 @@
 ---
-title: "Boho Coastal Home Decor Australia: 12 Tips for the Most Personal Coastal Style (2026)"
+title: "Boho Coastal Home Decor Australia: 12 Styling Tips"
 description: "Boho coastal is the coastal style with the most personality — and the most room for you. Here's how to do it right in an Australian home, with specific ideas and real AUD prices."
 image: "https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-16"
@@ -148,4 +148,6 @@ Follow the principles (warm white base, natural materials, rattan, plants, woven
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Rattan and Linen Coastal Decor Ideas for Australian Homes](/blog/04-rattan-linen-coastal-decor-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
+- [R](/blog/a)
+- [r](/blog/a)
 

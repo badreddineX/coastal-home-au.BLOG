@@ -1,5 +1,5 @@
 ---
-title: "Rattan and Linen Coastal Decor Ideas for Australian Homes: 12 Tips (2026)"
+title: "Rattan and Linen Coastal Decor Australia: 12 Tips"
 description: "Rattan and linen are the two defining materials of Australian coastal decor. I've built our Gold Coast home around both. Here's exactly how to use them — with AUD prices."
 image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-10"
@@ -147,4 +147,6 @@ Rattan and linen are the lead materials; jute and terracotta are the supporting 
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
 - [Boho Coastal Home Decor Ideas for Australian Homes](/blog/18-boho-coastal-home-decor-australia)
+- [Rattan Furniture Australia: The Complete Guide](/blog/rattan-furniture-australia)
+- [Best Indoor Plants for Coastal Homes](/blog/indoor-plants-coastal-home-australia)
 

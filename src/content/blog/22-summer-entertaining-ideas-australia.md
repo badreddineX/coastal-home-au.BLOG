@@ -1,5 +1,5 @@
 ---
-title: "Summer Entertaining Ideas Australia: 13 Tips for the Long Australian Lunch and Beyond (2026)"
+title: "Summer Entertaining Ideas Australia: 13 Expert Tips"
 description: "I've been entertaining through Australian summers on the Gold Coast for eight years. Here are 13 ideas that make summer hosting genuinely beautiful and genuinely manageable."
 image: "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-22"
@@ -143,4 +143,6 @@ The best summer entertaining I've done has been on the days when I sat down at n
 - [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
+- [E](/blog/a)
+- [2](/blog/3)
 

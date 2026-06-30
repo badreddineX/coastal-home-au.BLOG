@@ -1,6 +1,6 @@
 ---
 title: "Indoor Plants for a Coastal Home in Australia: 12 Best Picks"
-description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Real prices from Australian nurseries and retailers."
+description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Real prices from Australian nurseries and retailers included."
 image: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-26"
 dateModified: "2026-06-26"
@@ -42,7 +42,7 @@ I have a complicated relationship with indoor plants. I've killed a cactus. I've
 
 ## 1. Why Coastal Homes Need a Different Approach to Indoor Plants
 
-[CITATION CAPSULE] According to the [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/people-and-communities/regional-population/latest-release), more than 60% of Australians live within 50km of the coastline, meaning the majority of Australian homes experience the specific combination of high humidity, strong UV, salt-laden breezes, and warm ambient temperatures that define coastal interior growing conditions. Plant selection must account for all four factors. ([ABS](https://www.abs.gov.au/), 2024)
+According to the [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/people-and-communities/regional-population/latest-release), more than 60% of Australians live within 50km of the coastline, meaning the majority of Australian homes experience the specific combination of high humidity, strong UV, salt-laden breezes, and warm ambient temperatures that define coastal interior growing conditions. Plant selection must account for all four factors. ([ABS](https://www.abs.gov.au/), 2024)
 
 Coastal homes are not the same environment as suburban inland homes. The humidity is higher, particularly in Queensland, northern NSW, and WA coastal zones. The light is stronger and comes from more angles if you're near the water. Salt air enters through windows and accumulates on leaf surfaces. And the temperature rarely drops low enough to stress tropical plants, which is actually an advantage.
 
@@ -88,7 +88,7 @@ The Peace Lily (Spathiphyllum wallisii) is one of the few indoor plants that flo
 
 Peace Lilies prefer shade to indirect light, which makes them excellent for interior rooms, bathrooms, and spaces without direct sun access. They actively benefit from coastal humidity and will show stress through drooping leaves when they need water -- a clear and reliable signal that most other plants don't give you.
 
-[CITATION CAPSULE] The [ANPSA](https://anpsa.org.au/) and indoor horticulture researchers identify Peace Lilies as among the most effective indoor air-purifying plants, with NASA's Clean Air Study finding that Spathiphyllum removes benzene, formaldehyde, and trichloroethylene from indoor air. This is particularly relevant in newer Australian homes with synthetic building materials and limited ventilation. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
+The [ANPSA](https://anpsa.org.au/) and indoor horticulture researchers identify Peace Lilies as among the most effective indoor air-purifying plants, with NASA's Clean Air Study finding that Spathiphyllum removes benzene, formaldehyde, and trichloroethylene from indoor air. This is particularly relevant in newer Australian homes with synthetic building materials and limited ventilation. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
 **Key point:** Peace Lilies cost ~$15-$35 AUD at [Bunnings](https://www.bunnings.com.au/) or [Flower Power](https://www.flowerpower.com.au/) (NSW). They are among the best-value flowering indoor plants available in Australia.
 
@@ -152,7 +152,7 @@ Nothing says coastal Queensland living room quite like a Golden Cane Palm (Dypsi
 
 Golden Cane Palms need bright indirect light and handle coastal humidity very well. They're one of the few large indoor plants that grows well in the conditions of an Australian coastal home without demanding specialist care. In a north or east-facing corner with good light, they can grow 20-30cm per year.
 
-[CITATION CAPSULE] NASA's Clean Air Study includes Golden Cane Palm among the most effective indoor air-filtering plants, finding that it removes formaldehyde and xylene from indoor air while also raising indoor humidity levels -- beneficial in air-conditioned coastal homes where mechanical cooling can dry indoor air. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
+NASA's Clean Air Study includes Golden Cane Palm among the most effective indoor air-filtering plants, finding that it removes formaldehyde and xylene from indoor air while also raising indoor humidity levels -- beneficial in air-conditioned coastal homes where mechanical cooling can dry indoor air. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
 **Key point:** A medium Golden Cane Palm (80-100cm) from [Flower Power](https://www.flowerpower.com.au/) or a local nursery costs ~$50-$120 AUD. [Bunnings](https://www.bunnings.com.au/) carries smaller starter specimens from ~$25-$45 AUD.
 

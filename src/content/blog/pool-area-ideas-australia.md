@@ -1,6 +1,6 @@
 ---
 title: "Pool Area Ideas Australia: 12 Ways to Style Your Backyard Pool"
-description: "Transform your Australian backyard pool with these 12 styling ideas — pavers, sun loungers, shade, plants, lighting & more. AUD prices included."
+description: "Transform your Australian backyard pool area with 12 styling ideas — pavers, sun loungers, shade, plants, and lighting. Real AUD prices and specific product picks included."
 image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-22"
 dateModified: "2026-04-22"
@@ -36,7 +36,6 @@ According to [Choice.com.au's home improvement research](https://www.choice.com.
 > - Potted plants with low leaf drop add beauty without clogging your pool filter
 > - Outdoor lighting extends the pool area into a proper evening entertaining space for the cost of a string of festoon lights (~$60 AUD)
 
-[IMAGE: Bright Australian backyard pool with travertine pavers, white sun loungers and tropical plants - search: "australia backyard pool travertine pavers"]
 
 ---
 
@@ -72,7 +71,6 @@ Teak is the most beautiful and durable natural option — it's naturally water-r
 
 **Key point:** A quality pair of teak sun loungers costs ~$600–$1,400 AUD from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Outdoor Elegance](https://www.outdoorelegance.com.au/). Powder-coated aluminium pairs start from ~$400–$800 AUD. Buy the best quality you can afford — it genuinely pays off over the long term.
 
-[IMAGE: Teak sun loungers with white cushions beside a blue pool with potted palms - search: "teak sun loungers pool australia"]
 
 ---
 
@@ -106,7 +104,6 @@ The golden rules for pool planting: choose evergreens (no seasonal leaf drop), p
 
 
 
-[IMAGE: Pool area with white pots, agapanthus and coastal grasses along travertine pavers - search: "pool landscaping coastal plants australia"]
 
 ---
 
@@ -140,7 +137,6 @@ If space allows, a full outdoor dining setting under a shade structure alongside
 
 **Key point:** A quality outdoor bar stool set (two stools and a bar table) costs ~$400–$900 AUD from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Freedom](https://www.freedom.com.au/outdoor/). A simple side table for drinks starts from ~$80–$200 AUD at [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/).
 
-[IMAGE: Poolside bar area with white stools, outdoor drinks table and string lights at dusk - search: "poolside bar area australia outdoor"]
 
 ---
 

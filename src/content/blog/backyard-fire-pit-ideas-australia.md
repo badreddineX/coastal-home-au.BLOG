@@ -1,6 +1,6 @@
 ---
 title: "Backyard Fire Pit Ideas for Australian Homes (2026)"
-description: "The best backyard fire pit ideas for Australian homes — from built-in stone fire pits to portable bowls. Create the ultimate evening outdoor space."
+description: "The best backyard fire pit ideas for Australian homes — built-in stone pits to portable bowls. Create the ultimate evening outdoor space with real AUD prices and safety tips."
 image: "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-02-20"
 dateModified: "2026-06-01"

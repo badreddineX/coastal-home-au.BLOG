@@ -1,5 +1,5 @@
 ---
-title: "Australia Day Backyard Party Ideas: 13 Tips for the Perfect January 26 Gathering (2026)"
+title: "Australia Day Backyard Party: 13 Tips for January 26"
 description: "I've hosted Australia Day backyard parties on the Gold Coast for five years. Here are 13 tips that make the day genuinely special — food, styling, games, and keeping everyone cool in January heat."
 image: "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-20"

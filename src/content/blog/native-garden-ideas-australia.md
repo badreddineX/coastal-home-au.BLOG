@@ -1,6 +1,6 @@
 ---
 title: "Native Garden Ideas Australia: 12 Low-Maintenance Designs That Thrive"
-description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs that thrive in our climate."
+description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs. Thrive in our climate with real AUD prices from Bunnings."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-27"
 dateModified: "2026-06-27"
@@ -42,7 +42,7 @@ I used to think a native garden meant a scrubby patch of gum trees and not much 
 
 ## 1. Understand Your Soil and Climate Zone Before Buying a Single Plant
 
-[CITATION CAPSULE] The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) advises that matching native plants to local soil type and climate zone is the single most important factor in establishing a low-maintenance garden. Plants selected for the wrong conditions require up to three times more water and fertiliser than correctly matched species, and still underperform. ([ANPSA](https://anpsa.org.au/), 2025)
+The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) advises that matching native plants to local soil type and climate zone is the single most important factor in establishing a low-maintenance garden. Plants selected for the wrong conditions require up to three times more water and fertiliser than correctly matched species, and still underperform. ([ANPSA](https://anpsa.org.au/), 2025)
 
 This sounds obvious, but most beginners skip it entirely. I bought plants from a nursery based on how they looked on the shelf, not on whether they'd suit my sandy coastal soil and high humidity. Half of them struggled. The ones I researched beforehand thrived.
 
@@ -54,7 +54,7 @@ Before spending anything, find your climate zone on the [Bureau of Meteorology's
 
 ## 2. Which Native Plants Work Best as the Structural Layer?
 
-[CITATION CAPSULE] The ANPSA recommends planting natives in a three-tier structure — large background plants, mid-layer shrubs, and low groundcovers — to replicate natural Australian bushland habitats and create self-sustaining, low-input garden ecosystems. This approach also maximises wildlife habitat value compared to monoculture planting. ([ANPSA](https://anpsa.org.au/), 2025)
+The ANPSA recommends planting natives in a three-tier structure — large background plants, mid-layer shrubs, and low groundcovers — to replicate natural Australian bushland habitats and create self-sustaining, low-input garden ecosystems. This approach also maximises wildlife habitat value compared to monoculture planting. ([ANPSA](https://anpsa.org.au/), 2025)
 
 The structural layer is your backbone. These are the plants along boundaries and fences that give your garden height, screening, and year-round form. They need to look good even when nothing is flowering.
 
@@ -123,7 +123,7 @@ After shaping, install steel garden edging along the curve. This keeps mulch and
 
 ## 6. Why Mulching Is the Most Underrated Native Garden Step
 
-[CITATION CAPSULE] Research cited by the [ANPSA](https://anpsa.org.au/) shows that a 6-8cm deep mulch layer can reduce garden water requirements by 60-70% in Australian summer conditions by suppressing evaporation from the soil surface. Mulch also moderates soil temperature and progressively improves soil structure as it breaks down. ([ANPSA](https://anpsa.org.au/), 2025)
+Research cited by the [ANPSA](https://anpsa.org.au/) shows that a 6-8cm deep mulch layer can reduce garden water requirements by 60-70% in Australian summer conditions by suppressing evaporation from the soil surface. Mulch also moderates soil temperature and progressively improves soil structure as it breaks down. ([ANPSA](https://anpsa.org.au/), 2025)
 
 Mulch is the single action with the highest return per dollar in a native garden. It does more work than almost any other product you can apply, yet it's consistently the last thing people budget for.
 
@@ -153,7 +153,7 @@ Group plants with similar water needs together. This sounds simple, but it makes
 
 ## 8. How to Attract Birds and Wildlife to Your Native Garden
 
-[CITATION CAPSULE] The [ANPSA](https://anpsa.org.au/) documents that gardens planted with at least five native flowering species of varied heights attract 60-80% more native bird species than single-species plantings, and provide year-round food sources for honeyeaters, lorikeets, and insect-feeding wrens. Habitat gardens also reduce local pest insect populations by encouraging natural predator species. ([ANPSA](https://anpsa.org.au/), 2025)
+The [ANPSA](https://anpsa.org.au/) documents that gardens planted with at least five native flowering species of varied heights attract 60-80% more native bird species than single-species plantings, and provide year-round food sources for honeyeaters, lorikeets, and insect-feeding wrens. Habitat gardens also reduce local pest insect populations by encouraging natural predator species. ([ANPSA](https://anpsa.org.au/), 2025)
 
 This is one of the most rewarding parts of a native garden and requires almost no extra effort beyond the planting itself. The plants do the work; you just sit and watch.
 

@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Entertaining Ideas Australia: 15 Tips From Someone Who Does It Weekly (2026)"
+title: "Outdoor Entertaining Ideas Australia: 15 Proven Tips"
 description: "I host outdoors almost every weekend on the Gold Coast. Here are 15 outdoor entertaining ideas that actually work in the Australian climate — with AUD prices throughout."
 image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-16"
@@ -155,4 +155,7 @@ My pre-gathering checklist: outdoor area clean and set up by midday, outdoor tab
 - [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
 - [Outdoor Entertaining Area Ideas Australia](/blog/15-outdoor-entertaining-area-ideas-australia)
 - [Outdoor Patio Decor Ideas for Australian Homes](/blog/12-outdoor-patio-decor-australia)
+- [Outdoor Lounge Ideas Australia](/blog/outdoor-lounge-ideas-australia)
+- [Small Balcony Ideas Australia](/blog/small-balcony-ideas-australia)
+- [Easter Outdoor Decorating Ideas Australia](/blog/23-easter-outdoor-decorating-ideas-australia)
 

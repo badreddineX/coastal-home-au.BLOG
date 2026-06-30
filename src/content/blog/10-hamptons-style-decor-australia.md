@@ -1,5 +1,5 @@
 ---
-title: "Hamptons Style Decor Australia: 13 Tips to Get the Look Right (2026)"
+title: "Hamptons Style Decor Australia: 13 Tips to Get It Right"
 description: "I've spent three years building a Hamptons-style home on the Gold Coast. Here's what actually works in Australia — with real AUD prices and honest advice on where to save."
 image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-25"
@@ -143,4 +143,6 @@ The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or ba
 - [Hamptons Style Living Room Ideas for Australian Homes](/blog/16-hamptons-style-living-room-ideas-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
+- [H](/blog/a)
+- [h](/blog/a)
 
