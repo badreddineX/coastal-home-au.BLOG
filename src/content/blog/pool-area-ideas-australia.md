@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pool Area Ideas Australia: Style Your Backyard Pool"
 description: "Transform your Australian backyard pool area with 12 styling ideas — pavers, sun loungers, shade, plants, and lighting. Real AUD prices and specific product picks included."
 image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80"
@@ -45,7 +45,7 @@ The pool surround is the largest visual element in the space and it's also the m
 
 Travertine is the gold standard for Australian pool areas. It's naturally non-slip when wet, stays cool underfoot, and ages beautifully. Sandstone is a more budget-friendly alternative with a similar aesthetic. Large-format tiles (600x600mm or bigger) look more expensive and reduce the number of grout lines collecting algae.
 
-**Key point:** Large-format travertine pavers start from ~$65–$120 AUD per m2, and sandstone alternatives from ~$45–$90 AUD per m2, both available through [Bunnings](https://www.bunnings.com.au/our-range/garden) or specialist tile suppliers. For a standard 50m2 pool surround, budget ~$3,000–$6,000 AUD for materials plus installation.
+**Key point:** Large-format travertine pavers start from ~$65–$120 AUD per m2, and sandstone alternatives from ~$45–$90 AUD per m2, both available through Bunnings or specialist tile suppliers. For a standard 50m2 pool surround, budget ~$3,000–$6,000 AUD for materials plus installation.
 
 
 
@@ -55,11 +55,11 @@ Travertine is the gold standard for Australian pool areas. It's naturally non-sl
 
 Yes — and in Australia, this is a safety question as much as a comfort one. An unshaded pool deck in Queensland, NSW, or WA becomes unusable between 11am and 3pm in peak summer. You need at least one shaded zone where people can retreat without going inside.
 
-The options range from simple to permanent. A UV-rated shade sail covers the most ground for the least money — a quality 5x5m sail from [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) starts from ~$150–$300 AUD and can be installed in a single afternoon. For a more polished result, a freestanding pergola alongside the pool creates a proper alfresco zone adjacent to the water. A louvred roof system is the premium option — you can open it for full sun or close it for rain and UV protection, making the space genuinely year-round.
+The options range from simple to permanent. A UV-rated shade sail covers the most ground for the least money — a quality 5x5m sail from Bunnings starts from ~$150–$300 AUD and can be installed in a single afternoon. For a more polished result, a freestanding pergola alongside the pool creates a proper alfresco zone adjacent to the water. A louvred roof system is the premium option — you can open it for full sun or close it for rain and UV protection, making the space genuinely year-round.
 
 **Key point:** Check with your local council before erecting any permanent structure near a pool. Most states have specific setback rules for pool-adjacent structures. A shade sail requires no approval in most areas; a pergola often does.
 
-Renters: a freestanding shade structure or sail — the kind with its own weighted base, sold at [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) from ~$200 AUD — is the ideal solution. No drilling, no council approval, and it moves with you.
+Renters: a freestanding shade structure or sail — the kind with its own weighted base, sold at Bunnings from ~$200 AUD — is the ideal solution. No drilling, no council approval, and it moves with you.
 
 ---
 
@@ -69,7 +69,7 @@ Not all sun loungers are equal when exposed to Australian UV levels, salt air, a
 
 Teak is the most beautiful and durable natural option — it's naturally water-resistant, salt-tolerant, and develops a distinguished silver patina over time if left untreated. Powder-coated aluminium is the low-maintenance choice — it won't rust, warp, or bleach, and modern aluminium loungers can be genuinely comfortable with the right sling or cushion. Avoid cheap steel frames (they rust quickly in coastal areas) and painted MDF (it swells and peels within one season of poolside use).
 
-**Key point:** A quality pair of teak sun loungers costs ~$600–$1,400 AUD from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Outdoor Elegance](https://www.outdoorelegance.com.au/). Powder-coated aluminium pairs start from ~$400–$800 AUD. Buy the best quality you can afford — it genuinely pays off over the long term.
+**Key point:** A quality pair of teak sun loungers costs ~$600–$1,400 AUD from Temple & Webster or [Outdoor Elegance](https://www.outdoorelegance.com.au/). Powder-coated aluminium pairs start from ~$400–$800 AUD. Buy the best quality you can afford — it genuinely pays off over the long term.
 
 
 ---
@@ -80,7 +80,7 @@ Outdoor cushions are where the personality of your pool area comes through. They
 
 For a coastal Australian aesthetic, work with white, cream, navy, and sandy beige. Add a stripe or two for texture. Mix plain and patterned covers on the loungers for a layered, resort look.
 
-**Key point:** Quality outdoor cushions start from ~$35–$80 AUD each at [Adairs](https://www.adairs.com.au/outdoor/) and [Temple & Webster](https://www.templeandwebster.com.au/outdoor/). [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/) has budget-friendly outdoor cushions from ~$12–$25 AUD that genuinely hold up for a season or two. Store all cushions away from the pool when not in use — even outdoor-rated fabrics fade faster than expected in direct Australian sun.
+**Key point:** Quality outdoor cushions start from ~$35–$80 AUD each at Adairs and Temple & Webster. Kmart Australia has budget-friendly outdoor cushions from ~$12–$25 AUD that genuinely hold up for a season or two. Store all cushions away from the pool when not in use — even outdoor-rated fabrics fade faster than expected in direct Australian sun.
 
 ---
 
@@ -90,7 +90,7 @@ An outdoor rug does something surprising in a pool area: it makes the space feel
 
 Choose a polypropylene outdoor rug — it's mould-resistant, UV-stable, dries fast after splashing, and can be hosed down. Avoid natural fibre rugs like jute or sisal outdoors near water; they go mouldy quickly. A simple stripe in navy and white, or a natural sand colour, works with almost every pool aesthetic.
 
-**Key point:** A quality outdoor rug for a pool area costs ~$80–$300 AUD depending on size, from [Adairs](https://www.adairs.com.au/outdoor/) or [Temple & Webster](https://www.templeandwebster.com.au/outdoor/). Size up — a rug that's too small looks out of proportion next to a full-length pool.
+**Key point:** A quality outdoor rug for a pool area costs ~$80–$300 AUD depending on size, from Adairs or Temple & Webster. Size up — a rug that's too small looks out of proportion next to a full-length pool.
 
 ---
 
@@ -100,7 +100,7 @@ The wrong plants around a pool create constant maintenance headaches — leaf dr
 
 The golden rules for pool planting: choose evergreens (no seasonal leaf drop), prefer compact growers (they won't overwhelm the space), and avoid flowering plants with lots of small petals that float and block filters. Agapanthus ticks every box — it's drought-tolerant, produces beautiful blue or white flower spikes, and has minimal leaf drop. Lomandra and coastal grasses add architectural texture without mess. For vertical interest, a clipped Westringia or Murraya in a white pot reads as a clean, structured accent.
 
-**Key point:** All of these plants are available at most [Bunnings](https://www.bunnings.com.au/our-range/garden) locations for $8–$25 AUD per plant. Use large, matching pots around the pool perimeter for a polished look — white or grey rendered pots (~$30–$80 AUD at Bunnings) are the most versatile choice.
+**Key point:** All of these plants are available at most Bunnings locations for $8–$25 AUD per plant. Use large, matching pots around the pool perimeter for a polished look — white or grey rendered pots (~$30–$80 AUD at Bunnings) are the most versatile choice.
 
 
 
@@ -113,7 +113,7 @@ Good pool area lighting does two things: it makes swimming safer after dark, and
 
 For safety and ambiance around the water, consider in-pool LED lighting if you're doing a renovation — it turns the pool itself into a glowing centrepiece after dark. For the surround, warm white festoon string lights strung along a pergola or between posts create the most immediate transformation for the least cost. Solar path lights along the paver edges define the space boundary and run for free after installation.
 
-**Key point:** A 20-metre string of warm white festoon lights costs ~$60–$120 AUD at [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) or [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/). Solar path lights start from ~$30–$80 AUD for a pack of six at Bunnings. Run the lights at 2,700K colour temperature — warmer than standard LED — for the most inviting, resort-like glow.
+**Key point:** A 20-metre string of warm white festoon lights costs ~$60–$120 AUD at Bunnings or Kmart Australia. Solar path lights start from ~$30–$80 AUD for a pack of six at Bunnings. Run the lights at 2,700K colour temperature — warmer than standard LED — for the most inviting, resort-like glow.
 
 ---
 
@@ -123,7 +123,7 @@ Yes — and it's one of the most practical and underrated additions to any pool 
 
 A simple wall-mounted outdoor shower installed near a hose tap is a straightforward DIY job. More elaborate freestanding showers with a hot and cold mixer require a licensed plumber, but the finished product feels genuinely luxurious. Stainless steel and brushed nickel fixtures are the most durable in Australian coastal conditions.
 
-**Key point:** A basic wall-mounted outdoor shower fixture starts from ~$80–$200 AUD at [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining). Freestanding designer outdoor shower columns range from ~$400–$1,500 AUD through [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or specialist pool suppliers. Add a small teak mat beneath the shower for a spa-like finishing touch (~$40–$100 AUD).
+**Key point:** A basic wall-mounted outdoor shower fixture starts from ~$80–$200 AUD at Bunnings. Freestanding designer outdoor shower columns range from ~$400–$1,500 AUD through Temple & Webster or specialist pool suppliers. Add a small teak mat beneath the shower for a spa-like finishing touch (~$40–$100 AUD).
 
 Renters: a portable garden shower head that attaches directly to any outdoor tap is available from Bunnings from ~$25 AUD and requires no installation.
 
@@ -135,7 +135,7 @@ The best pool areas aren't just about swimming. They're about living outdoors fo
 
 If space allows, a full outdoor dining setting under a shade structure alongside the pool creates the most versatile pool area possible. You can swim, eat, and entertain without going inside. If space is tight, a bar-height table with stools takes up a fraction of the footprint of a standard dining setting and suits the relaxed pool vibe perfectly.
 
-**Key point:** A quality outdoor bar stool set (two stools and a bar table) costs ~$400–$900 AUD from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Freedom](https://www.freedom.com.au/outdoor/). A simple side table for drinks starts from ~$80–$200 AUD at [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/).
+**Key point:** A quality outdoor bar stool set (two stools and a bar table) costs ~$400–$900 AUD from Temple & Webster or Freedom. A simple side table for drinks starts from ~$80–$200 AUD at Kmart Australia.
 
 
 ---
@@ -146,7 +146,7 @@ A plain rendered wall or timber fence behind a pool area can feel stark and unfi
 
 A painted white wall behind the pool reflects light back into the water beautifully, making the pool appear larger and brighter. A slatted timber screen adds warmth and creates privacy from neighbouring properties. Artificial vertical garden panels have improved enormously in quality over the past few years and require zero maintenance — they stay green through drought and heat without watering.
 
-**Key point:** An artificial vertical garden panel costs ~$80–$200 AUD per panel at [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) or [Bunnings](https://www.bunnings.com.au/our-range/garden). Timber slatted privacy screens start from ~$60–$150 AUD at Bunnings for a flat-pack version that installs in a weekend.
+**Key point:** An artificial vertical garden panel costs ~$80–$200 AUD per panel at Temple & Webster or Bunnings. Timber slatted privacy screens start from ~$60–$150 AUD at Bunnings for a flat-pack version that installs in a weekend.
 
 
 
@@ -170,7 +170,7 @@ A consistent material palette across the pool area — the same stone, the same 
 
  I've found that the single addition that generates the most comments from visitors is a large, white ceramic pot with a tall grass planted in each corner of the pool area. It costs under $100 AUD total and creates instant architectural framing. People always ask if a designer did it.
 
-**Key point:** A teak or bamboo drinks tray left on the side table, a good-quality ice bucket, coastal-printed melamine serveware from [Adairs](https://www.adairs.com.au/outdoor/), and a couple of white lanterns with pillar candles (~$15–$30 AUD each from [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/)) are the finishing touches that cost almost nothing and make the entire space look intentional.
+**Key point:** A teak or bamboo drinks tray left on the side table, a good-quality ice bucket, coastal-printed melamine serveware from Adairs, and a couple of white lanterns with pillar candles (~$15–$30 AUD each from Kmart Australia) are the finishing touches that cost almost nothing and make the entire space look intentional.
 
 ---
 

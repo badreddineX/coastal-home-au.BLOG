@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rattan Furniture Australia: How to Style Every Room"
 description: "Complete guide to buying and styling rattan furniture in Australia. Living room, bedroom, outdoor settings — AUD prices, care tips, and where to buy in 2026."
 image: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
@@ -47,7 +47,7 @@ Natural rattan is harvested from the rattan palm vine, primarily grown in Indone
 
 Synthetic rattan — also called PE rattan or all-weather wicker — is made from polyethylene and woven over aluminium frames. It's engineered specifically for outdoor use. Quality PE rattan handles direct Australian sun, rain, coastal salt air, and humidity without deteriorating. For pool areas, balconies, and outdoor settings, synthetic rattan is the only appropriate choice.
 
-**Key point:** If a piece of rattan furniture is labelled "outdoor" or "all-weather," it's synthetic PE rattan on an aluminium frame. Natural rattan pieces are typically sold without outdoor claims and are significantly more expensive. Natural rattan dining chairs from [Temple & Webster](https://www.templeandwebster.com.au/furniture/) start from ~$120–$350 AUD each. Synthetic rattan outdoor sets (four chairs and a table) start from ~$400–$1,200 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or Temple & Webster.
+**Key point:** If a piece of rattan furniture is labelled "outdoor" or "all-weather," it's synthetic PE rattan on an aluminium frame. Natural rattan pieces are typically sold without outdoor claims and are significantly more expensive. Natural rattan dining chairs from Temple & Webster start from ~$120–$350 AUD each. Synthetic rattan outdoor sets (four chairs and a table) start from ~$400–$1,200 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or Temple & Webster.
 
 ---
 
@@ -59,7 +59,7 @@ The two most effective living room rattan pieces are the egg chair and the penda
 
 For a cohesive look, pair rattan with linen and cotton textiles in white, cream, and sandy beige. Natural timber flooring or a jute rug beneath the rattan pieces reinforces the coastal material story. Avoid pairing rattan with highly polished surfaces or metallics — they work against the organic warmth that rattan brings.
 
-**Key point:** A quality hanging rattan egg chair with cushion costs ~$250–$800 AUD from [Temple & Webster](https://www.templeandwebster.com.au/furniture/) or [Freedom](https://www.freedom.com.au/furniture/). Budget versions from [Kmart Australia](https://www.kmart.com.au/category/home/furniture/) start from ~$79–$129 AUD for a side chair in a rattan-look material. A rattan pendant light from [IKEA AU](https://www.ikea.com/au/en/cat/pendant-lamps-10732/) starts from ~$39 AUD — one of the best design investments available at that price point.
+**Key point:** A quality hanging rattan egg chair with cushion costs ~$250–$800 AUD from Temple & Webster or Freedom. Budget versions from Kmart Australia start from ~$79–$129 AUD for a side chair in a rattan-look material. A rattan pendant light from IKEA AU starts from ~$39 AUD — one of the best design investments available at that price point.
 
 
 ---
@@ -71,12 +71,12 @@ Not all rattan living room pieces deliver equal impact. Some earn their place im
 1. **Pendant light** — the highest impact per dollar, transformative even in a plain room (~$39–$250 AUD)
 2. **Egg chair or accent chair** — a statement piece that reads as coastal and considered (~$79–$800 AUD)
 3. **Side table** — a rattan side table beside a sofa adds texture without occupying floor space (~$60–$200 AUD)
-4. **Magazine basket or storage** — functional and beautiful, a woven rattan storage basket does double duty (~$25–$80 AUD from [Kmart Australia](https://www.kmart.com.au/category/home/storage/) or [Adairs](https://www.adairs.com.au/home/storage/))
+4. **Magazine basket or storage** — functional and beautiful, a woven rattan storage basket does double duty (~$25–$80 AUD from Kmart Australia or Adairs)
 5. **Room divider or shelving** — rattan-framed bookshelves or screen dividers are more architectural and suit larger living rooms
 
  The error I see most often in Australian living rooms is buying rattan in every available form — the chair, the basket, the table, the lamp base, the mirror frame — and ending up with a room that feels like a beach shack rather than a styled home. Limit rattan to two or three pieces per room. The restraint is what makes each piece read as intentional.
 
-**Key point:** [Adairs](https://www.adairs.com.au/) and [Temple & Webster](https://www.templeandwebster.com.au/) carry the broadest range of living room rattan accessories in Australia. [Freedom](https://www.freedom.com.au/) has some of the best-designed rattan accent chairs and shelving units in the mid-range market.
+**Key point:** Adairs and Temple & Webster carry the broadest range of living room rattan accessories in Australia. Freedom has some of the best-designed rattan accent chairs and shelving units in the mid-range market.
 
 ---
 
@@ -88,7 +88,7 @@ The rattan headboard is having a significant moment in Australian bedrooms. It's
 
 For bedside tables, a rattan-woven side table with a small lamp on top is one of the most-photographed interior combinations in Australian home decor. The material softens the hard edges of the room and connects it to the living spaces beyond.
 
-**Key point:** A queen rattan headboard costs ~$200–$600 AUD from [Temple & Webster](https://www.templeandwebster.com.au/bedroom/) or [Adairs](https://www.adairs.com.au/bedroom/). Rattan bedside tables start from ~$80–$250 AUD each. [IKEA AU](https://www.ikea.com/au/en/rooms/bedroom/) carries rattan-look woven baskets that work beautifully as budget bedside alternatives from ~$25–$49 AUD.
+**Key point:** A queen rattan headboard costs ~$200–$600 AUD from Temple & Webster or Adairs. Rattan bedside tables start from ~$80–$250 AUD each. IKEA AU carries rattan-look woven baskets that work beautifully as budget bedside alternatives from ~$25–$49 AUD.
 
 
 ---
@@ -101,7 +101,7 @@ The classic rattan dining chair is the Tolix-meets-coastal hybrid: a slim rattan
 
 The practical consideration: rattan dining chairs can collect crumbs in the weave and are slightly harder to clean than a solid timber or upholstered seat. A seat cushion in an outdoor fabric addresses the comfort question and makes cleaning a simple wipe-down.
 
-**Key point:** Rattan dining chairs cost ~$80–$350 AUD each from [Temple & Webster](https://www.templeandwebster.com.au/dining/), [Freedom](https://www.freedom.com.au/dining/), or [Kmart Australia](https://www.kmart.com.au/category/home/furniture/). Mix four rattan chairs with two upholstered captain's chairs at the ends of the table for a more considered, layered look that's very popular in current Australian interior design.
+**Key point:** Rattan dining chairs cost ~$80–$350 AUD each from Temple & Webster, Freedom, or Kmart Australia. Mix four rattan chairs with two upholstered captain's chairs at the ends of the table for a more considered, layered look that's very popular in current Australian interior design.
 
 ---
 
@@ -113,7 +113,7 @@ A four-seater PE rattan outdoor lounge set is the most versatile outdoor rattan 
 
 For pool areas and balconies with significant sun exposure, choose PE rattan furniture with UV-stabilised resin — this is the difference between a set that lasts five years and one that fades and cracks within two. Ask retailers specifically about UV rating before purchasing.
 
-**Key point:** A quality four-seater PE rattan outdoor lounge set costs ~$600–$2,000 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or [Temple & Webster](https://www.templeandwebster.com.au/outdoor/). Budget-friendly versions start from ~$350–$600 AUD at [Kmart Australia](https://www.kmart.com.au/category/home/outdoor/). Always check that the aluminium frame is rust-proof before buying — particularly important for coastal properties.
+**Key point:** A quality four-seater PE rattan outdoor lounge set costs ~$600–$2,000 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or Temple & Webster. Budget-friendly versions start from ~$350–$600 AUD at Kmart Australia. Always check that the aluminium frame is rust-proof before buying — particularly important for coastal properties.
 
 
 
@@ -124,15 +124,15 @@ For pool areas and balconies with significant sun exposure, choose PE rattan fur
 
 The Australian rattan furniture market has expanded significantly over the past five years. Here are the retailers consistently worth checking, ordered from budget to premium:
 
-**[Kmart Australia](https://www.kmart.com.au/category/home/furniture/)** — the best budget entry point. Rattan side chairs from ~$79 AUD, woven storage baskets from ~$12 AUD, and occasional rattan side tables from ~$49 AUD. Quality is honest at the price point — not premium, but perfectly functional for a room you're styling rather than investing in.
+**Kmart Australia** — the best budget entry point. Rattan side chairs from ~$79 AUD, woven storage baskets from ~$12 AUD, and occasional rattan side tables from ~$49 AUD. Quality is honest at the price point — not premium, but perfectly functional for a room you're styling rather than investing in.
 
-**[IKEA AU](https://www.ikea.com/au/en/rooms/)** — excellent for rattan pendant lights (from ~$39 AUD) and woven storage pieces. The INDUSTRIELL and BASKRAR ranges include solid rattan pieces that punch well above their price.
+**IKEA AU** — excellent for rattan pendant lights (from ~$39 AUD) and woven storage pieces. The INDUSTRIELL and BASKRAR ranges include solid rattan pieces that punch well above their price.
 
-**[Adairs](https://www.adairs.com.au/)** — good range of rattan bedroom and living room accessories. Particularly strong for woven cushion covers, storage baskets, and smaller decorative pieces.
+**Adairs** — good range of rattan bedroom and living room accessories. Particularly strong for woven cushion covers, storage baskets, and smaller decorative pieces.
 
-**[Temple & Webster](https://www.templeandwebster.com.au/)** — the widest range of rattan furniture in Australia at the mid-range price point. Indoor dining chairs, bedroom furniture, outdoor sets, and accent pieces all available. Delivery is efficient and the quality-to-price ratio is strong.
+**Temple & Webster** — the widest range of rattan furniture in Australia at the mid-range price point. Indoor dining chairs, bedroom furniture, outdoor sets, and accent pieces all available. Delivery is efficient and the quality-to-price ratio is strong.
 
-**[Freedom](https://www.freedom.com.au/)** — the most design-forward rattan range in Australian retail. Higher price point, better proportions, more original designs. Worth the premium for key pieces that will anchor a room for years.
+**Freedom** — the most design-forward rattan range in Australian retail. Higher price point, better proportions, more original designs. Worth the premium for key pieces that will anchor a room for years.
 
 **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — the best destination for outdoor PE rattan furniture. Well-built, UV-rated sets with genuine longevity in Australian conditions.
 
@@ -150,7 +150,7 @@ Conditioning is the step most Australian owners skip. Every six to twelve months
 
 Keep natural rattan away from direct sunlight — UV exposure bleaches the colour and dries the fibres faster than almost anything else. In an Australian home, this often means positioning rattan pieces away from north-facing windows where afternoon sun is most intense.
 
-**Key point:** A bottle of linseed oil for conditioning costs ~$15–$30 AUD from [Bunnings](https://www.bunnings.com.au/). Apply it twice a year — spring and autumn — and your natural rattan furniture will last considerably longer than the industry average of 5–8 years for untreated pieces.
+**Key point:** A bottle of linseed oil for conditioning costs ~$15–$30 AUD from Bunnings. Apply it twice a year — spring and autumn — and your natural rattan furniture will last considerably longer than the industry average of 5–8 years for untreated pieces.
 
 ---
 

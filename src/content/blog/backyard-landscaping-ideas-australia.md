@@ -1,4 +1,4 @@
----
+﻿---
 title: "Backyard Landscaping Ideas for Australian Homes (2026)"
 description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to beautiful coastal gardens. AUD costs included."
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
@@ -80,7 +80,7 @@ The ground surface is the single largest visual element in your backyard. It set
 
 **Paving options that work well in Australian conditions:**
 
-- **Concrete pavers** — affordable, practical, available everywhere via [Bunnings](https://www.bunnings.com.au/our-range/garden). Budget ~$30–$60 AUD per sqm.
+- **Concrete pavers** — affordable, practical, available everywhere via Bunnings. Budget ~$30–$60 AUD per sqm.
 - **Sandstone pavers** — warm honey tones that suit coastal Australian homes beautifully. ~$60–$120 AUD per sqm.
 - **Timber decking** — brings warmth and suits entertaining areas. Hardwood decking runs ~$200–$350 AUD per sqm installed.
 - **Compacted gravel** — the most affordable option, great for casual zones and garden pathways
@@ -95,7 +95,7 @@ A combination approach usually works best: paving in the entertaining zone, lawn
 
 The single most underrated backyard upgrade is clean garden bed edging. It makes a $200 planting job look like a $2,000 landscaping project. Most people overlook it entirely, and it shows.
 
-Use a garden hose to experiment with curved shapes before you commit to any digging. Curves look more natural and considered than straight lines in a residential garden. Once you're happy with the shape, install steel garden edging for a modern, low-profile finish, or sandstone boulder edging for something warmer and more coastal. Both are available at [Bunnings](https://www.bunnings.com.au/our-range/garden).
+Use a garden hose to experiment with curved shapes before you commit to any digging. Curves look more natural and considered than straight lines in a residential garden. Once you're happy with the shape, install steel garden edging for a modern, low-profile finish, or sandstone boulder edging for something warmer and more coastal. Both are available at Bunnings.
 
 After edging, mulch heavily, at least 6–8cm deep. Mulch suppresses weeds, retains soil moisture through summer heat, and makes the whole garden look tended without ongoing effort.
 
@@ -107,7 +107,7 @@ After edging, mulch heavily, at least 6–8cm deep. Mulch suppresses weeds, reta
 
 Vertical gardens solve the small backyard problem better than almost any other landscaping technique. They take up no floor space, add lush greenery to blank fence lines, and can double as privacy screening against neighbouring properties.
 
-Wall-mounted planting panels are the most practical option. A basic modular system from a retailer like [Temple & Webster](https://www.templeandwebster.com.au/Outdoor-Furniture-C27170.html) runs ~$80–$250 AUD, and you can plant it with trailing natives, herbs, or succulents depending on your light conditions.
+Wall-mounted planting panels are the most practical option. A basic modular system from a retailer like Temple & Webster runs ~$80–$250 AUD, and you can plant it with trailing natives, herbs, or succulents depending on your light conditions.
 
 Alternatively, train a fast-growing climber, such as Hardenbergia or Native Jasmine, up a simple trellis. This is the cheapest and most natural-looking option, and both species are available through [Garden Express](https://www.gardenexpress.com.au/).
 
@@ -119,7 +119,7 @@ Alternatively, train a fast-growing climber, such as Hardenbergia or Native Jasm
 
 A water feature is one of those backyard additions that sounds indulgent but delivers real, everyday value. The sound of moving water is genuinely calming, and it masks street noise better than most fencing solutions.
 
-The simplest and most practical option is a self-contained pot fountain. These are solar-powered, require no plumbing, and can be moved around until you find the right position. They start from ~$150 AUD at [Bunnings](https://www.bunnings.com.au/our-range/garden). I added one to a corner of my garden where the fence reflected traffic noise, and it changed the feel of the whole space.
+The simplest and most practical option is a self-contained pot fountain. These are solar-powered, require no plumbing, and can be moved around until you find the right position. They start from ~$150 AUD at Bunnings. I added one to a corner of my garden where the fence reflected traffic noise, and it changed the feel of the whole space.
 
 If you want something more permanent, a simple rill or raised pond is a weekend project with great results. A wall-mounted water feature works well in smaller backyards where floor space is tight.
 
@@ -137,7 +137,7 @@ Start with path lights along garden bed edges and stepping stone routes. Add upl
 
 Solar-powered options have improved enormously in recent years. The Bunnings range now includes solar path lights and garden spots that look clean, charge reliably in Australian sun, and actually stay lit through the evening.
 
-**Bold key point:** A complete solar lighting setup, including 6 path lights and string lights across a 4m span, costs ~$80–$200 AUD from [Bunnings](https://www.bunnings.com.au/our-range/garden) with no electrician required.
+**Bold key point:** A complete solar lighting setup, including 6 path lights and string lights across a 4m span, costs ~$80–$200 AUD from Bunnings with no electrician required.
 
 ![Backyard with solar path lights along garden edge and string lights overhead in the evening](https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=80)
 
@@ -175,7 +175,7 @@ A landscaper for structural work typically runs ~$450–$800 AUD per day in most
 
 The physical landscaping sets the stage, but the furniture and accessories make it feel lived-in and worth spending time in. Keep the entertaining zone simple: a table, chairs, and a shade solution are the core. If your backyard includes or is destined for a pool, the guide to [pool area ideas for Australian homes](/blog/pool-area-ideas-australia) covers decking, furniture, and planting around the water.
 
-For outdoor furniture that handles Australian UV and humidity, look at [Temple & Webster](https://www.templeandwebster.com.au/Outdoor-Furniture-C27170.html) for a wide range at different price points, or [Outdoor Elegance](https://www.outdoorelegance.com.au/) for higher-end teak and aluminium pieces that genuinely last.
+For outdoor furniture that handles Australian UV and humidity, look at Temple & Webster for a wide range at different price points, or [Outdoor Elegance](https://www.outdoorelegance.com.au/) for higher-end teak and aluminium pieces that genuinely last.
 
 A large outdoor rug defines the entertaining space without adding bulk. A few statement pots, rather than many small ones, have far more visual impact. And a single large shade umbrella or a sail shade makes the difference between a zone you use at 2pm in January and one you avoid.
 

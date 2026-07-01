@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hamptons Living Room Furniture Australia: What to Buy"
 description: "The exact furniture pieces for a Hamptons living room in Australia — sofas, coffee tables, rugs, and lighting with real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1617104678098-de229db51175?auto=format&fit=crop&w=1200&q=80"
@@ -52,7 +52,7 @@ The sofa is the centrepiece of a Hamptons living room, and getting it right matt
 
 The classic Hamptons sofa is slipcovered in white or natural linen. In Australian conditions, a linen-cotton blend outperforms pure linen: it handles humidity better, wrinkles less, and wears more gracefully over time. Washable slipcovers are a practical bonus for families and pet owners.
 
-**Bold move:** [Temple & Webster's Felix or Elara sofas](https://www.templeandwebster.com.au/living-room/) sit squarely in the Hamptons aesthetic and range from ~$1,400-$2,800 AUD depending on size. [Freedom](https://www.freedom.com.au/living/) also carries mid-range Hamptons-style sofas worth considering.
+**Bold move:** Temple & Webster's Felix or Elara sofas sit squarely in the Hamptons aesthetic and range from ~$1,400-$2,800 AUD depending on size. Freedom also carries mid-range Hamptons-style sofas worth considering.
 
 ## 3. The Rug: Size Up and Go Natural
 
@@ -64,7 +64,7 @@ Most people choose a rug that's too small. For a Hamptons living room, you want 
 
 Material matters too. Jute, sisal, and cotton flatweave all work beautifully. For higher-traffic areas or homes with kids, a polypropylene coastal-pattern rug gives you the same look with far more durability.
 
-**Bold move:** The Baya Havana Jute rug from [Adairs](https://www.adairs.com.au/homewares/) starts from ~$180 AUD for a 160x230cm. Similar woven options at [Temple & Webster](https://www.templeandwebster.com.au/living-room/) go up to ~$500 AUD for premium sizes.
+**Bold move:** The Baya Havana Jute rug from Adairs starts from ~$180 AUD for a 160x230cm. Similar woven options at Temple & Webster go up to ~$500 AUD for premium sizes.
 
 ## 4. Curtains: Floor-to-Ceiling Changes Everything
 
@@ -72,7 +72,7 @@ Curtains are the most underrated element in a Hamptons living room. A generous, 
 
 The trick is in the hanging. Mount the rod as high as possible — ideally at ceiling height, even if your window sits well below it. Let the curtains drop all the way to the floor, with a slight puddle if you're going for full Hamptons drama. That single decision transforms an ordinary room into something that looks considered and expensive.
 
-**Bold move:** [IKEA Australia's AINA linen curtains](https://www.ikea.com/au/en/rooms/living-room/) are a beloved option — genuinely beautiful, naturally textured, and ~$99-$129 AUD per pair. For a step up, [Temple & Webster](https://www.templeandwebster.com.au/living-room/) carries linen-look options from ~$150-$250 AUD per pair.
+**Bold move:** IKEA Australia's AINA linen curtains are a beloved option — genuinely beautiful, naturally textured, and ~$99-$129 AUD per pair. For a step up, Temple & Webster carries linen-look options from ~$150-$250 AUD per pair.
 
 If you're renting, this is one of the easiest wins. Curtains are always removable, and a tension or pressure-fit curtain rod means you don't need to drill a single hole.
 
@@ -84,7 +84,7 @@ Rattan pendant lights have become the signature piece of the Australian coastal 
 
 I'd argue the rattan pendant is the single item that signals "Hamptons" more clearly than anything else in the room — more than the sofa, more than the cushions. It's the piece people comment on first.
 
-**Bold move:** [Temple & Webster](https://www.templeandwebster.com.au/living-room/) carries rattan pendants from ~$89-$300 AUD. Pair it with a warm-toned globe bulb (2700K) for the most flattering, coastal-feeling light.
+**Bold move:** Temple & Webster carries rattan pendants from ~$89-$300 AUD. Pair it with a warm-toned globe bulb (2700K) for the most flattering, coastal-feeling light.
 
 If you're renting and can't replace the light fitting, a plug-in pendant with a fabric cord is a completely removable alternative. They're widely available on [Etsy Australia](https://www.etsy.com/au/) from ~$60-$120 AUD.
 
@@ -94,7 +94,7 @@ Cushions are where the Hamptons palette becomes visible. The classic combination
 
 Think of it this way: one large linen cushion in natural, one smaller one in navy with a woven texture, one in a coastal print (stripes or a simple botanical). That trio does more for a sofa than a matching six-piece set.
 
-**Bold move:** [Adairs](https://www.adairs.com.au/homewares/) carries linen-look cushion covers in the right Hamptons palette from ~$30-$60 AUD each. Add a waffle-weave throw in natural or navy (~$59-$99 AUD) draped over one arm of the sofa for the lived-in finish.
+**Bold move:** Adairs carries linen-look cushion covers in the right Hamptons palette from ~$30-$60 AUD each. Add a waffle-weave throw in natural or navy (~$59-$99 AUD) draped over one arm of the sofa for the lived-in finish.
 
 In our experience styling coastal living rooms, the rule of odd numbers works: three cushions on a two-seater, five on a three-seater. It always looks more natural than even-numbered arrangements.
 
@@ -104,7 +104,7 @@ The coffee table in a Hamptons living room is never glass and chrome. It's timbe
 
 What sits on the coffee table matters as much as the table itself. A stack of oversized books, a simple white ceramic bowl, a small vase of dried pampas or banksia stems, a scented candle. The styling should look like someone actually lives there, not a hotel lobby.
 
-**Bold move:** [Temple & Webster](https://www.templeandwebster.com.au/living-room/) carries timber and rattan coffee tables in the Hamptons aesthetic from ~$299-$799 AUD. [Freedom](https://www.freedom.com.au/living/) is also worth checking for mid-range options around ~$450-$650 AUD.
+**Bold move:** Temple & Webster carries timber and rattan coffee tables in the Hamptons aesthetic from ~$299-$799 AUD. Freedom is also worth checking for mid-range options around ~$450-$650 AUD.
 
 ![Deep linen sofa in natural with layered cushions and a woven coffee table in a coastal living room](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
 
@@ -124,7 +124,7 @@ Accessories are where the room goes from styled to lived-in. In a Hamptons livin
 
 Plants belong in every Australian Hamptons room. A potted Monstera deliciosa in a simple white ceramic pot, a vase of banksia stems on the coffee table, a trailing pothos on a shelf in a terracotta pot — Australian native greenery grounds the whole coastal palette in something real.
 
-**Bold move:** Source accessories from [Adairs](https://www.adairs.com.au/homewares/) and [Temple & Webster](https://www.templeandwebster.com.au/living-room/) rather than homewares chain stores. The quality and styling are noticeably better, and both regularly run 20-30% off sales worth waiting for.
+**Bold move:** Source accessories from Adairs and Temple & Webster rather than homewares chain stores. The quality and styling are noticeably better, and both regularly run 20-30% off sales worth waiting for.
 
 ## 10. The Hamptons Palette in Australian Terms
 
@@ -158,10 +158,10 @@ If you're renting, every item on this list is removable — focus on rugs, cushi
 
 ## Where to Shop
 
-- **[Temple & Webster](https://www.templeandwebster.com.au/living-room/)** — sofas, rattan lights, and coastal rugs
-- **[Adairs](https://www.adairs.com.au/homewares/)** — cushions, throws, and jute rugs in the right Hamptons palette
-- **[IKEA Australia](https://www.ikea.com/au/en/rooms/living-room/)** — AINA linen curtains and affordable basics
-- **[Freedom](https://www.freedom.com.au/living/)** — mid-range Hamptons-style sofas and furniture
+- **Temple & Webster** — sofas, rattan lights, and coastal rugs
+- **Adairs** — cushions, throws, and jute rugs in the right Hamptons palette
+- **IKEA Australia** — AINA linen curtains and affordable basics
+- **Freedom** — mid-range Hamptons-style sofas and furniture
 - **[Dulux Australia](https://www.dulux.com.au/)** — Natural White and Vivid White paint shades for walls
 - **[Etsy Australia](https://www.etsy.com/au/)** — Australian coastal artwork prints from ~$20 AUD
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Native Garden Ideas Australia: 12 Designs That Thrive"
 description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs. Real AUD prices from Bunnings included."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80"
@@ -48,7 +48,7 @@ This sounds obvious, but most beginners skip it entirely. I bought plants from a
 
 Before spending anything, find your climate zone on the [Bureau of Meteorology's climate classification map](http://www.bom.gov.au/climate/environ/other/koppen_explain.shtml). Then test your soil's drainage by digging a 30cm hole, filling it with water, and watching how fast it drains. More than 10cm per hour is fast-draining (sandy), less than 1cm per hour is heavy clay. Both have excellent native plant solutions, but you need to know which situation you're working with.
 
-**Key point:** Soil testing kits at [Bunnings](https://www.bunnings.com.au/our-range/garden) cost ~$15-$25 AUD and can save you hundreds in failed plants.
+**Key point:** Soil testing kits at Bunnings cost ~$15-$25 AUD and can save you hundreds in failed plants.
 
 ---
 
@@ -65,7 +65,7 @@ Top structural picks for Australian coastal and suburban gardens:
 - **Callistemon (Bottlebrush)** — available in dozens of varieties from 60cm to 4m. Flowers attract honeyeaters reliably.
 - **Leptospermum (Tea Tree)** — fast-growing, excellent as a privacy screen, tough in most conditions.
 
-**Key point:** Structural native shrubs cost ~$12-$35 AUD each at [Bunnings](https://www.bunnings.com.au/our-range/garden) or [Garden Express](https://www.gardenexpress.com.au/), which ships nationwide with excellent plant condition guarantees.
+**Key point:** Structural native shrubs cost ~$12-$35 AUD each at Bunnings or [Garden Express](https://www.gardenexpress.com.au/), which ships nationwide with excellent plant condition guarantees.
 
 
 
@@ -115,7 +115,7 @@ Lay a garden hose on the ground and adjust the curve until you're happy with the
 
 After shaping, install steel garden edging along the curve. This keeps mulch and soil within the bed and creates a clean boundary with the lawn or path. Corten steel edging has a warm, rusty tone that suits coastal and bushland-style gardens particularly well.
 
-**Key point:** Steel garden edging from [Bunnings](https://www.bunnings.com.au/our-range/garden) costs ~$15-$25 AUD per 5m length. A standard backyard fence-line bed typically needs 2-3 lengths, making the total edging cost under ~$75 AUD.
+**Key point:** Steel garden edging from Bunnings costs ~$15-$25 AUD per 5m length. A standard backyard fence-line bed typically needs 2-3 lengths, making the total edging cost under ~$75 AUD.
 
 *If renting, portable alternatives include timber sleeper-edged raised planter boxes on castors, which can be moved at lease end without affecting the property.*
 
@@ -143,7 +143,7 @@ Water restrictions are a reality in most Australian states. The good news is tha
 
 For the first season, water new plants deeply twice a week rather than shallowly every day. Deep watering encourages roots to go down into moist soil layers, which builds drought resilience. Shallow watering keeps roots near the surface, making plants permanently dependent on irrigation.
 
-Group plants with similar water needs together. This sounds simple, but it makes a real difference when you're running a dripper system or hand-watering efficiently. [Bunnings](https://www.bunnings.com.au/our-range/garden) stocks a range of drip irrigation kits from ~$30-$120 AUD that can be set up on a timer without any plumbing knowledge.
+Group plants with similar water needs together. This sounds simple, but it makes a real difference when you're running a dripper system or hand-watering efficiently. Bunnings stocks a range of drip irrigation kits from ~$30-$120 AUD that can be set up on a timer without any plumbing knowledge.
 
 **Key point:** A basic drip irrigation timer and drip kit from Bunnings costs ~$60-$120 AUD and can reduce hand-watering time to zero once programmed correctly.
 
@@ -166,7 +166,7 @@ The essentials for a wildlife-friendly native garden:
 
  After my second native garden was established, I counted 11 different bird species visiting within the first year, including Eastern Spinebills and Blue-Faced Honeyeaters I had never seen in the suburb before. The bird bath cost ~$35 AUD from Kmart and is used every single day.
 
-**Key point:** A terracotta or ceramic bird bath costs ~$25-$80 AUD at [Kmart](https://www.kmart.com.au) or [Temple & Webster](https://www.templeandwebster.com.au/) and is the simplest single step toward making a native garden a genuine wildlife habitat.
+**Key point:** A terracotta or ceramic bird bath costs ~$25-$80 AUD at Kmart or Temple & Webster and is the simplest single step toward making a native garden a genuine wildlife habitat.
 
 ---
 
@@ -196,7 +196,7 @@ Use one or two large statement boulders rather than many small stones scattered 
 
 Between rocks and around plant bases, use fine gravel or bush pebbles as a mulch alternative in dry, sunny positions. Pebble mulch doesn't break down like organic mulch, so it's a one-time installation in hard-to-reach garden corners.
 
-**Key point:** A 25kg bag of decorative gravel or bush pebbles from [Bunnings](https://www.bunnings.com.au/our-range/garden) costs ~$8-$15 AUD and covers roughly 0.5 sqm at 5cm depth.
+**Key point:** A 25kg bag of decorative gravel or bush pebbles from Bunnings costs ~$8-$15 AUD and covers roughly 0.5 sqm at 5cm depth.
 
 ![Sandstone boulders and native grasses in an Australian backyard with gravel mulch](https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=80)
 
@@ -217,7 +217,7 @@ The whole point of a native garden is that maintenance drops dramatically after 
 - Lightly fertilise with a low-phosphorus native fertiliser in early spring only (too much phosphorus kills most Australian native plants)
 - Prune Grevillea and Callistemon lightly after flowering to maintain shape
 
-Low-phosphorus native fertiliser is important. Most standard garden fertilisers are too high in phosphorus for Australian natives. [Bunnings](https://www.bunnings.com.au/our-range/garden) stocks native-specific fertiliser from brands like Yates, typically ~$10-$20 AUD per bag.
+Low-phosphorus native fertiliser is important. Most standard garden fertilisers are too high in phosphorus for Australian natives. Bunnings stocks native-specific fertiliser from brands like Yates, typically ~$10-$20 AUD per bag.
 
 **Key point:** Ongoing maintenance for a well-established 30sqm native garden averages under 30 minutes per week across the year, compared to 2-3 hours per week for a comparable exotic garden.
 

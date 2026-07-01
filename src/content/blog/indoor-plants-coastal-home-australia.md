@@ -1,4 +1,4 @@
----
+﻿---
 title: "Indoor Plants for a Coastal Home in Australia: 12 Best Picks"
 description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Prices from Australian nurseries and retailers included."
 image: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80"
@@ -60,7 +60,7 @@ The ZZ Plant (Zamioculcas zamiifolia) stores water in its thick underground rhiz
 
 Its glossy, deep green leaves work well in coastal interiors because they contrast with the whites, linens, and natural textures that define the style without clashing with the palette.
 
-**Key point:** ZZ Plants cost ~$15-$45 AUD at [Bunnings](https://www.bunnings.com.au/) depending on size. A 20cm specimen in a terracotta pot is the ideal starting size for a shelf or side table.
+**Key point:** ZZ Plants cost ~$15-$45 AUD at Bunnings depending on size. A 20cm specimen in a terracotta pot is the ideal starting size for a shelf or side table.
 
 ---
 
@@ -76,7 +76,7 @@ The most readily available Pothos varieties in Australia:
 - **Marble Queen** -- white and green variegation, slightly slower growing.
 - **Neon Pothos** -- bright lime-green, striking in a coastal room with natural fibre and white.
 
-**Key point:** Pothos cuttings from a friend or neighbour cost nothing. Plants from [Bunnings](https://www.bunnings.com.au/) start from ~$8-$20 AUD, or from [IKEA AU](https://www.ikea.com/au/en/) from ~$5-$10 AUD for small specimens.
+**Key point:** Pothos cuttings from a friend or neighbour cost nothing. Plants from Bunnings start from ~$8-$20 AUD, or from IKEA AU from ~$5-$10 AUD for small specimens.
 
 ![Golden Pothos trailing from a white shelf in a bright coastal home interior](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
 
@@ -90,7 +90,7 @@ Peace Lilies prefer shade to indirect light, which makes them excellent for inte
 
 The [ANPSA](https://anpsa.org.au/) and indoor horticulture researchers identify Peace Lilies as among the most effective indoor air-purifying plants, with NASA's Clean Air Study finding that Spathiphyllum removes benzene, formaldehyde, and trichloroethylene from indoor air. This is particularly relevant in newer Australian homes with synthetic building materials and limited ventilation. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
-**Key point:** Peace Lilies cost ~$15-$35 AUD at [Bunnings](https://www.bunnings.com.au/) or [Flower Power](https://www.flowerpower.com.au/) (NSW). They are among the best-value flowering indoor plants available in Australia.
+**Key point:** Peace Lilies cost ~$15-$35 AUD at Bunnings or [Flower Power](https://www.flowerpower.com.au/) (NSW). They are among the best-value flowering indoor plants available in Australia.
 
 ---
 
@@ -102,7 +102,7 @@ Bird of Paradise plants need bright indirect light to thrive indoors. A spot wit
 
  My Strelitzia nicolai sits in the corner of my living room beside a north-facing window. It has grown roughly 40cm in the 18 months I've owned it. The leaves occasionally get a slight brown edge from the ceiling fan, but a monthly wipe with a damp cloth keeps them looking clean.
 
-**Key point:** A large Bird of Paradise in a statement pot from [Temple & Webster](https://www.templeandwebster.com.au/) or [Flower Power](https://www.flowerpower.com.au/) costs ~$60-$180 AUD depending on specimen size.
+**Key point:** A large Bird of Paradise in a statement pot from Temple & Webster or [Flower Power](https://www.flowerpower.com.au/) costs ~$60-$180 AUD depending on specimen size.
 
 ---
 
@@ -114,7 +114,7 @@ In coastal humidity, Philodendrons grow fast. Mine have produced new leaves ever
 
  I propagated six Heartleaf Philodendron cuttings from a single parent plant over 12 months at zero cost. All six rooted successfully in tap water within 3 weeks and are now growing in various rooms across my home. Total cost: one $18 AUD plant from Bunnings and six small pots from Kmart at ~$3 AUD each.
 
-**Key point:** Heartleaf Philodendron costs ~$12-$25 AUD at [Bunnings](https://www.bunnings.com.au/) or local nurseries, and propagates freely from cuttings at no additional cost.
+**Key point:** Heartleaf Philodendron costs ~$12-$25 AUD at Bunnings or local nurseries, and propagates freely from cuttings at no additional cost.
 
 ![Heartleaf Philodendron and Peace Lily on a timber plant stand in a bright coastal home corner](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
 
@@ -128,7 +128,7 @@ Rubber Plants need bright indirect light to maintain their leaf colour. Insuffic
 
 One practical note: wipe the large leaves monthly with a damp cloth. Dust and salt film accumulate more noticeably on large glossy leaves than on smaller plants, and a dirty Rubber Plant leaf looks dramatically different from a clean one.
 
-**Key point:** Rubber Plants cost ~$25-$80 AUD at [Bunnings](https://www.bunnings.com.au/), [Flower Power](https://www.flowerpower.com.au/), or local nurseries depending on size and variety.
+**Key point:** Rubber Plants cost ~$25-$80 AUD at Bunnings, [Flower Power](https://www.flowerpower.com.au/), or local nurseries depending on size and variety.
 
 
 
@@ -142,7 +142,7 @@ It suits coastal bedrooms and bathrooms particularly well because of its compact
 
  Chain of Hearts is one of the few trailing plants that genuinely looks better in a small, simple hanging planter than in a large pot. Most trailing plants need scale and volume to look good. Chain of Hearts is the exception: a single modest-sized planter at head height, with stems trailing 30-50cm, creates a more refined and elegant effect than a large cascading display.
 
-**Key point:** Chain of Hearts costs ~$12-$25 AUD at local nurseries or [Bunnings](https://www.bunnings.com.au/). A simple macrame hanging planter from [Temple & Webster](https://www.templeandwebster.com.au/) costs ~$25-$60 AUD.
+**Key point:** Chain of Hearts costs ~$12-$25 AUD at local nurseries or Bunnings. A simple macrame hanging planter from Temple & Webster costs ~$25-$60 AUD.
 
 ---
 
@@ -154,7 +154,7 @@ Golden Cane Palms need bright indirect light and handle coastal humidity very we
 
 NASA's Clean Air Study includes Golden Cane Palm among the most effective indoor air-filtering plants, finding that it removes formaldehyde and xylene from indoor air while also raising indoor humidity levels -- beneficial in air-conditioned coastal homes where mechanical cooling can dry indoor air. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
-**Key point:** A medium Golden Cane Palm (80-100cm) from [Flower Power](https://www.flowerpower.com.au/) or a local nursery costs ~$50-$120 AUD. [Bunnings](https://www.bunnings.com.au/) carries smaller starter specimens from ~$25-$45 AUD.
+**Key point:** A medium Golden Cane Palm (80-100cm) from [Flower Power](https://www.flowerpower.com.au/) or a local nursery costs ~$50-$120 AUD. Bunnings carries smaller starter specimens from ~$25-$45 AUD.
 
 ---
 
@@ -168,7 +168,7 @@ Outside the bathroom, Boston Ferns struggle in air-conditioned rooms and anywher
 
 *If renting, a fern in a hanging basket near the bathroom window requires no wall brackets -- a simple tension curtain rod across the window recess can support a small hanging planter with no fixings.*
 
-**Key point:** Boston Ferns cost ~$10-$30 AUD at [Bunnings](https://www.bunnings.com.au/) or [Flower Power](https://www.flowerpower.com.au/). A 15cm pot is the right starting size for a bathroom shelf.
+**Key point:** Boston Ferns cost ~$10-$30 AUD at Bunnings or [Flower Power](https://www.flowerpower.com.au/). A 15cm pot is the right starting size for a bathroom shelf.
 
 ![Boston fern on a timber bathroom shelf beside a white window in a coastal home](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
 
@@ -182,7 +182,7 @@ Monsteras need bright indirect light and warm temperatures. They grow substantia
 
 One genuine concern: Monsteras grow large. A mature specimen in a good position can reach the ceiling within 3-5 years. Plan the space before you buy, and be prepared to repot annually in the first few years. A moss pole or coconut coir stake will support the stems as the plant grows.
 
-**Key point:** A small Monstera deliciosa from [Bunnings](https://www.bunnings.com.au/) or [IKEA AU](https://www.ikea.com/au/en/) starts from ~$15-$30 AUD. Larger statement specimens from specialty nurseries cost ~$60-$200 AUD.
+**Key point:** A small Monstera deliciosa from Bunnings or IKEA AU starts from ~$15-$30 AUD. Larger statement specimens from specialty nurseries cost ~$60-$200 AUD.
 
 
 
@@ -202,7 +202,7 @@ Coastal home plant styling rules that work:
 - **Use natural pot materials:** Terracotta, woven rattan basket covers, white ceramic, and natural stone all work in a coastal interior. Avoid brightly coloured or patterned pots that compete with the plant.
 - **Let some plants breathe:** Not every surface needs a plant. A few deliberate groupings with clear empty space around them reads more sophisticated than plants on every available surface.
 
-**Key point:** Plant stands from [Kmart](https://www.kmart.com.au) start from ~$12-$25 AUD. Rattan plant basket covers from [Temple & Webster](https://www.templeandwebster.com.au/) or [Adairs](https://www.adairs.com.au/) cost ~$20-$60 AUD and transform a plain nursery pot into a styled piece instantly.
+**Key point:** Plant stands from Kmart start from ~$12-$25 AUD. Rattan plant basket covers from Temple & Webster or Adairs cost ~$20-$60 AUD and transform a plain nursery pot into a styled piece instantly.
 
 ---
 

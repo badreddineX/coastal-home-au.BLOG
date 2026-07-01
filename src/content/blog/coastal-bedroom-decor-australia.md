@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coastal Bedroom Decor Australia: 11 Ideas That Work"
 description: "Style a coastal bedroom in Australia with linen bedding, rattan furniture, and the right colour palette. AUD prices from Kmart, Temple and Webster, and Bunnings."
 image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
@@ -54,7 +54,7 @@ Avoid saturated navy, deep teal, or bold coral — they all work in larger doses
 
 Bedding is where the coastal bedroom is won or lost, and linen is the clear choice for Australian conditions. It breathes in summer, warms in winter, and only improves in texture after repeated washing. White or natural (undyed) linen is your foundation layer — everything else in the room coordinates around it.
 
-**Key point:** A queen 100% linen quilt cover set runs ~$149-$229 AUD from [The Sheet Society](https://www.thesheetsociety.com/collections/linen) or [Adairs](https://www.adairs.com.au/bedroom/quilt-covers/). Both retailers regularly offer 20-30% off during sales — sign up to emails before buying.
+**Key point:** A queen 100% linen quilt cover set runs ~$149-$229 AUD from [The Sheet Society](https://www.thesheetsociety.com/collections/linen) or Adairs. Both retailers regularly offer 20-30% off during sales — sign up to emails before buying.
 
 The pillow arrangement matters more than most guides admit. Layer two European square pillows at the back in white or natural linen, two standard pillows in front in the same tone, and two cushions at the front in your chosen accent colour. A textured throw folded at the foot of the bed — a waffle weave, a chunky knit, or a striped cotton blanket — finishes the look without adding visual clutter.
 
@@ -70,7 +70,7 @@ Rattan is the material that most clearly reads as coastal in an Australian conte
 
 The rattan bedhead is the highest-impact single piece you can add to a coastal bedroom. It dominates the wall behind the bed and sets the whole tone of the room. Natural rattan or cane-webbing frames in a rounded or arched shape are the most versatile — they suit both classic and contemporary coastal styles.
 
-**Key point:** Rattan bedheads at [Temple & Webster](https://www.templeandwebster.com.au/bedroom/) start from ~$199-$499 AUD for queen size. [Kmart Australia](https://www.kmart.com.au) stocks rattan-look bedheads from ~$79-$149 AUD that offer surprisingly good value for renters who don't want to spend significantly on a piece they may not be able to keep in their next home.
+**Key point:** Rattan bedheads at Temple & Webster start from ~$199-$499 AUD for queen size. Kmart Australia stocks rattan-look bedheads from ~$79-$149 AUD that offer surprisingly good value for renters who don't want to spend significantly on a piece they may not be able to keep in their next home.
 
 If you're renting and can't wall-mount a bedhead, freestanding rattan bedheads that sit behind the mattress are available at most price points and require zero drilling. Alternatively, skip the bedhead and instead add one rattan bedside table on each side — the effect is quieter but still clearly coastal.
 
@@ -84,7 +84,7 @@ Curtains are underrated in coastal bedroom guides, but they are transformative. 
 
 The key spec to get right: hang the curtain rod as high as possible — as close to the ceiling as your wall allows — and let the curtain drop all the way to the floor, with 5-10cm of extra fabric puddling at the bottom. This makes any window look taller and any room feel more considered.
 
-**Key point:** Sheer linen curtain panels at [IKEA AU](https://www.ikea.com/au/en/cat/curtains/) run ~$29-$79 AUD per panel, and [Temple & Webster](https://www.templeandwebster.com.au/) has fuller linen-blend sheer panels from ~$79-$199 AUD. Buy two panels per window minimum — sparse coverage kills the effect.
+**Key point:** Sheer linen curtain panels at IKEA AU run ~$29-$79 AUD per panel, and Temple & Webster has fuller linen-blend sheer panels from ~$79-$199 AUD. Buy two panels per window minimum — sparse coverage kills the effect.
 
 If you're renting, check your lease before drilling for a curtain rod. Tension rods work in most standard window frames and hold sheer curtains easily — they leave no marks and come down cleanly when you move.
 
@@ -98,7 +98,7 @@ A rug grounds the bedroom and defines the space around the bed. For a coastal be
 
 The rug should extend at least 60cm on the sides and foot of the bed, so your feet land on it when you get up. An undersized rug is a styling mistake that makes even expensive rooms feel unresolved. Go bigger than you think you need — especially if the bedroom is open-plan or has high ceilings.
 
-**Key point:** Natural fibre rugs — jute, seagrass, or cotton flatweave — in neutral tones are the most coastal choice and the most practical in a bedroom setting. Temple & Webster's jute rugs run ~$120-$350 AUD for a queen-bedroom size (240x170cm is the minimum to aim for). [Kmart Australia](https://www.kmart.com.au) stocks jute-look rugs from ~$49-$89 AUD if budget is tight.
+**Key point:** Natural fibre rugs — jute, seagrass, or cotton flatweave — in neutral tones are the most coastal choice and the most practical in a bedroom setting. Temple & Webster's jute rugs run ~$120-$350 AUD for a queen-bedroom size (240x170cm is the minimum to aim for). Kmart Australia stocks jute-look rugs from ~$49-$89 AUD if budget is tight.
 
 Avoid high-pile or plush rugs in a coastal bedroom — they read as too soft and suburban, not coastal. Low-pile, woven, or flatweave textures keep the room feeling grounded and natural.
 
@@ -110,7 +110,7 @@ Avoid high-pile or plush rugs in a coastal bedroom — they read as too soft and
 
 Harsh overhead lighting is the fastest way to undermine an otherwise well-styled coastal bedroom. The room should feel like dusk at the beach — warm, layered, and never glaring. The fix is straightforward: add bedside table lamps with warm-toned globes (2700K) and consider replacing or covering your existing ceiling fitting.
 
-A rattan pendant light above the bed is the most impactful coastal lighting choice. It adds texture, diffuses light softly, and it's the kind of detail that makes visitors ask where you got it. [Temple & Webster](https://www.templeandwebster.com.au/lighting/) carries rattan pendant shades from ~$59-$199 AUD.
+A rattan pendant light above the bed is the most impactful coastal lighting choice. It adds texture, diffuses light softly, and it's the kind of detail that makes visitors ask where you got it. Temple & Webster carries rattan pendant shades from ~$59-$199 AUD.
 
 **Key point:** Matching bedside table lamps in white ceramic, natural rattan, or brushed nickel with white fabric shades run ~$39-$99 AUD each at Temple & Webster or Kmart Australia. Buy them as a matching pair — asymmetric lamps create visual noise that works against the calm coastal feel.
 
@@ -140,7 +140,7 @@ Plants are non-negotiable in a genuinely good coastal bedroom. They add the orga
 
 The best plants for an Australian coastal bedroom are those that tolerate natural light variation and occasional drought: pothos, rubber plants, fiddle-leaf figs, and snake plants all work well. A trailing pothos on a high shelf or a tall rubber plant in the corner beside the window are the two most visually effective positions.
 
-**Key point:** [Bunnings](https://www.bunnings.com.au/our-range/garden/indoor-plants) carries a solid range of indoor plants from ~$8-$39 AUD. Pot them in white ceramic or natural terracotta — both read as coastal without competing with the rest of the room.
+**Key point:** Bunnings carries a solid range of indoor plants from ~$8-$39 AUD. Pot them in white ceramic or natural terracotta — both read as coastal without competing with the rest of the room.
 
 If you're renting, check your lease for any restrictions on indoor plants and always use saucers to protect floors from water damage. Most landlords are fine with indoor plants as long as the floor is protected.
 
@@ -152,7 +152,7 @@ The difference between a coastal bedroom that feels designed and one that feels 
 
 Focus on the bedside table surfaces and the top of the dresser. A small ceramic vase, a timber tray, a linen-wrapped candle, and a simple stack of books in matching covers is all you need. Resist the urge to fill every surface — coastal style is more restful with space to breathe.
 
-**Key point:** [Kmart Australia](https://www.kmart.com.au) is underrated for coastal accessories. Their ceramic and rattan accessory ranges have improved significantly and routinely stock good-looking vases, trays, and candle holders from ~$4-$29 AUD. [Freedom](https://www.freedom.com.au) offers a more curated range if budget allows.
+**Key point:** Kmart Australia is underrated for coastal accessories. Their ceramic and rattan accessory ranges have improved significantly and routinely stock good-looking vases, trays, and candle holders from ~$4-$29 AUD. Freedom offers a more curated range if budget allows.
 
 ---
 
@@ -160,7 +160,7 @@ Focus on the bedside table surfaces and the top of the dresser. A small ceramic 
 
 The furniture outside the bed — the dresser, wardrobe, bedside tables, and any occasional chair — should support the coastal palette without competing with it. Light timber in natural or whitewashed finishes is the most versatile coastal furniture tone. White-painted furniture reads as more Hamptons-leaning. Rattan or cane-webbing inserts on drawer fronts or cabinet doors add coastal texture to a standard piece.
 
-**Key point:** [IKEA AU](https://www.ikea.com/au/en/rooms/bedroom/) sells the HEMNES dresser in white stain from ~$399 AUD — a universally versatile coastal bedroom piece that suits almost every palette and room size. The ALEX drawer unit in white at ~$199 AUD is a practical alternative for smaller bedrooms.
+**Key point:** IKEA AU sells the HEMNES dresser in white stain from ~$399 AUD — a universally versatile coastal bedroom piece that suits almost every palette and room size. The ALEX drawer unit in white at ~$199 AUD is a practical alternative for smaller bedrooms.
 
 If you already have dark timber furniture, don't replace it — work around it. Layer white and natural linen over the bed, add a light jute rug, and let the curtains and accessories carry the coastal tone. Dark furniture disappears into the background when the textiles and lighting are right.
 
@@ -172,7 +172,7 @@ If your bedroom opens onto a balcony or has a significant window view, make it a
 
 A small rattan chair with a linen cushion positioned to catch morning light is the most classic coastal bedroom styling detail — it signals that the room is designed for relaxation, not just sleep.
 
-**Key point:** [Temple & Webster](https://www.templeandwebster.com.au/outdoor-furniture/) and [Kmart Australia](https://www.kmart.com.au) both carry small rattan accent chairs from ~$79-$299 AUD that suit this role perfectly.
+**Key point:** Temple & Webster and Kmart Australia both carry small rattan accent chairs from ~$79-$299 AUD that suit this role perfectly.
 
 If you're renting and your bedroom opens onto a balcony, this styling moment is worth pursuing — it costs very little and creates a significant lifestyle impression every morning.
 

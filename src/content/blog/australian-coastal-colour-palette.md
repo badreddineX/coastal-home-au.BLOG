@@ -1,4 +1,4 @@
----
+﻿---
 title: "Australian Coastal Colour Palette: 9 Combinations"
 description: "9 Australian coastal colour palettes that work every time — Dulux and Taubmans paint names, codes, and room-by-room application tips. Real examples included."
 image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
@@ -233,7 +233,7 @@ The Australian coastal colour palette is not a single look — it's a set of pri
 
 - **[Dulux Australia](https://www.dulux.com.au)** — full range of interior and exterior paints, colour matching service, and virtual room visualiser
 - **[Taubmans](https://www.taubmans.com.au)** — strong mid-range interior paint range with several coastal-suited colours
-- **[Bunnings](https://www.bunnings.com.au/our-range/paint)** — stocks both Dulux and Taubmans, offers in-store colour matching with physical samples; take a fabric or tile swatch, not just a phone photo
+- **Bunnings** — stocks both Dulux and Taubmans, offers in-store colour matching with physical samples; take a fabric or tile swatch, not just a phone photo
 - **[Haymes Paint](https://www.haymespaint.com.au)** — an Australian-owned alternative with a quality coastal-suited range, particularly strong in muted naturals
 
 ---

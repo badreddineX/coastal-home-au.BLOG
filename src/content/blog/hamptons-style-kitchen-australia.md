@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hamptons Style Kitchen Australia: 11 Coastal Ideas"
 description: "Get the Hamptons style kitchen look in Australia with shaker cabinets, subway tiles, stone benchtops, and brass hardware. Real AUD prices from Australian retailers."
 image: "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?auto=format&fit=crop&w=1200&q=80"
@@ -43,7 +43,7 @@ The Hamptons kitchen is the most coveted kitchen style in Australian homes right
 
 No single element defines a Hamptons kitchen more than shaker-profile cabinet doors. The recessed panel, the clean lines, the way they read as both traditional and contemporary — this is the DNA of the style. If your kitchen currently has flat-panel or heavily ornate doors, switching to shaker profile is the highest-impact upgrade you can make.
 
-The good news is you don't need to rip out your entire cabinetry to do it. Shaker doors can be retrofitted to existing cabinet boxes in most cases. [Kaboodle Kitchen](https://www.bunnings.com.au/kaboodle-kitchen) at Bunnings offers a full range of shaker-profile doors and drawer fronts from ~$180–$350 AUD per door depending on size. For a higher-end result, a local cabinet maker can supply custom shaker doors in your preferred colour and profile from ~$250–$500 AUD per door.
+The good news is you don't need to rip out your entire cabinetry to do it. Shaker doors can be retrofitted to existing cabinet boxes in most cases. Kaboodle Kitchen at Bunnings offers a full range of shaker-profile doors and drawer fronts from ~$180–$350 AUD per door depending on size. For a higher-end result, a local cabinet maker can supply custom shaker doors in your preferred colour and profile from ~$250–$500 AUD per door.
 
 **Key point:** Paint your shaker cabinet doors in Dulux Natural White or Vivid White for the classic Hamptons look. In Australian kitchens, warm white consistently outperforms cool white under our intense natural light — it glows rather than glares.
 
@@ -69,7 +69,7 @@ White subway tile is the default Hamptons splashback — and it earns its reputa
 
 The standard subway tile is 75x150mm in a glossy white ceramic finish. For a more contemporary Hamptons adaptation, a larger format tile — 100x300mm or 100x200mm — has a cleaner, more streamlined look that suits Australian kitchens well. A bevelled edge adds subtle shadow detail and depth. Grout colour matters enormously: bright white grout reads clean and contemporary, while a light grey grout adds warmth and hides everyday kitchen grime far better.
 
-**Key point:** Standard white subway tiles cost ~$25–$60 AUD per m2 from [Bunnings](https://www.bunnings.com.au/our-range/building-hardware/tiles) or tile specialists like Beaumont Tiles. A typical kitchen splashback of 3–5m2 costs ~$300–$600 AUD in tiles alone, plus installation. It's one of the best value-for-impact upgrades in this entire guide.
+**Key point:** Standard white subway tiles cost ~$25–$60 AUD per m2 from Bunnings or tile specialists like Beaumont Tiles. A typical kitchen splashback of 3–5m2 costs ~$300–$600 AUD in tiles alone, plus installation. It's one of the best value-for-impact upgrades in this entire guide.
 
 When I renovated our kitchen splashback, I chose a bevelled 75x150mm white subway tile from Beaumont Tiles (~$38 AUD per m2) with a pale grey grout from Bunnings (~$18 AUD per bag). The tiler charged ~$480 AUD for a 4.5m2 splashback including labour, and the result was genuinely transformative — the kitchen read as properly designed rather than builder-grade within three days of work.
 
@@ -83,7 +83,7 @@ Natural marble is the original Hamptons benchtop material but it's porous, acid-
 
 For a budget alternative, a white laminate benchtop with a stone-look finish costs ~$150–$350 AUD per linear metre and reads reasonably well in photographs, though it doesn't have the visual weight or longevity of stone. Timber benchtops in a bleached or natural finish suit a warmer, more casual Hamptons interpretation beautifully.
 
-**Key point:** Engineered stone benchtops cost ~$600–$1,200 AUD per linear metre installed through kitchen specialists. Timber benchtops start from ~$300–$600 AUD per linear metre. [IKEA AU](https://www.ikea.com/au/en/rooms/kitchen/) offers laminate benchtop options from ~$150 AUD per linear metre as a budget entry point.
+**Key point:** Engineered stone benchtops cost ~$600–$1,200 AUD per linear metre installed through kitchen specialists. Timber benchtops start from ~$300–$600 AUD per linear metre. IKEA AU offers laminate benchtop options from ~$150 AUD per linear metre as a budget entry point.
 
 In my own kitchen, I specified Caesarstone Calacatta Nuvo in a 20mm thickness for the island bench (~$820 AUD per linear metre installed, 2.8 linear metres total). It's now two years in and the surface still looks immaculate despite daily use and the occasional red wine incident. The engineered stone held up far better than I expected, and I've had neighbours ask if it's real marble every time they visit.
 
@@ -97,7 +97,7 @@ For a Hamptons kitchen, the clear choice is brushed brass or antique brass. It's
 
 Bar handles (long, horizontal) suit a Hamptons kitchen better than round knobs for a contemporary feel. Shaker-profile doors with long bar handles in brushed brass is one of the most recognisable Australian coastal kitchen combinations right now.
 
-**Key point:** Quality brushed brass bar handles cost ~$8–$25 AUD each from [Bunnings](https://www.bunnings.com.au/our-range/building-hardware/cabinet-hardware) hardware section. A full kitchen of 20 handles and knobs costs ~$160–$500 AUD — and the replacement takes an afternoon. This is the single most cost-effective Hamptons kitchen upgrade available.
+**Key point:** Quality brushed brass bar handles cost ~$8–$25 AUD each from Bunnings hardware section. A full kitchen of 20 handles and knobs costs ~$160–$500 AUD — and the replacement takes an afternoon. This is the single most cost-effective Hamptons kitchen upgrade available.
 
 When I renovated, I replaced 22 flat chrome handles with brushed brass 160mm bar handles from Bunnings (~$12 AUD each, total $264 AUD). The swap took a Saturday afternoon with just a screwdriver. The kitchen looked like a different room when I finished — the warmth the brass brought to the white cabinetry was genuinely surprising for a change that cost under $300 AUD.
 
@@ -109,7 +109,7 @@ Open shelving is the element that makes a Hamptons kitchen feel lived-in and sty
 
 The common mistake is over-filling open shelves. The Hamptons approach is restrained: a few carefully chosen pieces with deliberate spacing between them. White ceramic canisters, a timber chopping board stood upright, a small coastal plant, some simple stacked plates in white. These are the items that photograph beautifully and age well.
 
-**Key point:** Floating timber shelves in raw oak or a whitewashed finish cost ~$80–$200 AUD per shelf from [Bunnings](https://www.bunnings.com.au/our-range/building-hardware) or a local timber supplier. The brackets should be substantial enough to carry weight — avoid flimsy concealed brackets for shelves that will hold ceramics. For renters, a freestanding shelving unit works just as well and requires no wall fixing.
+**Key point:** Floating timber shelves in raw oak or a whitewashed finish cost ~$80–$200 AUD per shelf from Bunnings or a local timber supplier. The brackets should be substantial enough to carry weight — avoid flimsy concealed brackets for shelves that will hold ceramics. For renters, a freestanding shelving unit works just as well and requires no wall fixing.
 
 
 ---
@@ -122,7 +122,7 @@ Brushed brass or aged brass is the first choice for a true Hamptons look. It con
 
 The most Hamptons-appropriate tap profile is a high-arc or gooseneck form — the tall, arched spout that lets you fill large pots without difficulty and reads visually as confident and deliberate.
 
-**Key point:** A quality brushed brass kitchen mixer tap costs ~$180–$500 AUD from [Bunnings](https://www.bunnings.com.au/our-range/bathroom-plumbing) or specialist tapware retailers. Cheaper alternatives from IKEA AU or Bunnings' own range start from ~$80–$150 AUD. Hire a licensed plumber for installation — it's not worth DIY-ing tapware for the sake of $150 in labour.
+**Key point:** A quality brushed brass kitchen mixer tap costs ~$180–$500 AUD from Bunnings or specialist tapware retailers. Cheaper alternatives from IKEA AU or Bunnings' own range start from ~$80–$150 AUD. Hire a licensed plumber for installation — it's not worth DIY-ing tapware for the sake of $150 in labour.
 
 ---
 
@@ -134,7 +134,7 @@ The classic Hamptons pendant is a rattan or woven shade, or a glass dome with br
 
 Hang them low enough to be impactful — the bottom of the shade should sit approximately 750–850mm above the benchtop surface. Pair them in a set of two or three over a long island for a balanced, considered look.
 
-**Key point:** Quality rattan or woven pendant lights cost ~$80–$250 AUD each from [Temple & Webster](https://www.templeandwebster.com.au/lighting/) or [Freedom](https://www.freedom.com.au/lighting/). Glass schoolhouse pendants with brass fittings start from ~$120–$350 AUD each. [IKEA AU](https://www.ikea.com/au/en/cat/pendant-lamps-10732/) carries budget-friendly rattan-style pendants from ~$39–$69 AUD that read well in the space.
+**Key point:** Quality rattan or woven pendant lights cost ~$80–$250 AUD each from Temple & Webster or Freedom. Glass schoolhouse pendants with brass fittings start from ~$120–$350 AUD each. IKEA AU carries budget-friendly rattan-style pendants from ~$39–$69 AUD that read well in the space.
 
 ---
 
@@ -159,7 +159,7 @@ The classic Hamptons benchtop vignette: a timber chopping board stood upright ag
 
 Conceal everyday appliances — the toaster, the coffee machine, the blender — in an appliance garage or inside the cabinetry where possible. A clear benchtop reads as more generous and expensive regardless of what the cabinetry beneath it looks like.
 
-**Key point:** A set of three white ceramic canisters costs ~$40–$120 AUD from [Temple & Webster](https://www.templeandwebster.com.au/kitchen/) or [Adairs](https://www.adairs.com.au/kitchen/). A good quality timber chopping board costs ~$30–$80 AUD. These two items alone — placed on a cleared benchtop — shift the entire feel of the kitchen toward Hamptons instantly.
+**Key point:** A set of three white ceramic canisters costs ~$40–$120 AUD from Temple & Webster or Adairs. A good quality timber chopping board costs ~$30–$80 AUD. These two items alone — placed on a cleared benchtop — shift the entire feel of the kitchen toward Hamptons instantly.
 
 ---
 
@@ -171,7 +171,7 @@ In Australia, engineered timber flooring is more practical than solid timber in 
 
 For tile lovers, a large-format stone-look porcelain tile in white or pale grey reads beautifully in a Hamptons kitchen — it's also the most practical option for households with young children and pets, given its near-indestructibility.
 
-**Key point:** Engineered timber flooring for a kitchen costs ~$60–$150 AUD per m2 for materials, plus installation. Porcelain stone-look tiles range from ~$35–$90 AUD per m2. Both are available through [Bunnings](https://www.bunnings.com.au/our-range/building-hardware/tiles) and specialist flooring retailers across Australia.
+**Key point:** Engineered timber flooring for a kitchen costs ~$60–$150 AUD per m2 for materials, plus installation. Porcelain stone-look tiles range from ~$35–$90 AUD per m2. Both are available through Bunnings and specialist flooring retailers across Australia.
 
 ---
 

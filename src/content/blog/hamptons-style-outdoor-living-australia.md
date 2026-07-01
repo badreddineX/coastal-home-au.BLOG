@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hamptons Outdoor Living: Creating the Perfect Alfresco Space"
 description: "Bring the Hamptons outdoor living aesthetic to Australia with white timber, navy accents, and coastal textures. Built for alfresco living with real AUD prices."
 image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1200&q=80"
@@ -47,7 +47,7 @@ Keep the ratio roughly 70% white, 20% navy, 10% natural. Add any other colour an
 
 Yes — more than any other single element. A white-painted [pergola](/blog/01-pergola-entertaining-ideas-australia) or verandah is the structural foundation of the look. If you're building from scratch, choose a classic colonial profile with simple beam detailing and no fussy ornament. If you're working with what you already have, a fresh coat of white paint on an existing pergola can transform the space in a weekend.
 
-**Always check with your local council before erecting any permanent structure.** Most Australian local councils require a development application or at least a building notification for pergolas over a certain size. [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) stocks quality exterior white paint from ~$65–$200 AUD depending on coverage area. Add a ceiling fan in white and you have the bones of something genuinely beautiful.
+**Always check with your local council before erecting any permanent structure.** Most Australian local councils require a development application or at least a building notification for pergolas over a certain size. Bunnings stocks quality exterior white paint from ~$65–$200 AUD depending on coverage area. Add a ceiling fan in white and you have the bones of something genuinely beautiful.
 
 For renters, the pergola paint and structures are off-limits — but rugs, cushions, lighting, and potted plants can fully transform a shared outdoor space.
 
@@ -64,7 +64,7 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 - A daybed or outdoor sofa with navy-stripe cushions (~$500–$1,800 AUD)
 - Side tables in natural timber or white (~$80–$300 AUD)
 
-**The most durable choice for Australian conditions is powder-coated aluminium painted white.** It won't warp, rust, or bleach out in direct sun the way timber can. [Outdoor Elegance](https://www.outdoorelegance.com.au/) carries premium aluminium and teak sets in the right Hamptons profile. [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) offers excellent mid-range dining and lounge pieces if you want to keep the budget sensible. [Freedom](https://www.freedom.com.au/outdoor/) sits between the two — reliable Hamptons-style furniture that holds up well outdoors.
+**The most durable choice for Australian conditions is powder-coated aluminium painted white.** It won't warp, rust, or bleach out in direct sun the way timber can. [Outdoor Elegance](https://www.outdoorelegance.com.au/) carries premium aluminium and teak sets in the right Hamptons profile. Temple & Webster offers excellent mid-range dining and lounge pieces if you want to keep the budget sensible. Freedom sits between the two — reliable Hamptons-style furniture that holds up well outdoors.
 
 ---
 
@@ -72,7 +72,7 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 
 Because it does more visual work per dollar than almost anything else out there. A navy-and-white stripe outdoor rug placed under the dining table anchors the whole alfresco, signals the Hamptons palette immediately, and makes a bare concrete or timber deck look intentional.
 
-**A quality outdoor rug in navy stripe costs ~$150–$500 AUD** and will last three to five years with reasonable care. [Temple & Webster](https://www.templeandwebster.com.au/outdoor/) and [Adairs](https://www.adairs.com.au/outdoor/) both carry the right patterns. For a budget version that still reads well from a distance, [Kmart](https://www.kmart.com.au/category/home/outdoor/) regularly stocks navy-and-white stripe outdoor rugs from ~$49–$89 AUD. I'd size up rather than down — a rug that's too small makes the furniture look like it's floating.
+**A quality outdoor rug in navy stripe costs ~$150–$500 AUD** and will last three to five years with reasonable care. Temple & Webster and Adairs both carry the right patterns. For a budget version that still reads well from a distance, Kmart regularly stocks navy-and-white stripe outdoor rugs from ~$49–$89 AUD. I'd size up rather than down — a rug that's too small makes the furniture look like it's floating.
 
 ![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
 
@@ -82,7 +82,7 @@ Because it does more visual work per dollar than almost anything else out there.
 
 Layered. The mistake most people make is relying on a single overhead fixture. The Hamptons look uses at least three light sources at different heights: festoon string lights strung along the pergola beams, pendant lights over the dining table, and lanterns at ground level.
 
-**Warm white festoon lights (2,700K colour temperature) are the non-negotiable starting point.** A 10–20 metre string costs ~$60–$150 AUD at [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) or [Kmart](https://www.kmart.com.au/category/home/outdoor/). Run them in parallel rows across the pergola beams rather than in a single strand for that full canopy effect. Add one or two white or brass outdoor pendant lights over the dining table (~$120–$400 AUD from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/)) and scatter three to five white lanterns at varying heights around the lounge area.
+**Warm white festoon lights (2,700K colour temperature) are the non-negotiable starting point.** A 10–20 metre string costs ~$60–$150 AUD at Bunnings or Kmart. Run them in parallel rows across the pergola beams rather than in a single strand for that full canopy effect. Add one or two white or brass outdoor pendant lights over the dining table (~$120–$400 AUD from Temple & Webster) and scatter three to five white lanterns at varying heights around the lounge area.
 
 I've found that switching to warm white globes — even in an existing fixture — makes a bigger difference than replacing the whole fitting. It's a $15 swap that changes the entire mood of the space after dark.
 
@@ -92,9 +92,9 @@ I've found that switching to warm white globes — even in an existing fixture �
 
 The textiles are what make a Hamptons outdoor space feel finished rather than just furnished. Every piece should be outdoor-rated — Australian UV exposure destroys standard indoor fabric within one season.
 
-- **Outdoor cushions** in white, cream, and navy stripe, mix plain and patterned (~$30–$80 AUD each from [Adairs](https://www.adairs.com.au/outdoor/) or [Kmart](https://www.kmart.com.au/category/home/outdoor/))
-- **Throw blankets** in a white wicker basket for cool evenings (~$40–$120 AUD, look for outdoor-rated versions in navy or natural from [Adairs](https://www.adairs.com.au/outdoor/))
-- **Linen-look outdoor curtains** on the pergola for privacy and afternoon shade, white, tied back with nautical rope (~$80–$200 AUD per panel from [Temple & Webster](https://www.templeandwebster.com.au/outdoor/))
+- **Outdoor cushions** in white, cream, and navy stripe, mix plain and patterned (~$30–$80 AUD each from Adairs or Kmart)
+- **Throw blankets** in a white wicker basket for cool evenings (~$40–$120 AUD, look for outdoor-rated versions in navy or natural from Adairs)
+- **Linen-look outdoor curtains** on the pergola for privacy and afternoon shade, white, tied back with nautical rope (~$80–$200 AUD per panel from Temple & Webster)
 
 All of these are replaceable and storable. They're the right first step for anyone testing the Hamptons look before committing to permanent changes. Store cushions inside during heavy rain regardless of their outdoor rating — it extends their life significantly.
 
@@ -106,7 +106,7 @@ All of these are replaceable and storable. They're the right first step for anyo
 
 Structure first, then softness. The classic Hamptons plant is a clipped standard — a bay tree or olive tree trained into a lollipop shape and potted in a white rendered or powder-coated pot. It signals formality and care without being fussy.
 
-**Two matched standard plants flanking the pergola entry cost ~$40–$100 AUD each** for a reasonable-sized specimen. In Australian conditions, a clipped Westringia or Murraya makes a far more practical substitute. Both are drought-tolerant, fast-growing, and clip well. Place them in plain white pots (~$30–$80 AUD from [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining)) and they read identically to the classic Hamptons look from any distance.
+**Two matched standard plants flanking the pergola entry cost ~$40–$100 AUD each** for a reasonable-sized specimen. In Australian conditions, a clipped Westringia or Murraya makes a far more practical substitute. Both are drought-tolerant, fast-growing, and clip well. Place them in plain white pots (~$30–$80 AUD from Bunnings) and they read identically to the classic Hamptons look from any distance.
 
 The mistake I see most often is choosing pots that are too small. The pot should be about a third of the plant's total height. Undersized pots make even beautiful plants look like afterthoughts.
 
@@ -118,9 +118,9 @@ Layer in some coastal natives — lomandra, coastal rosemary, or pig face ground
 
 The right accessories do two jobs: they're functional, and they signal the aesthetic at a glance. A few well-chosen pieces outperform a dozen cheap additions every time.
 
-- **White ceramic or enamel serveware** for the outdoor table (~$40–$150 AUD, [Temple & Webster](https://www.templeandwebster.com.au/outdoor/))
-- **A white or natural rattan drinks trolley** as a bar station (~$150–$400 AUD, [Freedom](https://www.freedom.com.au/outdoor/) or [Temple & Webster](https://www.templeandwebster.com.au/outdoor/))
-- **White or brass hurricane lanterns** with pillar candles, grouped in threes (~$20–$60 AUD each, [Kmart](https://www.kmart.com.au/category/home/outdoor/) or [Adairs](https://www.adairs.com.au/outdoor/))
+- **White ceramic or enamel serveware** for the outdoor table (~$40–$150 AUD, Temple & Webster)
+- **A white or natural rattan drinks trolley** as a bar station (~$150–$400 AUD, Freedom or Temple & Webster)
+- **White or brass hurricane lanterns** with pillar candles, grouped in threes (~$20–$60 AUD each, Kmart or Adairs)
 - **A chalk or timber menu board** leaned against the wall for a relaxed entertaining touch (~$30–$80 AUD)
 
 Keep the trolley stocked and styled even when you're not entertaining. An outdoor space that looks ready to host is one you'll actually use during the week.
@@ -133,7 +133,7 @@ It's always the small things. The Hamptons look relies on a handful of repeating
 
 Brass or matte white hardware on pendant lights, lanterns, and even the garden hose reel keeps the metal finishes consistent. Rope, jute, and woven textures — in a doormat, a planter basket, or a lamp base — add the coastal warmth that stops the white-on-white palette from feeling cold.
 
-**A striped black-and-white or navy-and-white outdoor doormat from [Kmart](https://www.kmart.com.au/category/home/outdoor/) for ~$15–$25 AUD** is the least-discussed Hamptons detail that experienced stylists never skip. It grounds the entry point of the alfresco and signals the palette before anyone looks up.
+**A striped black-and-white or navy-and-white outdoor doormat from Kmart for ~$15–$25 AUD** is the least-discussed Hamptons detail that experienced stylists never skip. It grounds the entry point of the alfresco and signals the palette before anyone looks up.
 
 In my experience styling Gold Coast outdoor spaces, the single question I get asked most is "why does mine not look as finished?" Almost every time, the answer is missing the small repeated details: a coherent metal finish, a mat, and matched pots. Fix those three things and the space reads as intentional immediately.
 
@@ -144,13 +144,13 @@ In my experience styling Gold Coast outdoor spaces, the single question I get as
 You don't need to spend a fortune to get the look right. These are the retailers I return to most.
 
 - **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium Hamptons outdoor furniture, best quality-to-longevity ratio
-- **[Temple & Webster](https://www.templeandwebster.com.au/outdoor/)** — excellent mid-range outdoor dining, lounge, and lighting
-- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining)** — white pergola paint, structure elements, plants, and pots
-- **[Kmart](https://www.kmart.com.au/category/home/outdoor/)** — budget-friendly cushions, rugs, and accessories that genuinely punch above their weight
-- **[Adairs](https://www.adairs.com.au/outdoor/)** — outdoor textiles, cushions, and throws in the right coastal palette
-- **[Freedom](https://www.freedom.com.au/outdoor/)** — Hamptons-style outdoor lounge and dining at reliable mid-range prices
+- **Temple & Webster** — excellent mid-range outdoor dining, lounge, and lighting
+- **Bunnings** — white pergola paint, structure elements, plants, and pots
+- **Kmart** — budget-friendly cushions, rugs, and accessories that genuinely punch above their weight
+- **Adairs** — outdoor textiles, cushions, and throws in the right coastal palette
+- **Freedom** — Hamptons-style outdoor lounge and dining at reliable mid-range prices
 
-Mix levels freely. I regularly pair a [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining) pergola repaint with [Outdoor Elegance](https://www.outdoorelegance.com.au/) dining chairs and [Kmart](https://www.kmart.com.au/category/home/outdoor/) cushions. Nobody can tell the difference once it's all styled together.
+Mix levels freely. I regularly pair a Bunnings pergola repaint with [Outdoor Elegance](https://www.outdoorelegance.com.au/) dining chairs and Kmart cushions. Nobody can tell the difference once it's all styled together.
 
 ---
 

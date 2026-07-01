@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coastal Dining Room Australia: 11 Light, Relaxed Ideas"
 description: "Style a coastal dining room in Australia with the right table, rattan pendant lighting, and colour palette. AUD prices from retailers including Temple and Webster."
 image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
@@ -48,7 +48,7 @@ The table is the anchor of your dining room, and for a coastal look, the choice 
 
 Timber is the natural choice for material. Look for white-painted timber, whitewashed or limed oak, or a warm natural timber with a matte rather than gloss finish. High-gloss finishes read formal; matte and brushed finishes read coastal.
 
-**Key point:** A round 120cm timber dining table from [Temple & Webster](https://www.templeandwebster.com.au/) costs ~$250-$600 AUD, with excellent quality options sitting around the ~$350-$450 AUD mark.
+**Key point:** A round 120cm timber dining table from Temple & Webster costs ~$250-$600 AUD, with excellent quality options sitting around the ~$350-$450 AUD mark.
 
 *If renting, a freestanding dining table obviously requires no landlord permission. Focus on the table's finish and shape — these contribute more to the coastal look than any wall treatment.*
 
@@ -67,7 +67,7 @@ Chair options that work well for an Australian coastal dining room:
 - **White cross-back timber chairs** — clean, classic, very widely available, suit both Hamptons and coastal styles.
 - **Bentwood timber chairs** in natural or white — simple, lightweight, and easy to mix with other pieces.
 
-**Key point:** A set of 4 rattan-backed dining chairs from [Temple & Webster](https://www.templeandwebster.com.au/) or [Adairs](https://www.adairs.com.au/) costs ~$480-$1,400 AUD depending on quality.
+**Key point:** A set of 4 rattan-backed dining chairs from Temple & Webster or Adairs costs ~$480-$1,400 AUD depending on quality.
 
 
 
@@ -83,11 +83,11 @@ The size matters more than most people expect. A pendant that's too small will l
 
  After testing pendants at three different heights in my own dining room, 75cm from the tabletop produced the best combination of intimate atmosphere and practical light spread for a 90cm round table with four seats. Going lower than 70cm felt too close; higher than 85cm lost the warmth entirely.
 
-- [Adairs](https://www.adairs.com.au/) stocks woven rattan pendants from ~$130-$350 AUD.
-- [Temple & Webster](https://www.templeandwebster.com.au/) has the widest range, from ~$80-$500 AUD.
-- [Kmart](https://www.kmart.com.au) has budget rattan-look pendants from ~$35-$65 AUD that work surprisingly well in smaller rooms.
+- Adairs stocks woven rattan pendants from ~$130-$350 AUD.
+- Temple & Webster has the widest range, from ~$80-$500 AUD.
+- Kmart has budget rattan-look pendants from ~$35-$65 AUD that work surprisingly well in smaller rooms.
 
-**Key point:** A quality rattan or woven pendant from [Temple & Webster](https://www.templeandwebster.com.au/) costs ~$120-$300 AUD installed, and is the highest-impact single upgrade in a coastal dining room.
+**Key point:** A quality rattan or woven pendant from Temple & Webster costs ~$120-$300 AUD installed, and is the highest-impact single upgrade in a coastal dining room.
 
 ![Rattan pendant light hanging over a round timber dining table in a bright coastal dining room](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=80)
 
@@ -107,7 +107,7 @@ From that white base, layer in:
 
 Avoid bright saturated blues. They look fresh in a magazine and out of place in a real room. The Australian coastal palette is muted, sun-bleached, and warm, not cruise-ship blue.
 
-**Key point:** Dulux Antique White USA (available at [Bunnings](https://www.bunnings.com.au/our-range/paint)) costs ~$60-$90 AUD for 4L, enough for a standard dining room with two coats.
+**Key point:** Dulux Antique White USA (available at Bunnings) costs ~$60-$90 AUD for 4L, enough for a standard dining room with two coats.
 
 *If renting, a removable wallpaper panel behind a sideboard or bar cart can introduce texture and subtle pattern without permanent wall changes.*
 
@@ -124,7 +124,7 @@ The coastal dining table textile formula is simple:
 - **Linen napkins** in white or stone — these are the single best-value textile upgrade in any dining room.
 - **A low centrepiece** — a wooden bowl with shells, a cluster of white candles, or a small vase of local wildflowers or natives.
 
-**Key point:** A set of 4 linen napkins from [Adairs](https://www.adairs.com.au/) costs ~$25-$50 AUD. A jute placemat set of 4-6 from [Kmart](https://www.kmart.com.au) or [Temple & Webster](https://www.templeandwebster.com.au/) costs ~$15-$40 AUD.
+**Key point:** A set of 4 linen napkins from Adairs costs ~$25-$50 AUD. A jute placemat set of 4-6 from Kmart or Temple & Webster costs ~$15-$40 AUD.
 
 
 
@@ -142,7 +142,7 @@ For a coastal dining room, the best rug choices are:
 - **Cotton flatweave rugs** in white or natural stripes — easy to clean, cool underfoot in summer.
 - **Woven seagrass rugs** — authentic coastal texture, handles dining room traffic well.
 
-**Key point:** A 200x300cm natural jute or cotton flatweave rug from [Temple & Webster](https://www.templeandwebster.com.au/) or [Adairs](https://www.adairs.com.au/) costs ~$150-$400 AUD.
+**Key point:** A 200x300cm natural jute or cotton flatweave rug from Temple & Webster or Adairs costs ~$150-$400 AUD.
 
 ---
 
@@ -159,7 +159,7 @@ What to look for:
 - **Original work from Australian artists** on platforms like Art Lovers Australia or through local markets.
 - **Avoid:** mass-produced nautical wall art with anchors, ropes, and starfish motifs. These read as costume rather than style.
 
-**Key point:** Quality coastal art prints with frames from Australian online galleries or [Temple & Webster](https://www.templeandwebster.com.au/) start from ~$80-$250 AUD for a statement size.
+**Key point:** Quality coastal art prints with frames from Australian online galleries or Temple & Webster start from ~$80-$250 AUD for a statement size.
 
 ![Large abstract coastal artwork on white wall beside a bright dining room window](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
 
@@ -178,7 +178,7 @@ A simple sideboard formula that works:
 
 Keep it to five items or fewer. More than that reads cluttered, which is the opposite of coastal.
 
-**Key point:** A quality timber or white-painted sideboard from [Temple & Webster](https://www.templeandwebster.com.au/) costs ~$350-$900 AUD and adds significant storage and styling space to a dining room.
+**Key point:** A quality timber or white-painted sideboard from Temple & Webster costs ~$350-$900 AUD and adds significant storage and styling space to a dining room.
 
 ---
 
@@ -194,7 +194,7 @@ The best window treatments for a coastal dining room:
 
 Avoid heavy blockout curtains in a coastal dining room. Save those for bedrooms. The dining room should feel as connected to the outdoors as possible.
 
-**Key point:** Sheer linen curtains per panel from [Adairs](https://www.adairs.com.au/) cost ~$50-$130 AUD. Woven Roman blinds from [Temple & Webster](https://www.templeandwebster.com.au/) start from ~$80-$200 AUD per window.
+**Key point:** Sheer linen curtains per panel from Adairs cost ~$50-$130 AUD. Woven Roman blinds from Temple & Webster start from ~$80-$200 AUD per window.
 
 *If renting, tension curtain rods allow you to hang linen sheers without drilling into walls or window frames.*
 
@@ -215,7 +215,7 @@ Accessories that work well:
 - **White ceramic tableware** with simple forms and no pattern — compatible with everything.
 - **Natural wax pillar candles** in white or undyed natural tone.
 
-**Key point:** Recycled glass tumblers from [Adairs](https://www.adairs.com.au/) or [Temple & Webster](https://www.templeandwebster.com.au/) cost ~$8-$18 AUD each and add soft colour to a table without competing with other elements.
+**Key point:** Recycled glass tumblers from Adairs or Temple & Webster cost ~$8-$18 AUD each and add soft colour to a table without competing with other elements.
 
 ---
 
@@ -235,7 +235,7 @@ A practical sequencing for a complete coastal dining room:
 6. **Textiles and tabletop** — runner, placemats, napkins, centrepiece (~$60-$200 AUD)
 7. **Artwork** — the finishing statement (~$80-$300 AUD)
 
-**Key point:** A complete coastal dining room can be achieved for ~$1,300-$3,950 AUD done in stages over several months, or less if you shop sales and mix [Kmart](https://www.kmart.com.au) budget picks with one or two quality anchor pieces.
+**Key point:** A complete coastal dining room can be achieved for ~$1,300-$3,950 AUD done in stages over several months, or less if you shop sales and mix Kmart budget picks with one or two quality anchor pieces.
 
 ---
 

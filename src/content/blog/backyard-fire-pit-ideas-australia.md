@@ -1,4 +1,4 @@
----
+﻿---
 title: "Backyard Fire Pit Ideas for Australian Homes (2026)"
 description: "The best backyard fire pit ideas for Australian homes — built-in stone pits to portable bowls. Create a great evening outdoor space with AUD prices and safety tips."
 image: "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1200&q=80"
@@ -31,7 +31,7 @@ There's something primal about gathering around a fire. In Australia, where we l
 
 ![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80)
 
-The three main options are portable steel bowls, built-in stone or concrete pits, and gas fire pits. Each suits a different backyard, budget, and lifestyle. **Portable bowls start at ~$80 AUD at [Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-heating/fire-pits), built-in stone pits run ~$500–$3,000 AUD installed, and gas units typically cost ~$600–$2,000 AUD.** Your tenure matters too: owners can invest in permanent structures, while renters need a removable solution.
+The three main options are portable steel bowls, built-in stone or concrete pits, and gas fire pits. Each suits a different backyard, budget, and lifestyle. **Portable bowls start at ~$80 AUD at Bunnings, built-in stone pits run ~$500–$3,000 AUD installed, and gas units typically cost ~$600–$2,000 AUD.** Your tenure matters too: owners can invest in permanent structures, while renters need a removable solution.
 
 **Portable Steel Fire Bowls** are the most flexible option. They sit on legs, move around the yard easily, and store away when not needed. Look for thick-gauge steel, a spark guard included, and legs that keep the bowl safely off the ground. **Renters: portable fire bowls are the ideal solution — they're affordable, fully removable, and don't require council approval in most areas.**
 
@@ -67,7 +67,7 @@ Split, seasoned hardwood is the ideal fuel. Stack it off the ground with airflow
 
 ## 5. How Should You Arrange Seating Around a Fire Pit?
 
-Good seating design is what turns a fire pit into a social space. **Budget ~$200–$1,200 AUD for a complete seating setup — a four-chair arrangement in powder-coated steel or teak starts around $400 AUD at [Temple & Webster](https://www.templeandwebster.com.au/Fire-Pits-C1811433.html) or Bunnings.** The shape and height of the seating matters as much as the material.
+Good seating design is what turns a fire pit into a social space. **Budget ~$200–$1,200 AUD for a complete seating setup — a four-chair arrangement in powder-coated steel or teak starts around $400 AUD at Temple & Webster or Bunnings.** The shape and height of the seating matters as much as the material.
 
 Low-slung chairs invite people to settle in and stay. Adirondack-style chairs, low outdoor lounges, and floor cushions on a sturdy outdoor rug all work well around a fire. Keep seating at least 1.5 metres from the edge of the pit — close enough for warmth, far enough for safety and comfort.
 
@@ -117,10 +117,10 @@ Keep a pile of dry wood close enough to add to the fire without leaving the grou
 
 ## 10. Where to Buy Fire Pits in Australia
 
-Finding the right supplier depends on your budget and what type of pit you're after. **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-heating/fire-pits) covers the entry-level range from ~$80–$300 AUD, while [Outdoor Elegance](https://www.outdoorelegance.com.au/) handles the premium built-in and freestanding category for serious outdoor spaces.**
+Finding the right supplier depends on your budget and what type of pit you're after. **Bunnings covers the entry-level range from ~$80–$300 AUD, while [Outdoor Elegance](https://www.outdoorelegance.com.au/) handles the premium built-in and freestanding category for serious outdoor spaces.**
 
-- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-heating/fire-pits)** — best range of entry-level portable steel fire bowls from ~$80–$300 AUD
-- **[Temple & Webster](https://www.templeandwebster.com.au/Fire-Pits-C1811433.html)** — better-looking design options in corten steel and stone from ~$200–$800 AUD
+- **Bunnings** — best range of entry-level portable steel fire bowls from ~$80–$300 AUD
+- **Temple & Webster** — better-looking design options in corten steel and stone from ~$200–$800 AUD
 - **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium built-in and freestanding options for serious outdoor spaces
 - **[Barbeques Galore](https://www.barbequesgalore.com.au/)** — strong range of gas fire pits if you prefer the smoke-free option
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beach House Furniture Australia: 11 Must-Have Pieces"
 description: "The 11 furniture pieces every Australian beach house needs — materials that handle salt air, humidity, and UV. Real AUD prices from top Australian retailers."
 image: "https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=1200&q=80"
@@ -258,11 +258,11 @@ Good beach house furniture isn't about buying everything at once — it's about 
 
 ## Where to Shop for Beach House Furniture in Australia
 
-- **[Temple & Webster](https://www.templeandwebster.com.au/coastal-furniture/)** — widest online range of coastal furniture at mid-range prices, fast Australian delivery
-- **[Freedom](https://www.freedom.com.au/furniture/)** — quality coastal sofas, dining furniture, and bedheads, in-store and online
+- **Temple & Webster** — widest online range of coastal furniture at mid-range prices, fast Australian delivery
+- **Freedom** — quality coastal sofas, dining furniture, and bedheads, in-store and online
 - **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium outdoor furniture in teak and aluminium built for Australian coastal conditions
-- **[IKEA AU](https://www.ikea.com/au/en/cat/furniture-fu001/)** — budget-friendly coastal furniture including linen sofas, rattan dining chairs, and outdoor ranges
-- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-furniture)** — entry-level outdoor furniture, sun loungers, and storage solutions
+- **IKEA AU** — budget-friendly coastal furniture including linen sofas, rattan dining chairs, and outdoor ranges
+- **Bunnings** — entry-level outdoor furniture, sun loungers, and storage solutions
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coastal Bathroom Decor Ideas for Australian Homes (2026)"
 description: "Transform your bathroom into a coastal retreat with natural textures, soft blues, and rattan accents. Renter-friendly Australian ideas with real AUD prices."
 image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1200&q=80"
@@ -65,7 +65,7 @@ Renters: skip this section and put that energy into Section 3.
 
 ## 3. What Mirror Should You Choose?
 
-A rattan or timber-framed mirror is the single highest-impact coastal accessory you can add to a bathroom. It works over any existing mirror, suits any wall colour, and costs a fraction of a renovation. [Temple & Webster](https://www.templeandwebster.com.au/Bathroom-Accessories-C1811429.html) stocks a solid range from ~$45–$150 AUD, including round rattan frames in several sizes.
+A rattan or timber-framed mirror is the single highest-impact coastal accessory you can add to a bathroom. It works over any existing mirror, suits any wall colour, and costs a fraction of a renovation. Temple & Webster stocks a solid range from ~$45–$150 AUD, including round rattan frames in several sizes.
 
 I went with a 70cm round rattan frame mirror from Temple & Webster in my Gold Coast bathroom. It went up with two Command strips, cost $89, and was the single most commented-on change every visitor noticed.
 
@@ -91,7 +91,7 @@ Renters: globe swaps are always renter-friendly. Just keep the originals and swa
 
 In my experience testing coastal bathroom styling across several Australian homes, towels consistently deliver the highest visible return for money spent — more than any other single accessory. The difference between a standard cotton towel and a white waffle-weave hung neatly on a hook is genuinely dramatic.
 
-[Adairs](https://www.adairs.com.au/bathroom/) waffle weave towels in white or sand tones start from ~$20–$60 AUD per towel, depending on size. They're thicker than standard hotel towels, dry faster, and look coastal whether they're folded or hanging.
+Adairs waffle weave towels in white or sand tones start from ~$20–$60 AUD per towel, depending on size. They're thicker than standard hotel towels, dry faster, and look coastal whether they're folded or hanging.
 
 **Bold key point:** Buy two bath towels, two hand towels, and one bath sheet in white or sandy linen tone. That's a complete set for ~$120–$180 AUD at Adairs and it transforms a bathroom shelf or towel rail instantly.
 
@@ -180,11 +180,11 @@ The order above matters. Most styling guides suggest mirrors or plants first. In
 
 ## Where to Shop for Coastal Bathroom Accessories in Australia
 
-- **[Adairs](https://www.adairs.com.au/bathroom/)** — waffle towels, bath mats, and bathroom accessories in coastal-friendly tones
-- **[Temple & Webster](https://www.templeandwebster.com.au/Bathroom-Accessories-C1811429.html)** — rattan mirrors, woven baskets, teak bath mats, and decorative accessories
+- **Adairs** — waffle towels, bath mats, and bathroom accessories in coastal-friendly tones
+- **Temple & Webster** — rattan mirrors, woven baskets, teak bath mats, and decorative accessories
 - **[Beaumont Tiles](https://www.beaumont-tiles.com.au/)** — zellige, terrazzo, and stone-look tiles at accessible price points
 - **[Ecoya](https://www.ecoya.com.au/)** — Australian coastal-scented candles and reed diffusers available at Myer and David Jones
-- **[Kmart](https://www.kmart.com.au/category/home/bathroom/)** — rattan baskets, rechargeable lamps, and soap accessories at budget prices
+- **Kmart** — rattan baskets, rechargeable lamps, and soap accessories at budget prices
 
 ---
 

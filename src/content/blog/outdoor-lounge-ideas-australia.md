@@ -1,4 +1,4 @@
----
+﻿---
 title: "Outdoor Lounge Ideas Australia: 10 Alfresco Tips"
 description: "10 outdoor lounge ideas for Australian homes — furniture, shade, rugs, cushions, lighting & layout tips. Real AUD prices from Temple & Webster, Bunnings & Adairs."
 image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80"
@@ -227,11 +227,11 @@ The outdoor lounge zone is the Australian home at its most relaxed and most genu
 
 ## Where to Shop for Outdoor Lounge Furniture in Australia
 
-- **[Temple & Webster](https://www.templeandwebster.com.au/outdoor/Lounge-Sets~cOLS.html)** — widest range of outdoor lounge settings in Australia, excellent quality-to-price ratio
+- **Temple & Webster** — widest range of outdoor lounge settings in Australia, excellent quality-to-price ratio
 - **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium teak and aluminium outdoor furniture, investment-grade quality
-- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-furniture/outdoor-lounge-sets)** — shade sails, budget outdoor lounge sets, and misting systems
-- **[Adairs](https://www.adairs.com.au/outdoor/)** — outdoor cushions, throws, and coastal accessories
-- **[Kmart Australia](https://www.kmart.com.au/category/home/outdoor/outdoor-furniture/)** — budget outdoor chairs, ceramic stools, and lanterns that genuinely work
+- **Bunnings** — shade sails, budget outdoor lounge sets, and misting systems
+- **Adairs** — outdoor cushions, throws, and coastal accessories
+- **Kmart Australia** — budget outdoor chairs, ceramic stools, and lanterns that genuinely work
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Outdoor BBQ Area Ideas for Australian Backyards (2026)"
 description: "Design the ultimate outdoor BBQ area for your Australian backyard — from built-in kitchens to simple BBQ setups. Real AUD prices and specific product recommendations."
 image: "https://images.unsplash.com/photo-1432139555190-58524dae6a55?auto=format&fit=crop&w=1200&q=80"
@@ -41,7 +41,7 @@ I always recommend starting with a freestanding setup if you're new to [outdoor 
 
 Not every BBQ sold in Australia is built for Australian conditions. Coastal humidity, UV exposure, and wide temperature swings take a real toll on cheaper units within two or three seasons.
 
-In my experience, the brands that hold up best are the ones with solid stainless steel construction and proper burner warranties. [BeefEater](https://www.beefeaterbbq.com.au/) is Australian-owned and genuinely built for our climate. [Weber](https://www.weber.com/AU/en/grills/) backs their grills with a ten-year warranty and has excellent local support. [Everdure by Heston](https://everdure.com/en-au/) is the premium design-forward option if aesthetics matter as much as performance. For budget-conscious setups, the [Matador range at Bunnings](https://www.bunnings.com.au/our-range/barbecues-outdoor-cooking/bbqs) is a solid entry point.
+In my experience, the brands that hold up best are the ones with solid stainless steel construction and proper burner warranties. [BeefEater](https://www.beefeaterbbq.com.au/) is Australian-owned and genuinely built for our climate. [Weber](https://www.weber.com/AU/en/grills/) backs their grills with a ten-year warranty and has excellent local support. [Everdure by Heston](https://everdure.com/en-au/) is the premium design-forward option if aesthetics matter as much as performance. For budget-conscious setups, the Matador range at Bunnings is a solid entry point.
 
 **Key point:** BeefEater and Weber are the two brands I'd put money on for longevity in an Australian backyard. Both have dealer networks across the country for parts and service.
 
@@ -59,7 +59,7 @@ The four rules I follow every time: position the BBQ downwind of your main seati
 
 One of the most common mistakes I see in backyard BBQ setups is not enough bench space. People spend two thousand dollars on a beautiful BBQ and then prep everything on a plastic folding table two metres away. The prep bench is not optional.
 
-For a freestanding setup, a stainless steel outdoor bench from [Bunnings](https://www.bunnings.com.au/our-range/barbecues-outdoor-cooking/bbqs) runs ~$200–$450 AUD and is genuinely weatherproof. For a built-in kitchen, the benchtop material is where the budget goes, and for good reason. Porcelain slab and bluestone are the two best performers in Australian outdoor conditions. Both handle UV, salt air, heat, and rain without sealing or fussing.
+For a freestanding setup, a stainless steel outdoor bench from Bunnings runs ~$200–$450 AUD and is genuinely weatherproof. For a built-in kitchen, the benchtop material is where the budget goes, and for good reason. Porcelain slab and bluestone are the two best performers in Australian outdoor conditions. Both handle UV, salt air, heat, and rain without sealing or fussing.
 
 **Key point:** Aim for at least 900mm of bench space on either side of the BBQ. It sounds generous until you're managing four different dishes at once.
 

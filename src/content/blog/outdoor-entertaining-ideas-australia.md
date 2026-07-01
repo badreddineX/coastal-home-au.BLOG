@@ -1,4 +1,4 @@
----
+﻿---
 title: "19 Outdoor Entertaining Ideas for Aussie Backyards"
 description: "Transform your Australian backyard into a great alfresco entertaining space. Budget-friendly coastal outdoor ideas with real AUD prices for every home in Australia."
 image: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
@@ -213,10 +213,10 @@ Australian outdoor entertaining is one of the genuine pleasures of living here �
 
 ## Where to Shop for Outdoor Entertaining in Australia
 
-- **[Temple & Webster](https://www.templeandwebster.com.au/outdoor/)** — outdoor furniture, rugs, and lighting
-- **[Adairs](https://www.adairs.com.au/outdoor/)** — cushions, throws, and outdoor textiles
-- **[Bunnings](https://www.bunnings.com.au/our-range/garden/outdoor-entertaining)** — shade sails, misting systems, and BBQ essentials
-- **[Kmart Australia](https://www.kmart.com.au/category/home/outdoor/)** — budget-friendly styling pieces that genuinely work
+- **Temple & Webster** — outdoor furniture, rugs, and lighting
+- **Adairs** — cushions, throws, and outdoor textiles
+- **Bunnings** — shade sails, misting systems, and BBQ essentials
+- **Kmart Australia** — budget-friendly styling pieces that genuinely work
 - **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium outdoor furniture for a long-term investment
 
 ---
