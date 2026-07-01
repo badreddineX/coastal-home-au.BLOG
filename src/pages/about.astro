@@ -164,7 +164,12 @@ const covers = [
                 </li>
               </ol>
             </div>
-            <form class="connect-form" action="https://formspree.io/f/xdkokpjj" method="POST" aria-label="Contact form">
+            <div id="form-success" class="form-success" style="display:none">
+              <p>✓ Message sent! I'll get back to you within 2 business days.</p>
+            </div>
+            <form id="connect-form" class="connect-form" action="https://formspree.io/f/xdkokpjj" method="POST" aria-label="Contact form">
+              <input type="hidden" name="_next" value="https://coastal-home-au-blog.vercel.app/about?sent=true" />
+              <input type="hidden" name="_subject" value="New message from Outdoor & Coastal Home Decor" />
               <div class="form-row-2">
                 <div class="form-field">
                   <label for="cf-name">Full Name</label>
@@ -185,6 +190,12 @@ const covers = [
               </div>
               <button type="submit" class="connect-submit">Send Message</button>
             </form>
+            <script>
+              if (new URLSearchParams(window.location.search).get('sent') === 'true') {
+                document.getElementById('connect-form').style.display = 'none';
+                document.getElementById('form-success').style.display = 'block';
+              }
+            </script>
           </div>
         </div>
       </section>
@@ -585,4 +596,14 @@ const covers = [
   margin-top: 4px;
 }
 .connect-submit:hover { background: #333333; }
+.form-success {
+  padding: 24px;
+  background: #f0f7f0;
+  border: 1px solid #c3dfc3;
+  border-radius: 4px;
+  color: #2d6a2d;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.form-success p { margin: 0; }
 </style>
