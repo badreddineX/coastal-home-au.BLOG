@@ -30,7 +30,7 @@ faqs:
 
 Colour is the cheapest and most transformative thing you can do to a coastal home. The wrong palette makes a room feel cold, heavy, or like a holiday rental that's trying too hard. The right one makes every surface feel like it was designed for that specific quality of coastal Australian light.
 
-Getting coastal colour right in Australia is different from getting it right in, say, coastal France or the Hamptons. [Dulux Australia's colour trend research](https://www.dulux.com.au/colour/colour-forecast) consistently shows that Australian homeowners favour warmer, sun-bleached tones over the cooler, more saturated coastal palettes popular in Northern Hemisphere contexts. Our light is stronger, warmer, and more direct — and our colour choices need to account for that.
+Getting coastal colour right in Australia is different from getting it right in, say, coastal France or the Hamptons. Dulux Australia's colour trend research consistently shows that Australian homeowners favour warmer, sun-bleached tones over the cooler, more saturated coastal palettes popular in Northern Hemisphere contexts. Our light is stronger, warmer, and more direct — and our colour choices need to account for that.
 
 I've repainted coastal rooms more times than I care to admit. These are the nine combinations I come back to reliably, along with the specific paint names and codes that make them work.
 
@@ -231,10 +231,10 @@ The Australian coastal colour palette is not a single look — it's a set of pri
 
 ## Where to Buy Coastal Paint in Australia
 
-- **[Dulux Australia](https://www.dulux.com.au)** — full range of interior and exterior paints, colour matching service, and virtual room visualiser
-- **[Taubmans](https://www.taubmans.com.au)** — strong mid-range interior paint range with several coastal-suited colours
+- **Dulux Australia** — full range of interior and exterior paints, colour matching service, and virtual room visualiser
+- **Taubmans** — strong mid-range interior paint range with several coastal-suited colours
 - **Bunnings** — stocks both Dulux and Taubmans, offers in-store colour matching with physical samples; take a fabric or tile swatch, not just a phone photo
-- **[Haymes Paint](https://www.haymespaint.com.au)** — an Australian-owned alternative with a quality coastal-suited range, particularly strong in muted naturals
+- **Haymes Paint** — an Australian-owned alternative with a quality coastal-suited range, particularly strong in muted naturals
 
 ---
 

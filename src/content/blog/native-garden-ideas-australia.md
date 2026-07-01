@@ -65,7 +65,7 @@ Top structural picks for Australian coastal and suburban gardens:
 - **Callistemon (Bottlebrush)** — available in dozens of varieties from 60cm to 4m. Flowers attract honeyeaters reliably.
 - **Leptospermum (Tea Tree)** — fast-growing, excellent as a privacy screen, tough in most conditions.
 
-**Key point:** Structural native shrubs cost ~$12-$35 AUD each at Bunnings or [Garden Express](https://www.gardenexpress.com.au/), which ships nationwide with excellent plant condition guarantees.
+**Key point:** Structural native shrubs cost ~$12-$35 AUD each at Bunnings or Garden Express, which ships nationwide with excellent plant condition guarantees.
 
 
 
@@ -84,7 +84,7 @@ Strong mid-layer choices:
 - **Hakea** — structural foliage, interesting seed pods, tough in exposed positions.
 - **Lomandra longifolia** — grass-like texture, tough as old boots, incredibly versatile as a filler.
 
-**Key point:** Mid-layer natives average ~$8-$20 AUD per plant at most nurseries. [Garden Express](https://www.gardenexpress.com.au/) often sells packs of 5-6 plants for better value.
+**Key point:** Mid-layer natives average ~$8-$20 AUD per plant at most nurseries. Garden Express often sells packs of 5-6 plants for better value.
 
 ![Kangaroo Paw and Grevillea flowering in a layered Australian native garden](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
 

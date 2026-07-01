@@ -146,7 +146,7 @@ Australian homes benefit from adapting the palette slightly toward the warm side
 
  I've found that the most successful Australian Hamptons kitchens use a three-colour discipline: white as the dominant (70%), one accent colour such as navy or sage (20%), and warm natural tones in timber and brass (10%). When clients deviate from this ratio — adding terracotta, deep green, and navy all at once — the kitchen stops reading as Hamptons and starts reading as confused.
 
-**Key point:** Sample your chosen whites on the actual wall in your kitchen before committing. The light changes dramatically throughout the day in Australian homes, and a white that looks perfect in the morning can appear yellow by afternoon. [Dulux](https://www.dulux.com.au/) and [Taubmans](https://www.taubmans.com.au/) both offer sample pots from ~$8 AUD.
+**Key point:** Sample your chosen whites on the actual wall in your kitchen before committing. The light changes dramatically throughout the day in Australian homes, and a white that looks perfect in the morning can appear yellow by afternoon. Dulux and Taubmans both offer sample pots from ~$8 AUD.
 
 
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title: "Outdoor Christmas Entertaining Australia: 12 Hosting Tips"
-description: "How to host a backyard Christmas in Australia — managing summer heat, feeding a crowd outdoors, timing, and setup. Personal tips with real AUD costs."
+description: "How to host a backyard Christmas in Australia — managing summer heat, feeding a crowd outdoors, timing, and full setup. Personal tips with real AUD costs."
 image: "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-02"
 dateModified: "2026-06-02"

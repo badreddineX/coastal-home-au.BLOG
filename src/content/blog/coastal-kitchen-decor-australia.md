@@ -1,6 +1,6 @@
 ﻿---
 title: "Coastal Kitchen Decor Australia: 10 Light, Airy Ideas"
-description: "Style a coastal kitchen in Australia with the right cabinet colours, hardware, splashbacks, and accessories. AUD prices and specific product picks from local retailers."
+description: "Style a coastal kitchen in Australia with the right cabinet colours, hardware, splashbacks, and accessories. AUD prices and local retailer product picks."
 image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-08"
 dateModified: "2026-04-08"
@@ -44,7 +44,7 @@ White is the most reliable coastal kitchen cabinet colour for Australian homes. 
 
 The two Dulux shades most commonly specified by Australian interior stylists for coastal kitchens are Vivid White (the brightest, best for north-facing rooms with strong natural light) and Natural White (a warmer, slightly creamy tone that suits south-facing or cooler-light rooms). Half-strength versions of both work well if pure white feels too intense.
 
-**Key point:** A full kitchen cabinet repaint in white using [Dulux](https://www.dulux.com.au) kitchen-grade paint costs ~$150-$350 AUD in materials for a standard kitchen, or ~$800-$2,000 AUD with a professional painter. It's the most cost-effective renovation-grade change available in a kitchen without touching the cabinets themselves.
+**Key point:** A full kitchen cabinet repaint in white using Dulux kitchen-grade paint costs ~$150-$350 AUD in materials for a standard kitchen, or ~$800-$2,000 AUD with a professional painter. It's the most cost-effective renovation-grade change available in a kitchen without touching the cabinets themselves.
 
  The most common coastal kitchen colour mistake in Australian homes is choosing a blue-green or turquoise for the cabinetry. These shades feel exciting in a paint swatch but date quickly and fight against any benchtop that has warm undertones (which most Australian stone and engineered stone benchtops do). White is boring in theory and right in practice.
 
@@ -72,7 +72,7 @@ The splashback is the only true architectural feature most standard Australian k
 
 Subway tiles in white with a white or light grey grout are the most reliable coastal splashback choice. They read as both classic and fresh, they suit every era of Australian home from a 1970s brick veneer to a 2020s apartment, and they're among the cheapest tiles to purchase and lay. The grout colour makes a significant difference: white grout emphasises the pattern and reads lighter; grey grout subdues the grid and reads more subtle.
 
-**Key point:** [Beaumont Tiles](https://www.beaumont-tiles.com.au) stocks subway tiles in white from ~$65-$95 per square metre — accessible pricing for a standard 2-3 square metre splashback area. Zellige tiles in white or natural add handmade textural variation for ~$95-$140 per square metre from the same retailer.
+**Key point:** Beaumont Tiles stocks subway tiles in white from ~$65-$95 per square metre — accessible pricing for a standard 2-3 square metre splashback area. Zellige tiles in white or natural add handmade textural variation for ~$95-$140 per square metre from the same retailer.
 
  In a review of coastal-styled Australian kitchen projects across three states, zellige splashbacks consistently generated the highest volume of social media engagement and the most first-visit comment from guests — ahead of cabinet colour changes, hardware swaps, and pendant lighting. The handmade texture is the element that photographs most distinctly as non-generic.
 

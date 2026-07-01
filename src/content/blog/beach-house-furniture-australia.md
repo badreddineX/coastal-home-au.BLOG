@@ -260,7 +260,7 @@ Good beach house furniture isn't about buying everything at once — it's about 
 
 - **Temple & Webster** — widest online range of coastal furniture at mid-range prices, fast Australian delivery
 - **Freedom** — quality coastal sofas, dining furniture, and bedheads, in-store and online
-- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium outdoor furniture in teak and aluminium built for Australian coastal conditions
+- **Outdoor Elegance** — premium outdoor furniture in teak and aluminium built for Australian coastal conditions
 - **IKEA AU** — budget-friendly coastal furniture including linen sofas, rattan dining chairs, and outdoor ranges
 - **Bunnings** — entry-level outdoor furniture, sun loungers, and storage solutions
 

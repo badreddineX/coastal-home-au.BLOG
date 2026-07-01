@@ -47,7 +47,7 @@ Natural rattan is harvested from the rattan palm vine, primarily grown in Indone
 
 Synthetic rattan — also called PE rattan or all-weather wicker — is made from polyethylene and woven over aluminium frames. It's engineered specifically for outdoor use. Quality PE rattan handles direct Australian sun, rain, coastal salt air, and humidity without deteriorating. For pool areas, balconies, and outdoor settings, synthetic rattan is the only appropriate choice.
 
-**Key point:** If a piece of rattan furniture is labelled "outdoor" or "all-weather," it's synthetic PE rattan on an aluminium frame. Natural rattan pieces are typically sold without outdoor claims and are significantly more expensive. Natural rattan dining chairs from Temple & Webster start from ~$120–$350 AUD each. Synthetic rattan outdoor sets (four chairs and a table) start from ~$400–$1,200 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or Temple & Webster.
+**Key point:** If a piece of rattan furniture is labelled "outdoor" or "all-weather," it's synthetic PE rattan on an aluminium frame. Natural rattan pieces are typically sold without outdoor claims and are significantly more expensive. Natural rattan dining chairs from Temple & Webster start from ~$120–$350 AUD each. Synthetic rattan outdoor sets (four chairs and a table) start from ~$400–$1,200 AUD from Outdoor Elegance or Temple & Webster.
 
 ---
 
@@ -113,7 +113,7 @@ A four-seater PE rattan outdoor lounge set is the most versatile outdoor rattan 
 
 For pool areas and balconies with significant sun exposure, choose PE rattan furniture with UV-stabilised resin — this is the difference between a set that lasts five years and one that fades and cracks within two. Ask retailers specifically about UV rating before purchasing.
 
-**Key point:** A quality four-seater PE rattan outdoor lounge set costs ~$600–$2,000 AUD from [Outdoor Elegance](https://www.outdoorelegance.com.au/) or Temple & Webster. Budget-friendly versions start from ~$350–$600 AUD at Kmart Australia. Always check that the aluminium frame is rust-proof before buying — particularly important for coastal properties.
+**Key point:** A quality four-seater PE rattan outdoor lounge set costs ~$600–$2,000 AUD from Outdoor Elegance or Temple & Webster. Budget-friendly versions start from ~$350–$600 AUD at Kmart Australia. Always check that the aluminium frame is rust-proof before buying — particularly important for coastal properties.
 
 
 
@@ -134,7 +134,7 @@ The Australian rattan furniture market has expanded significantly over the past 
 
 **Freedom** — the most design-forward rattan range in Australian retail. Higher price point, better proportions, more original designs. Worth the premium for key pieces that will anchor a room for years.
 
-**[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — the best destination for outdoor PE rattan furniture. Well-built, UV-rated sets with genuine longevity in Australian conditions.
+**Outdoor Elegance** — the best destination for outdoor PE rattan furniture. Well-built, UV-rated sets with genuine longevity in Australian conditions.
 
 **Key point:** Mix levels freely. A Freedom rattan accent chair paired with Kmart woven baskets and an IKEA AU rattan pendant reads as one cohesive look at a fraction of the cost of buying everything from a single premium retailer.
 

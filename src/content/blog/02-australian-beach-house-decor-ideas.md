@@ -1,6 +1,6 @@
 ---
 title: "Australian Beach House Decor Ideas: 13 Proven Tips"
-description: "I've decorated three Gold Coast coastal homes. Here are 13 Australian beach house decor ideas that actually work — real AUD prices, real retailers."
+description: "I've decorated three Gold Coast coastal homes. Here are 13 Australian beach house decor ideas that actually work — real AUD prices and real local retailers."
 image: "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-05-03"
 dateModified: "2026-05-03"

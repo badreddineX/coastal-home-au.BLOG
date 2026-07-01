@@ -1,6 +1,6 @@
 ﻿---
 title: "Indoor Plants for a Coastal Home in Australia: 12 Best Picks"
-description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Prices from Australian nurseries and retailers included."
+description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Prices from Australian nurseries included."
 image: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-06-26"
 dateModified: "2026-06-26"
@@ -90,7 +90,7 @@ Peace Lilies prefer shade to indirect light, which makes them excellent for inte
 
 The [ANPSA](https://anpsa.org.au/) and indoor horticulture researchers identify Peace Lilies as among the most effective indoor air-purifying plants, with NASA's Clean Air Study finding that Spathiphyllum removes benzene, formaldehyde, and trichloroethylene from indoor air. This is particularly relevant in newer Australian homes with synthetic building materials and limited ventilation. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
-**Key point:** Peace Lilies cost ~$15-$35 AUD at Bunnings or [Flower Power](https://www.flowerpower.com.au/) (NSW). They are among the best-value flowering indoor plants available in Australia.
+**Key point:** Peace Lilies cost ~$15-$35 AUD at Bunnings or Flower Power (NSW). They are among the best-value flowering indoor plants available in Australia.
 
 ---
 
@@ -102,7 +102,7 @@ Bird of Paradise plants need bright indirect light to thrive indoors. A spot wit
 
  My Strelitzia nicolai sits in the corner of my living room beside a north-facing window. It has grown roughly 40cm in the 18 months I've owned it. The leaves occasionally get a slight brown edge from the ceiling fan, but a monthly wipe with a damp cloth keeps them looking clean.
 
-**Key point:** A large Bird of Paradise in a statement pot from Temple & Webster or [Flower Power](https://www.flowerpower.com.au/) costs ~$60-$180 AUD depending on specimen size.
+**Key point:** A large Bird of Paradise in a statement pot from Temple & Webster or Flower Power costs ~$60-$180 AUD depending on specimen size.
 
 ---
 
@@ -128,7 +128,7 @@ Rubber Plants need bright indirect light to maintain their leaf colour. Insuffic
 
 One practical note: wipe the large leaves monthly with a damp cloth. Dust and salt film accumulate more noticeably on large glossy leaves than on smaller plants, and a dirty Rubber Plant leaf looks dramatically different from a clean one.
 
-**Key point:** Rubber Plants cost ~$25-$80 AUD at Bunnings, [Flower Power](https://www.flowerpower.com.au/), or local nurseries depending on size and variety.
+**Key point:** Rubber Plants cost ~$25-$80 AUD at Bunnings, Flower Power, or local nurseries depending on size and variety.
 
 
 
@@ -154,7 +154,7 @@ Golden Cane Palms need bright indirect light and handle coastal humidity very we
 
 NASA's Clean Air Study includes Golden Cane Palm among the most effective indoor air-filtering plants, finding that it removes formaldehyde and xylene from indoor air while also raising indoor humidity levels -- beneficial in air-conditioned coastal homes where mechanical cooling can dry indoor air. ([NASA Clean Air Study](https://ntrs.nasa.gov/), 1989, widely cited)
 
-**Key point:** A medium Golden Cane Palm (80-100cm) from [Flower Power](https://www.flowerpower.com.au/) or a local nursery costs ~$50-$120 AUD. Bunnings carries smaller starter specimens from ~$25-$45 AUD.
+**Key point:** A medium Golden Cane Palm (80-100cm) from Flower Power or a local nursery costs ~$50-$120 AUD. Bunnings carries smaller starter specimens from ~$25-$45 AUD.
 
 ---
 
@@ -168,7 +168,7 @@ Outside the bathroom, Boston Ferns struggle in air-conditioned rooms and anywher
 
 *If renting, a fern in a hanging basket near the bathroom window requires no wall brackets -- a simple tension curtain rod across the window recess can support a small hanging planter with no fixings.*
 
-**Key point:** Boston Ferns cost ~$10-$30 AUD at Bunnings or [Flower Power](https://www.flowerpower.com.au/). A 15cm pot is the right starting size for a bathroom shelf.
+**Key point:** Boston Ferns cost ~$10-$30 AUD at Bunnings or Flower Power. A 15cm pot is the right starting size for a bathroom shelf.
 
 ![Boston fern on a timber bathroom shelf beside a white window in a coastal home](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
 

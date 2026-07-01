@@ -1,6 +1,6 @@
 ﻿---
 title: "Backyard Landscaping Ideas for Australian Homes (2026)"
-description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to beautiful coastal gardens. AUD costs included."
+description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to beautiful coastal gardens. AUD costs."
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-03-18"
 dateModified: "2026-06-01"
@@ -54,7 +54,7 @@ Start with these proven performers:
 - **Grevillea** — flowering, attracts honeyeaters, dozens of sizes and forms available
 - **Coastal Banksia** — structural, dramatic, and genuinely stunning in a coastal garden
 
-For groundcover between beds, try Pigface (Carpobrotus) or coastal grasses like Poa and Themeda. [Garden Express](https://www.gardenexpress.com.au/) ships natives Australia-wide, which is handy if your local Bunnings has a limited selection.
+For groundcover between beds, try Pigface (Carpobrotus) or coastal grasses like Poa and Themeda. Garden Express ships natives Australia-wide, which is handy if your local Bunnings has a limited selection.
 
 **Bold key point:** A well-planted native garden bed along a 10m fence line typically costs ~$150–$400 AUD in plants and mulch, and requires almost no maintenance after the first season.
 
@@ -85,7 +85,7 @@ The ground surface is the single largest visual element in your backyard. It set
 - **Timber decking** — brings warmth and suits entertaining areas. Hardwood decking runs ~$200–$350 AUD per sqm installed.
 - **Compacted gravel** — the most affordable option, great for casual zones and garden pathways
 
-A combination approach usually works best: paving in the entertaining zone, lawn or turf for the family play area, gravel or mulch for garden pathways. [Beaumont Tiles](https://www.beaumont-tiles.com.au/outdoor-tiles) has an excellent range of outdoor pavers if you want something more refined than the standard Bunnings range.
+A combination approach usually works best: paving in the entertaining zone, lawn or turf for the family play area, gravel or mulch for garden pathways. Beaumont Tiles has an excellent range of outdoor pavers if you want something more refined than the standard Bunnings range.
 
 ![Sandstone paving with timber deck edge and coastal garden beds in an Australian backyard](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
 
@@ -109,7 +109,7 @@ Vertical gardens solve the small backyard problem better than almost any other l
 
 Wall-mounted planting panels are the most practical option. A basic modular system from a retailer like Temple & Webster runs ~$80–$250 AUD, and you can plant it with trailing natives, herbs, or succulents depending on your light conditions.
 
-Alternatively, train a fast-growing climber, such as Hardenbergia or Native Jasmine, up a simple trellis. This is the cheapest and most natural-looking option, and both species are available through [Garden Express](https://www.gardenexpress.com.au/).
+Alternatively, train a fast-growing climber, such as Hardenbergia or Native Jasmine, up a simple trellis. This is the cheapest and most natural-looking option, and both species are available through Garden Express.
 
 **Bold key point:** A 1.2m x 2m vertical garden panel planted with succulents or herbs costs ~$120–$300 AUD all-in, and adds substantial visual impact to a bare fence.
 
@@ -175,7 +175,7 @@ A landscaper for structural work typically runs ~$450–$800 AUD per day in most
 
 The physical landscaping sets the stage, but the furniture and accessories make it feel lived-in and worth spending time in. Keep the entertaining zone simple: a table, chairs, and a shade solution are the core. If your backyard includes or is destined for a pool, the guide to [pool area ideas for Australian homes](/blog/pool-area-ideas-australia) covers decking, furniture, and planting around the water.
 
-For outdoor furniture that handles Australian UV and humidity, look at Temple & Webster for a wide range at different price points, or [Outdoor Elegance](https://www.outdoorelegance.com.au/) for higher-end teak and aluminium pieces that genuinely last.
+For outdoor furniture that handles Australian UV and humidity, look at Temple & Webster for a wide range at different price points, or Outdoor Elegance for higher-end teak and aluminium pieces that genuinely last.
 
 A large outdoor rug defines the entertaining space without adding bulk. A few statement pots, rather than many small ones, have far more visual impact. And a single large shade umbrella or a sail shade makes the difference between a zone you use at 2pm in January and one you avoid.
 

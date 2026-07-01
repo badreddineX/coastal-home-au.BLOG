@@ -1,6 +1,6 @@
 ﻿---
 title: "Pool Area Ideas Australia: Style Your Backyard Pool"
-description: "Transform your Australian backyard pool area with 12 styling ideas — pavers, sun loungers, shade, plants, and lighting. Real AUD prices and specific product picks included."
+description: "Transform your Australian backyard pool area with 12 styling ideas — pavers, sun loungers, shade, plants, and lighting. Real AUD prices and product picks."
 image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80"
 datePublished: "2026-04-22"
 dateModified: "2026-04-22"
@@ -69,7 +69,7 @@ Not all sun loungers are equal when exposed to Australian UV levels, salt air, a
 
 Teak is the most beautiful and durable natural option — it's naturally water-resistant, salt-tolerant, and develops a distinguished silver patina over time if left untreated. Powder-coated aluminium is the low-maintenance choice — it won't rust, warp, or bleach, and modern aluminium loungers can be genuinely comfortable with the right sling or cushion. Avoid cheap steel frames (they rust quickly in coastal areas) and painted MDF (it swells and peels within one season of poolside use).
 
-**Key point:** A quality pair of teak sun loungers costs ~$600–$1,400 AUD from Temple & Webster or [Outdoor Elegance](https://www.outdoorelegance.com.au/). Powder-coated aluminium pairs start from ~$400–$800 AUD. Buy the best quality you can afford — it genuinely pays off over the long term.
+**Key point:** A quality pair of teak sun loungers costs ~$600–$1,400 AUD from Temple & Webster or Outdoor Elegance. Powder-coated aluminium pairs start from ~$400–$800 AUD. Buy the best quality you can afford — it genuinely pays off over the long term.
 
 
 ---

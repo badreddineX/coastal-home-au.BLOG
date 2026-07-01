@@ -40,9 +40,9 @@ Hamptons living rooms work in Australia for one simple reason: we share the same
 
 The Hamptons look starts and ends with the walls. In the American original, crisp white is standard — but Australian light is far more intense than New England light. Pure cool white bounces harshly off our walls midday and reads almost blue in the afternoon. The fix is simple: go warm.
 
-I've tested both in Gold Coast interiors and the difference is immediately visible. A warm white like [Dulux Natural White](https://www.dulux.com.au/) or Vivid White with a yellow undertone glows in Australian light rather than glaring. Taubmans Sail Cloth is another option that sits perfectly between off-white and cream.
+I've tested both in Gold Coast interiors and the difference is immediately visible. A warm white like Dulux Natural White or Vivid White with a yellow undertone glows in Australian light rather than glaring. Taubmans Sail Cloth is another option that sits perfectly between off-white and cream.
 
-**Bold move:** Paint the walls, skirting boards, and window trims all the same warm white. The tonal layering reads as very Hamptons. Paint costs ~$65-$95 AUD per 4L tin from [Dulux](https://www.dulux.com.au/).
+**Bold move:** Paint the walls, skirting boards, and window trims all the same warm white. The tonal layering reads as very Hamptons. Paint costs ~$65-$95 AUD per 4L tin from Dulux.
 
 If you're renting, skip the paint and lean harder on every other element in this list. A warm white palette can come entirely from soft furnishings and timber.
 
@@ -86,7 +86,7 @@ I'd argue the rattan pendant is the single item that signals "Hamptons" more cle
 
 **Bold move:** Temple & Webster carries rattan pendants from ~$89-$300 AUD. Pair it with a warm-toned globe bulb (2700K) for the most flattering, coastal-feeling light.
 
-If you're renting and can't replace the light fitting, a plug-in pendant with a fabric cord is a completely removable alternative. They're widely available on [Etsy Australia](https://www.etsy.com/au/) from ~$60-$120 AUD.
+If you're renting and can't replace the light fitting, a plug-in pendant with a fabric cord is a completely removable alternative. They're widely available on Etsy Australia from ~$60-$120 AUD.
 
 ## 6. Cushions and Textiles: Mix, Don't Match
 
@@ -114,7 +114,7 @@ The most authentically Australian thing you can do in a Hamptons interior is han
 
 Forget generic beach photographs that could be anywhere. Australian coastal art is distinctive — the turquoise water colour, the white sand, the native flora are unlike anywhere else. That specificity is what makes it feel grounded rather than generic.
 
-**Bold move:** [Etsy Australia](https://www.etsy.com/au/) has a strong community of local artists selling prints from ~$20-$80 AUD. Frame simply in white or natural timber from IKEA or Kmart and hang in a gallery arrangement or as a single statement piece above the sofa.
+**Bold move:** Etsy Australia has a strong community of local artists selling prints from ~$20-$80 AUD. Frame simply in white or natural timber from IKEA or Kmart and hang in a gallery arrangement or as a single statement piece above the sofa.
 
 The best gallery walls we've seen in Australian Hamptons interiors mix one large coastal photo, two medium botanical prints, and one smaller abstract — all in matching white frames. The asymmetry of sizes creates visual interest without looking random.
 
@@ -162,8 +162,8 @@ If you're renting, every item on this list is removable — focus on rugs, cushi
 - **Adairs** — cushions, throws, and jute rugs in the right Hamptons palette
 - **IKEA Australia** — AINA linen curtains and affordable basics
 - **Freedom** — mid-range Hamptons-style sofas and furniture
-- **[Dulux Australia](https://www.dulux.com.au/)** — Natural White and Vivid White paint shades for walls
-- **[Etsy Australia](https://www.etsy.com/au/)** — Australian coastal artwork prints from ~$20 AUD
+- **Dulux Australia** — Natural White and Vivid White paint shades for walls
+- **Etsy Australia** — Australian coastal artwork prints from ~$20 AUD
 
 ---
 

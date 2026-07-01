@@ -49,7 +49,7 @@ Bring in navy as the accent, not the base. A navy bedhead, a navy stripe throw, 
 
 Bedding is where the Hamptons bedroom look is won or lost. In Australia's climate, linen is the obvious choice: it regulates temperature through humid Queensland summers and cool Melbourne winters, and it only gets better-looking with every wash. White or natural (undyed) linen is your foundation.
 
-I switched to a 100% linen quilt cover from [The Sheet Society](https://www.thesheetsociety.com/collections/linen) about two years ago, and it's the change I recommend to anyone first. **Expect to spend ~$149-$229 AUD for a quality queen linen quilt cover set.** Layer over the top with a navy stripe or textured cotton throw folded at the foot of the bed, and you've already got 80% of the visual impact sorted.
+I switched to a 100% linen quilt cover from The Sheet Society about two years ago, and it's the change I recommend to anyone first. **Expect to spend ~$149-$229 AUD for a quality queen linen quilt cover set.** Layer over the top with a navy stripe or textured cotton throw folded at the foot of the bed, and you've already got 80% of the visual impact sorted.
 
 Stack your pillows in a classic Hamptons arrangement: two European squares at the back, two standard pillows in front, and two cushions at the front in navy or a coastal print. Adairs and Pillow Talk both carry Hamptons-appropriate bedding ranges — Adairs tends to be more curated while Pillow Talk offers better value on basics.
 

@@ -64,7 +64,7 @@ Go for substantial, classic pieces. In the Hamptons tradition, outdoor furniture
 - A daybed or outdoor sofa with navy-stripe cushions (~$500–$1,800 AUD)
 - Side tables in natural timber or white (~$80–$300 AUD)
 
-**The most durable choice for Australian conditions is powder-coated aluminium painted white.** It won't warp, rust, or bleach out in direct sun the way timber can. [Outdoor Elegance](https://www.outdoorelegance.com.au/) carries premium aluminium and teak sets in the right Hamptons profile. Temple & Webster offers excellent mid-range dining and lounge pieces if you want to keep the budget sensible. Freedom sits between the two — reliable Hamptons-style furniture that holds up well outdoors.
+**The most durable choice for Australian conditions is powder-coated aluminium painted white.** It won't warp, rust, or bleach out in direct sun the way timber can. Outdoor Elegance carries premium aluminium and teak sets in the right Hamptons profile. Temple & Webster offers excellent mid-range dining and lounge pieces if you want to keep the budget sensible. Freedom sits between the two — reliable Hamptons-style furniture that holds up well outdoors.
 
 ---
 
@@ -143,14 +143,14 @@ In my experience styling Gold Coast outdoor spaces, the single question I get as
 
 You don't need to spend a fortune to get the look right. These are the retailers I return to most.
 
-- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium Hamptons outdoor furniture, best quality-to-longevity ratio
+- **Outdoor Elegance** — premium Hamptons outdoor furniture, best quality-to-longevity ratio
 - **Temple & Webster** — excellent mid-range outdoor dining, lounge, and lighting
 - **Bunnings** — white pergola paint, structure elements, plants, and pots
 - **Kmart** — budget-friendly cushions, rugs, and accessories that genuinely punch above their weight
 - **Adairs** — outdoor textiles, cushions, and throws in the right coastal palette
 - **Freedom** — Hamptons-style outdoor lounge and dining at reliable mid-range prices
 
-Mix levels freely. I regularly pair a Bunnings pergola repaint with [Outdoor Elegance](https://www.outdoorelegance.com.au/) dining chairs and Kmart cushions. Nobody can tell the difference once it's all styled together.
+Mix levels freely. I regularly pair a Bunnings pergola repaint with Outdoor Elegance dining chairs and Kmart cushions. Nobody can tell the difference once it's all styled together.
 
 ---
 

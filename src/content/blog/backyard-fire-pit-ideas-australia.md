@@ -117,12 +117,12 @@ Keep a pile of dry wood close enough to add to the fire without leaving the grou
 
 ## 10. Where to Buy Fire Pits in Australia
 
-Finding the right supplier depends on your budget and what type of pit you're after. **Bunnings covers the entry-level range from ~$80–$300 AUD, while [Outdoor Elegance](https://www.outdoorelegance.com.au/) handles the premium built-in and freestanding category for serious outdoor spaces.**
+Finding the right supplier depends on your budget and what type of pit you're after. **Bunnings covers the entry-level range from ~$80–$300 AUD, while Outdoor Elegance handles the premium built-in and freestanding category for serious outdoor spaces.**
 
 - **Bunnings** — best range of entry-level portable steel fire bowls from ~$80–$300 AUD
 - **Temple & Webster** — better-looking design options in corten steel and stone from ~$200–$800 AUD
-- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium built-in and freestanding options for serious outdoor spaces
-- **[Barbeques Galore](https://www.barbequesgalore.com.au/)** — strong range of gas fire pits if you prefer the smoke-free option
+- **Outdoor Elegance** — premium built-in and freestanding options for serious outdoor spaces
+- **Barbeques Galore** — strong range of gas fire pits if you prefer the smoke-free option
 
 Before purchasing, confirm your local rules. The [NSW RFS](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans) and [CFA Victoria](https://www.cfa.vic.gov.au/warnings-restrictions/total-fire-bans-season/current-fire-ban) publish daily fire ban updates, and your local council website will list any additional permit requirements for permanent structures.
 

@@ -49,7 +49,7 @@ Renters: the palette lives entirely in accessories and textiles. You don't need 
 
 ## 2. Which Tiles Work Best for a Coastal Bathroom?
 
-If you're renovating (or helping an owner-occupier friend), tiles are where the coastal bathroom really earns its name. [Beaumont Tiles](https://www.beaumont-tiles.com.au/) carries terrazzo, zellige, and stone-look ranges that deliver genuine coastal texture without importing from overseas.
+If you're renovating (or helping an owner-occupier friend), tiles are where the coastal bathroom really earns its name. Beaumont Tiles carries terrazzo, zellige, and stone-look ranges that deliver genuine coastal texture without importing from overseas.
 
 **For feature walls:** zellige in white or soft blue gives handmade texture variation that no flat tile can match. Subway tiles in a classic brick pattern are timeless. Terrazzo in neutral tones is increasingly popular in Australian coastal builds.
 
@@ -136,7 +136,7 @@ Yes — more than most people expect. A coastal bathroom isn't just visual. Scen
 
 The best coastal scents for Australian bathrooms: sea salt and driftwood (the most authentic), coastal pine (fresh and distinctly Australian), and white tea or jasmine (lighter, suits smaller spaces).
 
-[Ecoya](https://www.ecoya.com.au/) is the Australian brand I return to most often. Their Lotus Flower and Cotton & Clove reed diffusers work particularly well in bathrooms. Glasshouse and Circa Home are excellent alternatives, all available at Myer and David Jones.
+Ecoya is the Australian brand I return to most often. Their Lotus Flower and Cotton & Clove reed diffusers work particularly well in bathrooms. Glasshouse and Circa Home are excellent alternatives, all available at Myer and David Jones.
 
 **Bold key point:** A quality reed diffuser from Ecoya costs ~$35–$65 AUD and lasts three to four months. That's coastal scent for less than $20 per month — more effective and longer-lasting than a candle for a daily-use bathroom.
 
@@ -182,8 +182,8 @@ The order above matters. Most styling guides suggest mirrors or plants first. In
 
 - **Adairs** — waffle towels, bath mats, and bathroom accessories in coastal-friendly tones
 - **Temple & Webster** — rattan mirrors, woven baskets, teak bath mats, and decorative accessories
-- **[Beaumont Tiles](https://www.beaumont-tiles.com.au/)** — zellige, terrazzo, and stone-look tiles at accessible price points
-- **[Ecoya](https://www.ecoya.com.au/)** — Australian coastal-scented candles and reed diffusers available at Myer and David Jones
+- **Beaumont Tiles** — zellige, terrazzo, and stone-look tiles at accessible price points
+- **Ecoya** — Australian coastal-scented candles and reed diffusers available at Myer and David Jones
 - **Kmart** — rattan baskets, rechargeable lamps, and soap accessories at budget prices
 
 ---

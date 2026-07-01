@@ -54,7 +54,7 @@ Avoid saturated navy, deep teal, or bold coral — they all work in larger doses
 
 Bedding is where the coastal bedroom is won or lost, and linen is the clear choice for Australian conditions. It breathes in summer, warms in winter, and only improves in texture after repeated washing. White or natural (undyed) linen is your foundation layer — everything else in the room coordinates around it.
 
-**Key point:** A queen 100% linen quilt cover set runs ~$149-$229 AUD from [The Sheet Society](https://www.thesheetsociety.com/collections/linen) or Adairs. Both retailers regularly offer 20-30% off during sales — sign up to emails before buying.
+**Key point:** A queen 100% linen quilt cover set runs ~$149-$229 AUD from The Sheet Society or Adairs. Both retailers regularly offer 20-30% off during sales — sign up to emails before buying.
 
 The pillow arrangement matters more than most guides admit. Layer two European square pillows at the back in white or natural linen, two standard pillows in front in the same tone, and two cushions at the front in your chosen accent colour. A textured throw folded at the foot of the bed — a waffle weave, a chunky knit, or a striped cotton blanket — finishes the look without adding visual clutter.
 
