@@ -202,11 +202,13 @@ blockquote p { font-family: var(--font-display); font-style: italic; font-size: 
 
 /* ── Category pill ── */
 .pill {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   background: transparent;
   color: var(--color-primary);
   border: 1px solid var(--color-primary);
-  padding: 3px 12px;
+  padding: 6px 12px;
+  min-height: 32px;
   font-size: 0.68rem;
   font-weight: 700;
   font-family: var(--font-heading);
