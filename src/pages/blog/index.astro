@@ -194,7 +194,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 /* Filter bar */
 .filter-bar {
   position: sticky;
-  top: 64px;
+  top: 72px;
   z-index: 100;
   background: rgba(253, 252, 251, 0.97);
   backdrop-filter: blur(12px);
@@ -245,14 +245,17 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
 .search-clear {
   position: absolute;
-  right: 12px;
+  right: 4px;
   background: none;
   border: none;
   cursor: pointer;
   color: var(--color-text-muted);
-  padding: 2px;
+  padding: 12px;
+  min-width: 44px;
+  min-height: 44px;
   display: flex;
   align-items: center;
+  justify-content: center;
   transition: color var(--transition);
 }
 .search-clear:hover { color: var(--color-heading); }
