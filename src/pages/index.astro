@@ -79,7 +79,7 @@ const categories = [
           <div class="editors-grid">
 
             <!-- Large featured post -->
-            <a href={`/blog/${featured[0].slug}`} class="editors-main" data-reveal>
+            <a href={`/blog/${featured[0].id}`} class="editors-main" data-reveal>
               <div class="editors-main-img">
                 <img
                   src={featured[0].data.image}
@@ -97,7 +97,7 @@ const categories = [
             <!-- Sidebar list -->
             <div class="editors-sidebar" data-reveal>
               {featured.slice(1).map(post => (
-                <a href={`/blog/${post.slug}`} class="editors-item">
+                <a href={`/blog/${post.id}`} class="editors-item">
                   <img
                     class="editors-thumb"
                     src={post.data.image}
@@ -210,7 +210,7 @@ const categories = [
               <PostCard
                 title={post.data.title}
                 description={post.data.description}
-                slug={post.slug}
+                slug={post.id}
                 image={post.data.image}
                 category={post.data.category}
                 readTime={post.data.readTime}

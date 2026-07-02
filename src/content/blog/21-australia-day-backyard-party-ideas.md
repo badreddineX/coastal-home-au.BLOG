@@ -137,7 +137,7 @@ Australia Day is one of the most sociable days on the Australian calendar. The p
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 

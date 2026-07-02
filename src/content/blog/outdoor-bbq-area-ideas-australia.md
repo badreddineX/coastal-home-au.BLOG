@@ -33,7 +33,7 @@ If there's one thing that defines Australian outdoor life, it's the BBQ. It's wh
 
 The first decision shapes everything else. A freestanding BBQ suits renters, smaller yards, and anyone who wants flexibility without committing to a build. A built-in kitchen suits homeowners who entertain regularly and want a permanent outdoor cooking station that adds real property value.
 
-I always recommend starting with a freestanding setup if you're new to [outdoor entertaining](/blog/07-outdoor-entertaining-ideas-australia). You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
+I always recommend starting with a freestanding setup if you're new to [outdoor entertaining](/blog/outdoor-entertaining-ideas-australia). You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
 
 **Key point:** A quality four-burner freestanding gas BBQ from Weber or BeefEater runs ~$700–$2,000 AUD and handles everything a built-in kitchen does for cooking.
 

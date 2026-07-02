@@ -125,6 +125,6 @@ The best Easter gatherings I've hosted have been the simplest: a beautiful table
 
 **Related reading:**
 - [Outdoor Patio Decor Ideas for Australian Homes](/blog/12-outdoor-patio-decor-australia)
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 

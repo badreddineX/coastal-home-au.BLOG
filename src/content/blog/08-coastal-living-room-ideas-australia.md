@@ -136,7 +136,7 @@ If the connection isn't architectural, approximate it: position the sofa to face
 
 **Related reading:**
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
-- [Hamptons Style Living Room Ideas for Australian Homes](/blog/16-hamptons-style-living-room-ideas-australia)
+- [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
 - [C](/blog/o)
 - [c](/blog/o)

@@ -140,5 +140,5 @@ Christmas Eve outdoor styling should feel quiet and beautiful, not busy and fest
 **Related reading:**
 - [Outdoor Christmas Entertaining Australia](/blog/05-outdoor-christmas-entertaining-australia)
 - [Outdoor Patio Decor Ideas for Australian Homes](/blog/12-outdoor-patio-decor-australia)
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 

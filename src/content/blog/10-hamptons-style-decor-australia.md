@@ -64,7 +64,7 @@ Alternative: simple white roller blinds with a white linen curtain layered over 
 
 ## Tip 5: Choose Quality Furniture in a Limited Palette
 
-Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy. For how this applies specifically to the main living space, [Hamptons style living room ideas Australia](/blog/16-hamptons-style-living-room-ideas-australia) walks through sofa placement, rug choice, and furniture arrangement in detail.
+Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy. For how this applies specifically to the main living space, [Hamptons style living room ideas Australia](/blog/hamptons-style-living-room-australia) walks through sofa placement, rug choice, and furniture arrangement in detail.
 
 **Where I invested:**
 - Sofa: 3.5-seater linen sofa in cream from Freedom ($2,499)
@@ -140,7 +140,7 @@ The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or ba
 ---
 
 **Related reading:**
-- [Hamptons Style Living Room Ideas for Australian Homes](/blog/16-hamptons-style-living-room-ideas-australia)
+- [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 

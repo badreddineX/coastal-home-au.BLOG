@@ -146,6 +146,6 @@ The gathering ends when guests genuinely want to leave. That's the goal.
 
 **Related reading:**
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Summer Entertaining Ideas for Australian Homes](/blog/22-summer-entertaining-ideas-australia)
 

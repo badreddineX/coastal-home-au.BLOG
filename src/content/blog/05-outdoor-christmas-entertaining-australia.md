@@ -143,6 +143,6 @@ The Australian Christmas gathering that ends well is the one that transitions fr
 
 **Related reading:**
 - [Outdoor Christmas Decor Ideas for Australian Homes](/blog/20-outdoor-christmas-decor-ideas-australia)
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Australia Day Backyard Party Ideas](/blog/21-australia-day-backyard-party-ideas)
 

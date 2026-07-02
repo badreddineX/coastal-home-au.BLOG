@@ -159,7 +159,7 @@ The outdoor entertaining area that gets used daily is the most loved room in the
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 - [Pergola Outdoor Entertaining Ideas Australia](/blog/01-pergola-entertaining-ideas-australia)
 - [Outdoor Lounge Ideas Australia](/blog/outdoor-lounge-ideas-australia)

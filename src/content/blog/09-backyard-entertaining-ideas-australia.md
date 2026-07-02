@@ -145,7 +145,7 @@ The gathering starts as soon as guests arrive, not as soon as I finish setting u
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Pool Area Ideas Australia](/blog/pool-area-ideas-australia)

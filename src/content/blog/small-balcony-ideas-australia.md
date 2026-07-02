@@ -210,6 +210,6 @@ The difference between a balcony that feels styled and one that feels generic is
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas Australia: A Complete Guide](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas Australia: A Complete Guide](/blog/outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
 - [Coastal Home Decor Australia: The Essential Guide](/blog/06-coastal-home-decor-australia)

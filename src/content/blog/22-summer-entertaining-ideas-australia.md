@@ -30,7 +30,7 @@ faqs:
 
 The Australian summer is eight months long, depending on where you live. For those of us on the Gold Coast, genuinely warm outdoor entertaining weather runs from October through April. Eight years of working with that window — and making the most of it — has taught me exactly what Australian summer entertaining looks like at its best.
 
-According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March. For the full foundation of how to set up that space year-round, the [outdoor entertaining ideas guide for Australian homes](/blog/07-outdoor-entertaining-ideas-australia) covers furniture, shade, and styling from first principles.
+According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March. For the full foundation of how to set up that space year-round, the [outdoor entertaining ideas guide for Australian homes](/blog/outdoor-entertaining-ideas-australia) covers furniture, shade, and styling from first principles.
 
 These are the 13 ideas that have defined our summer hosting.
 
@@ -140,7 +140,7 @@ The best summer entertaining I've done has been on the days when I sat down at n
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 - [E](/blog/a)
