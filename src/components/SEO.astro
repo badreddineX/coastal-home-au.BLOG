@@ -98,3 +98,15 @@ const articleSchema = {
 {type === 'article' && (
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 )}
+
+<!-- Fallback for broken external images (hero images are hotlinked from Unsplash) -->
+<script is:inline>
+window.addEventListener('error', function (e) {
+  var t = e.target;
+  if (t && t.tagName === 'IMG' && !t.dataset.fellBack) {
+    t.dataset.fellBack = '1';
+    t.removeAttribute('srcset');
+    t.src = '/images/placeholder.svg';
+  }
+}, true);
+</script>
