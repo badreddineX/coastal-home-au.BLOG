@@ -146,6 +146,6 @@ IKEA AINA linen curtains ($99 per pair) in multiple pairs per window, hung from 
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
-- [A](/blog/u)
-- [a](/blog/u)
+- [Coastal Home Office Ideas Australia: WFH Style](/blog/coastal-home-office-australia)
+- [Small Balcony Ideas Australia: 12 Ways to Transform It](/blog/small-balcony-ideas-australia)
 

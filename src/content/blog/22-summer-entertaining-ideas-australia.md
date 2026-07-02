@@ -143,6 +143,6 @@ The best summer entertaining I've done has been on the days when I sat down at n
 - [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
-- [E](/blog/a)
-- [2](/blog/3)
+- [Easter Outdoor Decor Australia: 12 Alfresco Ideas](/blog/23-easter-outdoor-decorating-ideas-australia)
+- [Australia Day Backyard Party: 13 Tips for January 26](/blog/21-australia-day-backyard-party-ideas)
 

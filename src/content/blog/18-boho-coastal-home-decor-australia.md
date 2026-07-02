@@ -148,6 +148,6 @@ Follow the principles (warm white base, natural materials, rattan, plants, woven
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Rattan and Linen Coastal Decor Ideas for Australian Homes](/blog/04-rattan-linen-coastal-decor-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
-- [R](/blog/a)
-- [r](/blog/a)
+- [Australian Coastal Colour Palette: 9 Combinations](/blog/australian-coastal-colour-palette)
+- [Small Balcony Ideas Australia: 12 Ways to Transform It](/blog/small-balcony-ideas-australia)
 

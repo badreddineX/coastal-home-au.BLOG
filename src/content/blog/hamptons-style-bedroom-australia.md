@@ -147,5 +147,5 @@ If you're renting, here's the key point: focus on fully removable changes. Beddi
 - [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
 - [Hamptons Outdoor Living: The Perfect Alfresco Space](/blog/hamptons-style-outdoor-living-australia)
 - [Hamptons Style Decor: The Australian Guide](/blog/10-hamptons-style-decor-australia)
-- [H](/blog/a)
-- [h](/blog/a)
+- [Hamptons Style Kitchen Australia: 11 Coastal Ideas](/blog/hamptons-style-kitchen-australia)
+- [Coastal Bedroom Decor Australia: 11 Ideas That Work](/blog/coastal-bedroom-decor-australia)

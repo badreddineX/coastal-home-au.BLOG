@@ -211,5 +211,5 @@ The [Australian Institute of Landscape Architects](https://www.aila.org.au/) has
 - [Backyard Fire Pit Ideas for Australian Homes](/blog/backyard-fire-pit-ideas-australia)
 - [Outdoor Entertaining Ideas for Australian Backyards](/blog/outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
-- [N](/blog/a)
-- [n](/blog/a)
+- [Pergola Entertaining Ideas Australia: 14 Tips That Work](/blog/01-pergola-entertaining-ideas-australia)
+- [Outdoor Patio Decor Australia: 13 Styling Tips](/blog/12-outdoor-patio-decor-australia)
