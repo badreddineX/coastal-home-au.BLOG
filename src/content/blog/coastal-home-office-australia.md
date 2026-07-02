@@ -1,7 +1,7 @@
 ---
 title: "Coastal Home Office Ideas Australia: WFH Style"
 description: "Set up a coastal-style home office in Australia that's actually ergonomic. AUD prices, Dulux colour codes, and specific products from Temple & Webster to Beacon Lighting."
-image: "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1593642632559-0c6d3fc62b89.jpg"
 datePublished: "2026-07-01"
 dateModified: "2026-07-01"
 author: "Badreddine Br"

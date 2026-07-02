@@ -1,7 +1,7 @@
 ﻿---
 title: "Outdoor Christmas Entertaining Australia: 12 Hosting Tips"
 description: "How to host a backyard Christmas in Australia — managing summer heat, feeding a crowd outdoors, timing, and full setup. Personal tips with real AUD costs."
-image: "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1482517967863-00e15c9b44be.jpg"
 datePublished: "2026-06-02"
 dateModified: "2026-06-02"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ I've hosted Christmas Day outdoors on the Gold Coast for six years in a row, in 
 
 Here's what changed.
 
-![Australian outdoor Christmas setting with shade sail, white table, and fresh native foliage centrepiece](https://images.unsplash.com/photo-1482517967863-00e15c9b44be?auto=format&fit=crop&w=900&q=80)
+![Australian outdoor Christmas setting with shade sail, white table, and fresh native foliage centrepiece](/images/unsplash-1482517967863-00e15c9b44be.jpg)
 
 ## Tip 1: Solve the Shade Before You Buy a Single Decoration
 
@@ -64,7 +64,7 @@ The Australian outdoor Christmas table that photographs best and functions best 
 
 **What I skip:** Bonbons (creates too much table clutter), Christmas crackers at long tables (time-consuming and scattered), and themed tablecloths (they read as dated in Australian outdoor summer light).
 
-![Cold seafood Christmas starter platter with prawns and oysters on a white outdoor table](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+![Cold seafood Christmas starter platter with prawns and oysters on a white outdoor table](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
 ## Tip 5: Serve a Cold or Room-Temperature Menu
 
@@ -103,7 +103,7 @@ Christmas morning is not the time to be setting up shade sails, running extensio
 
 On Christmas morning, I refill the esky with ice, bring the pavlova out from the fridge 20 minutes before serving, and top up the drinks dispenser. Everything else was done yesterday.
 
-![Children's outdoor zone with low table, splash pad, and activity box at an Australian Christmas gathering](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80)
+![Children's outdoor zone with low table, splash pad, and activity box at an Australian Christmas gathering](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
 ## Tip 9: Create a Children's Zone Away From the Table
 
@@ -127,7 +127,7 @@ The goal is always to start outside and stay outside. But knowing the backup exi
 
 The Australian Christmas gathering that ends well is the one that transitions from the dining table to the lounge zone. After dessert is cleared, I move the coffee and port to the outdoor sofa area, light fresh candles, and let the evening find its own pace. The shift from formal dining to informal lounging is the natural break that lets some guests leave gracefully and the ones who want to stay, stay.
 
-![Australian Christmas evening — outdoor lounge zone with candles, port, and festoon lights after a summer lunch](https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?auto=format&fit=crop&w=900&q=80)
+![Australian Christmas evening — outdoor lounge zone with candles, port, and festoon lights after a summer lunch](/images/unsplash-1543373014-cfe4f4bc1cdf.jpg)
 
 ## Start Here: Priority Order
 

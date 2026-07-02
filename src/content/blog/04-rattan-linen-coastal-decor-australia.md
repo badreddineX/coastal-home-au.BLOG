@@ -1,7 +1,7 @@
 ---
 title: "Rattan and Linen Coastal Styling Australia: How to Mix Them"
 description: "How to style rattan and linen together in an Australian coastal home — room compositions, ratios, colour pairings, and the layering order that works every time."
-image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1555041469-a586c61ea9bc.jpg"
 datePublished: "2026-05-10"
 dateModified: "2026-05-10"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ When we bought our Gold Coast home three years ago, it had cream carpet, beige v
 
 These two materials, used correctly together, are the material shorthand for the Australian coastal interior. Here's exactly how I used them.
 
-![Rattan armchair beside linen sofa and jute rug in a bright Australian coastal living room](https://images.unsplash.com/photo-1566669437685-5f0d0e5dc4e6?auto=format&fit=crop&w=900&q=80)
+![Rattan armchair beside linen sofa and jute rug in a bright Australian coastal living room](/images/unsplash-1522444195799-478538b28823.jpg)
 
 ## Tip 1: Understand Why Rattan and Linen Work Together
 
@@ -73,7 +73,7 @@ The rule I arrived at after testing this over three homes: two or three signific
 
 **Bedroom:** Rattan pendant + rattan bedhead = right. Or rattan bedhead + rattan side tables. Two pieces, both different in type, complement each other. A third of the same scale overwhelms.
 
-![Floor-to-ceiling linen curtains filtering light in a coastal Australian bedroom with rattan accents](https://images.unsplash.com/photo-1556909114-4235a46c84f8?auto=format&fit=crop&w=900&q=80)
+![Floor-to-ceiling linen curtains filtering light in a coastal Australian bedroom with rattan accents](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
 ## Tip 5: Let Linen Curtains Hang Floor-to-Ceiling
 
@@ -99,7 +99,7 @@ Mirrors are the secret weapon of coastal decorating. They reflect light, create 
 
 **What I use:** A large round rattan mirror (90cm diameter) in our hallway from Temple & Webster ($119) and a smaller version in the bathroom ($65). The round form is more typical of current Australian coastal style than rectangular; the rattan frame ties the mirror into the material palette of the room.
 
-![Coastal bathroom with white waffle-weave linen towels, rattan mirror, and trailing plant on shelf](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Coastal bathroom with white waffle-weave linen towels, rattan mirror, and trailing plant on shelf](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Tip 9: Use Linen in the Bathroom (Yes, Really)
 
@@ -129,7 +129,7 @@ Rattan and linen are the lead materials; jute and terracotta are the supporting 
 
 **The complete room formula:** White walls + natural timber or whitewashed boards + jute rug + linen sofa + rattan accent chair + linen curtains + terracotta pots + rattan pendant. Every element available at Kmart, Temple & Webster, or Adairs. Total budget: $1,200—$3,500 for a full living room depending on furniture investment.
 
-![Complete rattan and linen coastal living room with jute rug, terracotta pots, and warm white walls](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Complete rattan and linen coastal living room with jute rug, terracotta pots, and warm white walls](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Start Here: Priority Order
 

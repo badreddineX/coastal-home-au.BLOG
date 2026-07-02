@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Entertaining Area Design Australia: 14 Build Tips"
 description: "How to design and build an outdoor entertaining area in Australia — pergolas, decking, paving, and structure decisions with real AUD costs and builder tips."
-image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1600585154340-be6161a56a0c.jpg"
 datePublished: "2026-06-09"
 dateModified: "2026-06-09"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ Our current outdoor entertaining area took five years to get right. The first ve
 
 Here are the 14 things that made the difference.
 
-![Complete Australian outdoor entertaining area with covered pergola, festoon lights, dining zone, and lounge zone](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80)
+![Complete Australian outdoor entertaining area with covered pergola, festoon lights, dining zone, and lounge zone](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
 ## Tip 1: Solve the Structure Before Everything Else
 
@@ -72,7 +72,7 @@ The outdoor dining table is the centrepiece of every outdoor gathering and the m
 
 **The rule:** 60cm of table length per person. Buy for maximum anticipated gathering size, not average.
 
-![Outdoor lounge zone with L-shaped sofa, outdoor coffee table, and festoon lights on a Gold Coast alfresco](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![Outdoor lounge zone with L-shaped sofa, outdoor coffee table, and festoon lights on a Gold Coast alfresco](/images/unsplash-1524758631624-e2822e304c36.jpg)
 
 ## Tip 5: Add a Lounge Zone With a Proper Outdoor Sofa
 
@@ -100,7 +100,7 @@ The outdoor drinks station — a bar cart ($230 from Temple & Webster) with a 5L
 
 Guests self-serve from the drinks station. The dispenser is refilled once during the gathering. The esky provides the cold storage. I don't manage drinks during any gathering — and the host who doesn't manage drinks has significantly more capacity for everything else.
 
-![Lush perimeter planting with Lilly Pillies and olive trees in terracotta pots around an outdoor entertaining area](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
+![Lush perimeter planting with Lilly Pillies and olive trees in terracotta pots around an outdoor entertaining area](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ## Tip 9: Plant the Perimeter for Enclosure and Lushness
 
@@ -144,7 +144,7 @@ Design decisions that support daily use: comfortable lounge zone seating (not ju
 
 The outdoor entertaining area that gets used daily is the most loved room in the house.
 
-![Daily-use alfresco at golden hour with festoon lights, outdoor plants, and dining table set for two](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+![Daily-use alfresco at golden hour with festoon lights, outdoor plants, and dining table set for two](/images/unsplash-1510076857177-7470076d4098.jpg)
 
 ## Start Here: Priority Order
 

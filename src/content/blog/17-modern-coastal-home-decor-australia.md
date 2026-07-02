@@ -1,7 +1,7 @@
 ---
 title: "Modern Coastal Home Decor Australia: 2026 Trends"
 description: "How Australian coastal decor has evolved in 2026 — what is out, what replaced it, and which new materials and colours define the current look. Trend-forward guide."
-image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1600607687939-ce8a6c25118c.jpg"
 datePublished: "2026-06-14"
 dateModified: "2026-06-14"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ I've been watching the coastal interior trend evolve over the eight years I've l
 
 What's replaced them is better — more considered, more personal, and more genuinely evocative of the coast. Here are the 13 principles that define the contemporary version.
 
-![Modern coastal Australian living room — warm white walls, stone-look tiles, linen sofa, olive tree in terracotta pot](https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=900&q=80)
+![Modern coastal Australian living room — warm white walls, stone-look tiles, linen sofa, olive tree in terracotta pot](/images/unsplash-1584622781564-1d987f7333c1.jpg)
 
 ## Tip 1: Remove Every Coastal-Themed Object
 
@@ -66,7 +66,7 @@ Limewash paint — a traditional finish where a diluted lime solution is applied
 
 **Australian limewash paint:** Dulux Venetian Plaster range, Porter's Paints Limewash, or Rockcote Limewash. DIY application is achievable — YouTube tutorials are adequate for a single feature wall. Cost: $80–$150 for a feature wall in materials. Trades: $300–$800 per wall installed.
 
-![Natural rattan armchair in honey tone beside a limewash feature wall in a modern coastal room](https://images.unsplash.com/photo-1566669437685-5f0d0e5dc4e6?auto=format&fit=crop&w=900&q=80)
+![Natural rattan armchair in honey tone beside a limewash feature wall in a modern coastal room](/images/unsplash-1522444195799-478538b28823.jpg)
 
 ## Tip 6: Choose Rattan in Natural and Honey Tones
 
@@ -102,7 +102,7 @@ Terracotta — the orange-brown warm tone of unglazed clay — is one of the mos
 
 The terracotta accent connects to the Australian landscape — the red earth, the iron-stained rock, the warm tones of our native stone — in a way that no imported colour accent does.
 
-![Large arched mirror in a modern coastal Australian bedroom reflecting natural light from the window](https://images.unsplash.com/photo-1556909114-4235a46c84f8?auto=format&fit=crop&w=900&q=80)
+![Large arched mirror in a modern coastal Australian bedroom reflecting natural light from the window](/images/unsplash-1618220179428-22790b461013.jpg)
 
 ## Tip 10: Install Arched Mirrors and Doorways
 
@@ -128,7 +128,7 @@ The curtain treatment that most clearly defines the modern coastal aesthetic in 
 
 IKEA AINA linen curtains ($99 per pair) in multiple pairs per window, hung from ceiling height on a simple matte white curtain rod. The extravagance of fabric is the point.
 
-![Full-width linen sheers on ceiling-height rods in a modern coastal Australian living room in soft morning light](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Full-width linen sheers on ceiling-height rods in a modern coastal Australian living room in soft morning light](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Start Here: Priority Order
 

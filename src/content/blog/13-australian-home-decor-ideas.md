@@ -1,7 +1,7 @@
 ---
 title: "Australian Home Decor Ideas: 13 Ways to Own the Local Style"
 description: "Australian home decor beyond coastal clichés — native timbers, indigenous influences, and bush-meets-coast materials. A style that is genuinely local."
-image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1560448204-e02f11c3d0e2.jpg"
 datePublished: "2026-06-03"
 dateModified: "2026-06-03"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Eight years of living in and decorating homes on the Gold Coast has given me a c
 
 Here are the 13 ideas and principles I keep returning to. According to [Domain.com.au research](https://www.domain.com.au/research/), Australian homeowners spend an average of $35,000 on home renovation and decorating over five years — but the highest-impact changes are almost always the most affordable ones.
 
-![Bright Australian home interior with warm white walls, pale timber floors, and linen sofa](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+![Bright Australian home interior with warm white walls, pale timber floors, and linen sofa](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
 ## Tip 1: Build Everything Around the Indoor-Outdoor Connection
 
@@ -75,7 +75,7 @@ If I had to give one material-based rule for Australian home decor, it would be:
 
 **Where to buy quality linen:** Adairs (bedding and cushions, excellent range), IKEA (curtains, $99 per pair, reliable), Temple & Webster (furniture and decorative items), and Australian independent linen brands including Sheet Society and Cultiver for bedding.
 
-![Rattan armchair in natural tone beside a linen sofa in a bright Australian living room](https://images.unsplash.com/photo-1566669437685-5f0d0e5dc4e6?auto=format&fit=crop&w=900&q=80)
+![Rattan armchair in natural tone beside a linen sofa in a bright Australian living room](/images/unsplash-1522444195799-478538b28823.jpg)
 
 ## Tip 5: Embrace the Rattan Moment — It's Not Going Anywhere
 
@@ -122,7 +122,7 @@ The Australian home decor aesthetic is not about maintaining a display. It's abo
 
 **Practical starting point:** A linen throw from Adairs (~$49-$89 AUD) draped over the arm of a sofa, and a quality coffee table book (~$39-$69 AUD from Big W or Dymocks), give a room that lived-in quality without clutter. These two items cost under $160 AUD combined and shift the feel of a room immediately.
 
-![Quality linen sofa in a warm white coastal Australian living room with timber floors](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Quality linen sofa in a warm white coastal Australian living room with timber floors](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
 ## Tip 9: Invest in Quality Sofas and Beds
 
@@ -160,7 +160,7 @@ A north-facing Gold Coast living room with direct sun from 10am to 3pm needs to 
 
 The light is the best resource Australian interior design has. Design with it, not despite it.
 
-![Afternoon light flooding through linen sheers into a warm white Australian home interior](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Afternoon light flooding through linen sheers into a warm white Australian home interior](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Start Here: Priority Order
 

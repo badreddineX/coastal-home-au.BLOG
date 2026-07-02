@@ -1,7 +1,7 @@
 ﻿---
 title: "Coastal Bathroom Decor Ideas for Australian Homes (2026)"
 description: "Transform your bathroom into a coastal retreat with natural textures, soft blues, and rattan accents. Renter-friendly Australian ideas with real AUD prices."
-image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1552321554-5fefe8c9ef14.jpg"
 datePublished: "2026-04-02"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -35,7 +35,7 @@ The bathroom is the most overlooked room for coastal styling — and the most re
 
 ---
 
-![Coastal bathroom with white subway tiles, rattan mirror, and waffle towels in soft blue and white](https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=900&q=80)
+![Coastal bathroom with white subway tiles, rattan mirror, and waffle towels in soft blue and white](/images/unsplash-1552321554-5fefe8c9ef14.jpg)
 
 ## 1. Start With the Colour Palette
 
@@ -59,7 +59,7 @@ If you're renovating (or helping an owner-occupier friend), tiles are where the 
 
 Renters: skip this section and put that energy into Section 3.
 
-![Zellige tile feature wall in soft white with brushed nickel fittings in a coastal bathroom](https://images.unsplash.com/photo-1620626011761-996317702782?auto=format&fit=crop&w=900&q=80)
+![Zellige tile feature wall in soft white with brushed nickel fittings in a coastal bathroom](/images/unsplash-1584622650111-993a426fbf0a.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ Bathrooms are brilliant for plants. The humidity that makes you run the exhaust 
 
 **Bold key point:** One plant in a simple terracotta or ceramic pot costs ~$10–$25 AUD total and adds more life to a bathroom than almost any purchased accessory.
 
-![Bathroom shelf styled with rattan basket, white ceramic soap dish, and a pothos plant](https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=900&q=80)
+![Bathroom shelf styled with rattan basket, white ceramic soap dish, and a pothos plant](/images/unsplash-1507652313519-d4e9174996dd.jpg)
 
 Renters: plants are completely bond-safe. Just use a waterproof saucer under the pot to protect any timber shelving.
 
@@ -140,7 +140,7 @@ Ecoya is the Australian brand I return to most often. Their Lotus Flower and Cot
 
 **Bold key point:** A quality reed diffuser from Ecoya costs ~$35–$65 AUD and lasts three to four months. That's coastal scent for less than $20 per month — more effective and longer-lasting than a candle for a daily-use bathroom.
 
-![Freestanding bath in white stone composite with a coastal candle and timber bath tray](https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?auto=format&fit=crop&w=900&q=80)
+![Freestanding bath in white stone composite with a coastal candle and timber bath tray](/images/unsplash-1564540586988-aa4e53c3d799.jpg)
 
 ---
 

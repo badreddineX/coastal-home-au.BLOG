@@ -1,7 +1,7 @@
 ﻿---
 title: "Outdoor Lounge Ideas Australia: 10 Alfresco Tips"
 description: "10 outdoor lounge ideas for Australian homes — furniture, shade, rugs, cushions, lighting & layout tips. Real AUD prices from Temple & Webster, Bunnings & Adairs."
-image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1449824913935-59a10b8d2000.jpg"
 datePublished: "2026-06-28"
 dateModified: "2026-06-28"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ According to [Domain.com.au research](https://www.domain.com.au/news/outdoor-liv
 
 I've set up outdoor lounges in three different properties — a north-facing apartment balcony in Brisbane, a narrow courtyard in Bondi, and our current wide alfresco on the Gold Coast. Here's exactly what I'd do at each stage and budget.
 
-![Coastal-style outdoor lounge setting with white cushions, rattan accents, and string lights on a covered alfresco](https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80)
+![Coastal-style outdoor lounge setting with white cushions, rattan accents, and string lights on a covered alfresco](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
 > **Key Takeaways**
 > - Shade is the non-negotiable foundation — without it, no outdoor lounge gets used in an Australian summer
@@ -63,7 +63,7 @@ Your three main options, with honest pros and cons:
 
 The most common outdoor lounge arrangement mistake is placing furniture first and skipping the rug altogether. The rug is the most important design decision in the outdoor lounge — it defines the boundaries of the zone, anchors all other furniture decisions, and is the fastest way to make an outdoor area feel designed rather than assembled.
 
-![Polypropylene outdoor rug in sandy beige anchoring a coastal outdoor lounge with rattan coffee table and white cushions](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
+![Polypropylene outdoor rug in sandy beige anchoring a coastal outdoor lounge with rattan coffee table and white cushions](/images/unsplash-1558618666-fcd25c85cd64.jpg)
 
 Choose a polypropylene (also called olefin) outdoor rug. The material resists UV fading, handles rain without moulding, and can be hosed down after a summer of use. Avoid natural fibre rugs outdoors — jute and sisal absorb moisture and deteriorate within one season.
 
@@ -107,7 +107,7 @@ A modular L-shape or U-shape setting plus a separate occasional chair or two cre
 
 **Key point:** A three-piece outdoor lounge setting (sofa plus two chairs) from Temple & Webster suits most standard Australian alfresco areas, starting at ~$800-$1,500 AUD.
 
-![Large alfresco outdoor lounge with L-shape modular sofa, coffee table, and string lights over a covered deck](https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=900&q=80)
+![Large alfresco outdoor lounge with L-shape modular sofa, coffee table, and string lights over a covered deck](/images/unsplash-1600566753376-12c8ab7fb75b.jpg)
 
 ## 5. Invest in Quality Outdoor Cushions — They Make or Break the Look
 
@@ -148,7 +148,7 @@ The coffee table is the functional and visual centre of any lounge zone — and 
 
 The gap between an outdoor lounge that's used until 7pm and one that's used until midnight is almost always lighting. A lounge zone that has only a single overhead light feels like a car park after dark. One with layered lighting feels like somewhere you want to stay.
 
-![String lights wound through a pergola above a styled outdoor lounge setting at dusk, warm amber glow](https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=900&q=80)
+![String lights wound through a pergola above a styled outdoor lounge setting at dusk, warm amber glow](/images/unsplash-1529543544282-ea669407fca3.jpg)
 
 **The three layers:**
 
@@ -193,7 +193,7 @@ The difference between a furnished outdoor lounge and a styled one comes down to
 
 An outdoor lounge designed only for summer is an outdoor lounge used for three months of the year. A few intentional additions extend the season to eleven months — or year-round in Queensland and WA.
 
-![Outdoor lounge with fire pit nearby and woollen throws draped over armchairs on a cool coastal evening](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Outdoor lounge with fire pit nearby and woollen throws draped over armchairs on a cool coastal evening](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 **For cooler months (May-August in most of Australia):**
 - A portable fire pit or outdoor gas heater extends comfortable outdoor use by several hours on cool evenings. A simple fire pit bowl from Bunnings starts at ~$150 AUD; a freestanding gas patio heater from Temple & Webster runs ~$350-$800 AUD.

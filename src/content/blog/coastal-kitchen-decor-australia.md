@@ -1,7 +1,7 @@
 ﻿---
 title: "Coastal Kitchen Decor Australia: 10 Light, Airy Ideas"
 description: "Style a coastal kitchen in Australia with the right cabinet colours, hardware, splashbacks, and accessories. AUD prices and local retailer product picks."
-image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1556909114-f6e7ad7d3136.jpg"
 datePublished: "2026-04-08"
 dateModified: "2026-04-08"
 author: "Badreddine Br"
@@ -54,7 +54,7 @@ For a more contemporary twist, soft sage green on the lower cabinets with white 
 
 ## 2. Swap the Cabinet Hardware — the Easiest Win
 
-![White coastal kitchen with brushed nickel handles, subway tile splashback, and rattan pendant lights](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80)
+![White coastal kitchen with brushed nickel handles, subway tile splashback, and rattan pendant lights](/images/unsplash-1556909114-f6e7ad7d3136.jpg)
 
 Cabinet hardware is the cheapest renovation-adjacent change with the most visible return on a cost-per-impact basis. Replacing builder's standard chrome handles with brushed nickel, matte black, or antique brass hardware takes a kitchen from generic to considered for under $150 AUD in a standard-sized kitchen.
 
@@ -82,7 +82,7 @@ If you're renting, peel-and-stick subway tile panels are available at Bunnings a
 
 ## 4. Add Open Shelving for Coastal Display
 
-![Open white timber shelving in a coastal kitchen displaying linen, ceramics, and a small potted plant](https://images.unsplash.com/photo-1556909172-54557c7e4fb7?auto=format&fit=crop&w=900&q=80)
+![Open white timber shelving in a coastal kitchen displaying linen, ceramics, and a small potted plant](/images/unsplash-1556909172-54557c7e4fb7.jpg)
 
 Open shelving is the coastal kitchen element that creates the most opportunity for personal expression. A single floating shelf above the bench, styled with a mix of functional and decorative objects, transforms a generic kitchen wall into something that feels like a home.
 
@@ -122,7 +122,7 @@ For a kitchen where painting the walls is possible, Dulux Natural White or Dulux
 
 ## 7. Add a Coastal Kitchen Rug
 
-![Natural jute kitchen rug in front of a white coastal kitchen with timber floorboards](https://images.unsplash.com/photo-1556909172-54557c7e4fb7?auto=format&fit=crop&w=900&q=80)
+![Natural jute kitchen rug in front of a white coastal kitchen with timber floorboards](/images/unsplash-1556909172-54557c7e4fb7.jpg)
 
 A kitchen rug is a low-cost, high-impact coastal accessory that most kitchens don't use. Placed in front of the sink, the island, or the main prep area, it adds warmth, cushions tired feet during longer cooking sessions, and introduces texture to a room that is otherwise dominated by hard surfaces.
 

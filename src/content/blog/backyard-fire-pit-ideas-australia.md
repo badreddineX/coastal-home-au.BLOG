@@ -1,7 +1,7 @@
 ﻿---
 title: "Backyard Fire Pit Ideas for Australian Homes (2026)"
 description: "The best backyard fire pit ideas for Australian homes — built-in stone pits to portable bowls. Create a great evening outdoor space with AUD prices and safety tips."
-image: "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1604999333679-b86d54738315.jpg"
 datePublished: "2026-02-20"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -29,7 +29,7 @@ There's something primal about gathering around a fire. In Australia, where we l
 
 ## 1. Which Type of Fire Pit Is Right for Your Backyard?
 
-![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80)
+![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](/images/unsplash-1542272604-787c3835535d.jpg)
 
 The three main options are portable steel bowls, built-in stone or concrete pits, and gas fire pits. Each suits a different backyard, budget, and lifestyle. **Portable bowls start at ~$80 AUD at Bunnings, built-in stone pits run ~$500–$3,000 AUD installed, and gas units typically cost ~$600–$2,000 AUD.** Your tenure matters too: owners can invest in permanent structures, while renters need a removable solution.
 
@@ -57,7 +57,7 @@ Wind direction matters more than most people realise. Observe where the breeze t
 
 ## 4. What Wood Should You Burn in an Australian Fire Pit?
 
-![Built-in stone fire pit with curved concrete bench seating in a coastal Australian backyard](https://images.unsplash.com/photo-1558618047-f4e60cef5e5d?auto=format&fit=crop&w=900&q=80)
+![Built-in stone fire pit with curved concrete bench seating in a coastal Australian backyard](/images/unsplash-1517594422361-5eeb8ae275a9.jpg)
 
 The wood you burn determines heat output, smoke level, and how long the fire holds. **Australian hardwoods — red gum, ironbark, and spotted gum — burn hotter, slower, and cleaner than softwoods. A load typically costs ~$100–$300 AUD from a local supplier or nursery.** I switched from mixed firewood to red gum in my second winter and the difference was immediate — longer burns, far less smoke, and better coals for warmth.
 
@@ -75,7 +75,7 @@ A curved concrete bench built around a built-in fire pit creates a seamless, res
 
 ## 6. How Do You Light and Manage a Backyard Fire Safely?
 
-![Outdoor fire pit seating area with low lounge chairs, lanterns, and throw blankets at dusk](https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?auto=format&fit=crop&w=900&q=80)
+![Outdoor fire pit seating area with low lounge chairs, lanterns, and throw blankets at dusk](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
 Safe fire management is not complicated, but it does require discipline every single time. **The NSW Rural Fire Service recommends keeping a bucket of water or a connected garden hose immediately accessible whenever an outdoor fire is burning.** Never leave a burning fire pit unattended, not even briefly.
 
@@ -95,7 +95,7 @@ Side tables are essential — one within arm's reach of each seat. Timber stools
 
 ## 8. What Maintenance Does a Fire Pit Need?
 
-![Styled fire pit zone with lanterns, outdoor rug, and timber side tables on an Australian patio](https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80)
+![Styled fire pit zone with lanterns, outdoor rug, and timber side tables on an Australian patio](/images/unsplash-1600566753190-17f0baa2a6c3.jpg)
 
 Maintenance requirements depend on the pit type, but all fire pits need some basic ongoing care. **Steel fire bowls benefit from a light coating of cooking oil after each use to slow surface rust — this takes about two minutes and significantly extends the life of a ~$150 AUD pit.** I neglected this for the first year and the bowl surface corroded noticeably faster than my neighbour's identical pit.
 

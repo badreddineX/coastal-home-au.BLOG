@@ -1,7 +1,7 @@
 ﻿---
 title: "Outdoor Christmas Decor Australia: 12 Styling Ideas"
 description: "Style your outdoor space for Christmas in Australia — decor ideas, product picks, colour schemes, and lighting. Real AUD prices from Australian retailers."
-image: "https://images.unsplash.com/photo-1512389142860-9c449e58a543?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1512389142860-9c449e58a543.jpg"
 datePublished: "2026-06-05"
 dateModified: "2026-06-05"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ Every year since we moved to the Gold Coast, I've decorated our outdoor space fo
 
 Here are the 12 ideas that have made our outdoor Christmas look genuinely beautiful.
 
-![Warm festoon lights strung across a covered alfresco for Christmas evening](https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=900&q=80)
+![Warm festoon lights strung across a covered alfresco for Christmas evening](/images/unsplash-1545459720-aac8509eb02c.jpg)
 
 ## Tip 1: Install Warm White Festoon Lights — They're the Foundation
 
@@ -55,7 +55,7 @@ Pine branches in 35-degree Gold Coast summer heat become a fire risk by December
 
 The native foliage wreath on the gate is consistently the most commented-on Christmas decoration by neighbours and guests.
 
-![Australian native foliage Christmas wreath on a white fence gate](https://images.unsplash.com/photo-1576692155415-19a05d77f107?auto=format&fit=crop&w=900&q=80)
+![Australian native foliage Christmas wreath on a white fence gate](/images/unsplash-1512389142860-9c449e58a543.jpg)
 
 ## Tip 3: Plant Standard Rosemary Topiaries as Christmas Trees
 
@@ -75,7 +75,7 @@ The outdoor Christmas table in Australian summer should be simple, white, and co
 - White pillar candles in hurricane holders (unlit until evening)
 - White or natural linen napkins with a sprig of rosemary tied around each
 
-![White linen outdoor Christmas table setting with eucalyptus centrepiece and gardenias](https://images.unsplash.com/photo-1606787364406-a3cdf06c6d0c?auto=format&fit=crop&w=900&q=80)
+![White linen outdoor Christmas table setting with eucalyptus centrepiece and gardenias](/images/unsplash-1606787364406-a3cdf06c6d0c.jpg)
 
 ## Tip 5: Hang Simple Star or Snowflake Decorations From the Pergola
 
@@ -101,7 +101,7 @@ The Christmas wreath for an Australian outdoor space is not a faux-pine wreath f
 
 **Where to buy if not making:** Etsy (filter to Australian sellers for native foliage wreaths, $45–$120), local florists in December (often the best native wreaths, $45–$85), or Adairs and Temple & Webster for quality faux wreaths in natural materials ($35–$80).
 
-![Outdoor alfresco decorated with festoon lights, white lanterns, and native foliage garlands](https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?auto=format&fit=crop&w=900&q=80)
+![Outdoor alfresco decorated with festoon lights, white lanterns, and native foliage garlands](/images/unsplash-1543373014-cfe4f4bc1cdf.jpg)
 
 ## Tip 9: Add White Outdoor Lanterns to the Alfresco and Garden
 
@@ -123,7 +123,7 @@ Christmas scent for an outdoor space: a cluster of three gardenias in a simple v
 
 Christmas Eve outdoor styling should feel quiet and beautiful, not busy and festive. The festoon lights on their timer. A cluster of white candles on the outdoor table. A glass of cold white wine. The gardenia scent on the warm December air. Christmas in Australia at its best is calm, warm, and genuinely its own thing.
 
-![Calm Christmas Eve outdoor setting with white candles, gardenias, and festoon lights at dusk](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=900&q=80)
+![Calm Christmas Eve outdoor setting with white candles, gardenias, and festoon lights at dusk](/images/unsplash-1607082348824-0a96f2a4b9da.jpg)
 
 ## Start Here: Priority Order
 

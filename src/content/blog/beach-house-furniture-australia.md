@@ -1,7 +1,7 @@
 ﻿---
 title: "Beach House Furniture Australia: 11 Must-Have Pieces"
 description: "The 11 furniture pieces every Australian beach house needs — materials that handle salt air, humidity, and UV. Real AUD prices from top Australian retailers."
-image: "https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1553882809-a4f57e59501d.jpg"
 datePublished: "2026-06-24"
 dateModified: "2026-06-24"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ There's a furniture graveyard hidden behind most Australian beach houses. Rusted
 
 I've furnished coastal homes on the Gold Coast and Sunshine Coast over six years. The lessons were expensive. This is the version of the furniture guide I wish I'd had at the start.
 
-![Australian beach house interior with pale timber floors, linen sofa, and rattan accents in an open-plan living room](https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=900&q=80)
+![Australian beach house interior with pale timber floors, linen sofa, and rattan accents in an open-plan living room](/images/unsplash-1499793983690-e29da59ef1c2.jpg)
 
 > **Key Takeaways**
 > - Material selection matters more than style at the coast — the wrong material costs more over time than the right one upfront
@@ -63,7 +63,7 @@ Linen upholstery breathes in coastal heat, softens beautifully with use, and hol
 
 Every Australian beach house living room needs at least one [rattan](/blog/rattan-furniture-australia) armchair. It's the piece that immediately signals "coastal home" without trying — and it provides the warm texture that balances the lightness of white walls and linen.
 
-![Rattan armchair with white linen cushion beside a tall indoor plant in a bright coastal Australian living room](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Rattan armchair with white linen cushion beside a tall indoor plant in a bright coastal Australian living room](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
 Natural rattan is the authentic choice for indoor use — it ages beautifully, developing a warm honey-to-caramel patina over years. Use synthetic rattan only for outdoor applications.
 
@@ -119,7 +119,7 @@ Dining chairs are one of the most satisfying places to introduce rattan into a b
 
 The outdoor dining setting is the piece Australian beach house owners under-invest in most consistently — and then replace most frequently as a result. A $400 pressed-steel-and-polyester set from a discount warehouse won't survive two Queensland summers.
 
-![Teak outdoor dining table set for six on a covered alfresco deck with coastal garden visible beyond](https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=80)
+![Teak outdoor dining table set for six on a covered alfresco deck with coastal garden visible beyond](/images/unsplash-1600566753086-00f18fb6b3ea.jpg)
 
 **The only materials worth buying for Australian coastal outdoor dining:**
 
@@ -193,7 +193,7 @@ The correct material for outdoor lounge furniture in a coastal environment is sy
 
 ## 9. Storage Furniture: Rattan Baskets and Timber Consoles
 
-![Natural rattan baskets on open timber shelving in a coastal Australian entryway, styled with a ceramic vase and coastal art](https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80)
+![Natural rattan baskets on open timber shelving in a coastal Australian entryway, styled with a ceramic vase and coastal art](/images/unsplash-1618220179428-22790b461013.jpg)
 
 Beach houses generate more practical storage challenges than most other homes. Sand comes in from the beach. Outdoor toys, towels, wetsuits, and beach gear need somewhere to live. The challenge is solving the storage problem without introducing furniture that looks like it belongs in a city apartment.
 

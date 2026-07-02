@@ -16,7 +16,7 @@ const {
   description,
   slug = '',
   path = '',
-  image = 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80',
+  image = '/images/unsplash-1600566753086-00f18fb6b3ea.jpg',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
   authorName = 'Badreddine Br',
@@ -99,7 +99,7 @@ const articleSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 )}
 
-<!-- Fallback for broken external images (hero images are hotlinked from Unsplash) -->
+<!-- Fallback for broken images -->
 <script is:inline>
 window.addEventListener('error', function (e) {
   var t = e.target;

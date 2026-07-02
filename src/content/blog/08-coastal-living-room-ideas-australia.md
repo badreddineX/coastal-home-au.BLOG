@@ -1,7 +1,7 @@
 ---
 title: "Coastal Living Room Ideas Australia: 13 Best Tips"
 description: "I redesigned our Gold Coast living room from scratch using coastal style principles. Here are the 13 tips that worked — with real AUD prices and honest trade-offs."
-image: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1583847268964-b28dc8f51f92.jpg"
 datePublished: "2026-05-19"
 dateModified: "2026-05-19"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ When we renovated our Gold Coast living room three years ago, I had a clear brie
 
 Here's what I changed, what I kept, and what I spent. According to [Domain.com.au](https://www.domain.com.au/research/), open-plan coastal living rooms are among the most in-demand features for Australian property buyers — the living room is where the coastal aesthetic earns its investment.
 
-![Coastal Australian living room with natural linen sofa, large jute rug, rattan armchair, and linen curtains](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Coastal Australian living room with natural linen sofa, large jute rug, rattan armchair, and linen curtains](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Tip 1: Start With the Sofa — It Defines Everything Else
 
@@ -64,7 +64,7 @@ The rattan armchair is the most visually recognisable coastal living room elemen
 
 **The placement rule:** The armchair should be at a slight angle to the sofa, not parallel to it. The angled position creates a natural conversational zone and makes the corner feel intentional rather than space-filling.
 
-![Coastal living room coffee table styled with books, terracotta pot, and rattan coasters](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+![Coastal living room coffee table styled with books, terracotta pot, and rattan coasters](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
 ## Tip 5: Style the Coffee Table in Layers of Three
 
@@ -90,7 +90,7 @@ A large fiddle leaf fig (2m+) in the corner of our living room is the most frequ
 
 **What to buy:** A mature fiddle leaf fig from a nursery costs $60–$180 depending on size. A Zanzibar gem (ZZ plant) is a more forgiving option at $25–$60 from Bunnings. Both need a simple terracotta or ceramic pot — not plastic, and not a pot that competes visually with the plant.
 
-![Edited coastal living room shelf with natural ceramics, woven basket, and coastal books — breathing room visible](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+![Edited coastal living room shelf with natural ceramics, woven basket, and coastal books — breathing room visible](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
 ## Tip 9: Edit the Decorative Objects to One Third
 
@@ -120,7 +120,7 @@ The finest coastal living rooms in Australia have direct visual and physical acc
 
 If the connection isn't architectural, approximate it: position the sofa to face the garden view rather than the TV, use plants and materials that echo the outside, and if possible, keep outdoor furniture in the same colour palette as the indoor furniture so the transition feels seamless. The whole-home approach to this aesthetic is covered in [coastal home decor Australia](/blog/06-coastal-home-decor-australia), where the same principles are applied room by room.
 
-![Australian coastal living room with sliding glass doors open to the alfresco — seamless indoor-outdoor connection](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Australian coastal living room with sliding glass doors open to the alfresco — seamless indoor-outdoor connection](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Start Here: Priority Order
 

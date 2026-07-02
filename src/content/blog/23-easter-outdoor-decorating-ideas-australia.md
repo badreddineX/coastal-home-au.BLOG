@@ -1,7 +1,7 @@
 ---
 title: "Easter Outdoor Decor Australia: 12 Alfresco Ideas"
 description: "Easter in Australia is a beautiful autumn gathering. Here are 12 outdoor decorating ideas — fresh flowers, earthy tones, and relaxed alfresco styling. AUD prices."
-image: "https://images.unsplash.com/photo-1490818387583-1baba5e638af?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1490818387583-1baba5e638af.jpg"
 datePublished: "2026-02-15"
 dateModified: "2026-02-15"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ Easter in Australia is autumn. In Queensland, it's a perfect weekend — warm en
 
 Here are the 12 decorating ideas that make our Easter outdoor space genuinely beautiful.
 
-![Autumn outdoor table setting for Easter with dahlias, terracotta pots, and white linen runner](https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=900&q=80)
+![Autumn outdoor table setting for Easter with dahlias, terracotta pots, and white linen runner](/images/unsplash-1519671482749-fd09be7ccebf.jpg)
 
 ## Tip 1: Embrace the Autumn Palette — Not the Pastel Spring Easter
 
@@ -59,7 +59,7 @@ The Easter wreath for an Australian outdoor gate or front door: a circular wire 
 
 Alternatively, Kmart and Target have natural-material Easter wreaths in the March—April range ($15–$35). Choose the ones in hessian, jute, or natural fibre rather than the pastel ribbon-and-egg versions.
 
-![Native foliage Easter wreath on white-painted front gate with terracotta ribbon](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=80)
+![Native foliage Easter wreath on white-painted front gate with terracotta ribbon](/images/unsplash-1534438327276-14e5300c3a48.jpg)
 
 ## Tip 4: Set the Easter Table With Hessian and Natural Materials
 
@@ -85,7 +85,7 @@ Hot cross buns as decoration: a wooden board stacked with a dozen freshly baked 
 
 Baker's Delight, Bakers Delight, and Woolworths all sell freshly baked hot cross buns from Good Friday through Easter Monday. The fruit and spice variants are traditional; the chocolate and caramel versions are an Australian Easter evolution that the children invariably prefer.
 
-![Hot cross buns on a wooden board at the Easter outdoor brunch table, with butter and jam](https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?auto=format&fit=crop&w=900&q=80)
+![Hot cross buns on a wooden board at the Easter outdoor brunch table, with butter and jam](/images/unsplash-1511690656952-34342bb7c2f2.jpg)
 
 ## Tip 8: Hang Simple Easter Decorations From Eucalyptus Branches
 
@@ -109,7 +109,7 @@ The Easter Sunday outdoor lunch that is most distinctly Australian: roasted lamb
 
 The best Easter gatherings I've hosted have been the simplest: a beautiful table, fresh flowers, good food, and the full four-day weekend to enjoy it. Easter outdoor decorating serves the gathering — it doesn't replace it. A few considered elements (the hessian runner, the dahlia centrepiece, the terracotta egg holders, the beeswax candles) are all that's needed.
 
-![Easter Sunday outdoor lunch table with roast lamb, autumn salads, and dahlias on a warm Gold Coast afternoon](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+![Easter Sunday outdoor lunch table with roast lamb, autumn salads, and dahlias on a warm Gold Coast afternoon](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
 ## Start Here: Priority Order
 

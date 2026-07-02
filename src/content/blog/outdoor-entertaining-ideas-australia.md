@@ -1,7 +1,7 @@
 ﻿---
 title: "19 Outdoor Entertaining Ideas for Aussie Backyards"
 description: "Transform your Australian backyard into a great alfresco entertaining space. Budget-friendly coastal outdoor ideas with real AUD prices for every home in Australia."
-image: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1600566753086-00f18fb6b3ea.jpg"
 datePublished: "2026-01-15"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -31,7 +31,7 @@ Whether you have a sprawling suburban block in Brisbane, a compact terrace in in
 
 [BOM climate data](http://www.bom.gov.au/climate/averages/) shows that Australia's coastal capitals enjoy more than 280 days of sunshine annually — which is why the outdoor entertaining space is as important to an Australian home as any room inside.
 
-![Australian alfresco entertaining area with shade sail, outdoor dining table, and coastal garden](https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=80)
+![Australian alfresco entertaining area with shade sail, outdoor dining table, and coastal garden](/images/unsplash-1600566753086-00f18fb6b3ea.jpg)
 
 ## 1. Start With a Proper Alfresco Foundation
 
@@ -71,7 +71,7 @@ One of the fastest ways to make an outdoor area feel designed (rather than just 
 
 Look for polypropylene rugs — they're designed for outdoor use, resist mould and UV fading, and can be hosed down. Adairs and Temple & Webster both carry excellent coastal-style outdoor rugs in the $150–$400 AUD range.
 
-![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=900&q=80)
+![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](/images/unsplash-1529543544282-ea669407fca3.jpg)
 
 ## 5. Build a BBQ Station Worth Using
 
@@ -119,7 +119,7 @@ The best choices for outdoor entertaining areas:
 
 All four are available at most Bunnings locations for under $20 AUD per plant.
 
-![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80)
+![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](/images/unsplash-1449824913935-59a10b8d2000.jpg)
 
 ## 9. Install a Misting System for Australian Summer Heat
 
@@ -169,7 +169,7 @@ Use terracotta pots for a Hamptons-meets-Mediterranean coastal aesthetic that su
 
 **Budget option:** A trio of terracotta herb pots from Bunnings (~$5-$12 AUD each) with herb seedlings (~$4-$6 AUD each at Bunnings garden centre) costs under $60 AUD total and looks beautiful within a week.
 
-![Outdoor dining table styled with native Australian flowers, linen napkins, and candles for an alfresco dinner](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+![Outdoor dining table styled with native Australian flowers, linen napkins, and candles for an alfresco dinner](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
 ## 16. Create an Outdoor Fire Pit or Fireplace Zone
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "Backyard Landscaping Ideas for Australian Homes (2026)"
 description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to beautiful coastal gardens. AUD costs."
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1558618666-fcd25c85cd64.jpg"
 datePublished: "2026-03-18"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -27,7 +27,7 @@ faqs:
 
 Most Australian backyards are quietly wasted. We mow the lawn, maybe drag out a plastic chair, and leave it at that. But the [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) estimates over 25,000 species of native plants are suited to Australian garden conditions — most require a fraction of the water, maintenance, and fertiliser of exotic species. When I landscaped my first backyard in Queensland, I had no idea where to start. What I learned is that a few clear decisions, done in the right order, changes everything. This guide walks through exactly that: zone planning, plants, paving, lighting, water features, and which bits are genuinely worth hiring out.
 
-![Well-designed Australian backyard with defined zones, paving, garden beds, and lawn](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
+![Well-designed Australian backyard with defined zones, paving, garden beds, and lawn](/images/unsplash-1416879595882-3373a0480b5b.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ For groundcover between beds, try Pigface (Carpobrotus) or coastal grasses like 
 
 **Bold key point:** A well-planted native garden bed along a 10m fence line typically costs ~$150–$400 AUD in plants and mulch, and requires almost no maintenance after the first season.
 
-![Lomandra and coastal grasses in curved garden beds with steel edging in an Australian garden](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
+![Lomandra and coastal grasses in curved garden beds with steel edging in an Australian garden](/images/unsplash-1558618666-fcd25c85cd64.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ The ground surface is the single largest visual element in your backyard. It set
 
 A combination approach usually works best: paving in the entertaining zone, lawn or turf for the family play area, gravel or mulch for garden pathways. Beaumont Tiles has an excellent range of outdoor pavers if you want something more refined than the standard Bunnings range.
 
-![Sandstone paving with timber deck edge and coastal garden beds in an Australian backyard](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
+![Sandstone paving with timber deck edge and coastal garden beds in an Australian backyard](/images/unsplash-1591857177580-dc82b9ac4e1e.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ Solar-powered options have improved enormously in recent years. The Bunnings ran
 
 **Bold key point:** A complete solar lighting setup, including 6 path lights and string lights across a 4m span, costs ~$80–$200 AUD from Bunnings with no electrician required.
 
-![Backyard with solar path lights along garden edge and string lights overhead in the evening](https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=80)
+![Backyard with solar path lights along garden edge and string lights overhead in the evening](/images/unsplash-1566576912321-d58ddd7a6088.jpg)
 
 ---
 

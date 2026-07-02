@@ -1,7 +1,7 @@
 ---
 title: "Backyard Entertaining Zones Australia: 14 Layout Tips"
 description: "How to zone your Australian backyard for entertaining — from shade structures to bar areas, seating zones, and lighting. Real AUD costs for every element included."
-image: "https://images.unsplash.com/photo-1530062845289-9109b2c9c868?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1530062845289-9109b2c9c868.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-05-22"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ I've hosted backyard gatherings — dinners, birthday parties, Christmas Days, r
 
 Here are the 14 things that genuinely changed our backyard entertaining from stressful to something I look forward to. The [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/housing) reports that over 67% of Australian homes are detached houses with outdoor space — making the backyard one of the most underutilised assets in Australian residential property.
 
-![Australian backyard entertaining area with three distinct zones, festoon lights, and outdoor furniture](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
+![Australian backyard entertaining area with three distinct zones, festoon lights, and outdoor furniture](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ## Tip 1: Create Three Zones Even in a Mid-Sized Backyard
 
@@ -60,7 +60,7 @@ No upgrade transforms a backyard more dramatically at night than festoon lights.
 
 Three summers on, the festoon lights are still the element that guests mention first and last. The warm white at dusk — before it's fully dark and after the afternoon light has gone golden — is genuinely beautiful.
 
-![Shade sail installed over backyard dining area, 4x3m Coolaroo from Bunnings, blocking Australian afternoon sun](https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&w=900&q=80)
+![Shade sail installed over backyard dining area, 4x3m Coolaroo from Bunnings, blocking Australian afternoon sun](/images/unsplash-1533900298318-6b8da08a523e.jpg)
 
 ## Tip 5: Solve the Shade Problem Properly
 
@@ -94,7 +94,7 @@ The solution: a dedicated cold drinks station in the outdoor area with its own e
 
 **What I use:** A powder-coated bar cart from Temple & Webster ($230) plus a 60L Coleman esky ($149 from BCF). Total: $379. It's paid back in sanity every single gathering.
 
-![Lilly Pilly hedge and olive tree standards creating green enclosure around Australian backyard entertaining area](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+![Lilly Pilly hedge and olive tree standards creating green enclosure around Australian backyard entertaining area](/images/unsplash-1510076857177-7470076d4098.jpg)
 
 ## Tip 9: Plant the Perimeter With Large Green Presence
 
@@ -130,7 +130,7 @@ The outdoor host who sets up on the morning of the gathering is already behind. 
 
 The gathering starts as soon as guests arrive, not as soon as I finish setting up.
 
-![Gold Coast backyard set up the night before — table laid, festoon lights tested, esky positioned and ready](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![Gold Coast backyard set up the night before — table laid, festoon lights tested, esky positioned and ready](/images/unsplash-1524758631624-e2822e304c36.jpg)
 
 ## Start Here: Priority Order
 

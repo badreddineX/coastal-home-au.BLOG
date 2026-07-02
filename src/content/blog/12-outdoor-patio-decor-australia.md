@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Patio Decor Australia: 13 Styling Tips"
 description: "How to style an existing outdoor patio in Australia — furniture arrangement, rugs, cushions, plants and lighting. Real AUD prices from local retailers throughout."
-image: "https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1529543544282-ea669407fca3.jpg"
 datePublished: "2026-05-31"
 dateModified: "2026-05-31"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ I've styled three different patios on the Gold Coast — one courtyard patio in 
 
 Here are the 13 things that reliably make the difference between a patio that looks like an afterthought and one that looks like a magazine. The [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/housing) consistently shows that outdoor living is a primary consideration for Australian homebuyers — a well-designed patio or deck can add significantly more value than its cost.
 
-![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=900&q=80)
+![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](/images/unsplash-1553882809-a4f57e59501d.jpg)
 
 ## Tip 1: Define the Floor Surface Before Anything Else
 
@@ -65,7 +65,7 @@ The patio that looks good in daylight and looks genuinely beautiful at night has
 
 **The installation:** Two galvanised eye hooks screwed into the fence posts or pergola beams, with the string lights hung slightly drooped between them (not taut). Timer plug ($15–$25 from Bunnings) so they activate automatically.
 
-![Lush green plants in terracotta pots defining the perimeter of an alfresco patio](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80)
+![Lush green plants in terracotta pots defining the perimeter of an alfresco patio](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
 ## Tip 5: Plant the Perimeter for Lushness and Privacy
 
@@ -96,7 +96,7 @@ The calculation that finally made me buy Sunbrella-grade outdoor cushions: I was
 
 **Where to buy Sunbrella or equivalent:** Adairs outdoor range ($40–$80 per cushion), Temple & Webster ($60–$150 per cushion), Freedom outdoor collection. Yes, more expensive upfront. Yes, completely worth it.
 
-![Large rattan pendant light hanging over outdoor dining table on a covered Australian alfresco](https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=900&q=80)
+![Large rattan pendant light hanging over outdoor dining table on a covered Australian alfresco](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
 ## Tip 9: Add One Statement Pendant or Hanging Light
 
@@ -128,7 +128,7 @@ The patio that looks best in photos is photographed in soft morning light, with 
 
 If your patio photographs well in morning light with everything you love about it visible, it's styled correctly.
 
-![Australian outdoor patio photographed in soft morning light showing festoon lights, plants, and outdoor sofa](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![Australian outdoor patio photographed in soft morning light showing festoon lights, plants, and outdoor sofa](/images/unsplash-1524758631624-e2822e304c36.jpg)
 
 ## Start Here: Priority Order
 

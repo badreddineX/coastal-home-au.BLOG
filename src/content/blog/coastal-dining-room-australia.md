@@ -1,7 +1,7 @@
 ﻿---
 title: "Coastal Dining Room Australia: 11 Light, Relaxed Ideas"
 description: "Style a coastal dining room in Australia with the right table, rattan pendant lighting, and colour palette. AUD prices from retailers including Temple and Webster."
-image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1414235077428-338989a2e8c0.jpg"
 datePublished: "2026-06-25"
 dateModified: "2026-06-25"
 author: "Badreddine Br"
@@ -29,7 +29,7 @@ The dining room is the room that earns its keep. Every family gathering, every s
 
 
 
-![Bright coastal dining room with round timber table, rattan chairs, and woven pendant light](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Bright coastal dining room with round timber table, rattan chairs, and woven pendant light](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
 > **Key Takeaways**
 > - Coastal style is built on lightness and natural texture, not a specific furniture collection.
@@ -89,7 +89,7 @@ The size matters more than most people expect. A pendant that's too small will l
 
 **Key point:** A quality rattan or woven pendant from Temple & Webster costs ~$120-$300 AUD installed, and is the highest-impact single upgrade in a coastal dining room.
 
-![Rattan pendant light hanging over a round timber dining table in a bright coastal dining room](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=80)
+![Rattan pendant light hanging over a round timber dining table in a bright coastal dining room](/images/unsplash-1616486338812-3dadae4b4ace.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ What to look for:
 
 **Key point:** Quality coastal art prints with frames from Australian online galleries or Temple & Webster start from ~$80-$250 AUD for a statement size.
 
-![Large abstract coastal artwork on white wall beside a bright dining room window](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
+![Large abstract coastal artwork on white wall beside a bright dining room window](/images/unsplash-1586023492125-27b2c045efd7.jpg)
 
 ---
 

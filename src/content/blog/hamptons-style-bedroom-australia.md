@@ -1,7 +1,7 @@
 ﻿---
 title: "Hamptons Style Bedroom Ideas for Australian Homes (2026)"
 description: "Create a dreamy Hamptons style bedroom in Australia with coastal colours, linen bedding, and timeless furniture. Australian retailers with real AUD prices included."
-image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1616594039964-ae9021a400a0.jpg"
 datePublished: "2026-02-18"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -45,7 +45,7 @@ Bring in navy as the accent, not the base. A navy bedhead, a navy stripe throw, 
 
 ## 2. Choose Linen Bedding in White or Natural
 
-![Layered Hamptons bed with white European pillows, linen quilt, and navy stripe throw](https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=900&q=80)
+![Layered Hamptons bed with white European pillows, linen quilt, and navy stripe throw](/images/unsplash-1522771739844-6a9f6d5f14af.jpg)
 
 Bedding is where the Hamptons bedroom look is won or lost. In Australia's climate, linen is the obvious choice: it regulates temperature through humid Queensland summers and cool Melbourne winters, and it only gets better-looking with every wash. White or natural (undyed) linen is your foundation.
 
@@ -65,7 +65,7 @@ The bedhead is the visual centrepiece of a Hamptons bedroom. There are two direc
 
 ## 4. Get the Flooring Right (or Work With What You Have)
 
-![White timber bedframe with rattan bedside table, ceramic lamp, and linen shade in a coastal bedroom](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80)
+![White timber bedframe with rattan bedside table, ceramic lamp, and linen shade in a coastal bedroom](/images/unsplash-1556909114-f6e7ad7d3136.jpg)
 
 Authentic Hamptons bedrooms are built on light to mid-tone timber floorboards: natural timber, whitewashed, or pale oak. If you already have light timber floors, you're ahead. If you have carpet or dark floors, a large area rug is the practical solution.
 
@@ -85,7 +85,7 @@ Harsh overhead lighting is the enemy of the Hamptons bedroom. The look relies on
 
 ## 6. Hang Floor-to-Ceiling Curtains
 
-![Floor-to-ceiling white linen curtains in a Hamptons bedroom with natural light flooding in](https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80)
+![Floor-to-ceiling white linen curtains in a Hamptons bedroom with natural light flooding in](/images/unsplash-1505693416388-ac5ce068fe85.jpg)
 
 Curtain height transforms a room more than most people expect. The Hamptons rule is simple: hang the rod at ceiling height, not at window height. Even in a standard 2.4m ceiling Australian home, floor-to-ceiling curtains make the room feel taller and more considered.
 

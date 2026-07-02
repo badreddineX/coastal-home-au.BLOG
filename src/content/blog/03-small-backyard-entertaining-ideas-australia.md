@@ -1,7 +1,7 @@
 ---
 title: "Small Backyard Entertaining Australia: 12 Tips That Work"
 description: "I entertain 12 people regularly in a 6×8m Gold Coast backyard. Here are 12 small backyard entertaining ideas that made it possible — real AUD prices, real results."
-image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1600566752355-35792bedcfea.jpg"
 datePublished: "2026-05-07"
 dateModified: "2026-05-07"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Our Gold Coast backyard is 6×8 metres. When we moved in, I stared at it and gen
 
 The trick isn't the space itself. It's learning to use every part of it correctly.
 
-![Small Australian backyard styled for entertaining with zoned dining and lounge areas](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
+![Small Australian backyard styled for entertaining with zoned dining and lounge areas](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ## Tip 1: Zone the Space Into Three Areas — Even If They Overlap
 
@@ -67,7 +67,7 @@ In the Queensland and NSW heat, a small backyard without shade is an unusable ba
 
 **Cantilever umbrella alternative:** For renters or those who can't attach to fence posts, a cantilever umbrella from Bunnings ($249–$799) provides shade without requiring attachment points. The cantilever design keeps the pole out of the central floor space.
 
-![Small backyard with outdoor rug, festoon lights, and vertical garden on fence in Australian home](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+![Small backyard with outdoor rug, festoon lights, and vertical garden on fence in Australian home](/images/unsplash-1510076857177-7470076d4098.jpg)
 
 ## Tip 5: Use Vertical Space on the Fences
 
@@ -105,7 +105,7 @@ Festoon lights overhead (the obvious choice) create a beautiful canopy for eveni
 
 The combination costs under $130 and creates an outdoor room atmosphere that makes the space feel intentional and warm.
 
-![Small backyard BBQ corner with organised tools, prep table, and adjacent dining zone in Australia](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
+![Small backyard BBQ corner with organised tools, prep table, and adjacent dining zone in Australia](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ## Tip 9: Add a Wall-Mounted or Hanging BBQ Tool Organiser
 
@@ -129,7 +129,7 @@ The finishing detail that makes a small backyard feel like a well-considered out
 
 For a permanent solution, a licensed electrician can wire outdoor power points and sensor lights for $300–$600, giving you reliable outdoor power that doesn't rely on extension leads.
 
-![Small backyard with festoon lights on a timer at dusk — entirely transformed from the daytime look](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+![Small backyard with festoon lights on a timer at dusk — entirely transformed from the daytime look](/images/unsplash-1510076857177-7470076d4098.jpg)
 
 ## Start Here: Priority Order
 

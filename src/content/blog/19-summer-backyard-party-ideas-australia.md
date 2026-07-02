@@ -1,7 +1,7 @@
 ---
 title: "Summer Backyard Party Australia: 13 Setup and Styling Tips"
 description: "How to set up and style a summer backyard party in Australia — layout, shade, food stations, drinks, lighting, and decor. Real AUD costs and specific product picks."
-image: "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1533900298318-6b8da08a523e.jpg"
 datePublished: "2026-06-18"
 dateModified: "2026-06-18"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ Six years of hosting summer backyard parties on the Gold Coast — from intimate
 
 Here are the 13 ideas I return to every year.
 
-![Australian summer backyard party at golden hour with festoon lights, outdoor dining table, and drinks station](https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&w=900&q=80)
+![Australian summer backyard party at golden hour with festoon lights, outdoor dining table, and drinks station](/images/unsplash-1533900298318-6b8da08a523e.jpg)
 
 ## Tip 1: Plan the Timing Around the Heat
 
@@ -72,7 +72,7 @@ The BBQ deserves its own planning attention: the [outdoor BBQ area ideas guide f
 
 I fill the esky in the morning. I refill the drinks dispenser once during the party. I don't manage drinks again — and the party is better for it.
 
-![Warm white festoon lights illuminating an Australian backyard at golden hour summer party](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+![Warm white festoon lights illuminating an Australian backyard at golden hour summer party](/images/unsplash-1555396273-367ea4eb4db5.jpg)
 
 ## Tip 5: Set Up Festoon Lights Even for an Afternoon Party
 
@@ -104,7 +104,7 @@ The summer party host who is still setting the table when guests arrive is alrea
 
 By 3pm I'm finished. By 4pm I've showered and changed. When the first guest arrives at 5pm, I've been ready for an hour and the party starts from a position of calm.
 
-![Outdoor lanterns and hurricane candle holders on a summer backyard party table at dusk](https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=900&q=80)
+![Outdoor lanterns and hurricane candle holders on a summer backyard party table at dusk](/images/unsplash-1510076857177-7470076d4098.jpg)
 
 ## Tip 10: Use Candles and Lanterns for the Evening Atmosphere
 
@@ -130,7 +130,7 @@ The summer backyard party that succeeds always runs longer than planned. The goo
 
 The gathering ends when guests genuinely want to leave. That's the goal.
 
-![Summer backyard party running into the evening with guests at the table, festoon lights, and candles](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![Summer backyard party running into the evening with guests at the table, festoon lights, and candles](/images/unsplash-1524758631624-e2822e304c36.jpg)
 
 ## Start Here: Priority Order
 

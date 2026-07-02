@@ -1,7 +1,7 @@
 ﻿---
 title: "Hamptons Outdoor Living: The Perfect Alfresco"
 description: "Bring the Hamptons outdoor living aesthetic to Australia with white timber, navy accents, and coastal textures. Built for alfresco living with real AUD prices."
-image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1598300042247-d088f8ab3a91.jpg"
 datePublished: "2026-03-05"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -26,7 +26,7 @@ faqs:
 
 The Hamptons aesthetic was always built for outdoor living. Wide verandahs, white timber, the salt air — it's a style designed to dissolve the boundary between inside and out. [BOM climate data](http://www.bom.gov.au/climate/averages/) shows Australian coastal capitals average over 280 days of sunshine annually — a Hamptons alfresco isn't a luxury, it's the room you'll use most. I've spent years styling outdoor spaces on the Gold Coast, and nothing transforms a tired patio faster than this palette. In this post I'll walk through every element: structure, furniture, rugs, lighting, textiles, plants, and the finishing touches that pull it all together.
 
-![White timber pergola with ceiling fan, outdoor dining table, and festoon lights on an Australian alfresco](https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80)
+![White timber pergola with ceiling fan, outdoor dining table, and festoon lights on an Australian alfresco](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ Yes — more than any other single element. A white-painted [pergola](/blog/01-p
 
 For renters, the pergola paint and structures are off-limits — but rugs, cushions, lighting, and potted plants can fully transform a shared outdoor space.
 
-![White-painted colonial pergola with standard bay trees in white pots and navy stripe outdoor cushions](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![White-painted colonial pergola with standard bay trees in white pots and navy stripe outdoor cushions](/images/unsplash-1524758631624-e2822e304c36.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Because it does more visual work per dollar than almost anything else out there.
 
 **A quality outdoor rug in navy stripe costs ~$150–$500 AUD** and will last three to five years with reasonable care. Temple & Webster and Adairs both carry the right patterns. For a budget version that still reads well from a distance, Kmart regularly stocks navy-and-white stripe outdoor rugs from ~$49–$89 AUD. I'd size up rather than down — a rug that's too small makes the furniture look like it's floating.
 
-![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](/images/unsplash-1555396273-367ea4eb4db5.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ The textiles are what make a Hamptons outdoor space feel finished rather than ju
 
 All of these are replaceable and storable. They're the right first step for anyone testing the Hamptons look before committing to permanent changes. Store cushions inside during heavy rain regardless of their outdoor rating — it extends their life significantly.
 
-![Hamptons outdoor lounge with navy-stripe rug, white throw blankets in a basket, and lanterns at dusk](https://images.unsplash.com/photo-1553882809-a4f57e59501d?auto=format&fit=crop&w=900&q=80)
+![Hamptons outdoor lounge with navy-stripe rug, white throw blankets in a basket, and lanterns at dusk](/images/unsplash-1553882809-a4f57e59501d.jpg)
 
 ---
 

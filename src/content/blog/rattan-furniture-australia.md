@@ -1,7 +1,7 @@
 ﻿---
 title: "Rattan Furniture Australia: How to Style Every Room"
 description: "Complete guide to buying and styling rattan furniture in Australia. Living room, bedroom, outdoor settings — AUD prices, care tips, and where to buy in 2026."
-image: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1493809842364-78817add7ffb.jpg"
 datePublished: "2026-04-28"
 dateModified: "2026-04-28"
 author: "Badreddine Br"
