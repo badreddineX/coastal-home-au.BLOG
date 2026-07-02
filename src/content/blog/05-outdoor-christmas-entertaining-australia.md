@@ -127,7 +127,7 @@ The goal is always to start outside and stay outside. But knowing the backup exi
 
 The Australian Christmas gathering that ends well is the one that transitions from the dining table to the lounge zone. After dessert is cleared, I move the coffee and port to the outdoor sofa area, light fresh candles, and let the evening find its own pace. The shift from formal dining to informal lounging is the natural break that lets some guests leave gracefully and the ones who want to stay, stay.
 
-![Australian Christmas evening — outdoor lounge zone with candles, port, and festoon lights after a summer lunch](/images/unsplash-1543373014-cfe4f4bc1cdf.jpg)
+![Australian Christmas evening — outdoor lounge zone with candles, port, and festoon lights after a summer lunch](/images/unsplash-1543589077-47d81606c1bf.jpg)
 
 ## Start Here: Priority Order
 

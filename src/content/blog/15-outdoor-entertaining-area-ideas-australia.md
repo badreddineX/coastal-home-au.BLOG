@@ -72,7 +72,7 @@ The outdoor dining table is the centrepiece of every outdoor gathering and the m
 
 **The rule:** 60cm of table length per person. Buy for maximum anticipated gathering size, not average.
 
-![Outdoor lounge zone with L-shaped sofa, outdoor coffee table, and festoon lights on a Gold Coast alfresco](/images/unsplash-1524758631624-e2822e304c36.jpg)
+![Outdoor lounge zone with L-shaped sofa, outdoor coffee table, and festoon lights on a Gold Coast alfresco](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
 ## Tip 5: Add a Lounge Zone With a Proper Outdoor Sofa
 
@@ -100,7 +100,7 @@ The outdoor drinks station — a bar cart ($230 from Temple & Webster) with a 5L
 
 Guests self-serve from the drinks station. The dispenser is refilled once during the gathering. The esky provides the cold storage. I don't manage drinks during any gathering — and the host who doesn't manage drinks has significantly more capacity for everything else.
 
-![Lush perimeter planting with Lilly Pillies and olive trees in terracotta pots around an outdoor entertaining area](/images/unsplash-1600566752355-35792bedcfea.jpg)
+![Lush perimeter planting with Lilly Pillies and olive trees in terracotta pots around an outdoor entertaining area](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
 ## Tip 9: Plant the Perimeter for Enclosure and Lushness
 
@@ -144,7 +144,7 @@ Design decisions that support daily use: comfortable lounge zone seating (not ju
 
 The outdoor entertaining area that gets used daily is the most loved room in the house.
 
-![Daily-use alfresco at golden hour with festoon lights, outdoor plants, and dining table set for two](/images/unsplash-1510076857177-7470076d4098.jpg)
+![Daily-use alfresco at golden hour with festoon lights, outdoor plants, and dining table set for two](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Start Here: Priority Order
 

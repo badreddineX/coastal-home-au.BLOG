@@ -1,7 +1,7 @@
 ---
 title: "Summer Entertaining Ideas Australia: Hosting Tips"
 description: "The Australian summer lunch and dinner party — menu ideas, grazing tables, drink pairings, and hosting flow that works outdoors. Personal tips with AUD costs."
-image: "/images/unsplash-1510076857177-7470076d4098.jpg"
+image: "/images/unsplash-1523301343968-6a6ebf63c672.jpg"
 datePublished: "2026-06-22"
 dateModified: "2026-06-22"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Austral
 
 These are the 13 ideas that have defined our summer hosting.
 
-![Long outdoor dining table set for summer lunch with white linen, fresh flowers, and festoon lights](/images/unsplash-1555396273-367ea4eb4db5.jpg)
+![Long outdoor dining table set for summer lunch with white linen, fresh flowers, and festoon lights](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
 ## Tip 1: Embrace the Long Australian Lunch as the Primary Format
 

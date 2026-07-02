@@ -140,7 +140,7 @@ Ecoya is the Australian brand I return to most often. Their Lotus Flower and Cot
 
 **Bold key point:** A quality reed diffuser from Ecoya costs ~$35–$65 AUD and lasts three to four months. That's coastal scent for less than $20 per month — more effective and longer-lasting than a candle for a daily-use bathroom.
 
-![Freestanding bath in white stone composite with a coastal candle and timber bath tray](/images/unsplash-1564540586988-aa4e53c3d799.jpg)
+![Freestanding bath in white stone composite with a coastal candle and timber bath tray](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pergola Entertaining Ideas Australia: 14 Tips That Work"
 description: "I've had a Gold Coast pergola for 4 years. Here are 14 pergola entertaining ideas that transformed my outdoor space — AUD prices and local retailers included."
-image: "/images/unsplash-1524758631624-e2822e304c36.jpg"
+image: "/images/unsplash-1530062845289-9109b2c9c868.jpg"
 datePublished: "2026-06-29"
 dateModified: "2026-06-29"
 author: "Badreddine Br"
@@ -64,7 +64,7 @@ I initially bought a 6-seater table for our 4×5m pergola — wrong call. We reg
 
 **Material:** For Australian outdoor conditions, powder-coated aluminium or FSC-certified teak are the two best choices. I chose aluminium — lighter, rustproof, and half the price of teak.
 
-![Powder-coated aluminium outdoor dining table and chairs under a covered pergola with festoon lights](/images/unsplash-1555396273-367ea4eb4db5.jpg)
+![Powder-coated aluminium outdoor dining table and chairs under a covered pergola with festoon lights](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
 ## Tip 5: Add Privacy Screening on the Exposed Side
 
@@ -91,7 +91,7 @@ Designating one corner of the pergola as the drinks station removed the constant
 
 **My setup:** A powder-coated aluminium bar cart ($230, Temple & Webster), a 60L Coleman esky underneath, and a drinks dispenser on top for the batch cocktail. Guests haven't interrupted me at the BBQ since.
 
-![Drop blinds on a pergola filtering afternoon sun in a Queensland outdoor entertaining area](/images/unsplash-1524758631624-e2822e304c36.jpg)
+![Drop blinds on a pergola filtering afternoon sun in a Queensland outdoor entertaining area](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 9: Install Shade Cloth or Drop Blinds for Western Afternoon Sun
 
@@ -123,7 +123,7 @@ The pergola that looks "designed" rather than accumulated is one where all eleme
 
 **The easy palette for Australian pergolas:** White/linen + natural timber + warm brass/gold hardware + terracotta accessories. Everything from Kmart, Temple & Webster, and Bunnings is available in this palette.
 
-![Cohesive Australian pergola palette — natural timber, white linen, warm brass, and terracotta at night with festoon lights](/images/unsplash-1553882809-a4f57e59501d.jpg)
+![Cohesive Australian pergola palette — natural timber, white linen, warm brass, and terracotta at night with festoon lights](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
 ## Start Here: Priority Order
 

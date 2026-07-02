@@ -34,7 +34,7 @@ Australia Day on the Gold Coast is consistently 28—36 degrees. Five years of h
 
 Here are the 13 tips that changed our Australia Day gatherings.
 
-![Gold Coast backyard set up for Australia Day party with shade sail, festoon lights, and long outdoor table](/images/unsplash-1600566752355-35792bedcfea.jpg)
+![Gold Coast backyard set up for Australia Day party with shade sail, festoon lights, and long outdoor table](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 1: Start at 5pm for the Best Conditions
 
@@ -86,7 +86,7 @@ Green and gold are the Australia Day colours — and they're most effective as a
 
 Everything else is about the food, the games, the people, and the day itself.
 
-![Simple Australia Day table setting with green and gold bunting, yellow flowers, and white plates](/images/unsplash-1579952363873-27f3bade9f55.jpg)
+![Simple Australia Day table setting with green and gold bunting, yellow flowers, and white plates](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
 ## Tip 7: Lay a Large Outdoor Rug for the Lawn Cricket Zone
 

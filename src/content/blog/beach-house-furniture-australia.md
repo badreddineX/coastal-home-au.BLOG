@@ -1,7 +1,7 @@
 ﻿---
 title: "Beach House Furniture Australia: 11 Must-Have Pieces"
 description: "The 11 furniture pieces every Australian beach house needs — materials that handle salt air, humidity, and UV. Real AUD prices from top Australian retailers."
-image: "/images/unsplash-1553882809-a4f57e59501d.jpg"
+image: "/images/unsplash-1600585154084-4e5fe7c39198.jpg"
 datePublished: "2026-06-24"
 dateModified: "2026-06-24"
 author: "Badreddine Br"

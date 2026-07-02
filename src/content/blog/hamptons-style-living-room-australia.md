@@ -1,7 +1,7 @@
 ﻿---
 title: "Hamptons Living Room Furniture Australia: What to Buy"
 description: "The exact furniture pieces for a Hamptons living room in Australia — sofas, coffee tables, rugs, and lighting with real AUD prices from Australian retailers."
-image: "/images/unsplash-1617104678098-de229db51175.jpg"
+image: "/images/unsplash-1616486338812-3dadae4b4ace.jpg"
 datePublished: "2026-02-10"
 dateModified: "2026-06-01"
 author: "Badreddine Br"

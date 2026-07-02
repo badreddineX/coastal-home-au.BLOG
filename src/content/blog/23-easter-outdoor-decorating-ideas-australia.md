@@ -59,7 +59,7 @@ The Easter wreath for an Australian outdoor gate or front door: a circular wire 
 
 Alternatively, Kmart and Target have natural-material Easter wreaths in the March—April range ($15–$35). Choose the ones in hessian, jute, or natural fibre rather than the pastel ribbon-and-egg versions.
 
-![Native foliage Easter wreath on white-painted front gate with terracotta ribbon](/images/unsplash-1534438327276-14e5300c3a48.jpg)
+![Native foliage Easter wreath on white-painted front gate with terracotta ribbon](/images/unsplash-1512389142860-9c449e58a543.jpg)
 
 ## Tip 4: Set the Easter Table With Hessian and Natural Materials
 

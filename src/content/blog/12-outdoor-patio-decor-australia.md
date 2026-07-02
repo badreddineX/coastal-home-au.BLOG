@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Patio Decor Australia: 13 Styling Tips"
 description: "How to style an existing outdoor patio in Australia — furniture arrangement, rugs, cushions, plants and lighting. Real AUD prices from local retailers throughout."
-image: "/images/unsplash-1529543544282-ea669407fca3.jpg"
+image: "/images/unsplash-1600607687939-ce8a6c25118c.jpg"
 datePublished: "2026-05-31"
 dateModified: "2026-05-31"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ I've styled three different patios on the Gold Coast — one courtyard patio in 
 
 Here are the 13 things that reliably make the difference between a patio that looks like an afterthought and one that looks like a magazine. The [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/housing) consistently shows that outdoor living is a primary consideration for Australian homebuyers — a well-designed patio or deck can add significantly more value than its cost.
 
-![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](/images/unsplash-1553882809-a4f57e59501d.jpg)
+![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
 ## Tip 1: Define the Floor Surface Before Anything Else
 
@@ -128,7 +128,7 @@ The patio that looks best in photos is photographed in soft morning light, with 
 
 If your patio photographs well in morning light with everything you love about it visible, it's styled correctly.
 
-![Australian outdoor patio photographed in soft morning light showing festoon lights, plants, and outdoor sofa](/images/unsplash-1524758631624-e2822e304c36.jpg)
+![Australian outdoor patio photographed in soft morning light showing festoon lights, plants, and outdoor sofa](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
 ## Start Here: Priority Order
 

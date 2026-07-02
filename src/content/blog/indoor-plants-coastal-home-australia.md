@@ -78,7 +78,7 @@ The most readily available Pothos varieties in Australia:
 
 **Key point:** Pothos cuttings from a friend or neighbour cost nothing. Plants from Bunnings start from ~$8-$20 AUD, or from IKEA AU from ~$5-$10 AUD for small specimens.
 
-![Golden Pothos trailing from a white shelf in a bright coastal home interior](/images/unsplash-1416879595882-3373a0480b5b.jpg)
+![Golden Pothos trailing from a white shelf in a bright coastal home interior](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ In coastal humidity, Philodendrons grow fast. Mine have produced new leaves ever
 
 **Key point:** Heartleaf Philodendron costs ~$12-$25 AUD at Bunnings or local nurseries, and propagates freely from cuttings at no additional cost.
 
-![Heartleaf Philodendron and Peace Lily on a timber plant stand in a bright coastal home corner](/images/unsplash-1558618666-fcd25c85cd64.jpg)
+![Heartleaf Philodendron and Peace Lily on a timber plant stand in a bright coastal home corner](/images/unsplash-1499955085172-a104c9463ece.jpg)
 
 ---
 

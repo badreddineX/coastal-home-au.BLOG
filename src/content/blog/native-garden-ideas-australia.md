@@ -1,7 +1,7 @@
 ﻿---
 title: "Native Garden Ideas Australia: 12 Designs That Thrive"
 description: "Native garden ideas for Australian homes — drought-tolerant plants, layout tips, mulching, and wildlife-attracting designs. Real AUD prices from Bunnings included."
-image: "/images/unsplash-1416879595882-3373a0480b5b.jpg"
+image: "/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"
 datePublished: "2026-06-27"
 dateModified: "2026-06-27"
 author: "Badreddine Br"
@@ -86,7 +86,7 @@ Strong mid-layer choices:
 
 **Key point:** Mid-layer natives average ~$8-$20 AUD per plant at most nurseries. Garden Express often sells packs of 5-6 plants for better value.
 
-![Kangaroo Paw and Grevillea flowering in a layered Australian native garden](/images/unsplash-1558618666-fcd25c85cd64.jpg)
+![Kangaroo Paw and Grevillea flowering in a layered Australian native garden](/images/unsplash-1502082553048-f009c37129b9.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ A standard 60L bag of garden mulch from Bunnings covers roughly 1 sqm at 6cm dep
 
 **Key point:** Mulching a 20sqm native bed costs ~$80-$120 AUD and can eliminate the need for summer irrigation entirely in well-established gardens.
 
-![Deep mulched native garden bed with Lomandra and Grevillea, steel edging visible at border](/images/unsplash-1416879595882-3373a0480b5b.jpg)
+![Deep mulched native garden bed with Lomandra and Grevillea, steel edging visible at border](/images/unsplash-1591857177580-dc82b9ac4e1e.jpg)
 
 ---
 
@@ -198,7 +198,7 @@ Between rocks and around plant bases, use fine gravel or bush pebbles as a mulch
 
 **Key point:** A 25kg bag of decorative gravel or bush pebbles from Bunnings costs ~$8-$15 AUD and covers roughly 0.5 sqm at 5cm depth.
 
-![Sandstone boulders and native grasses in an Australian backyard with gravel mulch](/images/unsplash-1566576912321-d58ddd7a6088.jpg)
+![Sandstone boulders and native grasses in an Australian backyard with gravel mulch](/images/unsplash-1466692476868-aef1dfb1e735.jpg)
 
 ---
 

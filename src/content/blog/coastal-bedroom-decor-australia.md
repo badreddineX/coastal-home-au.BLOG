@@ -134,7 +134,7 @@ If you're renting, Command strips rated to the artwork weight are bond-safe on m
 
 ## 8. Use Indoor Plants Strategically
 
-![White ceramic plant pot with a trailing pothos beside a rattan bedside table in a coastal bedroom](/images/unsplash-1416879595882-3373a0480b5b.jpg)
+![White ceramic plant pot with a trailing pothos beside a rattan bedside table in a coastal bedroom](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
 Plants are non-negotiable in a genuinely good coastal bedroom. They add the organic, living quality that no printed cushion or synthetic texture can replicate. The key is restraint — one or two well-placed plants beat a crowded windowsill every time.
 

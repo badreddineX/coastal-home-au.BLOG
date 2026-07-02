@@ -34,7 +34,7 @@ Every year since we moved to the Gold Coast, I've decorated our outdoor space fo
 
 Here are the 12 ideas that have made our outdoor Christmas look genuinely beautiful.
 
-![Warm festoon lights strung across a covered alfresco for Christmas evening](/images/unsplash-1545459720-aac8509eb02c.jpg)
+![Warm festoon lights strung across a covered alfresco for Christmas evening](/images/unsplash-1482517967863-00e15c9b44be.jpg)
 
 ## Tip 1: Install Warm White Festoon Lights — They're the Foundation
 
@@ -75,7 +75,7 @@ The outdoor Christmas table in Australian summer should be simple, white, and co
 - White pillar candles in hurricane holders (unlit until evening)
 - White or natural linen napkins with a sprig of rosemary tied around each
 
-![White linen outdoor Christmas table setting with eucalyptus centrepiece and gardenias](/images/unsplash-1606787364406-a3cdf06c6d0c.jpg)
+![White linen outdoor Christmas table setting with eucalyptus centrepiece and gardenias](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
 ## Tip 5: Hang Simple Star or Snowflake Decorations From the Pergola
 
@@ -101,7 +101,7 @@ The Christmas wreath for an Australian outdoor space is not a faux-pine wreath f
 
 **Where to buy if not making:** Etsy (filter to Australian sellers for native foliage wreaths, $45–$120), local florists in December (often the best native wreaths, $45–$85), or Adairs and Temple & Webster for quality faux wreaths in natural materials ($35–$80).
 
-![Outdoor alfresco decorated with festoon lights, white lanterns, and native foliage garlands](/images/unsplash-1543373014-cfe4f4bc1cdf.jpg)
+![Outdoor alfresco decorated with festoon lights, white lanterns, and native foliage garlands](/images/unsplash-1543589077-47d81606c1bf.jpg)
 
 ## Tip 9: Add White Outdoor Lanterns to the Alfresco and Garden
 
@@ -123,7 +123,7 @@ Christmas scent for an outdoor space: a cluster of three gardenias in a simple v
 
 Christmas Eve outdoor styling should feel quiet and beautiful, not busy and festive. The festoon lights on their timer. A cluster of white candles on the outdoor table. A glass of cold white wine. The gardenia scent on the warm December air. Christmas in Australia at its best is calm, warm, and genuinely its own thing.
 
-![Calm Christmas Eve outdoor setting with white candles, gardenias, and festoon lights at dusk](/images/unsplash-1607082348824-0a96f2a4b9da.jpg)
+![Calm Christmas Eve outdoor setting with white candles, gardenias, and festoon lights at dusk](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Start Here: Priority Order
 

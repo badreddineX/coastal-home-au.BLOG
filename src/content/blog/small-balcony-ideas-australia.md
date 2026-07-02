@@ -108,7 +108,7 @@ Drape them along the railing, zigzag them across the ceiling if your balcony has
 
 ## 6. Create a Vertical Garden on the Wall or Railing
 
-![Vertical wall planter with trailing plants on an apartment balcony railing in an Australian city](/images/unsplash-1416879595882-3373a0480b5b.jpg)
+![Vertical wall planter with trailing plants on an apartment balcony railing in an Australian city](/images/unsplash-1466692476868-aef1dfb1e735.jpg)
 
 Floor space on a small balcony is finite and precious. Vertical space — the railing, the walls, and any overhead structure — is almost always unused. A vertical garden on the railing or wall gets plants into the space without occupying any floor area at all.
 
@@ -148,7 +148,7 @@ If you're renting, check your lease before wall-mounting anything. The adhesive-
 
 ## 9. Manage Sun and Heat With a Shade Sail or Umbrella
 
-![Compact shade sail over a small balcony with outdoor furniture and string lights](/images/unsplash-1558618666-fcd25c85cd64.jpg)
+![Compact shade sail over a small balcony with outdoor furniture and string lights](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
 An unshaded balcony in an Australian summer is unusable between about 10am and 4pm — which means you only get the morning and evening hours. A shade solution that blocks 70-90% of UV turns a seasonal, time-limited space into a year-round outdoor room.
 

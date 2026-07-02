@@ -1,7 +1,7 @@
 ﻿---
 title: "Outdoor Lounge Ideas Australia: 10 Alfresco Tips"
 description: "10 outdoor lounge ideas for Australian homes — furniture, shade, rugs, cushions, lighting & layout tips. Real AUD prices from Temple & Webster, Bunnings & Adairs."
-image: "/images/unsplash-1449824913935-59a10b8d2000.jpg"
+image: "/images/unsplash-1600585154084-4e5fe7c39198.jpg"
 datePublished: "2026-06-28"
 dateModified: "2026-06-28"
 author: "Badreddine Br"
@@ -63,7 +63,7 @@ Your three main options, with honest pros and cons:
 
 The most common outdoor lounge arrangement mistake is placing furniture first and skipping the rug altogether. The rug is the most important design decision in the outdoor lounge — it defines the boundaries of the zone, anchors all other furniture decisions, and is the fastest way to make an outdoor area feel designed rather than assembled.
 
-![Polypropylene outdoor rug in sandy beige anchoring a coastal outdoor lounge with rattan coffee table and white cushions](/images/unsplash-1558618666-fcd25c85cd64.jpg)
+![Polypropylene outdoor rug in sandy beige anchoring a coastal outdoor lounge with rattan coffee table and white cushions](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
 Choose a polypropylene (also called olefin) outdoor rug. The material resists UV fading, handles rain without moulding, and can be hosed down after a summer of use. Avoid natural fibre rugs outdoors — jute and sisal absorb moisture and deteriorate within one season.
 
@@ -148,7 +148,7 @@ The coffee table is the functional and visual centre of any lounge zone — and 
 
 The gap between an outdoor lounge that's used until 7pm and one that's used until midnight is almost always lighting. A lounge zone that has only a single overhead light feels like a car park after dark. One with layered lighting feels like somewhere you want to stay.
 
-![String lights wound through a pergola above a styled outdoor lounge setting at dusk, warm amber glow](/images/unsplash-1529543544282-ea669407fca3.jpg)
+![String lights wound through a pergola above a styled outdoor lounge setting at dusk, warm amber glow](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 **The three layers:**
 

@@ -71,7 +71,7 @@ One of the fastest ways to make an outdoor area feel designed (rather than just 
 
 Look for polypropylene rugs — they're designed for outdoor use, resist mould and UV fading, and can be hosed down. Adairs and Temple & Webster both carry excellent coastal-style outdoor rugs in the $150–$400 AUD range.
 
-![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](/images/unsplash-1529543544282-ea669407fca3.jpg)
+![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
 ## 5. Build a BBQ Station Worth Using
 
@@ -119,7 +119,7 @@ The best choices for outdoor entertaining areas:
 
 All four are available at most Bunnings locations for under $20 AUD per plant.
 
-![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](/images/unsplash-1449824913935-59a10b8d2000.jpg)
+![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
 ## 9. Install a Misting System for Australian Summer Heat
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "Hamptons Outdoor Living: The Perfect Alfresco"
 description: "Bring the Hamptons outdoor living aesthetic to Australia with white timber, navy accents, and coastal textures. Built for alfresco living with real AUD prices."
-image: "/images/unsplash-1598300042247-d088f8ab3a91.jpg"
+image: "/images/unsplash-1600585154084-4e5fe7c39198.jpg"
 datePublished: "2026-03-05"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -51,7 +51,7 @@ Yes — more than any other single element. A white-painted [pergola](/blog/01-p
 
 For renters, the pergola paint and structures are off-limits — but rugs, cushions, lighting, and potted plants can fully transform a shared outdoor space.
 
-![White-painted colonial pergola with standard bay trees in white pots and navy stripe outdoor cushions](/images/unsplash-1524758631624-e2822e304c36.jpg)
+![White-painted colonial pergola with standard bay trees in white pots and navy stripe outdoor cushions](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Because it does more visual work per dollar than almost anything else out there.
 
 **A quality outdoor rug in navy stripe costs ~$150–$500 AUD** and will last three to five years with reasonable care. Temple & Webster and Adairs both carry the right patterns. For a budget version that still reads well from a distance, Kmart regularly stocks navy-and-white stripe outdoor rugs from ~$49–$89 AUD. I'd size up rather than down — a rug that's too small makes the furniture look like it's floating.
 
-![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](/images/unsplash-1555396273-367ea4eb4db5.jpg)
+![White outdoor dining table for 8 with rattan chairs and navy-stripe cushions on a Hamptons alfresco](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ The textiles are what make a Hamptons outdoor space feel finished rather than ju
 
 All of these are replaceable and storable. They're the right first step for anyone testing the Hamptons look before committing to permanent changes. Store cushions inside during heavy rain regardless of their outdoor rating — it extends their life significantly.
 
-![Hamptons outdoor lounge with navy-stripe rug, white throw blankets in a basket, and lanterns at dusk](/images/unsplash-1553882809-a4f57e59501d.jpg)
+![Hamptons outdoor lounge with navy-stripe rug, white throw blankets in a basket, and lanterns at dusk](/images/unsplash-1512917774080-9991f1c4c750.jpg)
 
 ---
 

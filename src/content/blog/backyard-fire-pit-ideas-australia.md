@@ -1,7 +1,7 @@
 ﻿---
 title: "Backyard Fire Pit Ideas for Australian Homes (2026)"
 description: "The best backyard fire pit ideas for Australian homes — built-in stone pits to portable bowls. Create a great evening outdoor space with AUD prices and safety tips."
-image: "/images/unsplash-1604999333679-b86d54738315.jpg"
+image: "/images/unsplash-1478131143081-80f7f84ca84d.jpg"
 datePublished: "2026-02-20"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -29,7 +29,7 @@ There's something primal about gathering around a fire. In Australia, where we l
 
 ## 1. Which Type of Fire Pit Is Right for Your Backyard?
 
-![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](/images/unsplash-1542272604-787c3835535d.jpg)
+![Portable steel fire bowl on legs surrounded by Adirondack chairs in an Australian backyard](/images/unsplash-1600566753376-12c8ab7fb75b.jpg)
 
 The three main options are portable steel bowls, built-in stone or concrete pits, and gas fire pits. Each suits a different backyard, budget, and lifestyle. **Portable bowls start at ~$80 AUD at Bunnings, built-in stone pits run ~$500–$3,000 AUD installed, and gas units typically cost ~$600–$2,000 AUD.** Your tenure matters too: owners can invest in permanent structures, while renters need a removable solution.
 

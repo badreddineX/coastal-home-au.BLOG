@@ -76,7 +76,7 @@ The rule I follow: one significant rattan piece per room, plus smaller rattan ac
 - Temple & Webster: rattan furniture, pendants, larger mirrors ($80–$800)
 - Freedom: higher-end rattan armchairs and sofas ($400–$2,000)
 
-![Australian beach house outdoor entertaining area with natural furniture and coastal styling](/images/unsplash-1524758631624-e2822e304c36.jpg)
+![Australian beach house outdoor entertaining area with natural furniture and coastal styling](/images/unsplash-1512917774080-9991f1c4c750.jpg)
 
 ## Tip 5: Treat the Outdoor Space as a Room
 

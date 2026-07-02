@@ -1,7 +1,7 @@
 ﻿---
 title: "Outdoor BBQ Area Ideas for Australian Backyards (2026)"
 description: "Design the ultimate outdoor BBQ area for your Australian backyard — from built-in kitchens to simple BBQ setups. Real AUD prices and product recommendations."
-image: "/images/unsplash-1432139555190-58524dae6a55.jpg"
+image: "/images/unsplash-1544025162-d76694265947.jpg"
 datePublished: "2026-04-15"
 dateModified: "2026-06-01"
 author: "Badreddine Br"
@@ -71,7 +71,7 @@ Pizza ovens have genuinely taken off in Australian backyards, and I understand w
 
 **Key point:** A quality freestanding pizza oven like the Ooni Karu or a BeefEater built-in model runs ~$500–$3,500 AUD. Built-in outdoor kitchens with BBQ, sink, and storage start from ~$8,000 AUD installed. Always check with your local council before starting a built-in project involving gas fittings or structural work.
 
-![Outdoor pizza oven with wood stacked beside it and a gathering of friends around a backyard entertaining area](/images/unsplash-1555396273-367ea4eb4db5.jpg)
+![Outdoor pizza oven with wood stacked beside it and a gathering of friends around a backyard entertaining area](/images/unsplash-1534177616072-ef7dc120449d.jpg)
 
 ## 6. Install Under-Bench Storage That Handles the Weather
 

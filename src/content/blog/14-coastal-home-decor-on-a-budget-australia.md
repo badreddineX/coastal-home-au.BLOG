@@ -1,7 +1,7 @@
 ---
 title: "Coastal Home Decor on a Budget Australia: 12 Tips"
 description: "I transformed my Gold Coast home on a tight budget. Here are 12 high-impact coastal decor changes — all under $150 — with real Australian prices included."
-image: "/images/unsplash-1520250497591-112f2f40a3f4.jpg"
+image: "/images/unsplash-1595526114035-0d45ed16cfbf.jpg"
 datePublished: "2026-06-06"
 dateModified: "2026-06-06"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Three years ago I did the coastal conversion of our Gold Coast home with a total
 
 A [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/budget-decorating-tips) survey found that Australian renters and first-home buyers spend an average of $3,000–$8,000 on home styling in their first year — but the most impactful coastal looks I've achieved cost under $500.
 
-![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](/images/unsplash-1520250497591-112f2f40a3f4.jpg)
+![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
 ## Tip 1: Paint Every Room Warm White First
 
