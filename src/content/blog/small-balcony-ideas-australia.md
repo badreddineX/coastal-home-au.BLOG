@@ -1,7 +1,7 @@
 ﻿---
 title: "Small Balcony Ideas Australia: 12 Ways to Transform It"
 description: "Transform a small Australian apartment balcony into a proper outdoor room. Renter-friendly ideas with AUD prices from Kmart, Temple and Webster, and Bunnings."
-image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1502672260266-1c1ef2d93688.jpg"
 datePublished: "2026-04-12"
 dateModified: "2026-04-12"
 author: "Badreddine Br"
@@ -50,7 +50,7 @@ A small balcony that tries to be a dining table, a lounger, a plant nursery, and
 
 ## 2. Choose the Right Furniture for the Space
 
-![Two-seat powder-coated bistro set on a small apartment balcony with string lights and a potted plant](https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=900&q=80)
+![Two-seat powder-coated bistro set on a small apartment balcony with string lights and a potted plant](/images/unsplash-1600210492493-0946911123ea.jpg)
 
 Furniture selection is the most impactful decision on a small balcony, and scale is everything. Full-size outdoor dining sets, sun loungers, or large sofas will overwhelm a space under 10 square metres and leave no room to actually move around.
 
@@ -78,7 +78,7 @@ If you're renting, outdoor rugs are fully compliant in every Australian lease I'
 
 ## 4. Use Privacy Screens to Create an Enclosed Feel
 
-![Bamboo privacy screen on an apartment balcony railing with outdoor plants in large pots](https://images.unsplash.com/photo-1585128903994-9788298ef2b4?auto=format&fit=crop&w=900&q=80)
+![Bamboo privacy screen on an apartment balcony railing with outdoor plants in large pots](/images/unsplash-1499955085172-a104c9463ece.jpg)
 
 An exposed balcony with no privacy never fully relaxes into a proper outdoor room — you're always aware of being seen. A privacy screen on the railing resolves this without any structural change and transforms the psychological feel of the space.
 
@@ -108,7 +108,7 @@ Drape them along the railing, zigzag them across the ceiling if your balcony has
 
 ## 6. Create a Vertical Garden on the Wall or Railing
 
-![Vertical wall planter with trailing plants on an apartment balcony railing in an Australian city](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
+![Vertical wall planter with trailing plants on an apartment balcony railing in an Australian city](/images/unsplash-1466692476868-aef1dfb1e735.jpg)
 
 Floor space on a small balcony is finite and precious. Vertical space — the railing, the walls, and any overhead structure — is almost always unused. A vertical garden on the railing or wall gets plants into the space without occupying any floor area at all.
 
@@ -148,7 +148,7 @@ If you're renting, check your lease before wall-mounting anything. The adhesive-
 
 ## 9. Manage Sun and Heat With a Shade Sail or Umbrella
 
-![Compact shade sail over a small balcony with outdoor furniture and string lights](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
+![Compact shade sail over a small balcony with outdoor furniture and string lights](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
 An unshaded balcony in an Australian summer is unusable between about 10am and 4pm — which means you only get the morning and evening hours. A shade solution that blocks 70-90% of UV turns a seasonal, time-limited space into a year-round outdoor room.
 
@@ -210,6 +210,6 @@ The difference between a balcony that feels styled and one that feels generic is
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas Australia: A Complete Guide](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas Australia: A Complete Guide](/blog/outdoor-entertaining-ideas-australia)
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
 - [Coastal Home Decor Australia: The Essential Guide](/blog/06-coastal-home-decor-australia)

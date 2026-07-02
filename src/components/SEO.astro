@@ -16,7 +16,7 @@ const {
   description,
   slug = '',
   path = '',
-  image = 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80',
+  image = '/images/unsplash-1600566753086-00f18fb6b3ea.jpg',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
   authorName = 'Badreddine Br',
@@ -66,6 +66,7 @@ const articleSchema = {
 <meta name="robots" content="index, follow" />
 <meta name="author" content={authorName} />
 <link rel="canonical" href={fullUrl} />
+<link rel="alternate" type="application/rss+xml" title="Coastal Home AU" href="/rss.xml" />
 
 <!-- Open Graph -->
 <meta property="og:type"        content={type} />
@@ -97,3 +98,15 @@ const articleSchema = {
 {type === 'article' && (
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 )}
+
+<!-- Fallback for broken images -->
+<script is:inline>
+window.addEventListener('error', function (e) {
+  var t = e.target;
+  if (t && t.tagName === 'IMG' && !t.dataset.fellBack) {
+    t.dataset.fellBack = '1';
+    t.removeAttribute('srcset');
+    t.src = '/images/placeholder.svg';
+  }
+}, true);
+</script>

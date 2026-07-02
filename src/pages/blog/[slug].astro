@@ -1,5 +1,5 @@
 ---
-import { getCollection }  from 'astro:content';
+import { getCollection, render }  from 'astro:content';
 import BlogPost            from '../../layouts/BlogPost.astro';
 import TLDRBox             from '../../components/TLDRBox.astro';
 import FAQ                 from '../../components/FAQ.astro';
@@ -8,13 +8,13 @@ import PostCard            from '../../components/PostCard.astro';
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
   return posts.map(post => ({
-    params: { slug: post.slug },
+    params: { slug: post.id },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
-const { Content, headings } = await post.render();
+const { Content, headings } = await render(post);
 
 const {
   title,
@@ -31,7 +31,7 @@ const {
 
 const allPosts = await getCollection('blog');
 const related = allPosts
-  .filter(p => p.slug !== post.slug)
+  .filter(p => p.id !== post.id)
   .sort((a, b) => {
     const aMatch = a.data.category === category ? 1 : 0;
     const bMatch = b.data.category === category ? 1 : 0;
@@ -57,7 +57,7 @@ const breadcrumbSchema = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home',  item: siteUrl },
     { '@type': 'ListItem', position: 2, name: 'Blog',  item: `${siteUrl}/blog` },
-    { '@type': 'ListItem', position: 3, name: title,   item: `${siteUrl}/blog/${post.slug}` },
+    { '@type': 'ListItem', position: 3, name: title,   item: `${siteUrl}/blog/${post.id}` },
   ],
 };
 
@@ -88,7 +88,7 @@ const breadcrumbSchema = {
 <BlogPost
   title={title}
   description={description}
-  slug={post.slug}
+  slug={post.id}
   image={image}
   datePublished={datePublished}
   dateModified={dateModified}
@@ -209,7 +209,7 @@ const breadcrumbSchema = {
           <p class="share-label">Share This Article</p>
           <div class="share-btns">
             <a
-              href={`https://pinterest.com/pin/create/button/?url=https://coastalhomeau.com.au/blog/${post.slug}&media=${encodeURIComponent(image)}&description=${encodeURIComponent(title)}`}
+              href={`https://pinterest.com/pin/create/button/?url=https://coastalhomeau.com.au/blog/${post.id}&media=${encodeURIComponent(image)}&description=${encodeURIComponent(title)}`}
               target="_blank" rel="noopener noreferrer"
               class="share-btn share-btn--pinterest"
               aria-label="Save to Pinterest"
@@ -218,7 +218,7 @@ const breadcrumbSchema = {
               <span>Pinterest</span>
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=https://coastalhomeau.com.au/blog/${post.slug}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=https://coastalhomeau.com.au/blog/${post.id}`}
               target="_blank" rel="noopener noreferrer"
               class="share-btn share-btn--facebook"
               aria-label="Share on Facebook"
@@ -259,7 +259,7 @@ const breadcrumbSchema = {
               <PostCard
                 title={p.data.title}
                 description={p.data.description}
-                slug={p.slug}
+                slug={p.id}
                 image={p.data.image}
                 category={p.data.category}
                 readTime={p.data.readTime}

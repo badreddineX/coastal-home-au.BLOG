@@ -1,7 +1,7 @@
 ---
 title: "Coastal Home Decor Australia: 14 Design Tips That Work"
 description: "I've been refining the coastal home decor look in our Gold Coast home for 5 years. Here are 14 tips that actually work — with real AUD prices and honest advice."
-image: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1484101403633-562f891dc89a.jpg"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Five years ago, my Gold Coast home had beige walls, dark brown furniture, and cu
 
 Here's everything I've learned about getting coastal home decor right in Australia.
 
-![Beautiful coastal Australian home with warm white walls, linen sofa, jute rug, and rattan accents](https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=900&q=80)
+![Beautiful coastal Australian home with warm white walls, linen sofa, jute rug, and rattan accents](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
 ## Tip 1: Paint the Walls Warm White — Not Stark White
 
@@ -75,7 +75,7 @@ Rattan is the defining material accent of the Australian coastal interior. The r
 
 More than two or three pieces per room tips from "coastal" into "tropical resort". Stay restrained.
 
-![Floor-to-ceiling linen curtains in warm white filtering morning light in a coastal Australian home](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Floor-to-ceiling linen curtains in warm white filtering morning light in a coastal Australian home](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Tip 5: Hang Linen Curtains at Ceiling Height
 
@@ -106,7 +106,7 @@ Indoor plants complete the coastal room by bridging the indoor and outdoor envir
 
 IKEA AU and Bunnings are the most affordable sources. Avoid paying boutique prices for pothos and ZZ plants — they're $8–$15 at Bunnings versus $40–$80 at plant boutiques.
 
-![Australian alfresco styled as an extension of the coastal interior — same palette, furniture, and materials](https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=900&q=80)
+![Australian alfresco styled as an extension of the coastal interior — same palette, furniture, and materials](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 9: Style Your Outdoor Space as an Extension of the Interior
 
@@ -142,7 +142,7 @@ The most beautiful coastal homes I've visited — friends' homes, properties I'v
 
 Rushed coastal decorating shows. The homes where the entire room was purchased from the same online cart look complete and strangely flat. The homes where each piece has a story — bought from a market, given as a gift, found at an op shop, commissioned from an artist — look alive.
 
-![Layered coastal Australian home interior built over time — rattan, linen, market ceramics, and warm afternoon light](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+![Layered coastal Australian home interior built over time — rattan, linen, market ceramics, and warm afternoon light](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
 ## Start Here: Priority Order
 

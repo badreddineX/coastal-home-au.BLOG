@@ -1,7 +1,7 @@
 ---
 title: "Summer Entertaining Ideas Australia: Hosting Tips"
 description: "The Australian summer lunch and dinner party — menu ideas, grazing tables, drink pairings, and hosting flow that works outdoors. Personal tips with AUD costs."
-image: "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1523301343968-6a6ebf63c672.jpg"
 datePublished: "2026-06-22"
 dateModified: "2026-06-22"
 author: "Badreddine Br"
@@ -30,11 +30,11 @@ faqs:
 
 The Australian summer is eight months long, depending on where you live. For those of us on the Gold Coast, genuinely warm outdoor entertaining weather runs from October through April. Eight years of working with that window — and making the most of it — has taught me exactly what Australian summer entertaining looks like at its best.
 
-According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March. For the full foundation of how to set up that space year-round, the [outdoor entertaining ideas guide for Australian homes](/blog/07-outdoor-entertaining-ideas-australia) covers furniture, shade, and styling from first principles.
+According to [BOM summer data](http://www.bom.gov.au/climate/averages/), Australian coastal regions enjoy 6–10 hours of sunshine per day throughout summer — making the outdoor entertaining space the most used room in the house from November to March. For the full foundation of how to set up that space year-round, the [outdoor entertaining ideas guide for Australian homes](/blog/outdoor-entertaining-ideas-australia) covers furniture, shade, and styling from first principles.
 
 These are the 13 ideas that have defined our summer hosting.
 
-![Long outdoor dining table set for summer lunch with white linen, fresh flowers, and festoon lights](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+![Long outdoor dining table set for summer lunch with white linen, fresh flowers, and festoon lights](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
 ## Tip 1: Embrace the Long Australian Lunch as the Primary Format
 
@@ -61,7 +61,7 @@ The batch cocktail served from a glass drinks dispenser is the most visually bea
 
 A 5L glass drinks dispenser from Kmart: $25–$35. The most impactful $30 purchase in our summer entertaining inventory.
 
-![Large glass drinks dispenser filled with a summer cocktail, citrus and mint visible, on a bar cart](https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=900&q=80)
+![Large glass drinks dispenser filled with a summer cocktail, citrus and mint visible, on a bar cart](/images/unsplash-1513558161293-cdaf765ed2fd.jpg)
 
 ## Tip 4: Master the Alfresco Seafood Spread
 
@@ -93,7 +93,7 @@ The BBQ as summer entertaining main event requires one specific preparation chan
 
 A Weber Q3200 ($799 from Bunnings) on the Weber Q stand ($229) is the summer BBQ investment I've been most satisfied with over five years.
 
-![Alfresco summer dining table with seafood platter, cold wine, and overhead festoon lights at golden hour](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80)
+![Alfresco summer dining table with seafood platter, cold wine, and overhead festoon lights at golden hour](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
 ## Tip 8: Create a Grazing Table for Gatherings Over 15
 
@@ -115,7 +115,7 @@ The pavlova is the Australian summer dessert and it should be treated as a perfo
 
 Make the meringue the night before ($3–$5 in ingredients for one large meringue), whip the cream in the morning, and assemble at the table during dessert. Cost for a pavlova that feeds 12: approximately $20. Impact: extraordinary.
 
-![Traditional Australian pavlova with fresh mango, strawberries, and passionfruit cream](https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80)
+![Traditional Australian pavlova with fresh mango, strawberries, and passionfruit cream](/images/unsplash-1565958011703-44f9829ba187.jpg)
 
 ## Tip 12: Send Guests Home With Something
 
@@ -140,9 +140,9 @@ The best summer entertaining I've done has been on the days when I sat down at n
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
-- [E](/blog/a)
-- [2](/blog/3)
+- [Easter Outdoor Decor Australia: 12 Alfresco Ideas](/blog/23-easter-outdoor-decorating-ideas-australia)
+- [Australia Day Backyard Party: 13 Tips for January 26](/blog/21-australia-day-backyard-party-ideas)
 

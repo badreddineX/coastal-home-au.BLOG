@@ -1,9 +1,9 @@
 ﻿---
 title: "Hamptons Living Room Furniture Australia: What to Buy"
 description: "The exact furniture pieces for a Hamptons living room in Australia — sofas, coffee tables, rugs, and lighting with real AUD prices from Australian retailers."
-image: "https://images.unsplash.com/photo-1617104678098-de229db51175?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1616486338812-3dadae4b4ace.jpg"
 datePublished: "2026-02-10"
-dateModified: "2026-06-01"
+dateModified: "2026-05-21"
 author: "Badreddine Br"
 tags: ["Hamptons style", "living room ideas", "coastal decor", "Australian home decor"]
 category: "Hamptons Style"
@@ -34,7 +34,7 @@ Hamptons living rooms work in Australia for one simple reason: we share the same
 > - Floor-to-ceiling linen curtains hung at ceiling height add instant height and grandeur
 > - If you're renting, every item on this list is removable — focus on rugs, cushions, lighting, and curtains
 
-![Hamptons living room with white walls, linen sofa, jute rug, and rattan pendant light in an Australian home](https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=900&q=80)
+![Hamptons living room with white walls, linen sofa, jute rug, and rattan pendant light in an Australian home](/images/unsplash-1583847268964-b28dc8f51f92.jpg)
 
 ## 1. Wall Colour: Warm White vs Cool White
 
@@ -60,7 +60,7 @@ If you do one thing in your living room to move it toward Hamptons style, make i
 
 Most people choose a rug that's too small. For a Hamptons living room, you want at least the front legs of every sofa and chair sitting on it. That usually means a 200x290cm or larger. It feels excessive until you try it — then it feels exactly right.
 
-![Large jute rug anchoring a Hamptons coastal living room with navy and white cushions](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Large jute rug anchoring a Hamptons coastal living room with navy and white cushions](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
 Material matters too. Jute, sisal, and cotton flatweave all work beautifully. For higher-traffic areas or homes with kids, a polypropylene coastal-pattern rug gives you the same look with far more durability.
 
@@ -76,7 +76,7 @@ The trick is in the hanging. Mount the rod as high as possible — ideally at ce
 
 If you're renting, this is one of the easiest wins. Curtains are always removable, and a tension or pressure-fit curtain rod means you don't need to drill a single hole.
 
-![Floor-to-ceiling linen curtains in white framing a bright Hamptons coastal living room](https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=900&q=80)
+![Floor-to-ceiling linen curtains in white framing a bright Hamptons coastal living room](/images/unsplash-1600210492493-0946911123ea.jpg)
 
 ## 5. Lighting: The Rattan Pendant as Signature Element
 
@@ -106,7 +106,7 @@ What sits on the coffee table matters as much as the table itself. A stack of ov
 
 **Bold move:** Temple & Webster carries timber and rattan coffee tables in the Hamptons aesthetic from ~$299-$799 AUD. Freedom is also worth checking for mid-range options around ~$450-$650 AUD.
 
-![Deep linen sofa in natural with layered cushions and a woven coffee table in a coastal living room](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
+![Deep linen sofa in natural with layered cushions and a woven coffee table in a coastal living room](/images/unsplash-1586023492125-27b2c045efd7.jpg)
 
 ## 8. Artwork: Make It Australian
 

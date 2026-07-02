@@ -1,7 +1,7 @@
 ---
 title: "Boho Coastal Home Decor Australia: 12 Styling Tips"
 description: "Boho coastal has the most personality of any coastal style. Here's how to do it right in an Australian home — specific styling ideas and real AUD prices."
-image: "https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1560185007-c5ca9d2c014d.jpg"
 datePublished: "2026-06-16"
 dateModified: "2026-06-16"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ The boho coastal aesthetic — a relaxed blend of natural materials, layered tex
 
 Here's what makes it work.
 
-![Boho coastal living room with layered rugs, macramé wall hanging, rattan chair, and abundant plants](https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=900&q=80)
+![Boho coastal living room with layered rugs, macramé wall hanging, rattan chair, and abundant plants](/images/unsplash-1560185007-c5ca9d2c014d.jpg)
 
 ## Tip 1: Start With the Same Warm White Base — Then Layer From There
 
@@ -70,7 +70,7 @@ The top rug introduces pattern and colour that a single rug approach doesn't all
 
 **Where to buy:** Pampa (Australian-made, excellent quality flatweave rugs, $350–$900), Kmart (entry-level jute base and flatweave options, $89–$179), and Etsy for vintage and handmade options ($80–$400).
 
-![Vintage rattan armchair beside boho coastal macramé wall hanging and layered rugs](https://images.unsplash.com/photo-1566669437685-5f0d0e5dc4e6?auto=format&fit=crop&w=900&q=80)
+![Vintage rattan armchair beside boho coastal macramé wall hanging and layered rugs](/images/unsplash-1522444195799-478538b28823.jpg)
 
 ## Tip 5: Collect Vintage Rattan — Don't Just Buy New
 
@@ -102,7 +102,7 @@ Boho coastal rooms feel richest when there's woven texture at every scale: a lar
 
 The layering of woven textures — different materials, different scales, different weave densities — creates the visual warmth that the boho coastal style is known for, and that its more minimalist coastal relatives lack.
 
-![Boho coastal living room with abundant indoor plants, macramé, layered jute and kilim rugs](https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=900&q=80)
+![Boho coastal living room with abundant indoor plants, macramé, layered jute and kilim rugs](/images/unsplash-1560185007-c5ca9d2c014d.jpg)
 
 ## Tip 9: Choose Lighting That Creates Warmth, Not Brightness
 
@@ -130,7 +130,7 @@ Boho coastal is the most personal of all the coastal styles — and it's the sty
 
 Follow the principles (warm white base, natural materials, rattan, plants, woven textures), and then bring yourself to it.
 
-![Personal boho coastal home with travel finds, Australian art, terracotta pots, and woven textiles](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Personal boho coastal home with travel finds, Australian art, terracotta pots, and woven textiles](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Start Here: Priority Order
 
@@ -148,6 +148,6 @@ Follow the principles (warm white base, natural materials, rattan, plants, woven
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 - [Rattan and Linen Coastal Decor Ideas for Australian Homes](/blog/04-rattan-linen-coastal-decor-australia)
 - [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia)
-- [R](/blog/a)
-- [r](/blog/a)
+- [Australian Coastal Colour Palette: 9 Combinations](/blog/australian-coastal-colour-palette)
+- [Small Balcony Ideas Australia: 12 Ways to Transform It](/blog/small-balcony-ideas-australia)
 

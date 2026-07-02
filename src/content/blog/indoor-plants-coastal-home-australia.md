@@ -1,9 +1,9 @@
 ﻿---
 title: "12 Indoor Plants for an Australian Coastal Home"
 description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Prices from Australian nurseries included."
-image: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-06-26"
-dateModified: "2026-06-26"
+image: "/images/unsplash-1463936575829-25148e1db1b8.jpg"
+datePublished: "2026-04-25"
+dateModified: "2026-04-25"
 author: "Badreddine Br"
 tags: ["indoor plants coastal home australia", "indoor plants australia", "coastal home plants", "australian indoor plants"]
 featured: false
@@ -29,7 +29,7 @@ I have a complicated relationship with indoor plants. I've killed a cactus. I've
 
 
 
-![Collection of indoor plants in terracotta and rattan pots in a bright coastal living room](https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=900&q=80)
+![Collection of indoor plants in terracotta and rattan pots in a bright coastal living room](/images/unsplash-1463936575829-25148e1db1b8.jpg)
 
 > **Key Takeaways**
 > - Over 60% of Australians live within 50km of the coast (ABS) -- most of us need humidity-tolerant indoor plants.
@@ -78,7 +78,7 @@ The most readily available Pothos varieties in Australia:
 
 **Key point:** Pothos cuttings from a friend or neighbour cost nothing. Plants from Bunnings start from ~$8-$20 AUD, or from IKEA AU from ~$5-$10 AUD for small specimens.
 
-![Golden Pothos trailing from a white shelf in a bright coastal home interior](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
+![Golden Pothos trailing from a white shelf in a bright coastal home interior](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ In coastal humidity, Philodendrons grow fast. Mine have produced new leaves ever
 
 **Key point:** Heartleaf Philodendron costs ~$12-$25 AUD at Bunnings or local nurseries, and propagates freely from cuttings at no additional cost.
 
-![Heartleaf Philodendron and Peace Lily on a timber plant stand in a bright coastal home corner](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80)
+![Heartleaf Philodendron and Peace Lily on a timber plant stand in a bright coastal home corner](/images/unsplash-1499955085172-a104c9463ece.jpg)
 
 ---
 
@@ -170,7 +170,7 @@ Outside the bathroom, Boston Ferns struggle in air-conditioned rooms and anywher
 
 **Key point:** Boston Ferns cost ~$10-$30 AUD at Bunnings or Flower Power. A 15cm pot is the right starting size for a bathroom shelf.
 
-![Boston fern on a timber bathroom shelf beside a white window in a coastal home](https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?auto=format&fit=crop&w=900&q=80)
+![Boston fern on a timber bathroom shelf beside a white window in a coastal home](/images/unsplash-1552321554-5fefe8c9ef14.jpg)
 
 ---
 

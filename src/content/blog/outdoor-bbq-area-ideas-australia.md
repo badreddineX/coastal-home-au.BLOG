@@ -1,9 +1,9 @@
 ﻿---
 title: "Outdoor BBQ Area Ideas for Australian Backyards (2026)"
 description: "Design the ultimate outdoor BBQ area for your Australian backyard — from built-in kitchens to simple BBQ setups. Real AUD prices and product recommendations."
-image: "https://images.unsplash.com/photo-1432139555190-58524dae6a55?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1544025162-d76694265947.jpg"
 datePublished: "2026-04-15"
-dateModified: "2026-06-01"
+dateModified: "2026-06-25"
 author: "Badreddine Br"
 tags: ["outdoor bbq australia", "outdoor kitchen", "alfresco kitchen", "outdoor entertaining"]
 category: "Outdoor Entertaining"
@@ -27,13 +27,13 @@ faqs:
 
 If there's one thing that defines Australian outdoor life, it's the BBQ. It's where the weekend actually begins, where friends gather without being asked twice, and where the best conversations happen. According to the [NSW Planning Portal](https://www.planningportal.nsw.gov.au/), built-in outdoor kitchens with gas fittings or structural changes may require a building permit, so it pays to check before you commit to a design. I've set up three different BBQ zones over the years, from a simple Weber on a trolley to a full bluestone outdoor kitchen, and the lessons stack up fast. This post walks you through exactly what works, what to spend, and what to skip.
 
-![Outdoor BBQ kitchen with stone benchtop, built-in Weber, and bar fridge under a covered pergola](https://images.unsplash.com/photo-1534361960057-19f073d17f6c?auto=format&fit=crop&w=900&q=80)
+![Outdoor BBQ kitchen with stone benchtop, built-in Weber, and bar fridge under a covered pergola](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## 1. Start with the Right BBQ Setup for Your Space
 
 The first decision shapes everything else. A freestanding BBQ suits renters, smaller yards, and anyone who wants flexibility without committing to a build. A built-in kitchen suits homeowners who entertain regularly and want a permanent outdoor cooking station that adds real property value.
 
-I always recommend starting with a freestanding setup if you're new to [outdoor entertaining](/blog/07-outdoor-entertaining-ideas-australia). You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
+I always recommend starting with a freestanding setup if you're new to [outdoor entertaining](/blog/outdoor-entertaining-ideas-australia). You'll quickly learn what you actually need: how much bench space, where you want the fridge, whether a side burner matters. That information makes any future built-in project far more considered and far less expensive to fix after the fact.
 
 **Key point:** A quality four-burner freestanding gas BBQ from Weber or BeefEater runs ~$700–$2,000 AUD and handles everything a built-in kitchen does for cooking.
 
@@ -53,7 +53,7 @@ The four rules I follow every time: position the BBQ downwind of your main seati
 
 **Key point:** A ~$150 AUD compass check and an afternoon spent watching how your space gets afternoon wind will save you from a poorly positioned built-in that's expensive to move.
 
-![Built-in outdoor kitchen with bluestone benchtop, sink, and outdoor bar fridge in an Australian backyard](https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=900&q=80)
+![Built-in outdoor kitchen with bluestone benchtop, sink, and outdoor bar fridge in an Australian backyard](/images/unsplash-1600585154526-990dced4db0d.jpg)
 
 ## 4. Build In a Proper Prep Bench
 
@@ -71,7 +71,7 @@ Pizza ovens have genuinely taken off in Australian backyards, and I understand w
 
 **Key point:** A quality freestanding pizza oven like the Ooni Karu or a BeefEater built-in model runs ~$500–$3,500 AUD. Built-in outdoor kitchens with BBQ, sink, and storage start from ~$8,000 AUD installed. Always check with your local council before starting a built-in project involving gas fittings or structural work.
 
-![Outdoor pizza oven with wood stacked beside it and a gathering of friends around a backyard entertaining area](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80)
+![Outdoor pizza oven with wood stacked beside it and a gathering of friends around a backyard entertaining area](/images/unsplash-1534177616072-ef7dc120449d.jpg)
 
 ## 6. Install Under-Bench Storage That Handles the Weather
 
@@ -97,7 +97,7 @@ An outdoor-rated pendant or track light positioned directly over the cooking sur
 
 **Key point:** A good outdoor pendant light over the BBQ runs ~$80–$250 AUD. A licensed electrician should handle any new outdoor power points or fixed lighting runs.
 
-![Styled BBQ zone with splashback tile, pot herbs on the bench, and outdoor pendant light overhead](https://images.unsplash.com/photo-1565608438257-fac3c27bdbdb?auto=format&fit=crop&w=900&q=80)
+![Styled BBQ zone with splashback tile, pot herbs on the bench, and outdoor pendant light overhead](/images/unsplash-1444392061186-9fc38f84f726.jpg)
 
 ## 9. Add a Splashback Behind the BBQ
 

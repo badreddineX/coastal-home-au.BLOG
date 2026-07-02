@@ -1,7 +1,7 @@
 ---
 title: "Coastal Home Decor on a Budget Australia: 12 Tips"
 description: "I transformed my Gold Coast home on a tight budget. Here are 12 high-impact coastal decor changes — all under $150 — with real Australian prices included."
-image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1595526114035-0d45ed16cfbf.jpg"
 datePublished: "2026-06-06"
 dateModified: "2026-06-06"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Three years ago I did the coastal conversion of our Gold Coast home with a total
 
 A [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/budget-decorating-tips) survey found that Australian renters and first-home buyers spend an average of $3,000–$8,000 on home styling in their first year — but the most impactful coastal looks I've achieved cost under $500.
 
-![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=900&q=80)
+![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
 ## Tip 1: Paint Every Room Warm White First
 
@@ -60,7 +60,7 @@ The Kmart rattan mirror (round, 55—60cm diameter) is the best value coastal de
 
 Position it opposite a window to bounce light, in a hallway to add depth, or in a bedroom as the primary wall element. At that price, I have one in every room that needed a wall element.
 
-![Linen and waffle-weave cushion covers in white and natural tones on a coastal sofa](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Linen and waffle-weave cushion covers in white and natural tones on a coastal sofa](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Tip 5: Switch Cushion Covers, Not the Cushions
 
@@ -93,7 +93,7 @@ Op shops in coastal Australian cities (Vinnies, Salvos, Brotherhood of St Lauren
 
 I shop op shops monthly. The Southport Vinnies and Broadbeach Salvos have yielded some of the best pieces in our home for $5–$20 each.
 
-![Large fiddle leaf fig in terracotta pot in corner of coastal living room](https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=900&q=80)
+![Large fiddle leaf fig in terracotta pot in corner of coastal living room](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
 ## Tip 9: Add Large Indoor Plants in Terracotta Pots
 
@@ -124,7 +124,7 @@ The entry of an Australian home sets the tone for everything inside. A Kmart rat
 
 First impression cost: $35 (Kmart rattan pendant) + $65 (olive tree and terracotta pot) + $25 (coir doormat from Bunnings) = $125. The welcome this creates — material warmth, natural scent, coastal character — is disproportionate to its cost.
 
-![Coastal home entry with rattan pendant, olive tree in terracotta pot, and coir doormat](https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=80)
+![Coastal home entry with rattan pendant, olive tree in terracotta pot, and coir doormat](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
 ## Start Here: Priority Order
 

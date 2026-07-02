@@ -1,7 +1,7 @@
 ---
 title: "Australian Beach House Decor Ideas: 13 Proven Tips"
 description: "I've decorated three Gold Coast coastal homes. Here are 13 Australian beach house decor ideas that actually work — real AUD prices and real local retailers."
-image: "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1499793983690-e29da59ef1c2.jpg"
 datePublished: "2026-05-03"
 dateModified: "2026-05-03"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ According to [Domain.com.au research](https://www.domain.com.au/research/), coas
 
 Here's what I've learned about creating an authentic Australian beach house interior.
 
-![Australian beach house interior with warm white walls, linen sofa, and rattan accents](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Australian beach house interior with warm white walls, linen sofa, and rattan accents](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Tip 1: Start With Warm White Walls — Not Stark White
 
@@ -76,7 +76,7 @@ The rule I follow: one significant rattan piece per room, plus smaller rattan ac
 - Temple & Webster: rattan furniture, pendants, larger mirrors ($80–$800)
 - Freedom: higher-end rattan armchairs and sofas ($400–$2,000)
 
-![Australian beach house outdoor entertaining area with natural furniture and coastal styling](https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80)
+![Australian beach house outdoor entertaining area with natural furniture and coastal styling](/images/unsplash-1512917774080-9991f1c4c750.jpg)
 
 ## Tip 5: Treat the Outdoor Space as a Room
 
@@ -109,7 +109,7 @@ I've seen every version of "coastal blue gone wrong" — entire rooms painted in
 
 **The rule I follow:** Ocean blues and greens should represent no more than 20% of a room's visual weight. A pair of sage green cushions, a small collection of blue ceramics, or a single watercolour print in ocean tones — that's enough. The neutral background (white walls, jute, linen, timber) does the heavy lifting; the colour just punctuates.
 
-![Trailing pothos and monstera plants cascading over a shelf in a bright coastal Australian interior](https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=900&q=80)
+![Trailing pothos and monstera plants cascading over a shelf in a bright coastal Australian interior](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
 ## Tip 9: Add Indoor Plants — Particularly Trailing Varieties
 
@@ -141,7 +141,7 @@ This is the detail that makes guests ask "how does it always smell so good in he
 
 ## Tip 13: Shop Markets and Op Shops for Character Pieces
 
-![Op shop rattan chair and market ceramics adding character to an authentic Australian beach house interior](https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=900&q=80)
+![Op shop rattan chair and market ceramics adding character to an authentic Australian beach house interior](/images/unsplash-1560185007-c5ca9d2c014d.jpg)
 
 The beach house interiors that feel most authentic aren't the ones where everything came from the same online retailer. The ones that feel genuinely coastal have a layer of found objects — a ceramic bowl bought at a Gold Coast market, a piece of driftwood collected on a beach walk, a vintage rattan chair from the local Salvos.
 

@@ -1,9 +1,9 @@
 ﻿---
 title: "Australian Coastal Colour Palette: 9 Combinations"
 description: "9 Australian coastal colour palettes that work every time — Dulux and Taubmans paint names, codes, and room-by-room application tips. Real examples included."
-image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
-datePublished: "2026-06-23"
-dateModified: "2026-06-23"
+image: "/images/unsplash-1600210492486-724fe5c67fb0.jpg"
+datePublished: "2026-02-26"
+dateModified: "2026-02-26"
 author: "Badreddine Br"
 tags: ["australian coastal colour palette", "coastal paint colours australia", "beach house colours", "dulux coastal colours"]
 featured: false
@@ -34,7 +34,7 @@ Getting coastal colour right in Australia is different from getting it right in,
 
 I've repainted coastal rooms more times than I care to admit. These are the nine combinations I come back to reliably, along with the specific paint names and codes that make them work.
 
-![Bright coastal Australian living room with warm white walls, natural timber floors, and soft ocean-blue cushion accents](https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80)
+![Bright coastal Australian living room with warm white walls, natural timber floors, and soft ocean-blue cushion accents](/images/unsplash-1600210492486-724fe5c67fb0.jpg)
 
 > **Key Takeaways**
 > - Warm whites (not cool whites) are the correct wall foundation for every Australian coastal room
@@ -65,7 +65,7 @@ This is the palette every other Australian coastal combination builds from. It's
 
 This palette is for the Australian beach house that feels genuinely worn-in, lived-in, and connected to the landscape rather than freshly styled. It's warmer and more textural than the classic white palette — the right choice for older homes, character properties, and anywhere you want depth over brightness.
 
-![A sun-bleached coastal bedroom with soft driftwood grey bedhead, warm linen bedding, and sheer white curtains](https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&w=900&q=80)
+![A sun-bleached coastal bedroom with soft driftwood grey bedhead, warm linen bedding, and sheer white curtains](/images/unsplash-1560448204-603b3fc33ddc.jpg)
 
 **The specific paints:**
 
@@ -123,7 +123,7 @@ This is the Australian interpretation of the American Hamptons palette — and t
 
 This is the more unexpected coastal palette — and the one that surprises people most with how well it works in Australian beach house interiors. Terracotta reads as a coastal colour in Australia because it's the colour of sandstone cliffs, red-dirt coastlines, and the terracotta-pot gardens of every coastal home north of the Tropic of Capricorn.
 
-![Coastal living room with warm white walls, a terracotta ceramic vase, rattan furniture, and sandy beige rug](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
+![Coastal living room with warm white walls, a terracotta ceramic vase, rattan furniture, and sandy beige rug](/images/unsplash-1586023492125-27b2c045efd7.jpg)
 
 **The specific paints:**
 
@@ -179,7 +179,7 @@ Aqua is the colour Australian coastal interiors overuse most reliably — and th
 
 Exterior colour in a coastal Australian environment is both a design decision and a practical one. Salt air, intense UV, and the occasional tropical storm degrade standard exterior paint significantly faster than in inland environments — which means both the paint product and the colour choice matter.
 
-![Australian beach house exterior with weathered white painted weatherboards, coastal sage window trim, and natural timber deck](https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=900&q=80)
+![Australian beach house exterior with weathered white painted weatherboards, coastal sage window trim, and natural timber deck](/images/unsplash-1600596542815-ffad4c1539a9.jpg)
 
 **Paint products for coastal exteriors:**
 All exterior paint in coastal locations should come from a specifically formulated exterior range. Both Dulux Weathershield and Taubmans All Weather exterior ranges are engineered for Australian coastal conditions — UV resistance, flexibility to handle expansion and contraction, and mould resistance. Both are available from Bunnings.

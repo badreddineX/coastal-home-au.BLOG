@@ -1,7 +1,7 @@
 ---
 title: "Australia Day Backyard Party: 13 Tips for January 26"
 description: "Five years hosting Australia Day backyard parties on the Gold Coast. Here are 13 tips for a great day â€” food, styling, games, and beating the January heat."
-image: "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1534177616072-ef7dc120449d.jpg"
 datePublished: "2026-06-20"
 dateModified: "2026-06-20"
 author: "Badreddine Br"
@@ -34,7 +34,7 @@ Australia Day on the Gold Coast is consistently 28â€”36 degrees. Five years of h
 
 Here are the 13 tips that changed our Australia Day gatherings.
 
-![Gold Coast backyard set up for Australia Day party with shade sail, festoon lights, and long outdoor table](https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80)
+![Gold Coast backyard set up for Australia Day party with shade sail, festoon lights, and long outdoor table](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 1: Start at 5pm for the Best Conditions
 
@@ -60,7 +60,7 @@ There is no more Australian Australia Day activity than backyard cricket. A $20â
 
 Our cricket setup: the tape ball and coloured stumps from Kmart, the rules that change based on who's playing and how much has been consumed, and the fielding positions named for the suburban obstacles they're defined by (the lemon tree, the washing line, the back fence). 
 
-![Backyard cricket on the grass during Australian summer gathering, plastic stumps and bat](https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=900&q=80)
+![Backyard cricket on the grass during Australian summer gathering, plastic stumps and bat](/images/unsplash-1531415074968-036ba1b575da.jpg)
 
 ## Tip 4: Set Up the BBQ as the Party Centrepiece
 
@@ -86,7 +86,7 @@ Green and gold are the Australia Day colours â€” and they're most effective as a
 
 Everything else is about the food, the games, the people, and the day itself.
 
-![Simple Australia Day table setting with green and gold bunting, yellow flowers, and white plates](https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=80)
+![Simple Australia Day table setting with green and gold bunting, yellow flowers, and white plates](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
 ## Tip 7: Lay a Large Outdoor Rug for the Lawn Cricket Zone
 
@@ -108,7 +108,7 @@ The pavlova in particular is the most photogenic Australia Day dessert element â
 
 The Australia Day afternoon snack that requires no preparation, costs $2.50, and is universally beloved: Tim Tams. A packet or two on the snack table with the afternoon coffee represents the Australian biscuit-tin moment that belongs in every January 26 gathering. The fact that it's 35 degrees and you're eating chocolate biscuits is part of the charm.
 
-![Pavlova with fresh strawberries and passionfruit on a white plate for Australia Day dessert](https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80)
+![Pavlova with fresh strawberries and passionfruit on a white plate for Australia Day dessert](/images/unsplash-1565958011703-44f9829ba187.jpg)
 
 ## Tip 11: Set Up Festoon Lights for the Evening Continuation
 
@@ -137,7 +137,7 @@ Australia Day is one of the most sociable days on the Australian calendar. The p
 ---
 
 **Related reading:**
-- [Outdoor Entertaining Ideas for Australian Homes](/blog/07-outdoor-entertaining-ideas-australia)
+- [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 

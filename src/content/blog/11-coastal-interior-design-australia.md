@@ -1,7 +1,7 @@
 ---
 title: "Coastal Interior Design Principles Australia: 13 Rules"
 description: "The 13 design principles behind Australian coastal interiors — spatial rules, material logic, and colour theory that professional designers use. Pure technique."
-image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1600210492493-0946911123ea.jpg"
 datePublished: "2026-05-28"
 dateModified: "2026-05-28"
 author: "Badreddine Br"
@@ -32,7 +32,7 @@ Coastal interior design is the discipline I've been practising — often acciden
 
 These are the 13 principles I return to every time I'm designing or redesigning a space. [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furnishing/furniture/articles/sustainable-furniture-buying-guide) notes that Australians are increasingly selecting natural materials — linen, jute, rattan, and timber — for their interior design, reflecting a broader shift toward sustainable, tactile coastal living.
 
-![Light-filled Australian coastal living room with white walls, linen sofa, and large windows](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80)
+![Light-filled Australian coastal living room with white walls, linen sofa, and large windows](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
 ## Tip 1: Start With Light — It's the Primary Material
 
@@ -81,7 +81,7 @@ Australian coastal interior design is inseparable from the outdoor space. The ho
 - Indoor plants positioned to echo the garden visible beyond the glass
 - Furniture in the outdoor space in the same colour palette as the indoor furniture
 
-![Natural rattan armchair beside linen sofa in a bright Australian coastal room](https://images.unsplash.com/photo-1566669437685-5f0d0e5dc4e6?auto=format&fit=crop&w=900&q=80)
+![Natural rattan armchair beside linen sofa in a bright Australian coastal room](/images/unsplash-1522444195799-478538b28823.jpg)
 
 ## Tip 5: Layer Textures Rather Than Colours
 
@@ -122,7 +122,7 @@ Furniture height is underappreciated as a coastal design principle. Low furnitur
 
 Australian coastal design has moved away from the high-back sofa and the formal dining chair toward lower, more lounging-friendly proportions. A sofa with 70—75cm seat height (versus the standard 80—85cm) dramatically changes the spatial feel of a living room.
 
-![White coastal kitchen with timber open shelving, rattan pendants and stone benchtop](https://images.unsplash.com/photo-1556909114-4235a46c84f8?auto=format&fit=crop&w=900&q=80)
+![White coastal kitchen with timber open shelving, rattan pendants and stone benchtop](/images/unsplash-1556909212-d5b604d0c90d.jpg)
 
 ## Tip 9: Design the Kitchen in White and Natural Timber
 
@@ -156,7 +156,7 @@ The coastal interiors I genuinely admire — and the version of my own home I'm 
 
 Design for life, not for photos. The life version is always more beautiful.
 
-![Lived-in coastal interior with books, plants, and linen in warm afternoon light](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Lived-in coastal interior with books, plants, and linen in warm afternoon light](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
 ## Start Here: Priority Order
 

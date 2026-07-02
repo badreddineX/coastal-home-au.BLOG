@@ -1,7 +1,7 @@
 ---
 title: "Hamptons Style Decor Australia: 13 Tips to Get It Right"
 description: "Three years building a Hamptons-style home on the Gold Coast. Here's what actually works in Australia — real AUD prices and honest advice on where to save."
-image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1586023492125-27b2c045efd7.jpg"
 datePublished: "2026-05-25"
 dateModified: "2026-05-25"
 author: "Badreddine Br"
@@ -30,9 +30,13 @@ faqs:
 
 I've been working toward a Hamptons-style interior in our Gold Coast home for three years. Not the Pinterest fantasy version — the actual liveable version that suits Australian light, Australian summers, and Australian outdoor living. Here's what I've learned works, what doesn't, and what Australian Hamptons style actually means when you live in it rather than just look at it. The Hamptons aesthetic has become one of the most searched interior styles in Australia, according to [Domain.com.au research](https://www.domain.com.au/research/) — the clean coastal palette resonates deeply with how Australians want to live.
 
-![Australian Hamptons-style home with white VJ panelling, navy accents, jute rug, and classic furnishings](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80)
+![Australian Hamptons-style home with white VJ panelling, navy accents, jute rug, and classic furnishings](/images/unsplash-1586023492125-27b2c045efd7.jpg)
 
-## Tip 1: Paint Everything White — But the Right White
+## The Foundation: White, Panelling and Navy
+
+Hamptons rooms are built on three non-negotiables. Get these right and everything else layers on top naturally.
+
+### Paint Everything White — But the Right White
 
 Hamptons style begins and ends with white. Not a trendy off-white, not a warm beige that "reads white" — a clean, slightly warm white that's confident about being white. In Australian light, the right white is Dulux White on White, Dulux Vivid White, or Taubmans Ivory Drop for a slightly warmer tone.
 
@@ -40,7 +44,7 @@ Hamptons style begins and ends with white. Not a trendy off-white, not a warm be
 
 A 4L tin of Dulux interior white: $65–$95 from Bunnings. For a Hamptons renovation that includes all millwork and walls in a standard room: budget $180–$250 in paint.
 
-## Tip 2: Add Shiplap or VJ Panelling — Even on One Wall
+### Add Shiplap or VJ Panelling — Even on One Wall
 
 Shiplap or VJ (V-joint) wall panelling is the signature architectural detail of Hamptons style. Even in an otherwise unremarkable room, a feature wall of white-painted VJ panelling transforms the space into something that reads unmistakably as Hamptons.
 
@@ -48,23 +52,27 @@ Shiplap or VJ (V-joint) wall panelling is the signature architectural detail of 
 
 **Trades approach:** A plasterer or carpenter can install and paint VJ panelling for $800–$2,500 depending on size and complexity. Worth it if the wall is the centrepiece of a significant room.
 
-## Tip 3: Use Navy as an Accent, Not a Dominant Colour
+### Use Navy as an Accent, Not a Dominant Colour
 
 The Hamptons palette is white-dominant with navy as the accent. The most common mistake I see in Australian Hamptons-attempt interiors is too much navy — navy feature walls, navy sofas, navy curtains. The result is heavy rather than coastal.
 
 **How I use navy:** Two navy and white striped cushions on the white linen sofa. A navy throw blanket draped over one armchair. A navy ceramic vase on the sideboard. One navy-framed piece of art. That's the entire navy quota for our living room — and it reads as fully Hamptons because the white carries the weight.
 
-## Tip 4: Add Plantation Shutters or White Shutters to Windows
+## Windows, Furniture and the Big Pieces
+
+With the palette established, the next investments are the large elements that anchor each room.
+
+### Add Plantation Shutters or White Shutters to Windows
 
 Plantation shutters are the Hamptons window treatment. They control light precisely, add an architectural detail that no curtain can replicate, and look beautiful both open and closed. Bunnings sells DIY plantation shutter kits from $80–$300 per window (self-measure, self-install). For supplied-and-installed shutters, budget $400–$1,200 per window through a shutter company.
 
 Alternative: simple white roller blinds with a white linen curtain layered over them ($30–$60 for the blind from Bunnings, $99 per pair for IKEA AINA linen curtains). Not as Hamptons as shutters, but significantly more affordable.
 
-![Hamptons-style living room with quality cream linen sofa, timber dining table, and classic white chairs](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Hamptons-style living room with quality cream linen sofa, timber dining table, and classic white chairs](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
-## Tip 5: Choose Quality Furniture in a Limited Palette
+### Choose Quality Furniture in a Limited Palette
 
-Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy. For how this applies specifically to the main living space, [Hamptons style living room ideas Australia](/blog/16-hamptons-style-living-room-ideas-australia) walks through sofa placement, rug choice, and furniture arrangement in detail.
+Hamptons decor invests in quality, particularly in the primary furniture. The sofa, dining table, and main chairs should be: well-made, in the correct palette (white, cream, natural timber, occasional navy), and with clean rather than ornate lines. Hamptons furniture is classic without being fussy. For how this applies specifically to the main living space, [Hamptons style living room ideas Australia](/blog/hamptons-style-living-room-australia) walks through sofa placement, rug choice, and furniture arrangement in detail.
 
 **Where I invested:**
 - Sofa: 3.5-seater linen sofa in cream from Freedom ($2,499)
@@ -75,27 +83,31 @@ Hamptons decor invests in quality, particularly in the primary furniture. The so
 - Accessories, cushions, vases, candles: Kmart, Adairs, and H&M Home
 - Outdoor dining chairs: Kmart stackable metal chairs in white ($39 each)
 
-## Tip 6: Install a Pendant Light With Classic Lines
+### Install a Pendant Light With Classic Lines
 
 Lighting in a Hamptons interior should look like it belongs in a 1920s beach house — glass and brass, classic shapes, no industrial or contemporary styling. The lantern-style pendant (a glass globe in a brass or black frame) is the most Hamptons-appropriate pendant light available.
 
 **What I use:** A set of three white glass pendant lights with brass fittings over the dining table — $120 each from Temple & Webster. Simple, classic, and unmistakably Hamptons.
 
-## Tip 7: Use Jute or Natural Fibre Rugs as the Ground Layer
+### Use Jute or Natural Fibre Rugs as the Ground Layer
 
 Jute and sisal rugs connect Hamptons style to its coastal origins. A 200×300cm natural fibre rug under the living room furniture, and a smaller runner in the hallway, give the interior its grounded, natural quality without disrupting the crisp white palette above.
 
 **The pairing rule:** Light Hamptons walls and furniture + jute rug = correct. Dark furniture + jute rug = coastal, but not Hamptons. Keep the furniture in the white-cream-light timber palette and the jute rug will read as a Hamptons element rather than a coastal-generic one.
 
-## Tip 8: Display a Considered Collection of Blue and White Ceramics
+## The Layered Details
+
+This is where Hamptons style is won or lost — the considered accessories that read as collected rather than bought in one trip.
+
+### Display a Considered Collection of Blue and White Ceramics
 
 The decorative detail that signals Hamptons style most quickly after the architecture and palette is a collection of blue and white ceramics — vases, bowls, or decorative objects — displayed together. A grouping of three blue and white ceramic vases on a sideboard or mantle, or a collection of blue and white plates displayed on open shelving, achieves the look immediately.
 
 **Where to buy:** Temple & Webster has a wide range of blue and white ceramic decorative pieces ($25–$180). Kmart has entry-level blue and white vases ($8–$25). Op shops often yield genuine blue and white ceramics for $2–$15 — some of the most beautiful pieces come from this source.
 
-![Watercolour seascape and botanical prints in white frames hanging in a Hamptons style Australian home](https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=900&q=80)
+![Watercolour seascape and botanical prints in white frames hanging in a Hamptons style Australian home](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
-## Tip 9: Add Coastal Art With Classic Frames
+### Add Coastal Art With Classic Frames
 
 Hamptons art is framed simply and classically — white frames, dark timber frames, or brass-detail frames. The art itself: a seascape in oil or watercolour, botanical prints (ferns and coastal plants in a botanical illustration style), or simple black line art of the coast.
 
@@ -103,29 +115,33 @@ Hamptons art is framed simply and classically — white frames, dark timber fram
 
 **My gallery wall:** Two framed watercolour seascapes (op shop finds, $8–$15 each), a large fern botanical print in a white frame from Juniper Print Shop ($85), and a vintage coastal map print from a Gold Coast antique market ($45). Classic, personal, and unmistakably coastal without being themed.
 
-## Tip 10: Install Built-In or Freestanding White Bookshelves
+### Install Built-In or Freestanding White Bookshelves
 
 Built-in shelving is the most Hamptons architectural investment possible in a living room. White-painted timber shelves flanking a fireplace or television, styled with books, coastal objects, and plants, are the definitive Hamptons living room background.
 
 **Without built-ins:** A freestanding white bookshelf from IKEA (BILLY unit, $129–$299) painted the same white as the walls and styled with coastal objects creates a convincing Hamptons built-in effect for minimal cost. The same shelving approach works beautifully in a bedroom — [Hamptons style bedroom Australia](/blog/hamptons-style-bedroom-australia) covers how to carry the shelving, linen, and white palette through to the sleeping space.
 
-## Tip 11: Use Striped Textiles as the Pattern Signature
+### Use Striped Textiles as the Pattern Signature
 
 Hamptons style uses one pattern consistently and with restraint: the nautical stripe. Navy and white, horizontal or vertical, in cushions, throws, or a single accent chair. The stripe should appear in one or two places per room, not across every soft furnishing surface.
 
 **Where I use stripes:** Two navy and white striped cushions on the sofa, a striped outdoor cushion on the alfresco daybed. That's it. The stripe is a punctuation mark, not a theme.
 
-## Tip 12: Create a Coastal-Scented Home
+## Finish the Whole-Home Effect
+
+The last two moves carry the style beyond individual rooms.
+
+### Create a Coastal-Scented Home
 
 The finishing sensory layer in a Hamptons interior is scent. White flowers — gardenias, white roses, or jasmine — in a simple white vase are the most Hamptons-appropriate scent source. Alternatively, a reed diffuser in a clean, linen-and-white-floral scent from a quality brand ($45–$80 from temple & Webster or Harris Scarfe) achieves the same effect year-round.
 
-## Tip 13: Apply the Same Palette Outdoors
+### Apply the Same Palette Outdoors
 
 The Hamptons outdoor space is a continuation of the interior — not an afterthought. White furniture or classic teak, navy and white striped cushions, crisp timber decking or white-painted concrete, and potted topiary standards (box hedges, standard bay trees, or white-flowering gardenias) create a Hamptons outdoor setting that matches the interior.
 
 The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or bay trees in large white square planters flanking the entry or the alfresco.
 
-![Hamptons outdoor alfresco with white furniture, navy striped cushions, and bay tree topiary standards in white planters](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80)
+![Hamptons outdoor alfresco with white furniture, navy striped cushions, and bay tree topiary standards in white planters](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
 ## Start Here: Priority Order
 
@@ -140,7 +156,7 @@ The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or ba
 ---
 
 **Related reading:**
-- [Hamptons Style Living Room Ideas for Australian Homes](/blog/16-hamptons-style-living-room-ideas-australia)
+- [Hamptons Style Living Room Ideas for Australian Homes](/blog/hamptons-style-living-room-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
 

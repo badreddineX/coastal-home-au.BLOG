@@ -1,7 +1,7 @@
 ﻿---
 title: "Coastal Bedroom Decor Australia: 11 Ideas That Work"
 description: "Style a coastal bedroom in Australia with linen bedding, rattan furniture, and the right colour palette. AUD prices from Kmart, Temple and Webster, and Bunnings."
-image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
+image: "/images/unsplash-1505693416388-ac5ce068fe85.jpg"
 datePublished: "2026-04-05"
 dateModified: "2026-04-05"
 author: "Badreddine Br"
@@ -50,7 +50,7 @@ Avoid saturated navy, deep teal, or bold coral — they all work in larger doses
 
 ## 2. Choose Linen Bedding in White or Natural
 
-![Layered coastal bed with white linen quilt, natural cushions, and rattan bedside table](https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=900&q=80)
+![Layered coastal bed with white linen quilt, natural cushions, and rattan bedside table](/images/unsplash-1522771739844-6a9f6d5f14af.jpg)
 
 Bedding is where the coastal bedroom is won or lost, and linen is the clear choice for Australian conditions. It breathes in summer, warms in winter, and only improves in texture after repeated washing. White or natural (undyed) linen is your foundation layer — everything else in the room coordinates around it.
 
@@ -78,7 +78,7 @@ If you're renting and can't wall-mount a bedhead, freestanding rattan bedheads t
 
 ## 4. Get Curtains Right: Sheer Linen Changes Everything
 
-![Sheer white linen curtains pooling on a light timber floor in a bright coastal bedroom](https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80)
+![Sheer white linen curtains pooling on a light timber floor in a bright coastal bedroom](/images/unsplash-1616594039964-ae9021a400a0.jpg)
 
 Curtains are underrated in coastal bedroom guides, but they are transformative. Floor-length sheer linen curtains that pool slightly on the floor add a softness and a sense of height that no other element replicates at the same cost.
 
@@ -106,7 +106,7 @@ Avoid high-pile or plush rugs in a coastal bedroom — they read as too soft and
 
 ## 6. Layer Your Lighting for a Coastal Mood
 
-![Rattan pendant light above a coastal bed with warm lamp light on matching bedside tables](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80)
+![Rattan pendant light above a coastal bed with warm lamp light on matching bedside tables](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
 Harsh overhead lighting is the fastest way to undermine an otherwise well-styled coastal bedroom. The room should feel like dusk at the beach — warm, layered, and never glaring. The fix is straightforward: add bedside table lamps with warm-toned globes (2700K) and consider replacing or covering your existing ceiling fitting.
 
@@ -134,7 +134,7 @@ If you're renting, Command strips rated to the artwork weight are bond-safe on m
 
 ## 8. Use Indoor Plants Strategically
 
-![White ceramic plant pot with a trailing pothos beside a rattan bedside table in a coastal bedroom](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80)
+![White ceramic plant pot with a trailing pothos beside a rattan bedside table in a coastal bedroom](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
 Plants are non-negotiable in a genuinely good coastal bedroom. They add the organic, living quality that no printed cushion or synthetic texture can replicate. The key is restraint — one or two well-placed plants beat a crowded windowsill every time.
 
