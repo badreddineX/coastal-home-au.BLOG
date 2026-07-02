@@ -2,8 +2,8 @@
 title: "Outdoor Lounge Ideas Australia: 10 Alfresco Tips"
 description: "10 outdoor lounge ideas for Australian homes — furniture, shade, rugs, cushions, lighting & layout tips. Real AUD prices from Temple & Webster, Bunnings & Adairs."
 image: "/images/unsplash-1600585154084-4e5fe7c39198.jpg"
-datePublished: "2026-06-28"
-dateModified: "2026-06-28"
+datePublished: "2026-02-04"
+dateModified: "2026-02-04"
 author: "Badreddine Br"
 tags: ["outdoor lounge ideas australia", "alfresco sitting area", "outdoor lounge furniture", "backyard lounge australia"]
 featured: false

@@ -2,8 +2,8 @@
 title: "12 Indoor Plants for an Australian Coastal Home"
 description: "The best indoor plants for Australian coastal homes — humidity-tolerant, light-adapted, and genuinely beautiful. Prices from Australian nurseries included."
 image: "/images/unsplash-1463936575829-25148e1db1b8.jpg"
-datePublished: "2026-06-26"
-dateModified: "2026-06-26"
+datePublished: "2026-04-25"
+dateModified: "2026-04-25"
 author: "Badreddine Br"
 tags: ["indoor plants coastal home australia", "indoor plants australia", "coastal home plants", "australian indoor plants"]
 featured: false

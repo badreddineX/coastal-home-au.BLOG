@@ -36,7 +36,7 @@ The kitchen is the hardest room to style on a budget because so much of its char
 
 ---
 
-## 1. Get the Cabinet Colour Right First
+## Get the Cabinet Colour Right First
 
 Cabinet colour is the decision that underpins every other choice in a coastal kitchen. The right colour makes the room feel larger, lighter, and more cohesive. The wrong colour fights every accessory and textile you add.
 
@@ -52,7 +52,7 @@ For a more contemporary twist, soft sage green on the lower cabinets with white 
 
 ---
 
-## 2. Swap the Cabinet Hardware — the Easiest Win
+## Swap the Cabinet Hardware — the Easiest Win
 
 ![White coastal kitchen with brushed nickel handles, subway tile splashback, and rattan pendant lights](/images/unsplash-1556909114-f6e7ad7d3136.jpg)
 
@@ -66,7 +66,7 @@ Count your existing handles before ordering. Buy five or ten per cent more than 
 
 ---
 
-## 3. Choose a Coastal Splashback
+## Choose a Coastal Splashback
 
 The splashback is the only true architectural feature most standard Australian kitchens have, and it's the most visually significant surface change you can make short of replacing the cabinets. A coastal kitchen splashback works in two directions: classic and textural (subway tile, zellige) or clean and contemporary (large-format stone-look or glass in a soft tone).
 
@@ -80,7 +80,7 @@ If you're renting, peel-and-stick subway tile panels are available at Bunnings a
 
 ---
 
-## 4. Add Open Shelving for Coastal Display
+## Add Open Shelving for Coastal Display
 
 ![Open white timber shelving in a coastal kitchen displaying linen, ceramics, and a small potted plant](/images/unsplash-1556909172-54557c7e4fb7.jpg)
 
@@ -96,7 +96,7 @@ If you're renting, floating shelves require wall anchors and leave holes when re
 
 ---
 
-## 5. Light the Kitchen With Rattan Pendant Lights
+## Light the Kitchen With Rattan Pendant Lights
 
 Lighting transforms the personality of a kitchen more than any other single accessory, and in a coastal kitchen, rattan or woven pendant lights above the island or dining table are the most on-theme choice available.
 
@@ -108,7 +108,7 @@ The standard kitchen island pendant position is 70-85cm from the benchtop to the
 
 ---
 
-## 6. Use a Coastal Colour Palette for Walls and Textiles
+## Use a Coastal Colour Palette for Walls and Textiles
 
 The kitchen wall colour sets the background against which everything else reads. A coastal kitchen wall works best in soft white, warm white, or a very light sandy neutral — anything that bounces light and creates the sense of an airy, open space.
 
@@ -120,7 +120,7 @@ For a kitchen where painting the walls is possible, Dulux Natural White or Dulux
 
 ---
 
-## 7. Add a Coastal Kitchen Rug
+## Add a Coastal Kitchen Rug
 
 ![Natural jute kitchen rug in front of a white coastal kitchen with timber floorboards](/images/unsplash-1556909172-54557c7e4fb7.jpg)
 
@@ -134,7 +134,7 @@ Size: the kitchen rug should be long enough to stand on comfortably at the sink 
 
 ---
 
-## 8. Style the Bench and Countertop Deliberately
+## Style the Bench and Countertop Deliberately
 
 The kitchen bench is the most-photographed and most-visited surface in the house, and in a coastal kitchen it should be styled like a deliberate display — not a catch-all for mail, keys, and charging cables.
 
@@ -146,7 +146,7 @@ Clear everything off the bench first. Then add back only what you use daily plus
 
 ---
 
-## 9. Bring In Coastal Accessories and Artwork
+## Bring In Coastal Accessories and Artwork
 
 A kitchen with no artwork or decorative objects on the walls reads as unfinished, regardless of how good the cabinets and splashback are. A coastal kitchen wall works best with one or two framed prints — botanical, oceanic, or typographic — in natural timber or white frames above the dining area or on a clear kitchen wall.
 
@@ -158,7 +158,7 @@ The alternative to framed prints is a single statement item: a large woven baske
 
 ---
 
-## 10. Add Indoor Plants to Soften the Hard Surfaces
+## Add Indoor Plants to Soften the Hard Surfaces
 
 Plants in a kitchen perform double duty: they add the living, organic quality that no manufactured material can replicate, and several common kitchen herbs are genuinely functional. A potted basil plant, a small rosemary bush, or a trailing pothos on an upper shelf all read as coastal without looking decorative for its own sake.
 

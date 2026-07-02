@@ -3,7 +3,7 @@ title: "Hamptons Outdoor Living: The Perfect Alfresco"
 description: "Bring the Hamptons outdoor living aesthetic to Australia with white timber, navy accents, and coastal textures. Built for alfresco living with real AUD prices."
 image: "/images/unsplash-1600585154084-4e5fe7c39198.jpg"
 datePublished: "2026-03-05"
-dateModified: "2026-06-01"
+dateModified: "2026-06-10"
 author: "Badreddine Br"
 tags: ["hamptons outdoor", "alfresco hamptons", "outdoor living australia", "hamptons style"]
 category: "Hamptons Style"

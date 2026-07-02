@@ -2,8 +2,8 @@
 title: "Australian Coastal Colour Palette: 9 Combinations"
 description: "9 Australian coastal colour palettes that work every time — Dulux and Taubmans paint names, codes, and room-by-room application tips. Real examples included."
 image: "/images/unsplash-1600210492486-724fe5c67fb0.jpg"
-datePublished: "2026-06-23"
-dateModified: "2026-06-23"
+datePublished: "2026-02-26"
+dateModified: "2026-02-26"
 author: "Badreddine Br"
 tags: ["australian coastal colour palette", "coastal paint colours australia", "beach house colours", "dulux coastal colours"]
 featured: false
