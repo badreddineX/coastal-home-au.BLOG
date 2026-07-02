@@ -147,6 +147,4 @@ For a permanent solution, a licensed electrician can wire outdoor power points a
 - [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
 - [Pergola Outdoor Entertaining Ideas Australia](/blog/01-pergola-entertaining-ideas-australia)
 - [Outdoor Entertaining Area Ideas Australia](/blog/15-outdoor-entertaining-area-ideas-australia)
-- [S](/blog/m)
-- [s](/blog/m)
 

@@ -143,6 +143,4 @@ The most identifiably Hamptons outdoor detail: a pair of standard box-leaf or ba
 - [Hamptons Style Living Room Ideas for Australian Homes](/blog/16-hamptons-style-living-room-ideas-australia)
 - [Coastal Living Room Ideas for Australian Homes](/blog/08-coastal-living-room-ideas-australia)
 - [Coastal Home Decor: The Complete Australian Guide](/blog/06-coastal-home-decor-australia)
-- [H](/blog/a)
-- [h](/blog/a)
 
