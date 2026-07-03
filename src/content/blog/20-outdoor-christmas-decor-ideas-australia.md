@@ -2,8 +2,8 @@
 title: "Outdoor Christmas Decor Australia: 12 Styling Ideas"
 description: "Style your outdoor space for Christmas in Australia — decor ideas, product picks, colour schemes, and lighting. Real AUD prices from Australian retailers."
 image: "/images/unsplash-1512389142860-9c449e58a543.jpg"
-datePublished: "2026-06-05"
-dateModified: "2026-06-05"
+datePublished: "2025-12-02"
+dateModified: "2025-12-02"
 author: "Badreddine Br"
 tags: ["outdoor christmas decor ideas australia", "outdoor christmas decor australia", "australian outdoor christmas", "christmas outdoor decorating australia", "alfresco christmas decor"]
 category: "Outdoor Entertaining"

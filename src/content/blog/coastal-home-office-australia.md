@@ -56,7 +56,7 @@ Natural light placement is the most overlooked decision in home office setup, an
 
 ## What Desk Works for a Coastal Aesthetic?
 
-The coastal home office desk hits three criteria: light in colour, clean in line, and honest in material. Coastal style favours white-painted timber, natural oak, or linen-textured laminate over dark brown veneer or glass. According to Temple & Webster's 2024 trend report, Hamptons and coastal home office furniture increased by 34% in search volume across Australian buyers ([Temple & Webster](https://www.templeandwebster.com.au/), 2024).
+The coastal home office desk hits three criteria: light in colour, clean in line, and honest in material. Coastal style favours white-painted timber, natural oak, or linen-textured laminate over dark brown veneer or glass. According to Temple & Webster's 2024 trend report, Hamptons and coastal home office furniture increased by 34% in search volume across Australian buyers (Temple & Webster, 2024).
 
 **Budget: IKEA Australia.** The LINNMON tabletop in white ($69–$109) paired with ALEX drawer units ($169 each) gives you a generous L-shape or single-run desk with built-in storage for $249–$399. Add IKEA's LAGKAPTEN top in white-stained oak finish ($109) for a warmer coastal result. Available nationally through IKEA Australia.
 
@@ -86,7 +86,7 @@ Avoid the all-black mesh chairs from generic office suppliers. They work well er
 
 ## What's the Right Coastal Colour Palette?
 
-The coastal home office palette centres on white, with sand, linen, and ocean-blue as supporting tones — and one accent colour only. A 2023 Dulux Australia colour trends report identified 'coastal calm' as the dominant emerging palette in Australian home offices, characterised by whites, warm neutrals, and blue-green accents ([Dulux Australia](https://www.dulux.com.au/), 2023).
+The coastal home office palette centres on white, with sand, linen, and ocean-blue as supporting tones — and one accent colour only. A 2023 Dulux Australia colour trends report identified 'coastal calm' as the dominant emerging palette in Australian home offices, characterised by whites, warm neutrals, and blue-green accents (Dulux Australia, 2023).
 
 **Specific Dulux Australia references:**
 
@@ -103,7 +103,7 @@ Keep the desk surface white or light timber. Keep the floor covering (if rugged)
 
 ## How Do You Treat the Walls Without a Renovation?
 
-The wall behind your desk is the backdrop of every video call, every coastal photograph you take for the study. It deserves attention. A 2022 Zoom survey found that 67% of meeting participants form an impression of the remote worker's professionalism based on their background ([Zoom](https://zoom.us/), 2022). A well-treated wall does double duty: it looks good in person and on-screen.
+The wall behind your desk is the backdrop of every video call, every coastal photograph you take for the study. It deserves attention. A 2022 Zoom survey found that 67% of meeting participants form an impression of the remote worker's professionalism based on their background (Zoom, 2022). A well-treated wall does double duty: it looks good in person and on-screen.
 
 **Three approaches that work in rental and owned homes:**
 
@@ -117,7 +117,7 @@ The wall behind your desk is the backdrop of every video call, every coastal pho
 
 ## Lighting: Why the North-Facing Rule Matters in Australia
 
-Lighting in an Australian home office is a north-vs-south problem before it's a product problem. Australian homes built to capture northern sunlight give home offices the best natural base — supplemented, not replaced, by artificial light. According to Beacon Lighting's 2024 residential lighting guide, task lighting intensity for desk work should sit between 300–500 lux for comfortable reading and screen work ([Beacon Lighting](https://www.beaconlighting.com.au/), 2024).
+Lighting in an Australian home office is a north-vs-south problem before it's a product problem. Australian homes built to capture northern sunlight give home offices the best natural base — supplemented, not replaced, by artificial light. According to Beacon Lighting's 2024 residential lighting guide, task lighting intensity for desk work should sit between 300–500 lux for comfortable reading and screen work (Beacon Lighting, 2024).
 
 **Natural light first.** A north-facing window in an Australian home delivers soft, consistent indirect light for most of the working day. A sheer linen curtain (Adairs or IKEA) diffuses harsh morning light without blocking it entirely.
 
