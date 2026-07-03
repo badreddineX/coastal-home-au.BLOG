@@ -217,7 +217,7 @@ Australian outdoor entertaining is one of the genuine pleasures of living here �
 - **Adairs** — cushions, throws, and outdoor textiles
 - **Bunnings** — shade sails, misting systems, and BBQ essentials
 - **Kmart Australia** — budget-friendly styling pieces that genuinely work
-- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium outdoor furniture for a long-term investment
+- **Outdoor Elegance** — premium outdoor furniture for a long-term investment
 
 ---
 

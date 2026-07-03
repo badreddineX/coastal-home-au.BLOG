@@ -228,7 +228,7 @@ The outdoor lounge zone is the Australian home at its most relaxed and most genu
 ## Where to Shop for Outdoor Lounge Furniture in Australia
 
 - **Temple & Webster** — widest range of outdoor lounge settings in Australia, excellent quality-to-price ratio
-- **[Outdoor Elegance](https://www.outdoorelegance.com.au/)** — premium teak and aluminium outdoor furniture, investment-grade quality
+- **Outdoor Elegance** — premium teak and aluminium outdoor furniture, investment-grade quality
 - **Bunnings** — shade sails, budget outdoor lounge sets, and misting systems
 - **Adairs** — outdoor cushions, throws, and coastal accessories
 - **Kmart Australia** — budget outdoor chairs, ceramic stools, and lanterns that genuinely work
