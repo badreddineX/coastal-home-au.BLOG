@@ -1,7 +1,7 @@
 ---
 title: "Rattan and Linen Coastal Styling Australia: How to Mix Them"
 description: "How to style rattan and linen together in an Australian coastal home — room compositions, ratios, colour pairings, and the layering order that works every time."
-image: "/images/unsplash-1555041469-a586c61ea9bc.jpg"
+image: "/images/unsplash-1505691938895-1758d7feb511.jpg"
 datePublished: "2026-05-10"
 dateModified: "2026-05-10"
 author: "Badreddine Br"
