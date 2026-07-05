@@ -1,7 +1,7 @@
 ---
 title: "Backyard Entertaining Zones Australia: 14 Layout Tips"
 description: "How to zone your Australian backyard for entertaining — from shade structures to bar areas, seating zones, and lighting. Real AUD costs for every element included."
-image: "/images/unsplash-1530062845289-9109b2c9c868.jpg"
+image: "/images/unsplash-1600566753376-12c8ab7fb75b.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-05-22"
 author: "Badreddine Br"
