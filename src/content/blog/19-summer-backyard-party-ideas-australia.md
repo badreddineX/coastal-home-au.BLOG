@@ -1,7 +1,7 @@
 ---
 title: "Summer Backyard Party Australia: 13 Setup and Styling Tips"
 description: "How to set up and style a summer backyard party in Australia — layout, shade, food stations, drinks, lighting, and decor. Real AUD costs and specific product picks."
-image: "/images/unsplash-1600585154340-be6161a56a0c.jpg"
+image: "/images/unsplash-1600596542815-ffad4c1539a9.jpg"
 datePublished: "2025-12-10"
 dateModified: "2025-12-10"
 author: "Badreddine Br"

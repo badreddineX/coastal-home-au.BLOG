@@ -1,7 +1,7 @@
 ---
 title: "Boho Coastal Home Decor Australia: 12 Styling Tips"
 description: "Boho coastal has the most personality of any coastal style. Here's how to do it right in an Australian home — specific styling ideas and real AUD prices."
-image: "/images/unsplash-1560185007-c5ca9d2c014d.jpg"
+image: "/images/unsplash-1618220179428-22790b461013.jpg"
 datePublished: "2026-06-16"
 dateModified: "2026-06-16"
 author: "Badreddine Br"
