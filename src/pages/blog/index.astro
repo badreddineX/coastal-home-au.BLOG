@@ -81,11 +81,13 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
           </div>
 
           <!-- Category filters -->
-          <div class="cat-filters" role="group" aria-label="Filter by category">
-            <button class="cat-filter active" data-cat="all">All</button>
-            {categories.map(cat => (
-              <button class="cat-filter" data-cat={cat}>{cat}</button>
-            ))}
+          <div class="cat-filters-clip">
+            <div class="cat-filters" role="group" aria-label="Filter by category">
+              <button class="cat-filter active" data-cat="all">All</button>
+              {categories.map(cat => (
+                <button class="cat-filter" data-cat={cat}>{cat}</button>
+              ))}
+            </div>
           </div>
 
         </div>
@@ -326,13 +328,17 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
 /* Category filter pills */
 
+.cat-filters-clip {
+  overflow: hidden;
+}
 .cat-filters {
   display: flex;
   gap: 8px;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  padding-bottom: 2px;
+  padding-bottom: 20px;
+  margin-bottom: -20px;
 }
 .cat-filters::-webkit-scrollbar { display: none; }
 .cat-filter {
