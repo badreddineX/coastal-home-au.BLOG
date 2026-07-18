@@ -52,13 +52,15 @@
 /* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 [hidden] { display: none !important; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
   font-family: var(--font-body);
   font-size: 16px;
   line-height: 1.75;
   color: var(--color-text);
   background: var(--color-bg);
+  overflow-x: hidden;
+  max-width: 100%;
 }
 @media (min-width: 768px) {
   body { font-size: 17px; }
