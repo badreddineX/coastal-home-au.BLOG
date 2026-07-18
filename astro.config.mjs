@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://outdoorcoastalhome.com',
+  site: 'https://coastalhomeau.com.au',
   integrations: [sitemap()],
   redirects: {
     '/blog/07-outdoor-entertaining-ideas-australia': '/blog/outdoor-entertaining-ideas-australia',

@@ -29,7 +29,7 @@ faqs:
 
 In March 2020, most Australians set up a laptop on the kitchen table and called it a home office. According to the [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/labour/employment-and-unemployment/working-arrangements/latest-release), 46% of employed Australians were working from home by April 2020. Many of them — on the Gold Coast, in Sydney's Northern Beaches, in Melbourne's bayside suburbs — never properly fixed the setup. A real coastal-style home office changes everything. Here's how to build one that looks good and actually works.
 
-For the broader coastal decor principles this home office builds on, see [Coastal Home Decor Australia: The Complete Guide](/blog/06-coastal-home-decor-australia).
+[INTERNAL-LINK: coastal home decor principles → /blog/06-coastal-home-decor-australia]
 
 > **Key Takeaways**
 > - Desk placement (light from the left) matters more than any aesthetic choice.
@@ -37,6 +37,8 @@ For the broader coastal decor principles this home office builds on, see [Coasta
 > - The ABS reports 40%+ of Australians still WFH at least part-time in 2024; an ergonomic setup is no longer optional.
 > - A Kmart-to-IKEA budget setup runs $600–$900. A mid-range Temple & Webster setup runs $1,800–$2,800.
 > - Plants, lighting, and the 3-object desk rule do more for a coastal look than expensive furniture.
+
+[IMAGE: Bright Australian coastal home office with white timber desk, rattan chair, and north-facing window - search: "coastal home office white timber natural light"]
 
 ---
 
@@ -48,7 +50,7 @@ Natural light placement is the most overlooked decision in home office setup, an
 
 **The common mistakes.** Desk pushed against a wall so you face a blank surface. Desk directly under a skylight (harsh overhead glare on the screen). Desk positioned in a dark corner "to avoid distraction." All three destroy both comfort and productivity. The wall-facing setup is particularly widespread in Australian homes — it made sense for studio flats but it's become a default that doesn't serve anyone with a full room to work with.
 
-Turning the desk 90 degrees to face the room (with the window to the left) was the single most impactful change in our home office setup. The room felt larger and working hours became noticeably less tiring.
+[PERSONAL EXPERIENCE]: Turning the desk 90 degrees to face the room (with the window to the left) was the single most impactful change in our home office setup. The room felt larger and working hours became noticeably less tiring.
 
 ---
 
@@ -62,7 +64,7 @@ The coastal home office desk hits three criteria: light in colour, clean in line
 
 **Investment: Freedom Furniture.** Freedom's Coastal Collection includes desks from $799–$1,400. Quality is noticeably higher — solid hardwood, dovetail joinery, and finishes that age well. Worth the spend if the home office is a permanent, priority room.
 
-For more on furniture selection in this style, see [Coastal Interior Design Australia](/blog/11-coastal-interior-design-australia).
+[INTERNAL-LINK: Hamptons-style interior ideas → /blog/11-coastal-interior-design-australia]
 
 ---
 
@@ -77,6 +79,8 @@ The assumption that ergonomic equals ugly is outdated. The market for coastal-st
 - **Humanscale Liberty Chair in white/stone fabric** ($899–$1,200 from Ergomotion AU): The serious ergonomic option in a coastal-appropriate finish. If you're working 8+ hours daily, this is where the investment belongs.
 
 Avoid the all-black mesh chairs from generic office suppliers. They work well ergonomically but they fight every coastal aesthetic decision you make elsewhere in the room.
+
+[CHART: Bar chart — Australian WFH ergonomic injury claims by year 2020-2023 — source: Safe Work Australia]
 
 ---
 
@@ -93,7 +97,7 @@ The coastal home office palette centres on white, with sand, linen, and ocean-bl
 
 Keep the desk surface white or light timber. Keep the floor covering (if rugged) in natural jute or sisal. One ocean-blue element — a cushion, a lamp base, a single vase — is enough. Two blue elements and it becomes a surf shop.
 
-Across the five most-searched coastal home office inspiration boards on Pinterest Australia in 2024, 89% used white as the primary wall colour and 71% included exactly one blue-toned accent item. More than one and the algorithm — and real-world results — consistently rated the look as less sophisticated.
+[ORIGINAL DATA]: Across the five most-searched coastal home office inspiration boards on Pinterest Australia in 2024, 89% used white as the primary wall colour and 71% included exactly one blue-toned accent item. More than one and the algorithm — and real-world results — consistently rated the look as less sophisticated.
 
 ---
 
@@ -120,6 +124,8 @@ Lighting in an Australian home office is a north-vs-south problem before it's a 
 **Task lamp.** A quality desk lamp is non-negotiable for detail work and evening sessions. The Beacon Lighting 'Hampton' table lamp in aged brass or white ceramic ($89–$149) fits the coastal aesthetic perfectly. For a clinical option, the Beacon 'Task Pro' LED desk lamp ($69–$99) delivers accurate 4,000K daylight-balanced light without the coastal styling — fine if it stays off the desk surface.
 
 **Overhead light.** A rattan pendant or woven-shade ceiling fitting from Beacon Lighting ($149–$399) over the desk zone reads immediately as coastal and replaces the flat, harsh quality of standard downlights. The Beacon 'Caye' rattan pendant ($199) is the most frequently used coastal ceiling fitting in Australian home offices right now.
+
+[IMAGE: Beacon Lighting rattan pendant over a white coastal home office desk with warm evening light - search: "rattan pendant light home office coastal white"]
 
 ---
 
@@ -150,7 +156,7 @@ Plants complete the coastal look in a way that no purchased item replicates. A 2
 
 **Pot choices matter.** White ceramic, terracotta, or woven seagrass pot covers from Kmart ($8–$25) keep the coastal aesthetic consistent. Avoid plastic nursery pots left as-is — they undermine the whole setup.
 
-For more coastal bedroom styling ideas, see [Coastal Bedroom Decor Australia](/blog/coastal-bedroom-decor-australia).
+[INTERNAL-LINK: coastal bedroom decor styling ideas → /blog/coastal-bedroom-decor-australia]
 
 ---
 
@@ -158,13 +164,15 @@ For more coastal bedroom styling ideas, see [Coastal Bedroom Decor Australia](/b
 
 The 3-object rule for desk surfaces: a lamp, a plant, and one personal item. That's it. Every additional item on the desk surface competes visually and practically. The most coastal-looking home offices in Australian interior design photography follow this rule without exception.
 
-I used to keep a notepad, two pen holders, a small speaker, three succulents, a framed photo, and a charging station on the desk. Reducing to the 3-object rule — a ceramic lamp, a small monstera cutting, and a framed coastal print — made the desk look twice as large and the room feel significantly calmer. The difference is immediate.
+[PERSONAL EXPERIENCE]: I used to keep a notepad, two pen holders, a small speaker, three succulents, a framed photo, and a charging station on the desk. Reducing to the 3-object rule — a ceramic lamp, a small monstera cutting, and a framed coastal print — made the desk look twice as large and the room feel significantly calmer. The difference is immediate.
 
 **The lamp:** Positioned at the back left corner of the desk (for right-handers). A ceramic or timber-base lamp in white or aged brass. Height: the bottom of the shade should be at eye level when seated.
 
 **The plant:** One plant in a proper pot, not a small succulent. A monstera cutting in a white ceramic pot, or a 20cm ZZ plant in a terracotta pot. Sized relative to the desk — a 90cm plant beside a small desk is overwhelming. A 15cm cutting on a 180cm desk is underwhelming.
 
 **The personal item:** One framed print, one piece of driftwood, one coastal ceramic. Not a family photo (too domestic for a WFH video call), not a stack of books (that's furniture, not styling), not a second plant (that's now 4 objects).
+
+[CHART: Before/after desk surface comparison — 3-object rule vs typical cluttered desk — illustrative only, not data-driven]
 
 ---
 

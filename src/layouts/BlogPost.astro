@@ -23,16 +23,13 @@ const {
   dateModified,
   author = 'Badreddine Br',
 } = Astro.props;
-
-const suffix = ' | Outdoor & Coastal Home Decor';
-const pageTitle = (title.length + suffix.length) <= 60 ? `${title}${suffix}` : title;
 ---
 
 <!doctype html>
 <html lang="en-AU">
   <head>
     <SEO
-      title={pageTitle}
+      title={`${title} | Outdoor & Coastal Home Decor`}
       description={description}
       slug={slug}
       image={image}
