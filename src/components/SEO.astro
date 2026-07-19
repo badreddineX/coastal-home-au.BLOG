@@ -23,7 +23,7 @@ const {
   type = 'website',
 } = Astro.props;
 
-const siteUrl = 'https://coastalhomeau.com.au';
+const siteUrl = 'https://outdoorcoastalhome.com';
 const fullUrl  = slug ? `${siteUrl}/blog/${slug}` : path ? `${siteUrl}${path}` : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const siteName = 'Outdoor & Coastal Home Decor';
@@ -66,7 +66,7 @@ const articleSchema = {
 <meta name="robots" content="index, follow" />
 <meta name="author" content={authorName} />
 <link rel="canonical" href={fullUrl} />
-<link rel="alternate" type="application/rss+xml" title="Coastal Home AU" href="/rss.xml" />
+<link rel="alternate" type="application/rss+xml" title="Outdoor & Coastal Home Decor" href="/rss.xml" />
 
 <!-- Open Graph -->
 <meta property="og:type"        content={type} />

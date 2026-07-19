@@ -49,7 +49,7 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 
-const siteUrl = 'https://coastalhomeau.com.au';
+const siteUrl = 'https://outdoorcoastalhome.com';
 
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
@@ -209,7 +209,7 @@ const breadcrumbSchema = {
           <p class="share-label">Share This Article</p>
           <div class="share-btns">
             <a
-              href={`https://pinterest.com/pin/create/button/?url=https://coastalhomeau.com.au/blog/${post.id}&media=${encodeURIComponent(image)}&description=${encodeURIComponent(title)}`}
+              href={`https://pinterest.com/pin/create/button/?url=https://outdoorcoastalhome.com/blog/${post.id}&media=${encodeURIComponent(image)}&description=${encodeURIComponent(title)}`}
               target="_blank" rel="noopener noreferrer"
               class="share-btn share-btn--pinterest"
               aria-label="Save to Pinterest"
@@ -218,7 +218,7 @@ const breadcrumbSchema = {
               <span>Pinterest</span>
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=https://coastalhomeau.com.au/blog/${post.id}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=https://outdoorcoastalhome.com/blog/${post.id}`}
               target="_blank" rel="noopener noreferrer"
               class="share-btn share-btn--facebook"
               aria-label="Share on Facebook"

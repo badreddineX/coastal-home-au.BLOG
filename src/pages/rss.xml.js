@@ -8,7 +8,7 @@ export async function GET(context) {
   );
 
   return rss({
-    title: 'Coastal Home AU',
+    title: 'Outdoor & Coastal Home Decor',
     description: 'Coastal living and outdoor entertaining ideas for Australian homes.',
     site: context.site,
     items: sorted.map((post) => ({
