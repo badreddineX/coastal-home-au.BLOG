@@ -20,6 +20,15 @@ const categories = [
   </div>
 </div>
 
+<script is:inline>
+(function () {
+  if (localStorage.getItem('cookie-consent')) {
+    var b = document.getElementById('cookie-banner');
+    if (b) { b.classList.add('is-hidden', 'no-anim'); }
+  }
+})();
+</script>
+
 <footer class="site-footer">
   <div class="footer-main">
     <div class="container footer-inner">
@@ -221,6 +230,9 @@ const categories = [
   transform: translateY(110%);
   pointer-events: none;
 }
+.cookie-banner.no-anim {
+  transition: none;
+}
 .cookie-text {
   font-size: 0.82rem;
   color: rgba(255,255,255,0.7);
@@ -263,11 +275,7 @@ const categories = [
 <script>
 (function () {
   const banner = document.getElementById('cookie-banner');
-  if (!banner) return;
-  if (localStorage.getItem('cookie-consent')) {
-    banner.classList.add('is-hidden');
-    return;
-  }
+  if (!banner || localStorage.getItem('cookie-consent')) return;
   document.getElementById('cookie-accept')?.addEventListener('click', () => {
     localStorage.setItem('cookie-consent', 'accepted');
     banner.classList.add('is-hidden');
