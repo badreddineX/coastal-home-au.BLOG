@@ -6,7 +6,7 @@ datePublished: "2026-08-07"
 dateModified: "2026-08-07"
 author: "Badreddine Br"
 tags: ["outdoor kitchen ideas australia", "alfresco kitchen", "outdoor entertaining", "outdoor kitchen design"]
-category: "Outdoor & Entertaining"
+category: "Outdoor Entertaining"
 featured: false
 readTime: "9 min read"
 tldr:

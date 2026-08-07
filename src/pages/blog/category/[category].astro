@@ -1,0 +1,158 @@
+---
+import { getCollection } from 'astro:content';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import PostCard from '../../../components/PostCard.astro';
+import SEO from '../../../components/SEO.astro';
+import '../../../styles/global.css';
+
+const CATEGORY_SLUGS: Record<string, string> = {
+  'coastal-decor':        'Coastal Decor',
+  'outdoor-entertaining':  'Outdoor Entertaining',
+  'hamptons-style':        'Hamptons Style',
+  'backyard-ideas':        'Backyard Ideas',
+  'home-office':           'Home Office',
+};
+
+const CATEGORY_TITLES: Record<string, string> = {
+  'Coastal Decor':        'Coastal Decor Ideas for Australian Homes',
+  'Outdoor Entertaining':  'Outdoor Entertaining Ideas for Australian Homes',
+  'Hamptons Style':        'Hamptons Style Ideas for Australian Homes',
+  'Backyard Ideas':        'Backyard Ideas for Australian Homes',
+  'Home Office':           'Coastal Home Office Ideas for Australian Homes',
+};
+
+const CATEGORY_DESCRIPTIONS: Record<string, string> = {
+  'Coastal Decor':        'Coastal styling ideas for Australian homes — colour palettes, materials, and layouts that hold up in real coastal conditions.',
+  'Outdoor Entertaining':  'Outdoor entertaining ideas for Australian backyards — layouts, zones, and setups built for how Australians actually live outdoors.',
+  'Hamptons Style':        'Hamptons-inspired decor for Australian homes, adapted for local light, materials, and climate rather than a Connecticut original.',
+  'Backyard Ideas':        'Backyard ideas for Australian homes — from fire pits to landscaping, built around real AUD budgets and council rules.',
+  'Home Office':           'Coastal-styled home office ideas for Australians working from home.',
+};
+
+export async function getStaticPaths() {
+  const slugs = ['coastal-decor', 'outdoor-entertaining', 'hamptons-style', 'backyard-ideas', 'home-office'];
+  return slugs.map(category => ({ params: { category } }));
+}
+
+const { category: categorySlug } = Astro.params;
+const categoryName = CATEGORY_SLUGS[categorySlug as string];
+
+const allPosts = await getCollection('blog');
+const posts = allPosts
+  .filter(p => p.data.category === categoryName)
+  .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title={CATEGORY_TITLES[categoryName]}
+      description={CATEGORY_DESCRIPTIONS[categoryName]}
+      path={`/blog/category/${categorySlug}`}
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <Header />
+
+    <main id="main-content">
+      <section class="cat-hero">
+        <div class="container">
+          <nav class="breadcrumb" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+            <span aria-hidden="true">&rsaquo;</span>
+            <a href="/blog">Blog</a>
+            <span aria-hidden="true">&rsaquo;</span>
+            <span aria-current="page">{categoryName}</span>
+          </nav>
+          <h1 class="cat-hero-title">{categoryName}</h1>
+          <p class="cat-hero-desc">{CATEGORY_DESCRIPTIONS[categoryName]}</p>
+        </div>
+      </section>
+
+      <section class="cat-posts">
+        <div class="container">
+          <div class="cat-posts-grid">
+            {posts.map(post => (
+              <PostCard
+                title={post.data.title}
+                slug={post.id}
+                description={post.data.description}
+                image={post.data.image}
+                category={post.data.category}
+                datePublished={post.data.datePublished}
+                readTime={post.data.readTime}
+              />
+            ))}
+          </div>
+          <a href="/blog" class="cat-all-link">See all posts &rarr;</a>
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.cat-hero {
+  padding: 56px 24px 40px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface-warm);
+}
+.container { max-width: 1200px; margin: 0 auto; }
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  margin-bottom: 20px;
+}
+.breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+.breadcrumb a:hover { color: var(--color-heading); }
+.cat-hero-title {
+  font-family: var(--font-heading);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 12px;
+}
+.cat-hero-desc {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 620px;
+  line-height: 1.7;
+  margin: 0;
+}
+.cat-posts {
+  padding: 48px 24px 80px;
+}
+.cat-posts-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px 20px;
+}
+.cat-all-link {
+  display: inline-block;
+  margin-top: 40px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-primary);
+  padding-bottom: 2px;
+}
+.cat-all-link:hover { color: var(--color-heading); border-color: var(--color-heading); }
+
+@media (min-width: 560px) {
+  .cat-posts-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 900px) {
+  .cat-posts-grid { grid-template-columns: repeat(3, 1fr); }
+}
+</style>
