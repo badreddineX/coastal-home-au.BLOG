@@ -53,7 +53,13 @@ const articleSchema = {
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet" />
+<!-- Loaded non-render-blocking: a synchronous <link rel="stylesheet"> here was
+     flagged by PageSpeed as costing ~750ms on the critical path for a
+     script/display font that's only used for a handful of italic headings,
+     not body text. media="print" tricks the browser into fetching it without
+     blocking render, then the onload swap applies it once ready. -->
+<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+<noscript><link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet" /></noscript>
 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
