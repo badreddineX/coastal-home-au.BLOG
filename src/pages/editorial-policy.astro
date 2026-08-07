@@ -1,0 +1,173 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Editorial Policy — Outdoor & Coastal Home"
+      description="How Outdoor & Coastal Home researches, writes, and updates content — our sourcing standards, correction policy, and independence from brands."
+      path="/editorial-policy"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+
+      <section class="policy-hero">
+        <div class="policy-hero-inner">
+          <span class="policy-eyebrow">How We Work</span>
+          <h1 class="policy-heading">Editorial Policy</h1>
+          <p class="policy-sub">How we research, write, and correct what we publish.</p>
+        </div>
+      </section>
+
+      <section class="policy-body">
+        <div class="policy-inner">
+
+          <div class="policy-block">
+            <h2>Who writes this</h2>
+            <p>
+              Outdoor &amp; Coastal Home is written and maintained by Badreddine Br, based on the Gold
+              Coast. This isn't a large editorial team — it's one person researching real ideas for
+              Australian coastal and outdoor living, then writing up what actually holds up and what
+              doesn't. See the <a href="/about">About page</a> for the full story.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>How we research and write</h2>
+            <p>
+              Every guide is built around the reality of Australian outdoor living: coastal salt
+              exposure, council fire and building rules, and the fact that our outdoor spaces are used
+              year-round rather than as an occasional-summer afterthought. Prices and retailers are
+              checked against Australian sources — Bunnings, Temple &amp; Webster, Kmart, Adairs, Beacon
+              Lighting, Freedom, IKEA Australia — rather than converted from US or UK content.
+            </p>
+            <p>
+              We use AI-assisted tools to help with research, drafting, and editing efficiency. Every
+              piece of advice, every price, and every product recommendation is reviewed by a human
+              before publishing — nothing goes live unchecked.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Product recommendations</h2>
+            <p>
+              We recommend specific products because they're genuinely useful for Australian coastal and
+              outdoor homes, not because of a paid placement. If a post ever contains a sponsored product
+              or affiliate link, it will be clearly disclosed at the top of that article. As of now, this
+              site does not run affiliate links or sponsored content.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Corrections and updates</h2>
+            <p>
+              Prices, retailer stock, and product availability change. If you spot something outdated or
+              incorrect, <a href="/contact">let us know</a> — we update posts when we confirm an error,
+              and note significant changes in the post's "last updated" date rather than silently editing
+              published claims.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>What we don't do</h2>
+            <ul>
+              <li>We don't publish staged, unrealistic "after" photos we haven't actually recreated in a real Australian home.</li>
+              <li>We don't inflate prices or omit cheaper alternatives to make a paid product look better.</li>
+              <li>We don't accept payment in exchange for a positive review.</li>
+            </ul>
+          </div>
+
+          <div class="policy-block">
+            <p class="policy-contact-line">
+              Questions about how a specific post was researched or written? <a href="/contact">Contact us</a> — we're happy to explain.
+            </p>
+          </div>
+
+        </div>
+      </section>
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+.policy-hero {
+  background: var(--color-heading);
+  padding: 6rem 2rem 4rem;
+}
+.policy-hero-inner { max-width: 780px; margin: 0 auto; }
+.policy-eyebrow {
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  display: block;
+  margin-bottom: 1rem;
+}
+.policy-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 1rem;
+  line-height: 1.1;
+}
+.policy-sub {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.72);
+  margin: 0;
+}
+
+.policy-body { background: var(--color-bg); padding: 4.5rem 2rem 6rem; }
+.policy-inner { max-width: 780px; margin: 0 auto; }
+.policy-block { margin-bottom: 2.75rem; }
+.policy-block:last-child { margin-bottom: 0; }
+.policy-block h2 {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 1rem;
+}
+.policy-block p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.1rem;
+}
+.policy-block p:last-child { margin-bottom: 0; }
+.policy-block a { color: var(--color-primary); }
+.policy-block ul {
+  margin: 0;
+  padding-left: 1.3rem;
+  color: var(--color-text-muted);
+}
+.policy-block ul li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  margin-bottom: 0.5rem;
+}
+.policy-contact-line {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem !important;
+  color: var(--color-primary) !important;
+}
+
+@media (max-width: 640px) {
+  .policy-hero { padding: 4rem 1.25rem 3rem; }
+  .policy-body { padding: 3rem 1.25rem 4rem; }
+}
+</style>

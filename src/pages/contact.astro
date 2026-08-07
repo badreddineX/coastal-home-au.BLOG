@@ -1,0 +1,204 @@
+---
+import SEO    from '../components/SEO.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <SEO
+      title="Contact — Outdoor & Coastal Home"
+      description="Get in touch with Outdoor & Coastal Home — questions, collabs, or just want to say g'day. We read every message and reply within a few days."
+      path="/contact"
+      type="website"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content">
+
+      <section class="contact-section">
+        <div class="contact-left">
+          <span class="contact-eyebrow">Get in Touch</span>
+          <h1 class="contact-heading">Let's Connect</h1>
+          <p class="contact-desc">
+            Have a coastal home question, a product you'd like me to review, feedback on a guide, or
+            just want to say g'day? I read every message and reply within a few days.
+          </p>
+          <ol class="contact-steps">
+            <li><span class="contact-step-num">01</span> Fill in your name and email address</li>
+            <li><span class="contact-step-num">02</span> Tell me what's on your mind — questions, collabs, or just a hello</li>
+            <li><span class="contact-step-num">03</span> I'll get back to you within 2–3 business days</li>
+          </ol>
+          <p class="contact-alt">
+            Prefer email directly? Reach me at <a href="mailto:outdoorcoastalhome@proton.me">outdoorcoastalhome@proton.me</a>
+          </p>
+        </div>
+        <div class="contact-right">
+          <div id="form-success" class="form-success" style="display:none">
+            <p>✓ Message sent! I'll get back to you within 2–3 business days.</p>
+          </div>
+          <form id="contact-form" class="contact-form" action="https://formsubmit.co/outdoorcoastalhome@proton.me" method="POST" aria-label="Contact form">
+            <input type="hidden" name="_next" value="https://outdoorcoastalhome.com/thank-you" />
+            <input type="hidden" name="_subject" value="New message from Outdoor & Coastal Home" />
+            <input type="hidden" name="_captcha" value="false" />
+            <input type="hidden" name="_template" value="table" />
+            <div class="contact-form-row">
+              <div class="contact-field">
+                <label for="c-name">Full Name</label>
+                <input id="c-name" type="text" name="name" placeholder="Your name" required autocomplete="name" />
+              </div>
+              <div class="contact-field">
+                <label for="c-email">Email Address</label>
+                <input id="c-email" type="email" name="email" placeholder="your@email.com" required autocomplete="email" />
+              </div>
+            </div>
+            <div class="contact-field">
+              <label for="c-state">State / Territory <span class="optional">(optional)</span></label>
+              <input id="c-state" type="text" name="state" placeholder="e.g. QLD, NSW, VIC" autocomplete="address-level1" />
+            </div>
+            <div class="contact-field">
+              <label for="c-message">Message</label>
+              <textarea id="c-message" name="message" placeholder="What's on your mind?" rows="5" required></textarea>
+            </div>
+            <button type="submit" class="contact-submit">Send Message</button>
+          </form>
+        </div>
+      </section>
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+.contact-section {
+  max-width: 1200px;
+  margin-inline: auto;
+  padding: 6rem 2rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+}
+@media (min-width: 900px) {
+  .contact-section { grid-template-columns: 1fr 1.2fr; gap: 5rem; align-items: start; }
+}
+.contact-eyebrow {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+.contact-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 1rem;
+  line-height: 1.05;
+}
+.contact-desc {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: var(--color-text-muted);
+  margin: 0 0 2rem;
+}
+.contact-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.contact-steps li {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  font-size: 0.92rem;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+.contact-step-num {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--color-accent);
+  flex-shrink: 0;
+  min-width: 1.5rem;
+}
+.contact-alt { font-size: 0.9rem; color: var(--color-text-muted); }
+.contact-alt a { color: var(--color-primary); }
+
+.contact-right { background: #ffffff; padding: 2.5rem; box-shadow: 0 2px 24px rgba(0,0,0,0.06); border-radius: 4px; }
+.contact-form { display: flex; flex-direction: column; gap: 1.75rem; }
+.contact-form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+@media (max-width: 540px) { .contact-form-row { grid-template-columns: 1fr; } }
+.contact-field { display: flex; flex-direction: column; gap: 0.5rem; }
+.contact-field label {
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-heading);
+}
+.optional { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--color-text-muted); font-size: 0.65rem; }
+.contact-field input,
+.contact-field textarea {
+  border: none;
+  border-bottom: 1px solid #c8c4bf;
+  background: transparent;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--color-text);
+  padding: 0.6rem 0;
+  outline: none;
+  transition: border-color 200ms;
+  resize: none;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .contact-field input, .contact-field textarea { font-size: 16px; }
+}
+.contact-field input::placeholder, .contact-field textarea::placeholder { color: #b0aba5; }
+.contact-field input:focus, .contact-field textarea:focus { border-bottom-color: var(--color-heading); }
+.contact-submit {
+  align-self: flex-start;
+  background: #1a1a1a;
+  color: #ffffff;
+  border: none;
+  padding: 1rem 2.25rem;
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 200ms;
+}
+.contact-submit:hover { background: #333333; }
+.form-success {
+  padding: 24px;
+  margin-bottom: 24px;
+  background: #f0f7f0;
+  border: 1px solid #c3dfc3;
+  border-radius: 4px;
+  color: #2d6a2d;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.form-success p { margin: 0; }
+
+@media (max-width: 640px) {
+  .contact-section { padding: 3rem 1.25rem; }
+  .contact-right { padding: 1.5rem; }
+}
+</style>
