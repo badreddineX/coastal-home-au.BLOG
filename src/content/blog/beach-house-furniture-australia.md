@@ -57,7 +57,7 @@ Linen upholstery breathes in coastal heat, softens beautifully with use, and hol
 
 **Where to buy:** Freedom's linen sofa range ($1,800-$4,500 AUD) is consistently the best quality-to-aesthetic ratio in Australia. Temple & Webster carries a wide range from ~$900-$2,500 AUD. IKEA AU's UPPLAND linen sofa ($799-$999 AUD) is the best budget coastal sofa available — the covers are washable and the aesthetic is genuinely right.
 
-**Key point:** A natural linen sofa from Temple & Webster or Freedom (~$900-$4,500 AUD) is the single furniture piece that most defines the Australian beach house interior — invest in quality here before anywhere else.
+**Price check:** A natural linen sofa from Temple & Webster or Freedom (~$900-$4,500 AUD) is the single furniture piece that most defines the Australian beach house interior — invest in quality here before anywhere else.
 
 ## 2. The Rattan Armchair: Texture, Warmth, and Coastal Identity
 
@@ -77,7 +77,7 @@ Natural rattan is the authentic choice for indoor use — it ages beautifully, d
 
 *If renting, rattan armchairs are light and completely freestanding — the ideal furniture addition that moves with you.*
 
-**Key point:** A rattan armchair from Temple & Webster (~$250-$650 AUD) is the most cost-effective single piece for establishing a coastal aesthetic in an Australian beach house living room.
+**Cost breakdown:** A rattan armchair from Temple & Webster (~$250-$650 AUD) is the most cost-effective single piece for establishing a coastal aesthetic in an Australian beach house living room.
 
 ## 3. The Coastal Dining Table: Pale Timber or Teak for the Win
 
@@ -95,7 +95,7 @@ The wrong material choice here is obvious and expensive. The right choice is alm
 
 **What to avoid:** Dark-stained timber (absorbs light and reads too formal), high-gloss lacquered surfaces (show every watermark), and glass tops (impractical in a beach house with children or frequent guests).
 
-**Key point:** A pale solid-timber or plantation teak dining table from Temple & Webster (~$700-$2,000 AUD) suits Australian coastal dining rooms and handles the humidity and salt air that coastal living involves.
+**Budget note:** A pale solid-timber or plantation teak dining table from Temple & Webster (~$700-$2,000 AUD) suits Australian coastal dining rooms and handles the humidity and salt air that coastal living involves.
 
 ## 4. Dining Chairs: Rattan, Linen, or Both Together
 
@@ -113,7 +113,7 @@ Dining chairs are one of the most satisfying places to introduce rattan into a b
 
 **The linen dining chair alternative:** If rattan isn't right for your table style, a simple linen-upholstered dining chair in white or warm oat achieves a similarly coastal result. Look for removable covers — beach house dining chairs get sandy.
 
-**Key point:** Rattan dining chairs from Temple & Webster or IKEA AU ($69-$350 AUD each) create the definitive coastal Australian dining room combination when paired with a pale timber table.
+**What it costs:** Rattan dining chairs from Temple & Webster or IKEA AU ($69-$350 AUD each) create the definitive coastal Australian dining room combination when paired with a pale timber table.
 
 ## 5. The Outdoor Dining Setting: Teak or Powder-Coated Aluminium Only
 
@@ -131,7 +131,7 @@ The outdoor dining setting is the piece Australian beach house owners under-inve
 
 *If renting with a small balcony, a compact two-seater bistro set in aluminium from Bunnings ($150-$300 AUD) is the practical choice — foldable, lightweight, and leaves with you.*
 
-**Key point:** A powder-coated aluminium six-seater outdoor dining setting from Temple & Webster (~$800-$2,000 AUD) is the best value coastal outdoor dining investment for most Australian beach houses.
+**Real-world price:** A powder-coated aluminium six-seater outdoor dining setting from Temple & Webster (~$800-$2,000 AUD) is the best value coastal outdoor dining investment for most Australian beach houses.
 
 ## 6. The Coastal Bed Frame: Rattan or Cane Bedhead
 
@@ -150,7 +150,7 @@ A rattan or woven cane bedhead in a queen or king size introduces texture, warmt
 - Adairs: seasonal rattan bedheads at mid-range prices, worth checking for sale periods
 - Kmart: entry-level rattan bedheads from ~$149-$249 AUD (good aesthetically, lighter construction)
 
-**Key point:** A natural rattan or cane bedhead from Temple & Webster (~$299-$799 AUD) is the highest-impact single change in an Australian coastal bedroom.
+**Cost guide:** A natural rattan or cane bedhead from Temple & Webster (~$299-$799 AUD) is the highest-impact single change in an Australian coastal bedroom.
 
 ## 7. Bedside Tables: Timber, Rattan, or Ceramic for the Coastal Bedroom
 
@@ -164,7 +164,7 @@ The bedside table is a place where coastal beach house styling often goes wrong 
 
 **What to avoid:** Dark-stained timber, high-gloss lacquer, and mirrored surfaces — all of which work against the warm, natural aesthetic of a coastal bedroom.
 
-**Key point:** A natural timber or rattan bedside table from Temple & Webster or Kmart (~$39-$450 AUD) completes the coastal bedroom furniture arrangement without competing with the bedhead or bedding.
+**Price check:** A natural timber or rattan bedside table from Temple & Webster or Kmart (~$39-$450 AUD) completes the coastal bedroom furniture arrangement without competing with the bedhead or bedding.
 
 ## 8. The Outdoor Lounge Setting: Synthetic Rattan Over Aluminium
 
@@ -189,7 +189,7 @@ The correct material for outdoor lounge furniture in a coastal environment is sy
 - Outdoor Elegance: premium outdoor settings from ~$2,000-$8,000 AUD for investment-quality pieces
 - IKEA AU: the NÄMMARÖ and JUTHOLMEN outdoor ranges offer reasonable quality at $300-$700 AUD for a basic setting
 
-**Key point:** A synthetic rattan outdoor lounge setting over aluminium frames from Temple & Webster (~$800-$2,500 AUD) is the correct coastal outdoor furniture investment for any Australian beach house.
+**Cost breakdown:** A synthetic rattan outdoor lounge setting over aluminium frames from Temple & Webster (~$800-$2,500 AUD) is the correct coastal outdoor furniture investment for any Australian beach house.
 
 ## 9. Storage Furniture: Rattan Baskets and Timber Consoles
 
@@ -205,7 +205,7 @@ Beach houses generate more practical storage challenges than most other homes. S
 
 **Timber hall bench with storage:** An entryway bench with baskets or a storage ottoman below is the practical coastal entry piece. Bunnings and Temple & Webster carry these from ~$150-$500 AUD.
 
-**Key point:** A set of three large rattan baskets from Kmart (~$25-$79 AUD each) solves the beach house storage challenge while adding coastal texture — one of the highest value-to-impact buys in this guide.
+**Budget note:** A set of three large rattan baskets from Kmart (~$25-$79 AUD each) solves the beach house storage challenge while adding coastal texture — one of the highest value-to-impact buys in this guide.
 
 ## 10. Coffee Tables and Side Tables: Low, Light, and Natural
 
@@ -217,7 +217,7 @@ The indoor coffee table in an Australian beach house should feel light, natural,
 - **Two ottomans in place of a table:** A deeply relaxed beach house choice — two large linen or woven ottomans can be used as seating, surface, or footrest depending on the occasion. Freedom and Temple & Webster carry quality options from ~$200-$600 AUD each.
 - **A stack of large-format art books:** Not a table, but a surface. A stack of three or four books topped with a ceramic tray is a genuine design hack for small coastal living rooms.
 
-**Key point:** A pale timber coffee table from Temple & Webster or IKEA AU (~$200-$600 AUD) keeps the coastal living room light and open rather than grounded and heavy.
+**What it costs:** A pale timber coffee table from Temple & Webster or IKEA AU (~$200-$600 AUD) keeps the coastal living room light and open rather than grounded and heavy.
 
 ## 11. Outdoor Sun Loungers: Where the Beach House Fantasy Lives
 
@@ -237,7 +237,7 @@ The outdoor sun lounger is the piece of furniture that transforms a beach house 
 
 *If renting a beach house, a pair of quality sun loungers are freestanding and move with you — one of the best lifestyle investments for a coastal renter.*
 
-**Key point:** A pair of aluminium sun loungers from Temple & Webster (~$250-$700 AUD each) completes the Australian beach house outdoor experience and are the pieces guests always gravitate to first.
+**Real-world price:** A pair of aluminium sun loungers from Temple & Webster (~$250-$700 AUD each) completes the Australian beach house outdoor experience and are the pieces guests always gravitate to first.
 
 ---
 

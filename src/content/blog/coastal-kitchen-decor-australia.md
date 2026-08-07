@@ -44,7 +44,7 @@ White is the most reliable coastal kitchen cabinet colour for Australian homes. 
 
 The two Dulux shades most commonly specified by Australian interior stylists for coastal kitchens are Vivid White (the brightest, best for north-facing rooms with strong natural light) and Natural White (a warmer, slightly creamy tone that suits south-facing or cooler-light rooms). Half-strength versions of both work well if pure white feels too intense.
 
-**Key point:** A full kitchen cabinet repaint in white using Dulux kitchen-grade paint costs ~$150-$350 AUD in materials for a standard kitchen, or ~$800-$2,000 AUD with a professional painter. It's the most cost-effective renovation-grade change available in a kitchen without touching the cabinets themselves.
+**Price check:** A full kitchen cabinet repaint in white using Dulux kitchen-grade paint costs ~$150-$350 AUD in materials for a standard kitchen, or ~$800-$2,000 AUD with a professional painter. It's the most cost-effective renovation-grade change available in a kitchen without touching the cabinets themselves.
 
  The most common coastal kitchen colour mistake in Australian homes is choosing a blue-green or turquoise for the cabinetry. These shades feel exciting in a paint swatch but date quickly and fight against any benchtop that has warm undertones (which most Australian stone and engineered stone benchtops do). White is boring in theory and right in practice.
 
@@ -60,7 +60,7 @@ Cabinet hardware is the cheapest renovation-adjacent change with the most visibl
 
 Brushed nickel is the most versatile coastal kitchen hardware finish. It's warm without being yellow, it pairs with both white and timber elements, and it photographs well. Matte black reads as more contemporary and suits a kitchen with dark benchtops or charcoal grout. Antique brass is the warmest option and suits a more relaxed, organic coastal aesthetic.
 
-**Key point:** Bunnings stocks a solid range of brushed nickel and matte black handles from ~$4-$12 AUD each. A standard kitchen with 20 cabinet doors and drawers can be fully re-hardwared for ~$80-$240 AUD in materials. Temple & Webster carries more design-forward options from ~$8-$25 AUD each.
+**Cost breakdown:** Bunnings stocks a solid range of brushed nickel and matte black handles from ~$4-$12 AUD each. A standard kitchen with 20 cabinet doors and drawers can be fully re-hardwared for ~$80-$240 AUD in materials. Temple & Webster carries more design-forward options from ~$8-$25 AUD each.
 
 Count your existing handles before ordering. Buy five or ten per cent more than you need — drilling positions vary slightly between manufacturers and occasionally a handle doesn't fit without a small adjustment.
 
@@ -72,7 +72,7 @@ The splashback is the only true architectural feature most standard Australian k
 
 Subway tiles in white with a white or light grey grout are the most reliable coastal splashback choice. They read as both classic and fresh, they suit every era of Australian home from a 1970s brick veneer to a 2020s apartment, and they're among the cheapest tiles to purchase and lay. The grout colour makes a significant difference: white grout emphasises the pattern and reads lighter; grey grout subdues the grid and reads more subtle.
 
-**Key point:** Beaumont Tiles stocks subway tiles in white from ~$65-$95 per square metre — accessible pricing for a standard 2-3 square metre splashback area. Zellige tiles in white or natural add handmade textural variation for ~$95-$140 per square metre from the same retailer.
+**Budget note:** Beaumont Tiles stocks subway tiles in white from ~$65-$95 per square metre — accessible pricing for a standard 2-3 square metre splashback area. Zellige tiles in white or natural add handmade textural variation for ~$95-$140 per square metre from the same retailer.
 
  In a review of coastal-styled Australian kitchen projects across three states, zellige splashbacks consistently generated the highest volume of social media engagement and the most first-visit comment from guests — ahead of cabinet colour changes, hardware swaps, and pendant lighting. The handmade texture is the element that photographs most distinctly as non-generic.
 
@@ -88,7 +88,7 @@ Open shelving is the coastal kitchen element that creates the most opportunity f
 
 The coastal shelf edit is specific: white or off-white ceramic pieces, a small potted plant or dried stems, one or two cookbooks stacked spine-out, a linen or ceramic utensil holder, and nothing else. Restraint is the principle. An overcrowded shelf looks as bad as an empty one — aim for about 60-70% occupancy.
 
-**Key point:** White-painted pine floating shelves at IKEA AU run from ~$29-$79 AUD for a standard kitchen length. Light oak or whitewashed timber floating shelves from Temple & Webster run ~$59-$199 AUD. Both options suit a coastal kitchen without looking imported or try-hard.
+**What it costs:** White-painted pine floating shelves at IKEA AU run from ~$29-$79 AUD for a standard kitchen length. Light oak or whitewashed timber floating shelves from Temple & Webster run ~$59-$199 AUD. Both options suit a coastal kitchen without looking imported or try-hard.
 
 The height matters: position open shelving at eye level, roughly 45-50cm above the benchtop surface. Too high and it becomes decorative storage you can't reach. Too low and it interferes with bench use. Get the height right, and it functions as both a practical shelf and a display surface.
 
@@ -102,7 +102,7 @@ Lighting transforms the personality of a kitchen more than any other single acce
 
 A rattan pendant adds material warmth and texture to a room that is usually dominated by hard, reflective surfaces: stone benchtops, tile splashbacks, painted cabinetry. The organic, irregular texture of woven rattan is the visual counterpoint that gives a coastal kitchen its character.
 
-**Key point:** Temple & Webster carries rattan pendant lights from ~$59-$249 AUD. Kmart Australia stocks more affordable rattan-look shades from ~$19-$49 AUD that serve the same visual function at a lower price point. Pair any pendant with a warm white globe (2700K-3000K) — cool white globes kill the coastal warmth immediately.
+**Real-world price:** Temple & Webster carries rattan pendant lights from ~$59-$249 AUD. Kmart Australia stocks more affordable rattan-look shades from ~$19-$49 AUD that serve the same visual function at a lower price point. Pair any pendant with a warm white globe (2700K-3000K) — cool white globes kill the coastal warmth immediately.
 
 The standard kitchen island pendant position is 70-85cm from the benchtop to the bottom of the shade. Two pendants spaced evenly along a standard island look more considered than one large central pendant. If your kitchen has no island, a single rattan pendant over the [coastal dining room](/blog/coastal-dining-room-australia) table adjacent to the kitchen does the same coastal work.
 
@@ -114,7 +114,7 @@ The kitchen wall colour sets the background against which everything else reads.
 
 For a kitchen where painting the walls is possible, Dulux Natural White or Dulux Antique White USA are the two most-used coastal kitchen wall tones by Australian interior stylists. Both are warm enough to avoid feeling clinical but light enough to reflect rather than absorb the natural light.
 
-**Key point:** Textiles do a significant part of the coastal palette work in a kitchen. A set of linen or cotton tea towels in white, sandy beige, or a coastal stripe from Adairs runs ~$19-$49 AUD for a set of two. A linen apron in natural from Adairs or Freedom costs ~$29-$59 AUD. These are small purchases that add texture and colour intentionally.
+**Cost guide:** Textiles do a significant part of the coastal palette work in a kitchen. A set of linen or cotton tea towels in white, sandy beige, or a coastal stripe from Adairs runs ~$19-$49 AUD for a set of two. A linen apron in natural from Adairs or Freedom costs ~$29-$59 AUD. These are small purchases that add texture and colour intentionally.
 
 
 
@@ -128,7 +128,7 @@ A kitchen rug is a low-cost, high-impact coastal accessory that most kitchens do
 
 The practical requirements for a kitchen rug in Australia are specific: it needs to be washable, non-slip on its underside, and resistant to the spills and splashes that are inevitable in daily kitchen use. Flatweave cotton, jute-look synthetic, and washable cotton flatweave are the three most practical coastal rug options for a kitchen environment.
 
-**Key point:** Adairs stocks washable kitchen rugs in coastal-appropriate colours from ~$49-$129 AUD. Kmart Australia has flatweave options from ~$19-$49 AUD. A non-slip underlay mat from Bunnings adds safety and protects the floor beneath — budget ~$15-$25 AUD for one.
+**Price check:** Adairs stocks washable kitchen rugs in coastal-appropriate colours from ~$49-$129 AUD. Kmart Australia has flatweave options from ~$19-$49 AUD. A non-slip underlay mat from Bunnings adds safety and protects the floor beneath — budget ~$15-$25 AUD for one.
 
 Size: the kitchen rug should be long enough to stand on comfortably at the sink or island, ideally 60x90cm minimum. Anything smaller feels like a doormat rather than a kitchen rug.
 
@@ -140,7 +140,7 @@ The kitchen bench is the most-photographed and most-visited surface in the house
 
 The coastal bench edit focuses on three zones: a functional zone (knife block, utensil holder, cutting board), a textural zone (a wooden bowl with seasonal fruit, a ceramic vase with stems), and a living zone (one small potted herb or succulent). Each zone has a clear purpose, and together they read as considered rather than cluttered.
 
-**Key point:** Kmart Australia and Temple & Webster both stock ceramic and timber bench accessories — utensil holders, wooden bowls, and vases — from ~$8-$49 AUD each. A matching set within the same material palette reads more intentional than a collection of mismatched pieces accumulated over time.
+**Cost breakdown:** Kmart Australia and Temple & Webster both stock ceramic and timber bench accessories — utensil holders, wooden bowls, and vases — from ~$8-$49 AUD each. A matching set within the same material palette reads more intentional than a collection of mismatched pieces accumulated over time.
 
 Clear everything off the bench first. Then add back only what you use daily plus two or three decorative objects. The empty space between objects is as important as the objects themselves in a coastal kitchen aesthetic.
 
@@ -152,7 +152,7 @@ A kitchen with no artwork or decorative objects on the walls reads as unfinished
 
 The alternative to framed prints is a single statement item: a large woven basket hung as wall art, a ceramic plate collection, or a single large botanical print. All of these are authentically coastal without feeling like a beach souvenir shop.
 
-**Key point:** Adairs and Temple & Webster both carry coastal-appropriate prints and canvas art from ~$39-$199 AUD. For something more personal, Society6 and Desenio both ship to Australia and offer a much wider range of coastal prints from ~$30-$120 AUD.
+**Budget note:** Adairs and Temple & Webster both carry coastal-appropriate prints and canvas art from ~$39-$199 AUD. For something more personal, Society6 and Desenio both ship to Australia and offer a much wider range of coastal prints from ~$30-$120 AUD.
 
  The coastal kitchen print that got the most consistent positive response in my Gold Coast kitchen was a simple black-and-white botanical print in a white frame, about 50x70cm, hung to the left of the window above the dining table. It cost $45 from Desenio and looked like a $300 piece from a gallery.
 
@@ -164,7 +164,7 @@ Plants in a kitchen perform double duty: they add the living, organic quality th
 
 The best kitchen plant positions are near the window (good natural light), on an open shelf (trailing varieties look best here), or in a corner of the bench where the plant won't interfere with prep work. Avoid positioning plants directly above the stove or sink where heat, steam, and splashing will stress them.
 
-**Key point:** Bunnings stocks potted herbs from ~$4-$9 AUD each — among the cheapest living coastal accessories available in Australia. A set of three herbs in matching terracotta pots on the window ledge costs under $30 AUD total and looks genuinely beautiful.
+**What it costs:** Bunnings stocks potted herbs from ~$4-$9 AUD each — among the cheapest living coastal accessories available in Australia. A set of three herbs in matching terracotta pots on the window ledge costs under $30 AUD total and looks genuinely beautiful.
 
 Plant pots matter as much as the plants in a coastal kitchen. White ceramic, natural terracotta, and concrete-look pots are the three most versatile coastal kitchen containers. Avoid anything plastic or too brightly coloured — it works against the calm, natural quality that coastal styling is built on.
 

@@ -45,7 +45,7 @@ Understanding the rules before you buy anything is the single most important ste
 
 During a Total Fire Ban, all open fires are prohibited — including fire pits, chimineas, and solid-fuel barbecues. Some gas appliances are exempt, but you need to verify with your specific council. Outside fire ban periods, many councils still require minimum clearance distances, permit approvals for built-in structures, or specific containment standards.
 
-**Always check current fire restrictions before lighting any outdoor fire.** Call your local council directly or use the state fire service app. Getting this wrong carries heavy fines in most Australian states, and more importantly, it's a genuine safety issue in our climate.
+**Confirm the current fire ban status before you light up.** Call your local council directly or use the state fire service app. Getting this wrong carries heavy fines in most Australian states, and more importantly, it's a genuine safety issue in our climate.
 
 ## Where Should You Position Your Fire Pit?
 
@@ -53,7 +53,7 @@ Position is the decision that makes or breaks the whole setup. **The minimum ove
 
 Keep at least 2 metres of clear space on all sides of the pit. A flat, non-combustible surface underneath is essential: pavers, concrete, or a purpose-built fire pit mat all work well. Never place a fire pit directly on a timber deck without a thick non-combustible barrier and at least 2 metres of clearance to the structure.
 
-Wind direction matters more than most people realise. Observe where the breeze typically comes from in your yard during the evenings you'd use the pit. Position seating so smoke naturally drifts away from guests, not into them. **Always check current fire restrictions before lighting any outdoor fire**, and keep a garden hose with good pressure accessible from the pit location.
+Wind direction matters more than most people realise. Observe where the breeze typically comes from in your yard during the evenings you'd use the pit. Position seating so smoke naturally drifts away from guests, not into them. Double-check your council's fire rules haven't changed since your last burn, and keep a garden hose with good pressure accessible from the pit location.
 
 ## What Wood Should You Burn in an Australian Fire Pit?
 
@@ -63,7 +63,7 @@ The wood you burn determines heat output, smoke level, and how long the fire hol
 
 Never burn treated timber, painted wood, MDF, plywood, or any wood with chemical treatments. These release toxic fumes that are harmful to people and can damage the fire pit finish. Green or wet wood creates excessive smoke and produces poor heat output.
 
-Split, seasoned hardwood is the ideal fuel. Stack it off the ground with airflow around the pile and give it at least six months to dry properly if you're cutting your own. Buy pre-seasoned firewood from a reputable supplier if you don't want to manage drying time. **Always check current fire restrictions before lighting any outdoor fire** — some councils restrict solid-fuel burning on poor air quality days as well.
+Split, seasoned hardwood is the ideal fuel. Stack it off the ground with airflow around the pile and give it at least six months to dry properly if you're cutting your own. Buy pre-seasoned firewood from a reputable supplier if you don't want to manage drying time. Note that some councils restrict solid-fuel burning on poor air quality days as well, on top of the standard fire-ban rules.
 
 ## How Should You Arrange Seating Around a Fire Pit?
 
@@ -81,7 +81,7 @@ Safe fire management is not complicated, but it does require discipline every si
 
 Start with dry tinder — a small bundle of dry leaves, paper, or natural fire starters — then build up with smaller kindling before adding the main hardwood logs. This staged approach avoids the common mistake of piling on large logs early and getting a disappointing, smoky fire that won't establish properly.
 
-Let coals cool completely before leaving the area. This takes longer than most people expect — often three to four hours after the last log burns down. I keep a metal lid for my fire bowl that I drop over the coals to accelerate cooling and prevent any stray sparks. **Always check current fire restrictions before lighting any outdoor fire**, and install a spark guard if your bowl didn't include one.
+Let coals cool completely before leaving the area. This takes longer than most people expect — often three to four hours after the last log burns down. I keep a metal lid for my fire bowl that I drop over the coals to accelerate cooling and prevent any stray sparks. Install a spark guard if your bowl didn't include one — cheap insurance against a fine or a genuine hazard.
 
 ## How Do You Style the Fire Pit Zone?
 
@@ -113,7 +113,7 @@ Build the fire thirty minutes before guests arrive so you have a strong coal bed
 
 In my experience over four winters, fire pit gatherings consistently run two to three hours longer than indoor equivalent evenings. The fire gives people something to watch and tend to, which naturally keeps conversation going and slows the pace of the evening in a way that feels genuinely restorative.
 
-Keep a pile of dry wood close enough to add to the fire without leaving the group. Add logs gradually to maintain a steady, medium-size fire rather than building it too large early. A good coal bed produces more warmth and less smoke than a large open flame. **Always check current fire restrictions before lighting any outdoor fire** — winter fire ban days do occur in some Australian regions during dry spells.
+Keep a pile of dry wood close enough to add to the fire without leaving the group. Add logs gradually to maintain a steady, medium-size fire rather than building it too large early. A good coal bed produces more warmth and less smoke than a large open flame. Winter fire ban days do occur in some Australian regions during dry spells, so it's worth a quick check even outside the usual summer ban season.
 
 ## Where to Buy Fire Pits in Australia
 
