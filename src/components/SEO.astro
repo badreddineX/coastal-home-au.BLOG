@@ -112,25 +112,36 @@ window.addEventListener('error', function (e) {
 }, true);
 </script>
 
-<!-- Google Analytics (gtag.js) -- injected via JS on the `load` event, not
+<!-- Google Tag Manager + gtag.js -- injected via JS on the `load` event, not
      `defer`. `defer` only delays *execution*, not the network fetch -- the
      browser starts downloading deferred <script src> tags immediately during
      parsing, so on a throttled connection they'd compete with the hero image
      and fonts for bandwidth and hurt LCP/FCP (same fix already applied on
      Canada/UK). Injecting on `load` keeps it out of the network queue
      entirely until everything above-the-fold has already finished loading. -->
-<script is:inline>(function(w,d,s,l,gaId){
+<script is:inline>(function(w,d,s,l,gtmId,gaId){
   function start(){
-    w[l]=w[l]||[];
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0];
+    var j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+gtmId+dl;
+    f.parentNode.insertBefore(j,f);
+
     var g=d.createElement(s);
     g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
-    d.getElementsByTagName(s)[0].parentNode.insertBefore(g,d.getElementsByTagName(s)[0]);
-    function gtag(){w[l].push(arguments);}
+    f.parentNode.insertBefore(g,f);
+    function gtag(){w.dataLayer.push(arguments);}
     w.gtag=gtag;
     gtag('js', new Date());
     gtag('config', gaId);
   }
   if (d.readyState === 'complete') start();
   else w.addEventListener('load', start);
-})(window,document,'script','dataLayer','G-J4G9ZWD2V2');</script>
+})(window,document,'script','dataLayer','GTM-MC5RJFSF','G-J4G9ZWD2V2');</script>
+<!-- End Google Tag Manager + gtag.js -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC5RJFSF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <!-- End Google Analytics -->
