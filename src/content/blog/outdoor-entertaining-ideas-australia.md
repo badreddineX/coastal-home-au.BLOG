@@ -84,7 +84,7 @@ A proper BBQ station includes:
 - A side burner or prep space
 - Ideally, some overhead cover so you can cook in light rain
 
-If a built-in outdoor kitchen isn't in the budget, a freestanding stainless steel trolley BBQ from Bunnings paired with a dedicated outdoor sideboard from Temple & Webster achieves the same functional result for $800–$1,500 AUD.
+If a built-in outdoor kitchen isn't in the budget, a freestanding stainless steel trolley BBQ from Bunnings paired with a dedicated outdoor sideboard from Temple & Webster achieves the same functional result for $800–$1,500 AUD. For the full setup — layout, appliances, and a proper cost breakdown — see the [outdoor BBQ area ideas guide](/blog/outdoor-bbq-area-ideas-australia).
 
 ## 6. Add Coastal Cushions and Textiles for Instant Style
 
@@ -175,7 +175,7 @@ Use terracotta pots for a Hamptons-meets-Mediterranean coastal aesthetic that su
 
 While Australian winters are mild compared to most of the world, coastal evenings in June and July call for some warmth. An outdoor fire pit or portable fireplace extends your outdoor entertaining season through the cooler months.
 
-A simple fire pit bowl from Bunnings starts from $150 AUD. Surround it with deep [outdoor lounge](/blog/outdoor-lounge-ideas-australia) chairs and add some woollen throw blankets from Adairs, and you have a genuinely beautiful and functional winter entertaining zone.
+A simple fire pit bowl from Bunnings starts from $150 AUD. Surround it with deep [outdoor lounge](/blog/outdoor-lounge-ideas-australia) chairs and add some woollen throw blankets from Adairs, and you have a genuinely beautiful and functional winter entertaining zone. For fire pit types, safety, and council rules in detail, see the [backyard fire pit ideas guide](/blog/backyard-fire-pit-ideas-australia).
 
 ## 17. Add a Hammock or Daybed for a Resort Feel
 
