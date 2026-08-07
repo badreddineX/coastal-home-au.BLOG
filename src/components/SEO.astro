@@ -111,3 +111,26 @@ window.addEventListener('error', function (e) {
   }
 }, true);
 </script>
+
+<!-- Google Analytics (gtag.js) -- injected via JS on the `load` event, not
+     `defer`. `defer` only delays *execution*, not the network fetch -- the
+     browser starts downloading deferred <script src> tags immediately during
+     parsing, so on a throttled connection they'd compete with the hero image
+     and fonts for bandwidth and hurt LCP/FCP (same fix already applied on
+     Canada/UK). Injecting on `load` keeps it out of the network queue
+     entirely until everything above-the-fold has already finished loading. -->
+<script is:inline>(function(w,d,s,l,gaId){
+  function start(){
+    w[l]=w[l]||[];
+    var g=d.createElement(s);
+    g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
+    d.getElementsByTagName(s)[0].parentNode.insertBefore(g,d.getElementsByTagName(s)[0]);
+    function gtag(){w[l].push(arguments);}
+    w.gtag=gtag;
+    gtag('js', new Date());
+    gtag('config', gaId);
+  }
+  if (d.readyState === 'complete') start();
+  else w.addEventListener('load', start);
+})(window,document,'script','dataLayer','G-J4G9ZWD2V2');</script>
+<!-- End Google Analytics -->
