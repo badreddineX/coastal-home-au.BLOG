@@ -7,6 +7,7 @@
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { resolve } from 'path';
+import { pathToFileURL } from 'url';
 
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">`;
@@ -115,12 +116,12 @@ const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePa
 const page = await browser.newPage({ viewport: { width: 1000, height: 1500 } });
 
 for (const pin of pins) {
-  const photo = pin.photo && !pin.photo.startsWith('http') ? 'file://' + resolve(pin.photo) : pin.photo;
+  const photo = pin.photo && !pin.photo.startsWith('http') ? pathToFileURL(resolve(pin.photo)).href : pin.photo;
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
     templates[pin.template]({ ...pin, photo }) + '</body></html>';
   const file = resolve(`out-au/${pin.slug}-${pin.template}.html`);
   writeFileSync(file, html);
-  await page.goto('file://' + file, { waitUntil: 'networkidle' });
+  await page.goto(pathToFileURL(file).href, { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
   await page.screenshot({ path: `out-au/${pin.slug}-${pin.template}.png` });
   console.log(`✓ out-au/${pin.slug}-${pin.template}.png`);

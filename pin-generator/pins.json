@@ -165,5 +165,11 @@
 
   {"slug":"small-balcony","template":"A","kicker":"Small Balconies &nbsp;·&nbsp; AU","headline":"Small <em>Balcony</em> Ideas","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1502672260266-1c1ef2d93688.jpg"},
   {"slug":"small-balcony","template":"B","kicker":"Tiny Space &nbsp;·&nbsp; Big Outlook","headline":"Transform a Small <em>Balcony</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1502672260266-1c1ef2d93688.jpg"},
-  {"slug":"small-balcony","template":"C","kicker":"The Balcony Edit","headline":"12 Balcony <em>Transformations</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1502672260266-1c1ef2d93688.jpg"}
+  {"slug":"small-balcony","template":"C","kicker":"The Balcony Edit","headline":"12 Balcony <em>Transformations</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1502672260266-1c1ef2d93688.jpg"},
+  {"slug":"small-courtyard-garden","template":"A","kicker":"Courtyard Gardens &nbsp;·&nbsp; Australia","headline":"Small Courtyard <em>Garden</em> Ideas","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"},
+  {"slug":"small-courtyard-garden","template":"B","kicker":"Terrace Living &nbsp;·&nbsp; 12 Tips","headline":"Make a Tiny Courtyard <em>Work</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"},
+  {"slug":"small-courtyard-garden","template":"C","kicker":"The Courtyard Edit","headline":"12 Small Courtyard <em>Ideas</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"},
+  {"slug":"alfresco-dining","template":"A","kicker":"Alfresco Living &nbsp;·&nbsp; Australia","headline":"Alfresco <em>Dining</em> Ideas","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1523301343968-6a6ebf63c672.jpg"},
+  {"slug":"alfresco-dining","template":"B","kicker":"Year-Round &nbsp;·&nbsp; 13 Tips","headline":"Upgrade Your <em>Alfresco</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1523301343968-6a6ebf63c672.jpg"},
+  {"slug":"alfresco-dining","template":"C","kicker":"The Alfresco Edit","headline":"13 Alfresco Dining <em>Tips</em>","domain":"outdoorcoastalhome.com","photo":"./public/images/unsplash-1523301343968-6a6ebf63c672.jpg"}
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Small Courtyard Garden Ideas Australia: 12 Ways to Make It Work"
 description: "I turned a 3x4m Sydney courtyard from a bin storage zone into a proper garden. Here are 12 small courtyard garden ideas with AUD prices and local retailers."
-image: "/images/unsplash-1524247108137-732e0f642303.jpg"
+image: "/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"
 datePublished: "2026-08-08"
 dateModified: "2026-08-08"
 author: "Badreddine Br"
@@ -28,7 +28,7 @@ faqs:
 
 Our Sydney terrace has a courtyard that's 3.2m by 4m — barely bigger than a double garage, and for the first year we owned the house, it was where the bins lived and nothing else. It gets decent morning light but goes into shade by early afternoon thanks to a two-storey wall on the western side. Here's what actually worked to turn it into a space we use most evenings.
 
-![Established courtyard garden with layered native planting against a rendered brick wall in an Australian terrace house](/images/unsplash-1524247108137-732e0f642303.jpg)
+![Raised garden bed planted with lettuce, herbs and chives in neat rows, a small-scale approach that suits a compact courtyard](/images/unsplash-1591857177580-dc82b9ac4e1e.jpg)
 
 ## Tip 1: Go Vertical Before You Go Wide
 
@@ -47,8 +47,6 @@ Terrace house courtyards often sit on compacted fill or old paving with poor dra
 Our courtyard's original surface was dark grey concrete that made the whole space feel like a car park, especially once the afternoon shade hit. Resurfacing with pale limestone-look pavers (Bunnings, $42/sqm) made a genuine difference — the same amount of light bounces around the space and it reads brighter, even without more sun actually reaching it.
 
 **Budget alternative:** A layer of crushed white gravel or oyster shell over existing concrete ($8–$15 per 20kg bag) achieves a similar lightening effect for a fraction of the cost, no demolition required.
-
-![Small paved courtyard with pale limestone pavers, raised timber garden bed, and potted plants along the boundary wall](/images/unsplash-1502082553048-f009c37129b9.jpg)
 
 ## Tip 4: Pick One Feature Tree, Not a Dozen Small Pots
 
@@ -72,8 +70,6 @@ Floor space is the scarcest resource in a small courtyard, so furniture that dis
 
 **For entertaining more than two:** A round bistro table with nesting stools tucks away more compactly than a rectangular set — worth the trade-off in a courtyard under 12sqm.
 
-![Compact outdoor dining setup with fold-down wall table, two chairs, and festoon lighting in a narrow courtyard](/images/unsplash-1466692476868-aef1dfb1e735.jpg)
-
 ## Tip 8: Add a Small Water Feature for Sound
 
 Courtyards, especially in inner-city terraces, often back onto neighbours or a lane, and street noise carries. A small self-contained water feature (Bunnings, $99–$180 for a ceramic bubbling urn style) adds enough ambient sound to soften that without needing a full pond installation. No plumbing required — most are self-recirculating.
@@ -89,8 +85,6 @@ Afternoon sun on the paved section made the courtyard unusable between 1pm and 4
 ## Tip 11: Use Espaliered Plants Against Boundary Walls
 
 Espaliered fruit trees or climbers trained flat against a wall take up almost no floor depth while still giving you real greenery height. We espaliered a dwarf lemon tree against the sunniest wall ($65 from a local nursery plus wire and vine eyes, $35) and it now produces fruit while barely projecting 15cm from the wall.
-
-![Espaliered citrus tree trained flat against a rendered courtyard wall with wire supports](/images/unsplash-1490818387583-1baba5e638af.jpg)
 
 ## Tip 12: Define Zones with Different Textures, Not Walls
 

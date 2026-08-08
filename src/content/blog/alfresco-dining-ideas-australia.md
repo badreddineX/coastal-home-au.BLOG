@@ -1,7 +1,7 @@
 ---
 title: "Alfresco Dining Ideas Australia: 13 Ways to Upgrade Yours"
 description: "Four years of trial and error on our Brisbane alfresco. 13 alfresco dining ideas with real AUD prices and Australian retailers — no vague inspiration, just what worked."
-image: "/images/unsplash-1521401830884-6c03c1c87ebb.jpg"
+image: "/images/unsplash-1523301343968-6a6ebf63c672.jpg"
 datePublished: "2026-08-08"
 dateModified: "2026-08-08"
 author: "Badreddine Br"
@@ -28,7 +28,7 @@ faqs:
 
 We've had an alfresco off the back of our Brisbane house for four years, and it took most of that time to get it from "the patio with a table on it" to a space we genuinely prefer to the dining room. Here's what actually made the difference, with real prices from what we bought.
 
-![Covered alfresco dining area with timber table, outdoor pendant lighting, and view into a landscaped Australian backyard](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
+![Friends gathered outdoors at dusk with festoon lights strung overhead, the kind of atmosphere a well-set-up alfresco delivers](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 1: Cover It, Even Partially
 
@@ -43,8 +43,6 @@ We made the classic mistake of buying a 6-seater for a space that regularly host
 Brisbane winters aren't brutal, but June and July evenings still push people back inside without heat. A freestanding gas patio heater ($249–$450, Bunnings or Barbeques Galore) extended our usable alfresco season by a good two months either side of winter. In cooler states like Victoria or Tasmania, this upgrade matters even more.
 
 **Alternative:** A built-in fire pit table ($450–$900) does double duty as a heat source and a low coffee table for pre-dinner drinks.
-
-![Outdoor dining table set for evening entertaining with a freestanding gas patio heater beside it](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
 ## Tip 4: Choose Furniture Rated for Australian UV and Humidity
 
@@ -62,7 +60,7 @@ Constantly walking food and drinks from the kitchen breaks up the meal and keeps
 
 One overhead light does the job but not the mood. We layered ours: a dimmable pendant over the table (Beacon Lighting, $189), festoon lights strung along the roofline ($65, Bunnings), and a couple of low-level lanterns on the servery bench for ambient warmth. Dimming the overhead pendant for dinner and relying on the festoon and lanterns changes the whole feel of the space at night.
 
-![Alfresco dining table lit with a dimmable pendant light and warm festoon lighting strung along the roofline](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
+![Guests raising wine glasses together during an alfresco dinner — the kind of evening a well-lit, well-hosted space encourages](/images/unsplash-1519671482749-fd09be7ccebf.jpg)
 
 ## Tip 7: Use an Outdoor Rug to Anchor the Space
 
@@ -79,8 +77,6 @@ Once we had the roof, the next problem was heat trapped underneath it on summer 
 ## Tip 10: Choose a Neutral Palette That Extends the Indoor Living Space
 
 The alfresco spaces that feel most integrated with the house, rather than bolted on, tend to share a palette with the adjoining indoor room. We carried our kitchen's warm neutral and timber tones straight through — same cushion tones, similar timber finish on the table as our indoor dining setting. It reads as one continuous space rather than two disconnected zones.
-
-![Neutral-toned alfresco dining space with timber table and linen cushions matching the adjoining indoor living area](/images/unsplash-1512389142860-9c449e58a543.jpg)
 
 ## Tip 11: Keep a Retractable Screen for Wind and Privacy
 
