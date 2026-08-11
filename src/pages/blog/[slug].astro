@@ -291,6 +291,7 @@ const breadcrumbSchema = {
 
 .post-title {
   font-size: clamp(1.6rem, 4.5vw, 3rem);
+  font-weight: 700;
   margin: 0 0 1.25rem 0;
   line-height: 1.15;
   max-width: 780px;
@@ -415,7 +416,7 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
 .post-content :global(h2) {
   font-family: var(--font-display);
   font-style: italic;
-  font-weight: 400;
+  font-weight: 700;
   font-size: clamp(1.4rem, 3vw, 1.9rem);
   color: #111111;
   margin-top: 2.5rem;
@@ -425,6 +426,24 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
   overflow-wrap: break-word;
   word-break: break-word;
   min-width: 0;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 12px;
+  max-width: 100%;
+}
+.post-content :global(.h2-num) {
+  font-family: var(--font-display);
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+.post-content :global(.h2-title) {
+  display: block;
+  flex: 1;
+  min-width: 0;
 }
 .post-content :global(h3) {
   font-family: var(--font-heading);
@@ -432,12 +451,31 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
   font-weight: 600;
   font-size: clamp(1rem, 2vw, 1.15rem);
   color: var(--color-primary);
-  text-decoration: underline;
-  text-underline-offset: 3px;
   margin-top: 1.8rem;
   overflow-wrap: break-word;
   word-break: break-word;
   min-width: 0;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 100%;
+}
+.post-content :global(.h3-num) {
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--color-primary);
+  flex-shrink: 0;
+  opacity: 0.85;
+}
+.post-content :global(.h3-title) {
+  display: block;
+  flex: 1;
+  min-width: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .post-content :global(.img-wrap) {
   margin: 2rem 0;
@@ -798,6 +836,45 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
   });
 })();
 
+// ── H2 + H3 number decoration (01., 1.1 — matches Canada/UK style) ──
+(function () {
+  const H2_SKIP = new Set(['tl;dr', 'tl:dr', '—', '–']);
+  const allHeadings = document.querySelectorAll('.post-body h2, .post-body h3');
+  let h2Counter = 0;
+  let h3Counter = 0;
+  allHeadings.forEach((h) => {
+    const fullText = (h.textContent ?? '').trim();
+    if (h.tagName === 'H2') {
+      if (H2_SKIP.has(fullText.toLowerCase())) return;
+      const stripped = fullText.replace(/^\d+\.\s*/, '').replace(/^tip\s*\d+\s*[:–-]\s*/i, '').trim();
+      h2Counter++;
+      h3Counter = 0;
+      const numSpan = document.createElement('span');
+      numSpan.className = 'h2-num';
+      numSpan.textContent = String(h2Counter).padStart(2, '0') + '.';
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'h2-title';
+      titleSpan.textContent = stripped;
+      h.textContent = '';
+      h.appendChild(numSpan);
+      h.appendChild(titleSpan);
+    } else {
+      if (h2Counter === 0) h2Counter = 1;
+      h3Counter++;
+      const stripped = fullText.replace(/^tip\s*\d+\s*[:–-]\s*/i, '').trim();
+      const numSpan = document.createElement('span');
+      numSpan.className = 'h3-num';
+      numSpan.textContent = `${h2Counter}.${h3Counter}`;
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'h3-title';
+      titleSpan.textContent = stripped;
+      h.textContent = '';
+      h.appendChild(numSpan);
+      h.appendChild(titleSpan);
+    }
+  });
+})();
+
 // ── TOC + scroll spy ──
 (function () {
   const headings   = document.querySelectorAll('.post-body h2');
@@ -819,7 +896,7 @@ details[open] .toc-mobile-summary svg { transform: rotate(180deg); }
     const a       = document.createElement('a');
     a.className   = 'toc-widget__list-item-text';
     a.href        = `#${h.id}`;
-    a.textContent = (h.textContent?.trim() ?? '').replace(/^tip\s*\d+\s*[:–-]\s*/i, '');
+    a.textContent = (h.textContent?.trim() ?? '').replace(/^\d+\.\s*/, '').replace(/^tip\s*\d+\s*[:–-]\s*/i, '');
     wrapper.appendChild(a);
     li.appendChild(wrapper);
     tocList?.appendChild(li);
