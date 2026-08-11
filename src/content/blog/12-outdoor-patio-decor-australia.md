@@ -146,4 +146,5 @@ If your patio photographs well in morning light with everything you love about i
 - [Outdoor Entertaining Ideas for Australian Homes](/blog/outdoor-entertaining-ideas-australia)
 - [Pergola Outdoor Entertaining Ideas Australia](/blog/01-pergola-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas Australia](/blog/09-backyard-entertaining-ideas-australia)
+- [Alfresco Dining Ideas Australia](/blog/alfresco-dining-ideas-australia)
 

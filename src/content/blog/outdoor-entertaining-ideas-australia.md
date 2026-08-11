@@ -225,4 +225,5 @@ Australian outdoor entertaining is one of the genuine pleasures of living here â
 - [Outdoor BBQ Area Ideas for Australian Backyards](/blog/outdoor-bbq-area-ideas-australia)
 - [Backyard Fire Pit Ideas for Australian Homes](/blog/backyard-fire-pit-ideas-australia)
 - [Pergola Entertaining Ideas for Australian Homes](/blog/01-pergola-entertaining-ideas-australia)
+- [Alfresco Dining Ideas Australia](/blog/alfresco-dining-ideas-australia)
 

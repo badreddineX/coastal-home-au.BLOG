@@ -257,3 +257,4 @@ A practical four-stage sequence:
 - [Backyard Landscaping Ideas for Australian Homes](/blog/backyard-landscaping-ideas-australia)
 - [Backyard Entertaining Ideas for Australian Homes](/blog/09-backyard-entertaining-ideas-australia)
 - [Coastal Home Decor Australia](/blog/06-coastal-home-decor-australia)
+- [Small Courtyard Garden Ideas Australia](/blog/small-courtyard-garden-ideas-australia)

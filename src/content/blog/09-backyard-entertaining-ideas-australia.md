@@ -150,4 +150,5 @@ The gathering starts as soon as guests arrive, not as soon as I finish setting u
 - [Summer Backyard Party Ideas Australia](/blog/19-summer-backyard-party-ideas-australia)
 - [Pool Area Ideas Australia](/blog/pool-area-ideas-australia)
 - [Native Garden Ideas Australia](/blog/native-garden-ideas-australia)
+- [Outdoor Kitchen Ideas for Australian Homes](/blog/outdoor-kitchen-ideas-australia)
 

@@ -137,3 +137,4 @@ The BBQ area is the heart of Australian outdoor entertaining, and it deserves to
 - [Outdoor Entertaining Ideas for Australian Backyards](/blog/outdoor-entertaining-ideas-australia)
 - [Pergola Entertaining Ideas for Australian Homes](/blog/01-pergola-entertaining-ideas-australia)
 - [Backyard Entertaining Ideas: The Complete Australian Guide](/blog/09-backyard-entertaining-ideas-australia)
+- [Outdoor Kitchen Ideas for Australian Homes](/blog/outdoor-kitchen-ideas-australia)

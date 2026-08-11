@@ -213,3 +213,4 @@ The [Australian Institute of Landscape Architects](https://www.aila.org.au/) has
 - [Small Backyard Entertaining Ideas Australia](/blog/03-small-backyard-entertaining-ideas-australia)
 - [Pergola Entertaining Ideas Australia: 14 Tips That Work](/blog/01-pergola-entertaining-ideas-australia)
 - [Outdoor Patio Decor Australia: 13 Styling Tips](/blog/12-outdoor-patio-decor-australia)
+- [Small Courtyard Garden Ideas Australia](/blog/small-courtyard-garden-ideas-australia)
