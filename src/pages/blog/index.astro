@@ -91,6 +91,12 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
           </div>
 
         </div>
+
+        <!-- Active tag filter banner -->
+        <p class="container tag-filter-status" id="tag-filter-status" hidden>
+          Showing posts tagged <strong id="tag-filter-name"></strong> —
+          <button type="button" id="tag-filter-clear" class="tag-filter-clear">Clear</button>
+        </p>
       </div>
 
       <!-- Posts grid -->
@@ -103,6 +109,7 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
                 data-title={post.data.title.toLowerCase()}
                 data-desc={post.data.description.toLowerCase()}
                 data-cat={post.data.category}
+                data-tags={(post.data.tags ?? []).join('|').toLowerCase()}
                 data-index={i}
               >
                 <PostCard
@@ -368,6 +375,25 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
   color: var(--color-white);
 }
 
+/* Tag filter status */
+.tag-filter-status {
+  padding: 12px 0 0;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+.tag-filter-status strong { color: var(--color-heading); text-transform: capitalize; }
+.tag-filter-clear {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+.tag-filter-clear:hover { color: var(--color-heading); }
+
 /* Posts */
 .posts-section { padding-top: 48px; }
 .post-item { transition: opacity 0.2s ease; }
@@ -576,13 +602,34 @@ function navigateSuggestions(dir: 1 | -1) {
 
 const PER_PAGE = 6;
 let activeCategory = 'all';
+let activeTag: string | null = null;
 let searchQuery    = '';
 let currentPage    = 1;
 let isFiltering    = false;
 let matched: HTMLElement[] = [];
 
+const tagFilterStatus = document.getElementById('tag-filter-status') as HTMLElement | null;
+const tagFilterName   = document.getElementById('tag-filter-name') as HTMLElement | null;
+const tagFilterClear  = document.getElementById('tag-filter-clear') as HTMLButtonElement | null;
+
+function setTagFilter(tag: string) {
+  activeTag = tag.toLowerCase();
+  isFiltering = true;
+  if (tagFilterName) tagFilterName.textContent = tag;
+  if (tagFilterStatus) tagFilterStatus.hidden = false;
+}
+function clearTagFilter() {
+  activeTag = null;
+  isFiltering = activeCategory !== 'all' || searchQuery !== '';
+  if (tagFilterStatus) tagFilterStatus.hidden = true;
+  currentPage = 1;
+  applyFilters();
+}
+tagFilterClear?.addEventListener('click', clearTagFilter);
+
 const urlParams = new URLSearchParams(window.location.search);
 const urlCat    = urlParams.get('cat');
+const urlTag    = urlParams.get('tag');
 const slugToLabel: Record<string, string> = {
   'outdoor-entertaining': 'Outdoor Entertaining',
   'coastal-decor':        'Coastal Decor',
@@ -597,6 +644,7 @@ if (urlCat && slugToLabel[urlCat]) {
     if (btn.dataset.cat === activeCategory) btn.classList.add('active');
   });
 }
+if (urlTag) setTagFilter(urlTag);
 
 function buildPagination(total: number) {
   if (!pagination || !pageNumbers || !pagePrev || !pageNext) return;
@@ -658,9 +706,11 @@ function applyFilters() {
     const title = item.dataset.title ?? '';
     const desc  = item.dataset.desc  ?? '';
     const cat   = item.dataset.cat   ?? '';
+    const tags  = item.dataset.tags  ?? '';
     const matchesCat    = activeCategory === 'all' || cat === activeCategory;
     const matchesSearch = searchQuery === '' || title.includes(searchQuery) || desc.includes(searchQuery);
-    if (matchesCat && matchesSearch) matched.push(item);
+    const matchesTag    = !activeTag || tags.split('|').includes(activeTag);
+    if (matchesCat && matchesSearch && matchesTag) matched.push(item);
   });
 
   const total = matched.length;
@@ -675,8 +725,8 @@ function applyFilters() {
     matched.forEach((item, i) => { item.hidden = i < start || i >= end; });
   }
 
-  if (emptyState) emptyState.hidden = !(searchQuery !== '' && total === 0);
-  if (comingSoon) comingSoon.hidden = !(activeCategory !== 'all' && searchQuery === '' && total === 0);
+  if (emptyState) emptyState.hidden = !((searchQuery !== '' || activeTag !== null) && total === 0);
+  if (comingSoon) comingSoon.hidden = !(activeCategory !== 'all' && searchQuery === '' && activeTag === null && total === 0);
   buildPagination(total);
 }
 
@@ -691,6 +741,8 @@ catFilters.forEach(btn => {
     catFilters.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     activeCategory = btn.dataset.cat ?? 'all';
+    activeTag      = null;
+    if (tagFilterStatus) tagFilterStatus.hidden = true;
     isFiltering    = activeCategory !== 'all';
     currentPage    = 1;
     applyFilters();
@@ -699,7 +751,7 @@ catFilters.forEach(btn => {
 
 searchInput?.addEventListener('input', () => {
   searchQuery  = searchInput!.value.toLowerCase().trim();
-  isFiltering  = searchQuery !== '' || activeCategory !== 'all';
+  isFiltering  = searchQuery !== '' || activeCategory !== 'all' || activeTag !== null;
   currentPage  = 1;
   if (searchClear) searchClear.hidden = searchQuery === '';
   showSuggestions(searchQuery);
@@ -736,6 +788,8 @@ resetBtn?.addEventListener('click', () => {
   currentPage        = 1;
   if (searchClear) searchClear.hidden = true;
   activeCategory     = 'all';
+  activeTag          = null;
+  if (tagFilterStatus) tagFilterStatus.hidden = true;
   catFilters.forEach(b => b.classList.remove('active'));
   catFilters[0]?.classList.add('active');
   applyFilters();
