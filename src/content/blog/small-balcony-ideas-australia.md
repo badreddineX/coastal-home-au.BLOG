@@ -1,6 +1,6 @@
 ﻿---
 title: "Small Balcony Ideas Australia: 12 Ways to Transform It"
-description: "Transform a small Australian apartment balcony into a proper outdoor room. Renter-friendly ideas with AUD prices from Kmart, Temple and Webster, and Bunnings."
+description: "Transform a small Australian balcony into an outdoor room with a $79-$149 AUD bistro set. 12 renter-friendly ideas with prices from Kmart and Bunnings."
 image: "/images/unsplash-1502672260266-1c1ef2d93688.jpg"
 datePublished: "2026-04-12"
 dateModified: "2026-04-12"

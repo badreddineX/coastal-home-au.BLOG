@@ -1,6 +1,6 @@
 ﻿---
 title: "Backyard Landscaping Ideas for Australian Homes (2026)"
-description: "Transform your Australian backyard with smart landscaping ideas suited to our climate — from low-maintenance natives to beautiful coastal gardens. AUD costs."
+description: "Transform your Australian backyard with 12 smart landscaping ideas suited to our climate — from low-maintenance natives to coastal gardens. AUD costs."
 image: "/images/unsplash-1502082553048-f009c37129b9.jpg"
 datePublished: "2026-03-18"
 dateModified: "2026-06-13"

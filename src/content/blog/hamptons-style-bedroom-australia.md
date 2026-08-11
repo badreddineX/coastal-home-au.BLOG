@@ -1,6 +1,6 @@
 ﻿---
 title: "Hamptons Style Bedroom Ideas for Australian Homes (2026)"
-description: "Create a dreamy Hamptons style bedroom in Australia with coastal colours, linen bedding, and timeless furniture. Australian retailers with real AUD prices included."
+description: "Create a dreamy Hamptons bedroom in Australia with coastal colours, linen bedding, and timeless furniture. Australian retailers with real AUD prices included."
 image: "/images/unsplash-1616594039964-ae9021a400a0.jpg"
 datePublished: "2026-02-18"
 dateModified: "2026-05-27"

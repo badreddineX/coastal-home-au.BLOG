@@ -1,6 +1,6 @@
 ﻿---
 title: "Outdoor BBQ Area Ideas for Australian Backyards (2026)"
-description: "Design the ultimate outdoor BBQ area for your Australian backyard — from built-in kitchens to simple BBQ setups. Real AUD prices and product recommendations."
+description: "Design the ultimate outdoor BBQ area for your Australian backyard with 10 ideas — from built-in kitchens to simple setups. Real AUD prices included."
 image: "/images/unsplash-1544025162-d76694265947.jpg"
 datePublished: "2026-04-15"
 dateModified: "2026-06-25"

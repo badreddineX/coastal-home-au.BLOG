@@ -1,6 +1,6 @@
 ﻿---
 title: "Backyard Fire Pit Ideas for Australian Homes (2026)"
-description: "The best backyard fire pit ideas for Australian homes — built-in stone pits to portable bowls. Create a great evening outdoor space with AUD prices and safety tips."
+description: "The best backyard fire pit ideas for Australian homes — portable steel bowls from $80 to built-in stone pits. Create an evening outdoor space safely."
 image: "/images/unsplash-1478131143081-80f7f84ca84d.jpg"
 datePublished: "2026-02-20"
 dateModified: "2026-06-04"

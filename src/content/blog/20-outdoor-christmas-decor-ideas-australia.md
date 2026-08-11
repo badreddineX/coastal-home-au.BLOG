@@ -1,6 +1,6 @@
 ﻿---
 title: "Outdoor Christmas Decor Australia: 12 Styling Ideas"
-description: "Style your outdoor space for Christmas in Australia — decor ideas, product picks, colour schemes, and lighting. Real AUD prices from Australian retailers."
+description: "Style your outdoor space for Christmas in Australia with 12 tips — decor, colour schemes, and festoon lighting. Real AUD prices from Australian retailers."
 image: "/images/unsplash-1512389142860-9c449e58a543.jpg"
 datePublished: "2025-12-02"
 dateModified: "2025-12-02"

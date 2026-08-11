@@ -1,6 +1,6 @@
 ---
 title: "Hamptons Style Decor Australia: 13 Tips to Get It Right"
-description: "Three years building a Hamptons-style home on the Gold Coast. Here's what actually works in Australia — real AUD prices and honest advice on where to save."
+description: "Three years building a Hamptons-style home on the Gold Coast. DIY shiplap panelling from $300-$800 and honest advice on where to save, with real AUD prices."
 image: "/images/unsplash-1560448204-603b3fc33ddc.jpg"
 datePublished: "2026-05-25"
 dateModified: "2026-05-25"

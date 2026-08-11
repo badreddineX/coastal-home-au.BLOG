@@ -1,6 +1,6 @@
 ﻿---
 title: "Hamptons Style Kitchen Australia: 11 Coastal Ideas"
-description: "Get the Hamptons style kitchen look in Australia with shaker cabinets, subway tiles, stone benchtops, and brass hardware. Real AUD prices from Australian retailers."
+description: "Get the Hamptons kitchen look in Australia with shaker cabinets, subway tiles, stone benchtops, and brass hardware. Real AUD prices from Australian retailers."
 image: "/images/unsplash-1556909172-54557c7e4fb7.jpg"
 datePublished: "2026-04-18"
 dateModified: "2026-04-18"
