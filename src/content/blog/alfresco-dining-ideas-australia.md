@@ -1,7 +1,7 @@
 ---
 title: "Alfresco Dining Ideas Australia: 13 Ways to Upgrade Yours"
 description: "Four years of trial and error on our Brisbane alfresco. 13 dining ideas with real AUD prices from Australian retailers — no vague inspiration, just results."
-image: "/images/unsplash-1523301343968-6a6ebf63c672.jpg"
+image: "/images/outdoor-table-setting-fruit.jpg"
 datePublished: "2026-08-08"
 dateModified: "2026-08-08"
 author: "Badreddine Br"

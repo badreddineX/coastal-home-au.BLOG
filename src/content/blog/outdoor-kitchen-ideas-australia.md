@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Kitchen Ideas for Australian Homes (2026)"
 description: "The best outdoor kitchen ideas for Australian homes — layouts, materials, and appliances. Real AUD prices, council rules, and product picks from Bunnings to Beacon Lighting."
-image: "/images/unsplash-1600585154340-be6161a56a0c.jpg"
+image: "/images/gas-grill-backyard-hedge.jpg"
 datePublished: "2026-08-07"
 dateModified: "2026-08-07"
 author: "Badreddine Br"
