@@ -95,27 +95,29 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
       </div>
     </div>
 
-    <!-- ── Featured image (full width, above the two-column layout) ──
+    <!-- ── Featured image (full-bleed banner, edge-to-edge) ──
          Kept as its own block outside .post-layout so mobile's TOC
          reordering (order:-1 on .post-sidebar, see below) can't drag the
          TOC above it -- otherwise the image gets pushed below the fold
          while the TOC sits glued to the title, which is the opposite of
          "TOC moves with the title" (Canada/UK keep the hero fully separate
-         from the two-column grid for the same reason). -->
+         from the two-column grid for the same reason). Matches Canada/UK's
+         full-bleed banner treatment -- previously boxed/inset with side
+         margins and rounded corners, which read as a smaller, less
+         immersive hero than the sister blogs. -->
     <div class="hero-section">
-      <div class="img-wrap post-hero-img">
-        <picture>
-          <source srcset={imageWebp} type="image/webp" />
-          <img
-            src={image}
-            alt={title}
-            width="1200"
-            height="675"
-            loading="eager"
-            fetchpriority="high"
-          />
-        </picture>
-      </div>
+      <picture>
+        <source srcset={imageWebp} type="image/webp" />
+        <img
+          class="post-hero-img"
+          src={image}
+          alt={title}
+          width="1600"
+          height="900"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </picture>
     </div>
 
     <!-- ── Two-column layout ── -->
@@ -284,19 +286,25 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   min-width: 0;
 }
 
+/* Full-bleed banner strip, matching Canada/UK -- aspect-ratio driven so it
+   scales with viewport width, capped so it never grows into a full-bleed
+   viewport-height hero on large screens. */
 .hero-section {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 24px;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  max-height: 300px;
+  overflow: hidden;
+  background: var(--color-surface);
 }
-@media (min-width: 640px) {
-  .hero-section { padding: 0 40px; }
+@media (min-width: 768px) {
+  .hero-section { aspect-ratio: 4 / 1; max-height: 340px; }
 }
 .post-hero-img {
-  margin: 0 0 2rem;
-  aspect-ratio: 16 / 9;
-  border-radius: 2px;
-  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
+  display: block;
 }
 
 
@@ -474,7 +482,7 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   justify-content: space-between;
   padding: 14px 20px;
   cursor: pointer;
-  background: var(--color-heading);
+  background: var(--color-accent);
   border-radius: 6px 6px 0 0;
   user-select: none;
 }
@@ -485,7 +493,7 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   font-weight: 700;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: #ffffff;
+  color: var(--color-heading);
 }
 .toc-widget__toggle-button {
   display: flex;
@@ -497,7 +505,8 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: rgba(255,255,255,0.7);
+  color: var(--color-heading);
+  opacity: 0.65;
 }
 .toc-widget__toggle-button svg { width: 12px; height: 12px; fill: currentColor; }
 .toc-widget__toggle-button--collapse { display: flex; }
