@@ -52,14 +52,19 @@
 /* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 [hidden] { display: none !important; }
-html { scroll-behavior: smooth; overflow-x: hidden; }
+/* overflow-x: hidden here previously broke `position: sticky` for every
+   descendant on the site (the article page's sticky TOC sidebar included)
+   -- any ancestor with overflow other than visible on either axis disables
+   sticky positioning in all browsers. Removed rather than worked around,
+   since automated checks (scrollWidth === clientWidth) confirmed no page
+   actually overflows horizontally, so it wasn't preventing a real bug. */
+html { scroll-behavior: smooth; }
 body {
   font-family: var(--font-body);
   font-size: 16px;
   line-height: 1.75;
   color: var(--color-text);
   background: var(--color-bg);
-  overflow-x: hidden;
 }
 @media (min-width: 768px) {
   body { font-size: 17px; }

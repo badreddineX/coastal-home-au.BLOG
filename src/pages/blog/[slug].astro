@@ -482,7 +482,8 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   justify-content: space-between;
   padding: 14px 20px;
   cursor: pointer;
-  background: var(--color-accent);
+  background: var(--color-surface-warm);
+  border-bottom: 2px solid var(--color-primary);
   border-radius: 6px 6px 0 0;
   user-select: none;
 }
@@ -505,8 +506,7 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: var(--color-heading);
-  opacity: 0.65;
+  color: var(--color-primary);
 }
 .toc-widget__toggle-button svg { width: 12px; height: 12px; fill: currentColor; }
 .toc-widget__toggle-button--collapse { display: flex; }
@@ -518,13 +518,11 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   overflow-y: auto;
   max-height: min(2000px, calc(100vh - 180px));
   transition: max-height 0.3s ease;
-  border-top: 1px solid var(--color-border);
   scrollbar-width: thin;
 }
 .toc-widget.is-collapsed .toc-widget__body {
   max-height: 0;
   overflow: hidden;
-  border-top-color: transparent;
 }
 :global(.toc-widget__list) {
   list-style: none;
