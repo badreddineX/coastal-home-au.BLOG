@@ -75,6 +75,32 @@ const faqSchema = faqs.length > 0 ? {
     acceptedAnswer: { '@type': 'Answer', text: f.a },
   })),
 } : null;
+
+// WebSite + Organization schema for non-article pages (homepage, /about,
+// /blog index, legal pages) -- these previously shipped zero structured
+// data since articleSchema only renders when type === 'article'.
+const websiteSchema = type === 'website' ? {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteName,
+  url: siteUrl,
+  description,
+  publisher: {
+    '@type': 'Organization',
+    name: siteName,
+    url: siteUrl,
+    logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+  },
+} : null;
+
+const webPageSchema = type === 'website' ? {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  description,
+  url: fullUrl,
+  isPartOf: { '@type': 'WebSite', name: siteName, url: siteUrl },
+} : null;
 ---
 
 <!-- Charset must be the very first thing in <head> -- browsers only scan the
@@ -144,6 +170,12 @@ const faqSchema = faqs.length > 0 ? {
 )}
 {faqSchema && (
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+)}
+{websiteSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+)}
+{webPageSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
 )}
 
 <!-- Fallback for broken images -->

@@ -42,15 +42,18 @@ const categories = [
 
       <!-- ── Hero ── -->
       <section class="hero" aria-label="Hero">
-        <img
-          class="hero-bg"
-          src="/images/unsplash-1600566753086-00f18fb6b3ea.jpg"
-          alt="Bright Australian alfresco outdoor entertaining area"
-          width="1600"
-          height="900"
-          loading="eager"
-          fetchpriority="high"
-        />
+        <picture>
+          <source srcset="/images/unsplash-1600566753086-00f18fb6b3ea.webp" type="image/webp" />
+          <img
+            class="hero-bg"
+            src="/images/unsplash-1600566753086-00f18fb6b3ea.jpg"
+            alt="Bright Australian alfresco outdoor entertaining area"
+            width="1600"
+            height="900"
+            loading="eager"
+            fetchpriority="high"
+          />
+        </picture>
         <div class="hero-overlay" aria-hidden="true"></div>
         <div class="container hero-content">
           <p class="hero-label">For Australian Homes</p>
@@ -81,13 +84,16 @@ const categories = [
             <!-- Large featured post -->
             <a href={`/blog/${featured[0].id}`} class="editors-main" data-reveal>
               <div class="editors-main-img">
-                <img
-                  src={featured[0].data.image}
-                  alt={featured[0].data.title}
-                  width="900" height="675"
-                  loading="eager"
-                  fetchpriority="high"
-                />
+                <picture>
+                  <source srcset={featured[0].data.image.replace(/\.(jpe?g|png)$/i, '.webp')} type="image/webp" />
+                  <img
+                    src={featured[0].data.image}
+                    alt={featured[0].data.title}
+                    width="900" height="675"
+                    loading="eager"
+                    fetchpriority="high"
+                  />
+                </picture>
               </div>
               <span class="editors-cat">{featured[0].data.category}</span>
               <h2 class="editors-main-title">{featured[0].data.title}</h2>
@@ -98,13 +104,16 @@ const categories = [
             <div class="editors-sidebar" data-reveal>
               {featured.slice(1).map(post => (
                 <a href={`/blog/${post.id}`} class="editors-item">
-                  <img
-                    class="editors-thumb"
-                    src={post.data.image}
-                    alt={post.data.title}
-                    width="120" height="120"
-                    loading="lazy"
-                  />
+                  <picture>
+                    <source srcset={post.data.image.replace(/\.(jpe?g|png)$/i, '.webp')} type="image/webp" />
+                    <img
+                      class="editors-thumb"
+                      src={post.data.image}
+                      alt={post.data.title}
+                      width="120" height="120"
+                      loading="lazy"
+                    />
+                  </picture>
                   <div class="editors-item-body">
                     <span class="editors-cat">{post.data.category}</span>
                     <h3 class="editors-item-title">{post.data.title}</h3>

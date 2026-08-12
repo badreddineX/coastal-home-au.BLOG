@@ -32,13 +32,16 @@ const categories = ['Outdoor Entertaining', 'Coastal Decor', 'Hamptons Style', '
 
       <!-- Hero -->
       <section class="blog-hero">
-        <img
-          class="blog-hero-bg"
-          src="/images/unsplash-1600566753086-00f18fb6b3ea.jpg"
-          alt="Australian coastal outdoor living area"
-          width="1600" height="700"
-          loading="eager" fetchpriority="high"
-        />
+        <picture>
+          <source srcset="/images/unsplash-1600566753086-00f18fb6b3ea.webp" type="image/webp" />
+          <img
+            class="blog-hero-bg"
+            src="/images/unsplash-1600566753086-00f18fb6b3ea.jpg"
+            alt="Australian coastal outdoor living area"
+            width="1600" height="700"
+            loading="eager" fetchpriority="high"
+          />
+        </picture>
         <div class="blog-hero-overlay" aria-hidden="true"></div>
         <div class="container blog-hero-content">
           <h1 class="display blog-title">All Ideas</h1>

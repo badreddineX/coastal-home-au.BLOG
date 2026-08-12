@@ -1,0 +1,30 @@
+# Outdoor & Coastal Home Decor
+
+> Australian outdoor living and coastal home decor guides — Hamptons style,
+> backyard entertaining, and coastal interiors, written from real Gold Coast
+> renovation and styling experience with AUD prices and named Australian
+> retailers.
+
+Outdoor & Coastal Home Decor (outdoorcoastalhome.com) publishes long-form,
+first-person guides on Australian outdoor living, backyard entertaining,
+and Hamptons/coastal interior styling. Content is written from direct
+experience, cites real AUD pricing, and names specific Australian retailers
+rather than offering generic advice.
+
+## Site
+
+- Homepage: https://outdoorcoastalhome.com
+- Blog index: https://outdoorcoastalhome.com/blog
+- Sitemap: https://outdoorcoastalhome.com/sitemap-index.xml
+
+## Categories
+
+- Coastal Decor
+- Hamptons Style
+- Backyard & Outdoor Living
+- Outdoor Entertaining
+
+## Usage
+
+Content on this site may be cited with attribution and a link back to the
+source article. Full-text reproduction without attribution is not permitted.
