@@ -114,6 +114,23 @@ const webPageSchema = type === 'website' ? {
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<!-- Preload the two font files that actually carry visible text (Inter 400
+     for body copy, Playfair Display italic 600 for H2/H3/TL;DR marker --
+     matches the weight .post-content h2 requests). global.css inlines
+     @font-face rules with font-display:swap but nothing was preloading the
+     files themselves -- the browser only discovered it needed them during
+     layout, so the swap from fallback (Georgia/sans-serif) to the real font
+     happened well after first paint. PageSpeed traced the page's largest
+     layout shift (CLS 0.123 of 0.133 total, https://pagespeed.web.dev on
+     small-courtyard-garden-ideas-australia, 2026-08-13) to <article
+     class="post-main"> -- every heading and paragraph in the article
+     reflowing at once when the real fonts finally swapped in is a better
+     fit for that evidence than the H2/H3 client-side numbering script this
+     session first (incorrectly) suspected and fixed anyway. -->
+<link rel="preload" as="font" type="font/woff2" crossorigin
+  href="https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin
+  href="https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2" />
 <!-- Loaded non-render-blocking: a synchronous <link rel="stylesheet"> here was
      flagged by PageSpeed as costing ~750ms on the critical path for a
      script/display font that's only used for a handful of italic headings,
