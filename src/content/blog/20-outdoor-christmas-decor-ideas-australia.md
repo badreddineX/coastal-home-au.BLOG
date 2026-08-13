@@ -36,7 +36,7 @@ Here are the 12 ideas that have made our outdoor Christmas look genuinely beauti
 
 ![Warm festoon lights strung across a covered alfresco for Christmas evening](/images/unsplash-1482517967863-00e15c9b44be.jpg)
 
-## Tip 1: Install Warm White Festoon Lights — They're the Foundation
+## Tip 1: Why Are Warm White Festoon Lights the Foundation?
 
 Every outdoor Christmas decoration decision begins with the light. Warm white festoon lights (2200K bulbs, not cool white, not coloured) strung across the entertaining area are simultaneously the most universally applicable and most transformative Christmas decoration available.
 
@@ -44,7 +44,7 @@ In daylight: they're subtle, barely noticeable except as a pleasant detail. At d
 
 **The specifics:** Eglo warm white festoon lights from Bunnings, $65 per 10m string. Two strings covering a standard 4×3m alfresco: $130. The festoon lights stay up year-round — I add Christmas-specific decorations to the space around them, not instead of them.
 
-## Tip 2: Use Australian Native Foliage Instead of Pine
+## Tip 2: Why Use Australian Native Foliage Instead of Pine?
 
 Pine branches in 35-degree Gold Coast summer heat become a fire risk by December 27. Australian native foliage — eucalyptus, Banksia pods, Protea, Grevillea, or Lilly Pilly berries — is the outdoor Christmas decoration material that suits our actual climate, looks beautiful in summer light, and doesn't wilt, dry out, or become a combustion concern.
 
@@ -57,13 +57,13 @@ The native foliage wreath on the gate is consistently the most commented-on Chri
 
 ![Australian native foliage Christmas wreath on a white fence gate](/images/unsplash-1512389142860-9c449e58a543.jpg)
 
-## Tip 3: Plant Standard Rosemary Topiaries as Christmas Trees
+## Tip 3: Why Plant Standard Rosemary Topiaries as Christmas Trees?
 
 The outdoor Christmas tree problem in Australia: a faux pine tree looks unconvincing in December heat, and a real cut pine tree is impractical outdoors. The solution I discovered three years ago: a standard rosemary topiary (the plant pruned to a small ball-on-a-stick shape) in a terracotta pot, decorated with a white ribbon and a simple star.
 
 Bunnings sells standard rosemary topiaries for $8–$15 in October—December. Two of them flanking the alfresco entrance, each decorated with a simple white bow and a small star or bell, create an unmistakably Christmas outdoor feature. They're also completely appropriate for the Australian summer climate — and edible.
 
-## Tip 4: Set a White Table for the Christmas Lunch
+## Tip 4: How Do You Set a White Table for the Christmas Lunch?
 
 The outdoor Christmas table in Australian summer should be simple, white, and cool-looking. Heavy traditional Christmas table settings in red, gold, and deep green look weighty and hot in full December sunlight. White linen, white ceramics, and green foliage look refreshing and seasonally appropriate.
 
@@ -77,25 +77,25 @@ The outdoor Christmas table in Australian summer should be simple, white, and co
 
 ![White linen outdoor Christmas table setting with eucalyptus centrepiece and gardenias](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
-## Tip 5: Hang Simple Star or Snowflake Decorations From the Pergola
+## Tip 5: Should You Hang Simple Star or Snowflake Decorations From the Pergola?
 
 One or two simple hanging decorations from the pergola or alfresco ceiling — white stars, white snowflakes, or simple woven ornaments — add a Christmas element at ceiling height that reads as festive without being kitsch. Bunnings and Kmart both have ranges of large outdoor-appropriate hanging decorations in white and natural materials ($5–$25 each).
 
 The key is restraint: one or two large decorations, not a dozen small ones. The visual impact is better with fewer, larger pieces.
 
-## Tip 6: Position Hurricane Candle Holders at Every Table Surface
+## Tip 6: Why Position Hurricane Candle Holders at Every Table Surface?
 
 Hurricane candle holders with white pillar candles — left unlit during the day, lit as the evening begins — are the most versatile Christmas table and surface decoration available. During the day they're simply elegant. After dark they create the intimate, warm light that makes the outdoor Christmas space feel genuinely special.
 
 **What I buy:** Glass hurricane holders from Kmart ($8–$12 each for standard, $25–$35 for large). White pillar candles: $3–$8 each. I use them throughout the year and they're particularly beautiful at Christmas.
 
-## Tip 7: Create a Coastal Christmas Colour Palette
+## Tip 7: How Do You Create a Coastal Christmas Colour Palette?
 
 The colour palette that looks best for an Australian outdoor Christmas in 2026: white, green, and terracotta. White lights and candles. Green from the native foliage. Terracotta from the plant pots. Add one gold element (a simple ribbon, a candle in amber glass) for warmth.
 
 This palette reads as distinctly Australian — it references the coastal and landscape quality of our December environment rather than importing a northern hemisphere winter aesthetic. It photographs beautifully in Australian summer light.
 
-## Tip 8: Hang a Coastal Christmas Wreath on the Gate or Front Door
+## Tip 8: What Makes a Good Coastal Christmas Wreath for the Gate or Front Door?
 
 The Christmas wreath for an Australian outdoor space is not a faux-pine wreath from a discount department store — it's a handmade or quality wreath in native foliage or a coastal material. A eucalyptus and white ribbon wreath, a hessian and dried Banksia pod wreath, or a simple wire wreath base covered in frangipani petals (for a same-day wreath on Christmas morning).
 
@@ -103,23 +103,23 @@ The Christmas wreath for an Australian outdoor space is not a faux-pine wreath f
 
 ![Outdoor alfresco decorated with festoon lights, white lanterns, and native foliage garlands](/images/unsplash-1543589077-47d81606c1bf.jpg)
 
-## Tip 9: Add White Outdoor Lanterns to the Alfresco and Garden
+## Tip 9: Why Add White Outdoor Lanterns to the Alfresco and Garden?
 
 Outdoor lanterns in white or clear glass — floor-standing lanterns along the garden path, smaller versions on the alfresco dining table and fence ledges — create the warm, layered Christmas atmosphere that makes the outdoor space feel genuinely festive. Kmart has a range of outdoor-appropriate lanterns from $12–$35 each. Temple & Webster has more substantial pieces from $45–$125.
 
 The floor-standing lanterns along the garden path to the alfresco entrance create a genuine arrival moment for guests on Christmas evening.
 
-## Tip 10: Plant a Pot of White Agapanthus or Gardenias as a Flowering Feature
+## Tip 10: Which Flowering Feature Should You Plant — Agapanthus or Gardenias?
 
 Australian summer flowers that are either at peak or approaching peak in December: white gardenias (intensely scented, beautiful), white agapanthus (architectural, easy), white frangipani (quintessentially Australian summer), and white cosmos (light, airy, informal). A large pot of any of these at the alfresco entrance adds a living, scented Christmas feature that a plastic wreath can never replicate.
 
 Bunnings garden centre stocks all of these in November and December with care guides for your state.
 
-## Tip 11: Add a Seasonal Christmas Scent to the Outdoor Space
+## Tip 11: How Do You Add a Seasonal Christmas Scent to the Outdoor Space?
 
 Christmas scent for an outdoor space: a cluster of three gardenias in a simple vase on the dining table (the scent is incredible in warm evening air), a palo santo stick burning at the start of the gathering, or a large pillar candle in a "Christmas spice" or "white cedar" scent. The scent layer at a Christmas gathering is as important as the visual — and the warm December night air holds scent beautifully.
 
-## Tip 12: Keep the Lighting Simple and Warm on Christmas Eve
+## Tip 12: Why Keep the Lighting Simple and Warm on Christmas Eve?
 
 Christmas Eve outdoor styling should feel quiet and beautiful, not busy and festive. The festoon lights on their timer. A cluster of white candles on the outdoor table. A glass of cold white wine. The gardenia scent on the warm December air. Christmas in Australia at its best is calm, warm, and genuinely its own thing.
 

@@ -41,7 +41,7 @@ I've set up outdoor lounges in three different properties — a north-facing apa
 > - Layer three lighting types for a lounge zone that works day and night
 > - According to Domain.com.au, outdoor living areas add 5-10% to Australian property values
 
-## 1. Solve the Shade Problem Before You Buy a Single Piece of Furniture
+## 1. Why Solve the Shade Problem Before Buying Furniture?
 
 Every successful outdoor lounge in Australia starts with the same decision: how is this space going to be shaded? An outdoor lounge without shade isn't used in summer — the most important entertaining season of the year.
 
@@ -59,7 +59,7 @@ Your three main options, with honest pros and cons:
 
 **Key point:** A 5x5m shade sail from Bunnings starts at ~$150 AUD — the minimum required to make a lounge zone genuinely usable in an Australian summer.
 
-## 2. Define the Zone With an Outdoor Rug Before Placing Furniture
+## 2. Why Define the Zone With an Outdoor Rug Before Placing Furniture?
 
 The most common outdoor lounge arrangement mistake is placing furniture first and skipping the rug altogether. The rug is the most important design decision in the outdoor lounge — it defines the boundaries of the zone, anchors all other furniture decisions, and is the fastest way to make an outdoor area feel designed rather than assembled.
 
@@ -74,7 +74,7 @@ Choose a polypropylene (also called olefin) outdoor rug. The material resists UV
 
 **Key point:** A 200x300cm polypropylene outdoor rug from Temple & Webster starts at ~$150-$350 AUD — lay it before buying anything else.
 
-## 3. Choose the Right Outdoor Lounge Frame Material for Your Location
+## 3. How Do You Choose the Right Outdoor Lounge Frame Material for Your Location?
 
 Not all outdoor lounge frames perform equally in Australian conditions. The wrong material in a coastal or high-humidity location deteriorates within two seasons. The right choice lasts a decade or more with minimal maintenance.
 
@@ -90,7 +90,7 @@ Not all outdoor lounge frames perform equally in Australian conditions. The wron
 
 **Key point:** Synthetic rattan over aluminium frames from Temple & Webster starts at ~$600-$1,200 AUD for a three-piece setting — the best value-to-durability ratio in Australian coastal conditions.
 
-## 4. Match Furniture Scale to Your Backyard Size
+## 4. How Do You Match Furniture Scale to Your Backyard Size?
 
 Scale is where most outdoor lounge arrangements fail. A three-seat sofa plus four armchairs in a 3x3m courtyard is furniture pile-up, not a lounge zone. A single loveseat in a 6x4m alfresco looks lost.
 
@@ -109,7 +109,7 @@ A modular L-shape or U-shape setting plus a separate occasional chair or two cre
 
 ![Large alfresco outdoor lounge with L-shape modular sofa, coffee table, and string lights over a covered deck](/images/unsplash-1600566753376-12c8ab7fb75b.jpg)
 
-## 5. Invest in Quality Outdoor Cushions — They Make or Break the Look
+## 5. Why Do Quality Outdoor Cushions Make or Break the Look?
 
 The outdoor lounge furniture is the structure; the cushions are what makes it a place people want to sit. Cheap outdoor cushions flatten within a season and fade within two. Quality outdoor cushions in solution-dyed acrylic fabric hold their shape and colour for 5-8 years in direct Australian sun.
 
@@ -130,7 +130,7 @@ Adairs' outdoor cushion range is consistently good value at $35-$75 AUD per cush
 
 **Key point:** Budget ~$200-$500 AUD for a full set of quality outdoor cushions — this single spend has more visual impact than almost anything else in the lounge zone.
 
-## 6. Create an Outdoor Coffee Table Moment
+## 6. How Do You Create an Outdoor Coffee Table Moment?
 
 The coffee table is the functional and visual centre of any lounge zone — and outdoors it needs to work harder than its indoor equivalent. It has to be stable on potentially uneven surfaces, completely weatherproof, and scaled correctly to the seating around it.
 
@@ -144,7 +144,7 @@ The coffee table is the functional and visual centre of any lounge zone — and 
 
 **Key point:** An aluminium or teak outdoor coffee table from Temple & Webster or Bunnings runs ~$180-$600 AUD — size it to two-thirds the length of your sofa for perfect proportions.
 
-## 7. Layer Outdoor Lighting for Evenings That Feel Like a Resort
+## 7. How Do You Layer Outdoor Lighting for Resort-Style Evenings?
 
 The gap between an outdoor lounge that's used until 7pm and one that's used until midnight is almost always lighting. A lounge zone that has only a single overhead light feels like a car park after dark. One with layered lighting feels like somewhere you want to stay.
 
@@ -160,7 +160,7 @@ The gap between an outdoor lounge that's used until 7pm and one that's used unti
 
 **Key point:** The full three-layer lighting setup costs ~$120-$350 AUD and transforms how many evenings your outdoor lounge actually gets used.
 
-## 8. Add Side Tables and a Drinks Zone
+## 8. How Do You Add Side Tables and a Drinks Zone?
 
 A well-considered outdoor lounge always has somewhere to put a drink down. One coffee table at the centre is not enough — each end of the sofa and each armchair should have an accessible surface nearby.
 
@@ -174,7 +174,7 @@ Add a dedicated drinks zone if space allows — a bar cart, a drinks trolley, or
 
 **Key point:** Two rattan or ceramic side tables from Kmart or Temple & Webster ($39-$180 AUD each) complete the furniture arrangement and make the lounge zone actually functional.
 
-## 9. Style the Lounge Zone With Coastal Accessories
+## 9. How Do You Style the Lounge Zone With Coastal Accessories?
 
 The difference between a furnished outdoor lounge and a styled one comes down to the finishing layer — the accessories that communicate the aesthetic and make the space feel complete.
 
@@ -189,7 +189,7 @@ The difference between a furnished outdoor lounge and a styled one comes down to
 
 **Key point:** A set of three outdoor lanterns from Kmart (~$15-$45 AUD each) plus one large potted plant completes the lounge zone's coastal aesthetic without overcomplicating it.
 
-## 10. Consider Seasonal Adaptations for Year-Round Use
+## 10. How Do You Adapt an Outdoor Lounge for Year-Round Use?
 
 An outdoor lounge designed only for summer is an outdoor lounge used for three months of the year. A few intentional additions extend the season to eleven months — or year-round in Queensland and WA.
 

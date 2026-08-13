@@ -30,7 +30,7 @@ The Hamptons aesthetic was always built for outdoor living. Wide verandahs, whit
 
 ---
 
-## 1. Start With the Right Colour Palette
+## 1. What Colour Palette Defines the Hamptons Outdoor Look?
 
 The Hamptons outdoor palette is restrained, which is exactly why it works so well. White dominates — structures, furniture, and pots — with navy arriving in stripes and accents. Natural timber grounds the scheme, and greenery does the softening work.
 
@@ -139,7 +139,7 @@ In my experience styling Gold Coast outdoor spaces, the single question I get as
 
 ---
 
-## 10. Where to Shop for Hamptons Outdoor Style in Australia
+## 10. Where Should You Shop for Hamptons Outdoor Style in Australia?
 
 You don't need to spend a fortune to get the look right. These are the retailers I return to most.
 

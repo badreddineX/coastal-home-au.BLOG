@@ -36,13 +36,13 @@ Here are the 13 tips that changed our Australia Day gatherings.
 
 ![Gold Coast backyard set up for Australia Day party with shade sail, festoon lights, and long outdoor table](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 1: Start at 5pm for the Best Conditions
+## Tip 1: Why Start at 5pm for the Best Conditions?
 
 The Australia Day party that starts at noon is a challenge from hour one in January heat. The one that starts at 5pm is a festival. The heat has dropped from its peak, the light is golden, the festoon lights come on at 6pm, and the gathering flows naturally from drinks and cricket on the lawn through dinner and into the evening.
 
 If cultural tradition or family preference requires a daytime start: noon is fine, plan to finish the main meal by 3pm, and have shade, a misting system, and abundant cold drinks in place from the start.
 
-## Tip 2: Solve Shade and Cooling Before Decorating
+## Tip 2: Why Solve Shade and Cooling Before Decorating?
 
 The most beautifully decorated Australia Day backyard is unusable without shade. Shade is the first party planning investment:
 
@@ -54,7 +54,7 @@ The most beautifully decorated Australia Day backyard is unusable without shade.
 
 I run our misting system from noon on Australia Day through 5pm. Without it, the alfresco is a survivable experience. With it, it's genuinely comfortable.
 
-## Tip 3: Set Up Backyard Cricket as the Default Entertainment
+## Tip 3: Why Set Up Backyard Cricket as the Default Entertainment?
 
 There is no more Australian Australia Day activity than backyard cricket. A $20–$25 plastic cricket set from Kmart, a reasonable lawn, and an informal set of rules that every Australian adult knows by instinct — and you have entertainment that runs for as long as the day lasts.
 
@@ -62,7 +62,7 @@ Our cricket setup: the tape ball and coloured stumps from Kmart, the rules that 
 
 ![Backyard cricket on the grass during Australian summer gathering, plastic stumps and bat](/images/unsplash-1531415074968-036ba1b575da.jpg)
 
-## Tip 4: Set Up the BBQ as the Party Centrepiece
+## Tip 4: How Do You Set Up the BBQ as the Party Centrepiece?
 
 Australia Day is fundamentally a BBQ event. The BBQ setup should be treated as a centrepiece, not an afterthought: the BBQ positioned where the cook can see and be part of the gathering, a prep table beside it with plates, tongs, condiments, and a resting area for cooked meat, and a clear system for keeping the queue moving. If you want a deeper framework for how the whole outdoor entertaining space should be set up for a big day, the [backyard entertaining ideas guide for Australian homes](/blog/09-backyard-entertaining-ideas-australia) covers furniture, shade, and layout decisions in full.
 
@@ -74,13 +74,13 @@ Australia Day is fundamentally a BBQ event. The BBQ setup should be treated as a
 
 Total BBQ cost for 20 people: $70–$90 in meat. All at its best off a hot grill and served immediately.
 
-## Tip 5: Create a Self-Serve Drinks Station
+## Tip 5: How Do You Create a Self-Serve Drinks Station?
 
 Same principle as every outdoor summer gathering: the drinks station that runs itself is the one that makes the host's day enjoyable. Bar cart or a fold-out table in a corner, large esky packed with ice, beer, wine, and soft drinks, a 5L glass dispenser with the batch summer cocktail, and a water station with ice and lemon.
 
 **Australia Day batch cocktail:** A simple Pimm's cup (Pimm's No. 1, lemonade, cucumber, strawberries, and mint) in the 5L dispenser — it looks beautiful, it's easy to make, and it's the perfect level of alcohol for a long hot day. Cost: approximately $40 for a 5L batch that serves 20 glasses.
 
-## Tip 6: Add Green and Gold Decorating With Restraint
+## Tip 6: How Do You Add Green and Gold Decorating With Restraint?
 
 Green and gold are the Australia Day colours — and they're most effective as an accent rather than a saturation. Two or three green and gold bunting strings across the alfresco, a small Australian flag in a terracotta pot at the table centre, and yellow flowers (sunflowers from Woolworths, $8–$12 a bunch) in a simple vase. That's the full Australia Day decorating quota for the outdoor space.
 
@@ -88,39 +88,39 @@ Everything else is about the food, the games, the people, and the day itself.
 
 ![Simple Australia Day table setting with green and gold bunting, yellow flowers, and white plates](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
-## Tip 7: Lay a Large Outdoor Rug for the Lawn Cricket Zone
+## Tip 7: Do You Need a Large Outdoor Rug for the Lawn Cricket Zone?
 
 If the backyard cricket zone is on grass, it needs no preparation. If it's on a hard surface (concrete, decking), an outdoor rug in the cricket zone makes it more comfortable for bare feet and provides the visual boundary of the playing field. A 200×290cm polypropylene outdoor rug from Kmart ($89–$139) works as a cricket pitch boundary and doubles as the party floor surface.
 
-## Tip 8: Plan a Kids' Zone That's Completely Self-Contained
+## Tip 8: How Do You Plan a Kids' Zone That's Completely Self-Contained?
 
 Australia Day family gatherings include children, and children need a zone that's theirs. A Kmart inflatable splash pad ($25–$35) in a corner of the backyard is the most appreciated children's installation at a summer Australia Day party. Add a low table with snacks, a small esky with juice boxes and icy poles, and the children's zone is self-running.
 
 The children are happy in their zone, the adults are free to be at the adult zone, and the host manages neither.
 
-## Tip 9: Serve Pavlova and Lamingtons for Dessert
+## Tip 9: Why Serve Pavlova and Lamingtons for Dessert?
 
 Australia Day dessert is a non-negotiable combination of two Australian culinary icons: a pavlova (made the night before, assembled with cream and seasonal fruit 30 minutes before serving) and a plate of lamingtons (purchased from a local bakery, $2–$3 each, or homemade the day before).
 
 The pavlova in particular is the most photogenic Australia Day dessert element — a pile of fresh strawberries, kiwi, and passionfruit on top of cream on top of meringue reads as an Australian summer moment in every photograph.
 
-## Tip 10: Play Arnott's Tim Tams as the Afternoon Snack
+## Tip 10: Why Serve Arnott's Tim Tams as the Afternoon Snack?
 
 The Australia Day afternoon snack that requires no preparation, costs $2.50, and is universally beloved: Tim Tams. A packet or two on the snack table with the afternoon coffee represents the Australian biscuit-tin moment that belongs in every January 26 gathering. The fact that it's 35 degrees and you're eating chocolate biscuits is part of the charm.
 
 ![Pavlova with fresh strawberries and passionfruit on a white plate for Australia Day dessert](/images/unsplash-1565958011703-44f9829ba187.jpg)
 
-## Tip 11: Set Up Festoon Lights for the Evening Continuation
+## Tip 11: Why Set Up Festoon Lights for the Evening Continuation?
 
 Australia Day gatherings that start at 5pm naturally continue into the evening. Have the festoon lights set up on a timer (6pm activation) so the transition from afternoon to evening is automatic and beautiful. The golden hour transition moment — when the sky goes warm, the festoon lights come on, and the BBQ smoke is still drifting — is the peak aesthetic experience of the day.
 
-## Tip 12: Keep a Morning-Of Setup Protocol
+## Tip 12: Why Keep a Morning-Of Setup Protocol?
 
 The Australia Day host who sets up on the day is competing with the heat from 10am. I set up the afternoon before: table positioned, decorations in place, chairs arranged, games equipment out. On the morning of January 26: I fill the esky with ice, buy fresh bread rolls and flowers, and the physical setup is done before 11am.
 
 By noon I'm done. By 4:30pm I'm changed and enjoying a Pimm's.
 
-## Tip 13: Enjoy the Day — It's the Point
+## Tip 13: Why Is Enjoying the Day the Whole Point?
 
 Australia Day is one of the most sociable days on the Australian calendar. The people at the gathering, the warmth, the cricket, the pavlova, and the long summer evening are what the day is about. The decoration, the food styling, and the logistics are in service of the experience — not the other way around.
 

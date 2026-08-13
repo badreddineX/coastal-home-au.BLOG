@@ -36,7 +36,7 @@ Here are the 14 things that made the difference.
 
 ![Complete Australian outdoor entertaining area with covered pergola, festoon lights, dining zone, and lounge zone](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
-## Tip 1: Solve the Structure Before Everything Else
+## Tip 1: Why Solve the Structure Before Everything Else?
 
 The outdoor entertaining area decision that determines everything else — including what furniture to buy, what shade solution to install, and what the space can realistically become — is the structural decision: deck or paving? Covered or open?
 
@@ -44,7 +44,7 @@ My recommendation for most Australian outdoor entertaining areas: covered and pa
 
 If you're planning a new outdoor entertaining area and can afford only one structural investment: prioritise the roof over the furniture. You can use inexpensive furniture in a covered space indefinitely. The best furniture in an uncovered Queensland summer is frequently unusable.
 
-## Tip 2: Create Three Zones — Dining, Lounge, and Cooking
+## Tip 2: Why Create Three Zones — Dining, Lounge, and Cooking?
 
 The outdoor entertaining area that functions well for gatherings of every size — from a Tuesday dinner for two to a Saturday party for 20 — has three zones with distinct functions:
 
@@ -56,7 +56,7 @@ The outdoor entertaining area that functions well for gatherings of every size �
 
 The three zones don't need physical dividers — furniture arrangement and surface variation (different rugs, different flooring zones) create the separation.
 
-## Tip 3: Install Festoon Lights on a Timer
+## Tip 3: Why Install Festoon Lights on a Timer?
 
 Festoon lights are the outdoor entertaining area upgrade I've recommended to more people than anything else. Two or three strings of warm white festoon lights ($65 per 10m from Bunnings, Eglo brand) strung across the primary entertaining area, connected to a timer plug ($15–$25) that activates at 6pm, transforms the space from a functional outdoor area to a genuinely beautiful evening destination.
 
@@ -64,7 +64,7 @@ The difference between warm white (2200K) and cool white (4000K+) in festoon lig
 
 Three Gold Coast summers on, my festoon lights remain the single most-mentioned element by guests.
 
-## Tip 4: Invest in a Quality Outdoor Dining Table
+## Tip 4: Why Invest in a Quality Outdoor Dining Table?
 
 The outdoor dining table is the centrepiece of every outdoor gathering and the most-used surface in the outdoor entertaining area. Undersizing it — buying a 6-seater for a household that regularly hosts 10 — is the most consequential furniture mistake in Australian outdoor entertaining.
 
@@ -74,7 +74,7 @@ The outdoor dining table is the centrepiece of every outdoor gathering and the m
 
 ![Outdoor lounge zone with L-shaped sofa, outdoor coffee table, and festoon lights on a Gold Coast alfresco](/images/unsplash-1530062845289-9109b2c9c868.jpg)
 
-## Tip 5: Add a Lounge Zone With a Proper Outdoor Sofa
+## Tip 5: Should You Add a Lounge Zone With a Proper Outdoor Sofa?
 
 The outdoor gathering that ends when it should be just getting started is one without somewhere to go after dinner. The outdoor sofa changes the dynamic — it creates a transition from the formal structure of the dining table to the relaxed informality of post-dinner conversation, and those gatherings reliably extend 2—3 hours longer than the ones that end at the dining table.
 
@@ -82,19 +82,19 @@ The outdoor gathering that ends when it should be just getting started is one wi
 
 **Budget option:** Two Kmart outdoor rattan armchairs ($149–$199 each) and a low outdoor table ($89–$199) — functional lounge zone for under $600.
 
-## Tip 6: Lay an Outdoor Rug to Define Each Zone
+## Tip 6: How Does an Outdoor Rug Define Each Zone?
 
 An outdoor rug in the dining zone (under the table and chairs) immediately creates a "room" quality — the zone reads as an intentional space rather than furniture on concrete. I use a 240×340cm polypropylene outdoor rug from Temple & Webster ($199) under the dining table, and a 160×230cm natural-tone rug in the lounge zone. The different rugs subtly define the zone boundaries without requiring any physical divider.
 
 Kmart outdoor rugs ($89–$179) are excellent entry-level value. Polypropylene only for outdoor use — all other materials degrade rapidly in Australian outdoor conditions.
 
-## Tip 7: Position the BBQ Adjacent to the Dining Table
+## Tip 7: Why Position the BBQ Adjacent to the Dining Table?
 
 After two years of cooking at a BBQ positioned against the opposite fence from the dining table, I moved it to the corner adjacent to the dining zone. The cook can now have a conversation with guests while preparing food, and the serving distance from grill to plate is under 2 metres.
 
 **The BBQ setup:** Weber Q3200 gas BBQ ($799 from Bunnings) on a Weber cart ($229), plus a stainless steel prep table from Bunnings ($149) for plates, utensils, and condiments. Adjacent to the table, angled toward the guests, with a sightline to the lounge zone.
 
-## Tip 8: Create a Cold Drinks Station Away From the Dining Table
+## Tip 8: Why Create a Cold Drinks Station Away From the Dining Table?
 
 The outdoor drinks station — a bar cart ($230 from Temple & Webster) with a 5L glass drinks dispenser on top and a 60L esky positioned beside it — removes the single biggest logistics problem in outdoor hosting: guests needing drinks while the host is managing food.
 
@@ -102,7 +102,7 @@ Guests self-serve from the drinks station. The dispenser is refilled once during
 
 ![Lush perimeter planting with Lilly Pillies and olive trees in terracotta pots around an outdoor entertaining area](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
-## Tip 9: Plant the Perimeter for Enclosure and Lushness
+## Tip 9: Why Plant the Perimeter for Enclosure and Lushness?
 
 The outdoor entertaining area that feels like a destination rather than an exposure has a green perimeter. Even without landscaping — just large potted plants arranged along the fences and boundaries — the enclosed, lush quality of a well-planted outdoor space changes the experience of being in it. For a full breakdown of plant selection and garden layout ideas around the entertaining area, the [backyard landscaping ideas Australia](/blog/backyard-landscaping-ideas-australia) guide covers species choice, pot sizing, and placement by climate zone.
 
@@ -114,29 +114,29 @@ The outdoor entertaining area that feels like a destination rather than an expos
 
 Approximate total investment: $600 in plants and pots over two years.
 
-## Tip 10: Install Outdoor Kitchen Cabinetry or a Prep Station
+## Tip 10: Do You Need Outdoor Kitchen Cabinetry or a Prep Station?
 
 The outdoor entertaining area that most significantly upgrades from a backyard with furniture to a genuine outdoor kitchen includes some form of outdoor cabinetry or fixed prep area. This doesn't need to be a full outdoor kitchen — a weatherproof cabinet (Bunnings has outdoor storage and cabinet options from $299–$899) with a stone or tile benchtop beside the BBQ, a sink if the plumbing is accessible, and under-counter storage creates the functional outdoor kitchen experience at a fraction of the custom-built cost.
 
 Without the fixed prep area, outdoor cooking requires managing plates, condiments, and raw ingredients on the BBQ side table or on the dining table itself — neither of which is adequate.
 
-## Tip 11: Add a Misting System for Year-Round Use in Summer
+## Tip 11: Should You Add a Misting System for Year-Round Summer Use?
 
 Queensland and northern NSW alfresco spaces are frequently unusable between 1pm and 5pm from October through March without active cooling. A misting system (Bunnings Greenmill kit, $79–$149) attached to the pergola perimeter and connected to the garden tap drops the perceived temperature by 5—8 degrees. With the misting system running, our alfresco is comfortable through 4pm in most weather.
 
 Installation: under one hour with zip ties, a garden hose adapter, and the timer valve included in the Bunnings kit.
 
-## Tip 12: Use Ground-Level Lighting Around the Perimeter
+## Tip 12: Why Use Ground-Level Lighting Around the Perimeter?
 
 The outdoor entertaining area that looks designed at night has light at three levels: overhead (festoon), mid-level (candles), and ground (solar stakes). The ground level is consistently the missing layer in outdoor areas I've visited. Eight to twelve solar stake lights ($6–$8 each from Bunnings) placed along garden bed edges and the patio perimeter add the base layer of light that anchors the space at night and makes the transition from daylight to dark feel seamless.
 
 Total investment: $65–$100. Visual impact: significant.
 
-## Tip 13: Build an Outdoor Storage Solution Into the Area
+## Tip 13: Do You Need an Outdoor Storage Solution Built Into the Area?
 
 The outdoor entertaining area functions best when everything needed to host is stored outdoors. A weatherproof storage bench (Kmart, $149–$199 or Bunnings Suncast brand, $299–$499) in the outdoor zone, containing: outdoor cushions in off-season, spare festoon bulbs, citronella candles, portable Bluetooth speaker, outdoor lanterns, spare tongs and BBQ accessories, and emergency paper napkins — removes all the back-and-forth to the indoor storage areas that interrupts outdoor hosting.
 
-## Tip 14: Design for Daily Use, Not Just for Gatherings
+## Tip 14: Why Design for Daily Use, Not Just for Gatherings?
 
 The outdoor entertaining area that gets the most value — financially, emotionally, and socially — is the one designed to be used every day, not just for parties. The Saturday morning coffee. The Tuesday evening dinner when it's too nice to eat inside. The Sunday afternoon with a book and a glass of wine.
 

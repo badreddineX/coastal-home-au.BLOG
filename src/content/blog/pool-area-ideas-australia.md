@@ -39,7 +39,7 @@ According to [Choice.com.au's home improvement research](https://www.choice.com.
 
 ---
 
-## 1. Choose the Right Pavers — They Make or Break Everything
+## 1. Why Do Pavers Make or Break the Pool Area?
 
 The pool surround is the largest visual element in the space and it's also the most functional. In Australian conditions, paver choice matters for safety, comfort, and longevity. Dark pavers absorb heat and become genuinely dangerous to walk on barefoot in summer. Light-coloured stone — travertine, sandstone, or pale concrete — reflects heat and stays manageable even in 35°C+ conditions.
 
@@ -74,7 +74,7 @@ Teak is the most beautiful and durable natural option — it's naturally water-r
 
 ---
 
-## 4. How to Style Your Pool With Cushions and Textiles
+## 4. How Do You Style Your Pool With Cushions and Textiles?
 
 Outdoor cushions are where the personality of your pool area comes through. They're also the most replaceable element, which makes them a sensible starting point if you're working to a budget. The key rule for pool areas: every cushion must be outdoor-rated, with a quick-dry fill and UV-resistant fabric. Regular indoor cushions go mouldy, fade, and fall apart within one Australian summer of poolside use.
 
@@ -84,7 +84,7 @@ For a coastal Australian aesthetic, work with white, cream, navy, and sandy beig
 
 ---
 
-## 5. Add an Outdoor Rug to Define the Lounging Zone
+## 5. Why Add an Outdoor Rug to Define the Lounging Zone?
 
 An outdoor rug does something surprising in a pool area: it makes the space feel designed rather than just functional. Placed under or between a pair of sun loungers, it defines a zone, adds warmth to hard paving, and signals that the pool area is a room in its own right — not just a wet slab of concrete.
 
@@ -129,7 +129,7 @@ Renters: a portable garden shower head that attaches directly to any outdoor tap
 
 ---
 
-## 9. Create a Pool-Adjacent Dining or Drinks Zone
+## 9. How Do You Create a Pool-Adjacent Dining or Drinks Zone?
 
 The best pool areas aren't just about swimming. They're about living outdoors for as much of the year as possible. A dedicated dining or drinks zone adjacent to the pool — even something as simple as a small side table with an ice bucket and some stools — turns a pool visit into a proper occasion.
 
@@ -140,7 +140,7 @@ If space allows, a full outdoor dining setting under a shade structure alongside
 
 ---
 
-## 10. Add a Feature Wall or Privacy Screen
+## 10. Should You Add a Feature Wall or Privacy Screen?
 
 A plain rendered wall or timber fence behind a pool area can feel stark and unfinished. A simple feature treatment — a coat of crisp white render, a timber privacy screen, or a vertical garden panel — turns that background into an asset rather than something to ignore.
 
@@ -162,7 +162,7 @@ Glass frameless pool fencing is the most popular premium option. It disappears v
 
 ---
 
-## 12. The Finishing Details That Separate Good From Excellent
+## 12. What Finishing Details Separate Good From Excellent?
 
 The difference between a pool area that looks styled and one that looks lived-in and genuinely beautiful is almost always the small repeated details. These are the things that experienced outdoor stylists never skip.
 

@@ -40,7 +40,7 @@ I have a complicated relationship with indoor plants. I've killed a cactus. I've
 
 ---
 
-## 1. Why Coastal Homes Need a Different Approach to Indoor Plants
+## 1. Why Do Coastal Homes Need a Different Approach to Indoor Plants?
 
 According to the [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/people-and-communities/regional-population/latest-release), more than 60% of Australians live within 50km of the coastline, meaning the majority of Australian homes experience the specific combination of high humidity, strong UV, salt-laden breezes, and warm ambient temperatures that define coastal interior growing conditions. Plant selection must account for all four factors. ([ABS](https://www.abs.gov.au/), 2024)
 
@@ -52,7 +52,7 @@ The plants that suffer indoors at the coast are those that need dry conditions: 
 
 ---
 
-## 2. Zanzibar Gem (ZZ Plant) - The Most Forgiving Coastal Indoor Plant
+## 2. Why Is the Zanzibar Gem (ZZ Plant) So Forgiving for Coastal Homes?
 
  This is the plant I recommend to every person who has ever killed an indoor plant and given up. I have three in my home, in spots ranging from a north-facing window to a dim interior corner, and all three are doing well. The Zanzibar Gem has survived my irregular watering, two weeks of neglect, and a summer where the air conditioning broke down. It is genuinely indestructible in the conditions of a coastal Queensland home.
 
@@ -64,7 +64,7 @@ Its glossy, deep green leaves work well in coastal interiors because they contra
 
 ---
 
-## 3. Pothos (Devil's Ivy) - Best for Trailing and Shelving
+## 3. Why Is Pothos (Devil's Ivy) Best for Trailing and Shelving?
 
 Pothos (Epipremnum aureum) is one of the most widely grown indoor plants in Australia for good reason. It grows fast, handles low light and bright indirect light equally well, tolerates inconsistent watering, and produces long trailing stems that look spectacular on a high shelf or hanging planter.
 
@@ -82,7 +82,7 @@ The most readily available Pothos varieties in Australia:
 
 ---
 
-## 4. Peace Lily - Best Blooming Plant for Humid Coastal Rooms
+## 4. Why Is Peace Lily the Best Blooming Plant for Humid Coastal Rooms?
 
 The Peace Lily (Spathiphyllum wallisii) is one of the few indoor plants that flowers reliably in Australian coastal home conditions. It produces elegant white spathe flowers against deep green glossy leaves, and those white tones integrate beautifully into the white-and-natural palette of most coastal interiors.
 
@@ -94,7 +94,7 @@ The [ANPSA](https://anpsa.org.au/) and indoor horticulture researchers identify 
 
 ---
 
-## 5. Bird of Paradise - The Statement Plant for Coastal Rooms
+## 5. Why Is Bird of Paradise the Statement Plant for Coastal Rooms?
 
 If you want one plant that makes a room look designed rather than decorated, the Bird of Paradise (Strelitzia reginae or Strelitzia nicolai) is it. The large, glossy, paddle-shaped leaves bring a tropical quality that is unmistakably right for an Australian coastal home. A single large specimen in a terracotta pot in a bright corner can anchor an entire living room.
 
@@ -106,7 +106,7 @@ Bird of Paradise plants need bright indirect light to thrive indoors. A spot wit
 
 ---
 
-## 6. Heartleaf Philodendron - Best for Low-Light Coastal Interiors
+## 6. Why Is Heartleaf Philodendron Best for Low-Light Coastal Interiors?
 
 The Heartleaf Philodendron (Philodendron hederaceum) is the plant I put in every dark corner of my home. It trails like Pothos, tolerates low light better than most indoor plants, and has a softer, more heart-shaped leaf that brings a different texture to a plant collection.
 
@@ -120,7 +120,7 @@ In coastal humidity, Philodendrons grow fast. Mine have produced new leaves ever
 
 ---
 
-## 7. Rubber Plant - Bold Foliage for a Coastal Statement
+## 7. Why Choose a Rubber Plant for Bold Coastal Foliage?
 
 The Rubber Plant (Ficus elastica) offers something different from the softer, trailing plants on this list: bold, upright structure with large, waxy leaves in deep burgundy, green, or variegated forms. In a coastal room dominated by whites, naturals, and linens, a burgundy Rubber Plant in a white ceramic pot provides dramatic contrast without competing with the palette.
 
@@ -134,7 +134,7 @@ One practical note: wipe the large leaves monthly with a damp cloth. Dust and sa
 
 ---
 
-## 8. Chain of Hearts - Best Hanging Plant for Coastal Bedrooms
+## 8. Why Is Chain of Hearts the Best Hanging Plant for Coastal Bedrooms?
 
 Chain of Hearts (Ceropegia woodii) is one of the most charming indoor plants available in Australia and consistently undersold in most styling guides. The long, delicate trailing stems carry small heart-shaped leaves in grey-green and purple tones, and the overall effect in a hanging planter is extraordinarily pretty.
 
@@ -146,7 +146,7 @@ It suits coastal bedrooms and bathrooms particularly well because of its compact
 
 ---
 
-## 9. Golden Cane Palm - Best Large Plant for a Coastal Living Room
+## 9. Why Is Golden Cane Palm the Best Large Plant for a Coastal Living Room?
 
 Nothing says coastal Queensland living room quite like a Golden Cane Palm (Dypsis lutescens) in a large terracotta or woven basket. This palm brings genuine tropical presence -- the kind of look that makes a room feel like a luxury beach house rather than a suburban lounge.
 
@@ -158,7 +158,7 @@ NASA's Clean Air Study includes Golden Cane Palm among the most effective indoor
 
 ---
 
-## 10. Boston Fern - Best Fern for Coastal Bathrooms and Humid Zones
+## 10. Why Is Boston Fern Best for Coastal Bathrooms and Humid Zones?
 
 Ferns and coastal homes have a complicated relationship. Most ferns want high humidity and indirect light -- exactly what a coastal bathroom provides, but not what most other rooms in the house offer. The Boston Fern (Nephrolepis exaltata) is the most forgiving of the commonly available ferns in Australian nurseries, and in the right spot, it's genuinely spectacular.
 
@@ -174,7 +174,7 @@ Outside the bathroom, Boston Ferns struggle in air-conditioned rooms and anywher
 
 ---
 
-## 11. Monstera Deliciosa - The Most Photogenic Coastal Plant
+## 11. Why Is Monstera Deliciosa the Most Photogenic Coastal Plant?
 
 The Monstera (Monstera deliciosa) has been the most-photographed indoor plant in Australia for the past decade, and with good reason. Those distinctive split leaves are visually striking in a way that no other common indoor plant matches. In a coastal home with white walls and natural textures, a mature Monstera is extraordinary.
 
@@ -188,7 +188,7 @@ One genuine concern: Monsteras grow large. A mature specimen in a good position 
 
 ---
 
-## 12. How to Style Indoor Plants in a Coastal Home
+## 12. How Do You Style Indoor Plants in a Coastal Home?
 
  After trialling multiple plant styling approaches across three rooms in my coastal home, the arrangement that consistently drew the most positive comments was a group of three plants at different heights -- a tall floor plant, a medium shelf plant, and a small trailing plant at the lowest level -- positioned in the corner of a room where two white walls meet. The triangle of heights creates visual interest and a sense of abundance that individual well-spaced plants can never replicate.
 

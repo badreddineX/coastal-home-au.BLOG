@@ -34,13 +34,13 @@ The trick isn't the space itself. It's learning to use every part of it correctl
 
 ![Small Australian backyard styled for entertaining with zoned dining and lounge areas](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
-## Tip 1: Zone the Space Into Three Areas — Even If They Overlap
+## Tip 1: How Do You Zone the Space Into Three Areas — Even If They Overlap?
 
 The biggest mistake in small backyard entertaining is treating the whole space as one undifferentiated area. Even in a 6×8m yard, you can define three distinct zones: a dining area, a drinks/lounge area, and a BBQ station. The furniture arrangement creates the zones — they don't need walls.
 
 **My layout:** Dining table and chairs in the centre (the primary zone), a small bar cart and esky in one corner (the drinks zone), and the BBQ on a rear side with a small prep table beside it (the cooking zone). Guests naturally distribute themselves across the three areas rather than clustering in one spot.
 
-## Tip 2: Buy a Fold-Out Extension Table
+## Tip 2: Should You Buy a Fold-Out Extension Table?
 
 The single most important furniture investment for a small backyard is an extension table. My current table is a 4-seater that extends to 8 with a single leaf, and then clips onto a folding extension table to seat 12 for the bigger gatherings. On a normal Tuesday night, it's compact. On Christmas Day, it seats the whole family.
 
@@ -51,7 +51,7 @@ The single most important furniture investment for a small backyard is an extens
 
 The folding extension table approach (a separate fold-out table that joins the primary table) is the most space-efficient. Both tables store flat against a wall or in a shed when not in use.
 
-## Tip 3: Use Bench Seating Along One or Two Sides
+## Tip 3: Why Use Bench Seating Along One or Two Sides?
 
 Bench seating takes up roughly 40% less floor space than individual chairs and can accommodate more people per linear metre. I added a simple timber bench along our fence line on one side of the dining table — it seats four across the length that individual chairs would seat three, and tucks under the table completely when not in use.
 
@@ -59,7 +59,7 @@ Bench seating takes up roughly 40% less floor space than individual chairs and c
 
 **Buy option:** Temple & Webster and Kmart both stock outdoor benches from $79–$299.
 
-## Tip 4: Install a Shade Sail Above the Primary Dining Area
+## Tip 4: Should You Install a Shade Sail Above the Primary Dining Area?
 
 In the Queensland and NSW heat, a small backyard without shade is an unusable backyard for half the year. A shade sail was the single investment that transformed our backyard from a five-months-a-year space into a year-round one.
 
@@ -69,7 +69,7 @@ In the Queensland and NSW heat, a small backyard without shade is an unusable ba
 
 ![Small backyard with outdoor rug, festoon lights, and vertical garden on fence in Australian home](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 5: Use Vertical Space on the Fences
+## Tip 5: How Do You Use Vertical Space on the Fences?
 
 The fences in a small backyard are the most underused real estate. Vertical space adds greenery, privacy, and visual dimension without removing a single square metre of floor area. What I've added to our fence line:
 
@@ -79,7 +79,7 @@ The fences in a small backyard are the most underused real estate. Vertical spac
 
 The result is a backyard that reads as much larger than its footprint because there's visual interest at multiple heights.
 
-## Tip 6: Choose Stackable Chairs for Flexible Seating
+## Tip 6: Why Choose Stackable Chairs for Flexible Seating?
 
 For a small backyard, standard dining chairs are too space-consuming for the number they seat. I switched to Tolix-style metal stackable chairs (Temple & Webster, $65–$110 each) — four live outside year-round, four more stack in the shed and come out for gatherings. Eight chairs stored in the same footprint as two standard dining chairs.
 
@@ -88,13 +88,13 @@ For a small backyard, standard dining chairs are too space-consuming for the num
 - Temple & Webster Tolix-style chairs: $65–$110 each, more robust finish
 - Bunnings outdoor folding chair: $25–$45, folds flat for storage
 
-## Tip 7: Create a Dedicated Drinks Station in a Corner
+## Tip 7: How Do You Create a Dedicated Drinks Station in a Corner?
 
 A drinks station in one corner of the backyard removes the constant traffic to and from the kitchen and creates a natural gathering point that keeps flow away from the dining table. In a small space, distributing the activity points across the space is essential for managing crowd movement.
 
 **My setup:** A small weatherproof cabinet from IKEA (GREJIG outdoor unit, $129) in a corner, with a bar tray on top for spirits and mixers, and a 35L Dometic cooler beside it for cold drinks. Total cost: under $300.
 
-## Tip 8: Use Ground-Level Lighting as Well as Overhead
+## Tip 8: Why Use Ground-Level Lighting as Well as Overhead?
 
 Festoon lights overhead (the obvious choice) create a beautiful canopy for evening entertaining. But ground-level lighting — solar stakes along the garden edges, lanterns on the table, and candles on any surface — adds depth and warmth that overhead lights alone can't achieve.
 
@@ -107,23 +107,23 @@ The combination costs under $130 and creates an outdoor room atmosphere that mak
 
 ![Small backyard BBQ corner with organised tools, prep table, and adjacent dining zone in Australia](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
-## Tip 9: Add a Wall-Mounted or Hanging BBQ Tool Organiser
+## Tip 9: Should You Add a Wall-Mounted or Hanging BBQ Tool Organiser?
 
 In a small backyard, the BBQ area needs to be compact and organised. A wall-mounted magnetic rack or hook bar for BBQ tools from Bunnings ($25–$45) keeps tongs, brushes, and spatulas within reach without requiring a separate surface. A small fold-out prep shelf ($49–$89 from Bunnings) clips onto the BBQ itself for plates and condiments.
 
-## Tip 10: Paint the Fence a Light Colour
+## Tip 10: Why Paint the Fence a Light Colour?
 
 A dark fence in a small backyard makes it feel enclosed and smaller. Painting our fence Dulux Natural White with a semi-gloss exterior finish visually expanded our backyard by — genuinely — what felt like 30%. Light colours on vertical surfaces reflect light and recede visually, making the space feel more open.
 
 **Cost:** Dulux Weathershield exterior paint, 4L ($75–$95 from Bunnings), covers approximately 40 linear metres of standard paling fence at a single coat.
 
-## Tip 11: Keep the Floor Surface Continuous and Light
+## Tip 11: Why Keep the Floor Surface Continuous and Light?
 
 We replaced the original dark charcoal concrete pavers with large-format (600×600mm) light sandstone-look pavers from Beaumont Tiles. The change was dramatic — the space felt 40% larger after the repavement. Large-format light-coloured pavers are the most effective floor-level change for making a small outdoor space feel larger.
 
 **Budget alternative:** If full repaving isn't feasible, a large outdoor rug over existing paving achieves a similar visual expansion effect and can be removed or changed seasonally.
 
-## Tip 12: Invest in Outdoor Lighting on a Timer
+## Tip 12: Should You Invest in Outdoor Lighting on a Timer?
 
 The finishing detail that makes a small backyard feel like a well-considered outdoor room is lighting that comes on automatically at dusk. A $15–$25 timer plug from Bunnings on the festoon lights means the backyard is always ready when you step outside in the evening — no switching things on, no missing the magical early-dusk moment.
 

@@ -39,7 +39,7 @@ The Hamptons kitchen is the most coveted kitchen style in Australian homes right
 
 ---
 
-## 1. Start With Shaker Cabinet Doors — The Defining Element
+## 1. Why Start With Shaker Cabinet Doors — The Defining Element?
 
 No single element defines a Hamptons kitchen more than shaker-profile cabinet doors. The recessed panel, the clean lines, the way they read as both traditional and contemporary — this is the DNA of the style. If your kitchen currently has flat-panel or heavily ornate doors, switching to shaker profile is the highest-impact upgrade you can make.
 

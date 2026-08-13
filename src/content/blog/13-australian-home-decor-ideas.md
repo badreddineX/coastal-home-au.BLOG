@@ -34,7 +34,7 @@ Here are the 13 ideas and principles I keep returning to. According to [Domain.c
 
 ![Bright Australian home interior with warm white walls, pale timber floors, and linen sofa](/images/unsplash-1560448204-e02f11c3d0e2.jpg)
 
-## Tip 1: Build Everything Around the Indoor-Outdoor Connection
+## Tip 1: How Do You Build Everything Around the Indoor-Outdoor Connection?
 
 Australian home decor is fundamentally about the relationship between inside and outside. The home that looks and feels most authentically Australian is the one where the distinction between the interior and the alfresco is genuinely blurred — where opening the sliding glass doors is something that happens by 8am and closes at 9pm.
 
@@ -48,7 +48,7 @@ The alfresco is not an afterthought. In a well-designed Australian home, it's th
 
 **Where to start:** Linen sheer curtains from IKEA AU (HILJA range, ~$39-$59 AUD per pair) are the most affordable way to soften windows facing the garden. Temple & Webster's indoor-outdoor rugs (~$89-$299 AUD) unify the transition zone between interior and alfresco beautifully.
 
-## Tip 2: Paint the Walls Warm White — Not Beige, Not Grey
+## Tip 2: Why Paint the Walls Warm White Instead of Beige or Grey?
 
 The defining colour decision of contemporary Australian home decor is warm white walls. Not the grey-white that dominated Australian interiors 2014—2019. Not the cream-beige that dates quickly. A clean, slightly warm white: Dulux Natural White, Dulux Antique White USA, or Taubmans White on White.
 
@@ -56,7 +56,7 @@ Warm white works in every Australian climate because it bounces the abundant nat
 
 **Recommended paints:** Dulux Natural White (10L interior low-sheen, ~$79 AUD from Bunnings) or Taubmans White on White (~$75 AUD per 10L) are the most-used warm whites in Australian coastal homes. A sample pot (~$8 AUD) is worth buying before committing to a full room.
 
-## Tip 3: Use Natural Materials at Every Scale
+## Tip 3: How Do You Use Natural Materials at Every Scale?
 
 The material vocabulary of authentic Australian home decor:
 - **Large scale:** Pale timber floors (spotted gum, blackbutt, or oak in a light finish), jute rugs, linen sofas
@@ -67,7 +67,7 @@ Every scale should be represented in every room. A room with natural materials o
 
 **Where to shop:** Adairs carries quality jute rugs from ~$79-$349 AUD. Kmart's rattan pendant lights start at ~$29 AUD. Temple & Webster's woven storage baskets run ~$25-$89 AUD and work at every scale in the room.
 
-## Tip 4: Choose Linen Over Everything
+## Tip 4: Why Choose Linen Over Everything Else?
 
 Australian home decor prioritises linen above all other textiles. Linen sofas, linen bedding, linen curtains, linen cushion covers, linen table runners. The material is breathable (essential in warm climates), improves with washing and age, and looks better wrinkled and lived-in than polyester or cotton ever does.
 
@@ -77,7 +77,7 @@ If I had to give one material-based rule for Australian home decor, it would be:
 
 ![Rattan armchair in natural tone beside a linen sofa in a bright Australian living room](/images/unsplash-1522444195799-478538b28823.jpg)
 
-## Tip 5: Embrace the Rattan Moment — It's Not Going Anywhere
+## Tip 5: Should You Embrace the Rattan Moment?
 
 Rattan has been the defining material of Australian coastal interiors for over a decade and shows no sign of being displaced. A rattan element — even a single piece — in every room of a home consistently reads as "Australian" to eyes tuned to international interior trends. It's genuinely local in both material and aesthetic resonance.
 
@@ -90,7 +90,7 @@ Rattan has been the defining material of Australian coastal interiors for over a
 
 Rattan from Temple & Webster ($89–$1,299 depending on piece), or vintage and preloved from Facebook Marketplace (often $20–$80 for quality pieces).
 
-## Tip 6: Bring the Garden Inside With Living Plants
+## Tip 6: How Do You Bring the Garden Inside With Living Plants?
 
 Australian homes at their most beautiful always have living plants inside. Not artificial plants — real plants in terracotta or ceramic pots that grow and change and occasionally drop a leaf and need watering. The fiddle leaf fig became a cliché because it is genuinely perfect for Australian interiors: large, dramatic, light-requiring, and suited to the warm interiors of Queensland and NSW.
 
@@ -103,7 +103,7 @@ Australian homes at their most beautiful always have living plants inside. Not a
 
 **What to buy and where:** Fiddle leaf figs from Bunnings run ~$29-$79 AUD depending on size. A large terracotta pot for an olive tree costs ~$25-$45 AUD at Bunnings garden centre. The olive tree itself is ~$49-$89 AUD, making a complete entry statement achievable for under $140 AUD.
 
-## Tip 7: Display Australian-Made Art
+## Tip 7: Where Do You Find Australian-Made Art?
 
 The interior detail that most distinguishes a genuinely Australian home from a generically-decorated one: Australian-made art on the walls. Not Australian-themed art (kangaroos and Uluru are not required), but art made by Australian artists — landscape photography in Australian light, abstract works that reference Australian colour and form, or ceramics from Australian makers.
 
@@ -114,7 +114,7 @@ The interior detail that most distinguishes a genuinely Australian home from a g
 - Local markets in coastal cities (Noosa, Byron Bay, Gold Coast, Fremantle): often the best value for original Australian work
 - Temple & Webster's curated Australian art prints: ~$39-$299 AUD framed, a reliable starting point if markets aren't accessible
 
-## Tip 8: Design for Daily Life, Not for Display
+## Tip 8: Should You Design for Daily Life or for Display?
 
 Australian home decor is fundamentally about liveability. The rooms that look most genuinely Australian are the ones that look like they're actually used — a good book on the coffee table, a throw that's been pulled around someone's shoulders, a ceramics collection that is visually interesting because each piece has a story.
 
@@ -124,7 +124,7 @@ The Australian home decor aesthetic is not about maintaining a display. It's abo
 
 ![Quality linen sofa in a warm white coastal Australian living room with timber floors](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
-## Tip 9: Invest in Quality Sofas and Beds
+## Tip 9: Where Should You Invest in Quality Sofas and Beds?
 
 In Australian home decor, the quality investment decisions are: the sofa (the primary piece of every living room), the bed (the primary piece of every bedroom), and the mattress. Everything else can be sourced at lower cost without the quality compromise being visually apparent.
 
@@ -132,13 +132,13 @@ A cheap sofa in linen fabric reads badly within 18 months — sagging, pilling, 
 
 **Budget guide:** Freedom's mid-range linen sofas start from ~$1,899 AUD for a two-seater. Nick Scali runs ~$2,499-$4,999 AUD for a three-seater with a genuine frame warranty. Temple & Webster's premium linen range starts around ~$1,299 AUD — a reasonable entry point if the budget is tight. For a bed frame, Adairs' solid timber options start from ~$699 AUD in a queen size.
 
-## Tip 10: Use Terracotta as the Primary Accent Material
+## Tip 10: Why Use Terracotta as the Primary Accent Material?
 
 Terracotta — as pots, as decorative objects, as tile accents in a kitchen or bathroom — is one of the most distinctly Australian and Mediterranean accent materials. In a white-walled, jute-rugged, linen-furnished interior, a cluster of terracotta pots in varying sizes on a shelf, windowsill, or coffee table creates warmth and an organic quality that no synthetic material achieves.
 
 Bunnings garden centre terracotta pots: $4–$45 depending on size. Temple & Webster terracotta decorative objects: $15–$89. The scale and variety of terracotta groupings matters — a single small terracotta pot is underwhelming; a group of three to five in varying heights is a design statement.
 
-## Tip 11: Choose Timber Flooring in a Light Finish
+## Tip 11: Why Choose Timber Flooring in a Light Finish?
 
 Dark timber floors — the dominant Australian floor choice 2005—2015 — have been largely supplanted by pale oak, spotted gum in a light finish, and large-format stone-look tiles in sandy tones. The light floor reflects light upward, makes rooms feel larger, and works with the warm white palette to create the airy quality that defines contemporary Australian interiors.
 
@@ -146,13 +146,13 @@ If you have existing dark timber floors, a lighter rug over the primary zone and
 
 **Cost guide:** Pale oak engineered timber flooring runs ~$45-$120 AUD per m2 for materials through Bunnings or Carpet Court, plus installation (~$25-$40 AUD per m2). For renters or those on a tight budget, a large Kmart jute or sisal rug (~$59-$149 AUD) placed over dark floorboards makes a significant visual difference for very little outlay.
 
-## Tip 12: Edit Accessories to the Essential
+## Tip 12: How Do You Edit Accessories to the Essential?
 
 Australian home decor is not maximalist. The authentic Australian interior contains fewer accessories than most international interiors, and the ones present are natural-material pieces with actual visual interest — a beautiful piece of ceramics, a hand-woven basket, a piece of driftwood, or a flowering plant.
 
 The edit rule: if an object has no visual value (it doesn't contribute to the palette or the material story) and no personal significance, it doesn't earn floor space.
 
-## Tip 13: Let the Light Lead Every Decision
+## Tip 13: How Should Light Lead Every Decision?
 
 Australian light is the starting material for Australian home decor. The quality, direction, and intensity of natural light in any given room should determine every decision that follows it — the wall colour, the curtain choice, the furniture placement, and the degree of visual complexity appropriate to the space.
 

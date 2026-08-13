@@ -34,7 +34,7 @@ These are the 13 principles I return to every time I'm designing or redesigning 
 
 ![Light-filled Australian coastal living room with white walls, linen sofa, and large windows](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
-## Tip 1: Start With Light — It's the Primary Material
+## Tip 1: Why Start With Light as the Primary Material?
 
 In coastal interior design, natural light is treated as a material — not a given, not a background condition, but as an active design element that shapes the character of every room. Before I buy any furniture, choose any paint colour, or hang any art, I analyse the light in a room: which direction does it face, what time of day is it strongest, what obstructs it, and what amplifies it?
 
@@ -46,7 +46,7 @@ In coastal interior design, natural light is treated as a material — not a giv
 
 The first investment in any coastal interior is never furniture — it's removing what blocks the light (heavy curtains, shutters that stay closed) and adding what amplifies it (light paint, mirrors, reflective surfaces).
 
-## Tip 2: Apply the Warm White Palette Before Everything Else
+## Tip 2: Why Apply the Warm White Palette Before Everything Else?
 
 Warm white walls are the pre-condition for everything else in coastal interior design. Every natural material — jute, rattan, linen, timber — looks beautiful against warm white. The same materials against cool grey, dark colour, or cream-beige look heavy and confused. For a thorough room-by-room breakdown of how to apply this palette, the [coastal home decor Australia](/blog/06-coastal-home-decor-australia) guide covers every space from the living room to the alfresco.
 
@@ -58,7 +58,7 @@ Warm white walls are the pre-condition for everything else in coastal interior d
 
 The consistency is the point. Different whites in different rooms create visual discord. One warm white throughout creates the seamless, airy quality that defines the best coastal interiors.
 
-## Tip 3: Choose Natural Materials at Every Scale
+## Tip 3: How Do You Choose Natural Materials at Every Scale?
 
 The coastal interior material hierarchy: natural at large scale (timber floors, jute rug, linen sofa), natural at medium scale (rattan chair, woven basket, ceramic lamps), and natural at small scale (terracotta pots, woven coasters, wooden accessories). Every scale of visual decision uses the same material vocabulary.
 
@@ -71,7 +71,7 @@ The coastal interior material hierarchy: natural at large scale (timber floors, 
 
 Exceptions for function are acceptable (synthetic outdoor fabric for outdoor cushions, for example). Exceptions for aesthetics are where coastal design goes wrong.
 
-## Tip 4: Maximise the Indoor-Outdoor Connection
+## Tip 4: How Do You Maximise the Indoor-Outdoor Connection?
 
 Australian coastal interior design is inseparable from the outdoor space. The home extends to the alfresco, the backyard, the balcony — and the interior design should acknowledge this. The connection is both visual (the outdoor space visible from inside, with consistent materials and palette) and physical (doors and thresholds that open rather than close the connection).
 
@@ -83,7 +83,7 @@ Australian coastal interior design is inseparable from the outdoor space. The ho
 
 ![Natural rattan armchair beside linen sofa in a bright Australian coastal room](/images/unsplash-1522444195799-478538b28823.jpg)
 
-## Tip 5: Layer Textures Rather Than Colours
+## Tip 5: Why Layer Textures Rather Than Colours?
 
 The richest-looking coastal rooms aren't full of colour — they're full of texture. I've learned to think of texture as the primary dimension of interest in a coastal interior: smooth linen versus chunky woven, fine ceramic versus rough terracotta, polished timber versus raw jute.
 
@@ -99,13 +99,13 @@ A room where all surfaces are the same texture — all smooth, all rough, all wo
 
 Six different textures, all from the natural material family. The result is a room that rewards looking at closely.
 
-## Tip 6: Edit Relentlessly — Less Is Always More
+## Tip 6: Why Edit Relentlessly — Is Less Always More?
 
 Coastal interior design requires more editing than adding. The fundamental error in most Australian coastal decorating attempts I've seen is having too many objects — surfaces covered, shelves full, every corner occupied. The coastal aesthetic depends on breathing room.
 
 My editing discipline: once per season, I clear every surface in every room and return objects one at a time, in groups of odd numbers (1, 3, or 5), with space between them. Anything that hasn't been noticed in three months goes into a box. After three more months, if I haven't gone looking for it, it goes to the op shop.
 
-## Tip 7: Use Mirrors to Multiply Light
+## Tip 7: How Do Mirrors Multiply Light in a Room?
 
 Mirrors in coastal interiors serve a specific design purpose: multiplying natural light in rooms that need it. A large mirror (90cm or wider) on a wall opposite a window doubles the apparent depth of the room and creates the illusion of a second light source.
 
@@ -116,7 +116,7 @@ Mirrors in coastal interiors serve a specific design purpose: multiplying natura
 
 Combined effect: every room with a mirror feels larger and brighter than its actual dimensions.
 
-## Tip 8: Choose Furniture That Sits Low
+## Tip 8: Why Choose Furniture That Sits Low?
 
 Furniture height is underappreciated as a coastal design principle. Low furniture — sofas with low arms and backs, coffee tables at 35—40cm height, beds without tall headboards — allows the eye to travel through the room without interruption and reinforces the horizontal quality of the coastal landscape.
 
@@ -124,7 +124,7 @@ Australian coastal design has moved away from the high-back sofa and the formal 
 
 ![White coastal kitchen with timber open shelving, rattan pendants and stone benchtop](/images/unsplash-1556909212-d5b604d0c90d.jpg)
 
-## Tip 9: Design the Kitchen in White and Natural Timber
+## Tip 9: How Do You Design the Kitchen in White and Natural Timber?
 
 The coastal kitchen is a white kitchen — white shaker-profile cabinetry, white or stone-look benchtops, white subway tile splashback. The natural timber element: open shelving in light timber, or timber legs on a kitchen island. The [Australian coastal colour palette](/blog/australian-coastal-colour-palette) guide goes deeper into how to choose whites, timber tones, and accent shades that work together across the entire home including the kitchen.
 
@@ -136,19 +136,19 @@ The coastal kitchen is a white kitchen — white shaker-profile cabinetry, white
 
 The coastal kitchen is not a dark kitchen, not a two-tone kitchen, and not a kitchen with coloured cabinetry. It's white, and it's the white that makes it coastal.
 
-## Tip 10: Design Each Bedroom as a Retreat
+## Tip 10: How Do You Design Each Bedroom as a Retreat?
 
 The coastal bedroom is the most personal coastal room — and the one where the quality of the material choices matters most, because you literally live in it. Linen bedding is non-negotiable. A rattan element (bedhead, pendant, or bedside table) at minimum one per bedroom. Curtains to the ceiling. No overhead lights — bedside lamps only in the evening.
 
-## Tip 11: Treat the Bathroom as a Coastal Space
+## Tip 11: How Do You Treat the Bathroom as a Coastal Space?
 
 The coastal bathroom is often the last room given design attention and it deserves more. White stone-look or subway tiles, rattan mirror, white waffle-weave towels, a trailing plant on the shelf, and a single quality scented candle or diffuser. The same materials and palette as every other room in the house — consistency is the point.
 
-## Tip 12: Let the Architecture Breathe
+## Tip 12: How Do You Let the Architecture Breathe?
 
 The best coastal homes don't fight their architecture — they work with it. If your home has good bones (high ceilings, large windows, open plan), the coastal design approach is to maximise those qualities. If your home has low ceilings and small rooms, the approach is compensatory: ceiling-height curtains, light colours, mirrors, and restraint in furniture scale.
 
-## Tip 13: Design for How You Actually Live, Not for How It Photographs
+## Tip 13: Should You Design for How You Live or How It Photographs?
 
 The coastal interior that appears most beautiful in lifestyle photography is often the one that functions least well as a home. No books visible on the shelves. No children's things on the floor. No dog bed in the corner. No actual life.
 

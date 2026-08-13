@@ -36,7 +36,7 @@ Hamptons living rooms work in Australia for one simple reason: we share the same
 
 ![Hamptons living room with white walls, linen sofa, jute rug, and rattan pendant light in an Australian home](/images/unsplash-1583847268964-b28dc8f51f92.jpg)
 
-## 1. Wall Colour: Warm White vs Cool White
+## 1. Should You Choose Warm White or Cool White Walls?
 
 The Hamptons look starts and ends with the walls. In the American original, crisp white is standard — but Australian light is far more intense than New England light. Pure cool white bounces harshly off our walls midday and reads almost blue in the afternoon. The fix is simple: go warm.
 
@@ -46,7 +46,7 @@ I've tested both in Gold Coast interiors and the difference is immediately visib
 
 If you're renting, skip the paint and lean harder on every other element in this list. A warm white palette can come entirely from soft furnishings and timber.
 
-## 2. The Sofa: Deep, Linen, and Lived-In
+## 2. What Makes the Perfect Hamptons Sofa?
 
 The sofa is the centrepiece of a Hamptons living room, and getting it right matters more than any other furniture decision. You're looking for something deep enough to genuinely sink into — not a formal sitting sofa, but one that invites a Sunday afternoon nap.
 
@@ -54,7 +54,7 @@ The classic Hamptons sofa is slipcovered in white or natural linen. In Australia
 
 **Bold move:** Temple & Webster's Felix or Elara sofas sit squarely in the Hamptons aesthetic and range from ~$1,400-$2,800 AUD depending on size. Freedom also carries mid-range Hamptons-style sofas worth considering.
 
-## 3. The Rug: Size Up and Go Natural
+## 3. How Big Should Your Hamptons Rug Be?
 
 If you do one thing in your living room to move it toward Hamptons style, make it the rug. A well-chosen rug defines the seating zone, adds the texture the style depends on, and grounds the whole room in a way that nothing else does.
 
@@ -66,7 +66,7 @@ Material matters too. Jute, sisal, and cotton flatweave all work beautifully. Fo
 
 **Bold move:** The Baya Havana Jute rug from Adairs starts from ~$180 AUD for a 160x230cm. Similar woven options at Temple & Webster go up to ~$500 AUD for premium sizes.
 
-## 4. Curtains: Floor-to-Ceiling Changes Everything
+## 4. Why Do Floor-to-Ceiling Curtains Change Everything?
 
 Curtains are the most underrated element in a Hamptons living room. A generous, floor-to-ceiling linen curtain in white or natural does two things at once: it makes the room feel taller than it is, and it adds a softness that's impossible to achieve any other way.
 
@@ -78,7 +78,7 @@ If you're renting, this is one of the easiest wins. Curtains are always removabl
 
 ![Floor-to-ceiling linen curtains in white framing a bright Hamptons coastal living room](/images/unsplash-1600210492493-0946911123ea.jpg)
 
-## 5. Lighting: The Rattan Pendant as Signature Element
+## 5. Why Is the Rattan Pendant the Signature Lighting Piece?
 
 Rattan pendant lights have become the signature piece of the Australian coastal interior, and they belong at the heart of any Hamptons living room. They're sculptural, warm, and do something that no recessed downlight can: they create a focal point that immediately reads as considered and styled.
 
@@ -88,7 +88,7 @@ I'd argue the rattan pendant is the single item that signals "Hamptons" more cle
 
 If you're renting and can't replace the light fitting, a plug-in pendant with a fabric cord is a completely removable alternative. They're widely available on Etsy Australia from ~$60-$120 AUD.
 
-## 6. Cushions and Textiles: Mix, Don't Match
+## 6. Should You Mix or Match Cushions and Textiles?
 
 Cushions are where the Hamptons palette becomes visible. The classic combination is white, navy, and natural linen — but the key word is "mix." Matching cushion sets look retail-display flat. What you want is layered: different sizes, slightly different textures, and a few tonal variations within the palette.
 
@@ -98,7 +98,7 @@ Think of it this way: one large linen cushion in natural, one smaller one in nav
 
 In our experience styling coastal living rooms, the rule of odd numbers works: three cushions on a two-seater, five on a three-seater. It always looks more natural than even-numbered arrangements.
 
-## 7. The Coffee Table: Timber, Rattan, or Both
+## 7. Timber, Rattan, or Both for Your Coffee Table?
 
 The coffee table in a Hamptons living room is never glass and chrome. It's timber — ideally a light-stained or whitewashed timber with natural grain visible — or a large rattan tray on a simple base, or a combination of both with a tray on top of a timber surface.
 
@@ -108,7 +108,7 @@ What sits on the coffee table matters as much as the table itself. A stack of ov
 
 ![Deep linen sofa in natural with layered cushions and a woven coffee table in a coastal living room](/images/unsplash-1586023492125-27b2c045efd7.jpg)
 
-## 8. Artwork: Make It Australian
+## 8. How Do You Make the Artwork Genuinely Australian?
 
 The most authentically Australian thing you can do in a Hamptons interior is hang artwork that's genuinely from here. That means coastal photography of the Great Barrier Reef or the Whitsundays, botanical prints of protea or banksia, or abstract ocean paintings in blues and sandy neutrals.
 
@@ -118,7 +118,7 @@ Forget generic beach photographs that could be anywhere. Australian coastal art 
 
 The best gallery walls we've seen in Australian Hamptons interiors mix one large coastal photo, two medium botanical prints, and one smaller abstract — all in matching white frames. The asymmetry of sizes creates visual interest without looking random.
 
-## 9. Accessories and Plants: The Finishing Layer
+## 9. Which Accessories and Plants Finish the Room?
 
 Accessories are where the room goes from styled to lived-in. In a Hamptons living room, every accessory should either add texture or reference the coast. Wicker baskets stacked in a corner, a driftwood sculpture on the bookshelf, ceramic coastal vases in white or sand — these are the details that make a room feel complete.
 
@@ -126,7 +126,7 @@ Plants belong in every Australian Hamptons room. A potted Monstera deliciosa in 
 
 **Bold move:** Source accessories from Adairs and Temple & Webster rather than homewares chain stores. The quality and styling are noticeably better, and both regularly run 20-30% off sales worth waiting for.
 
-## 10. The Hamptons Palette in Australian Terms
+## 10. What Does the Hamptons Palette Look Like in Australian Terms?
 
 The classic Hamptons palette is white, navy, and sandy beige. In Australian homes, I'd push it slightly warmer and looser than the American original.
 

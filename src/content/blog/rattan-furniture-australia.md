@@ -51,7 +51,7 @@ Synthetic rattan — also called PE rattan or all-weather wicker — is made fro
 
 ---
 
-## 2. How to Style Rattan in the Living Room
+## 2. How Do You Style Rattan in the Living Room?
 
 The living room is where rattan has its greatest design impact in an Australian home. The texture reads immediately — it's warm, it's coastal, and it makes a room feel considered without requiring a complete furniture overhaul.
 
@@ -64,7 +64,7 @@ For a cohesive look, pair rattan with linen and cotton textiles in white, cream,
 
 ---
 
-## 3. The Best Rattan Pieces for an Australian Living Room
+## 3. Which Rattan Pieces Work Best for an Australian Living Room?
 
 Not all rattan living room pieces deliver equal impact. Some earn their place immediately — others clutter the space without contributing to the aesthetic. Here is where rattan works hardest in an Australian living room, ranked by impact:
 
@@ -80,7 +80,7 @@ Not all rattan living room pieces deliver equal impact. Some earn their place im
 
 ---
 
-## 4. How to Bring Rattan Into the Bedroom
+## 4. How Do You Bring Rattan Into the Bedroom?
 
 The bedroom is where rattan can be used most softly and effectively. It doesn't need to dominate — a single rattan headboard, a woven pendant above the bedside table, or a pair of rattan side tables is enough to introduce the texture without overwhelming a space that needs to feel calm.
 
@@ -105,7 +105,7 @@ The practical consideration: rattan dining chairs can collect crumbs in the weav
 
 ---
 
-## 6. How to Use Rattan Furniture Outdoors in Australia
+## 6. How Do You Use Rattan Furniture Outdoors in Australia?
 
 For outdoor areas, the rule is simple: natural rattan stays inside, synthetic PE rattan goes outside. Outdoor rattan furniture (PE rattan on aluminium frames) is one of the most popular outdoor furniture categories in Australia because it delivers the warmth and texture of natural rattan with none of the maintenance or fragility concerns.
 
@@ -120,7 +120,7 @@ For pool areas and balconies with significant sun exposure, choose PE rattan fur
 
 ---
 
-## 7. Where to Buy Rattan Furniture in Australia
+## 7. Where Should You Buy Rattan Furniture in Australia?
 
 The Australian rattan furniture market has expanded significantly over the past five years. Here are the retailers consistently worth checking, ordered from budget to premium:
 
@@ -140,7 +140,7 @@ The Australian rattan furniture market has expanded significantly over the past 
 
 ---
 
-## 8. How to Care for Natural Rattan Furniture in Australia
+## 8. How Do You Care for Natural Rattan Furniture in Australia?
 
 Natural rattan needs more care than most people expect when they buy it. In Australia's dry interior climates and air-conditioned homes, rattan can dry out and crack without regular maintenance. In humid coastal areas, improper care leads to mould.
 
@@ -154,7 +154,7 @@ Keep natural rattan away from direct sunlight — UV exposure bleaches the colou
 
 ---
 
-## 9. How to Style Rattan for the Coastal Australian Look
+## 9. How Do You Style Rattan for the Coastal Australian Look?
 
 Rattan exists in a comfortable overlap between coastal, Hamptons, and boho styles — and this versatility is part of its enduring popularity. The styling approach shifts the aesthetic dramatically depending on what you pair it with.
 

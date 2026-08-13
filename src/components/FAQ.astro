@@ -45,11 +45,16 @@ const { questions } = Astro.props;
 )}
 
 <style>
+/* Contained block matching the article column width -- previously used a
+   negative-margin bleed sized for the full container, but this section
+   sits inside the two-column article grid (not the full container), so
+   it only bled cleanly on the left while falling short on the right,
+   producing a visibly asymmetric edge against the sidebar gap. */
 .faq-section {
-  margin: 3rem -24px 0;
+  margin: 3rem 0 0;
   padding: 28px 24px;
   background: var(--color-dark);
-  border-radius: 4px;
+  border-radius: 6px;
 }
 .faq-heading {
   font-size: clamp(1.3rem, 3vw, 1.7rem);
@@ -59,7 +64,7 @@ const { questions } = Astro.props;
   line-height: 1.2;
 }
 @media (min-width: 640px) {
-  .faq-section { margin: 3rem -40px 0; padding: 40px 40px 32px; }
+  .faq-section { padding: 40px 40px 32px; }
 }
 .faq-list { border-top: 1px solid rgba(255,255,255,0.14); }
 .faq-item { border-bottom: 1px solid rgba(255,255,255,0.14); }

@@ -30,63 +30,63 @@ We've had an alfresco off the back of our Brisbane house for four years, and it 
 
 ![Friends gathered outdoors at dusk with festoon lights strung overhead, the kind of atmosphere a well-set-up alfresco delivers](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 1: Cover It, Even Partially
+## Tip 1: Why Cover It, Even Partially?
 
 An uncovered alfresco in most of Australia gets rained out or sunburnt out of commission for a good chunk of the year. We added a polycarbonate roof extension over the existing slab (quoted $4,200–$6,000 installed, depending on span) and went from using the space a few times a month to using it most days. If a full roof isn't in the budget, even a large retractable awning ($800–$2,200 installed) makes a real difference.
 
-## Tip 2: Size the Table for Your Actual Gathering Size, Not Your Average Night
+## Tip 2: How Do You Size the Table for Your Actual Gathering Size?
 
 We made the classic mistake of buying a 6-seater for a space that regularly hosts 8–10 for Christmas and birthdays. Rule of thumb: allow 60cm of table length per seated person. For a table that flexes between everyday use and bigger gatherings, an extendable outdoor table (Fenton & Fenton or Early Settler, $899–$1,800) is worth the extra cost over a fixed size.
 
-## Tip 3: Invest in a Proper Outdoor Heater
+## Tip 3: Why Invest in a Proper Outdoor Heater?
 
 Brisbane winters aren't brutal, but June and July evenings still push people back inside without heat. A freestanding gas patio heater ($249–$450, Bunnings or Barbeques Galore) extended our usable alfresco season by a good two months either side of winter. In cooler states like Victoria or Tasmania, this upgrade matters even more.
 
 **Alternative:** A built-in fire pit table ($450–$900) does double duty as a heat source and a low coffee table for pre-dinner drinks.
 
-## Tip 4: Choose Furniture Rated for Australian UV and Humidity
+## Tip 4: Why Choose Furniture Rated for Australian UV and Humidity?
 
 Our first outdoor setting — a cheap flat-pack from a big box store — faded and the resin arms cracked within eighteen months in direct Queensland sun. We replaced it with powder-coated aluminium (Nick Scali Outdoor, $1,299 for table and 6 chairs) and it's shown zero UV damage after two full summers. Teak is the other genuinely durable option if you prefer timber.
 
 **What to avoid:** Untreated timber and basic PVC-strap chairs — both degrade fast under Australian sun exposure.
 
-## Tip 5: Add a Servery Bench or Bar Zone
+## Tip 5: Should You Add a Servery Bench or Bar Zone?
 
 Constantly walking food and drinks from the kitchen breaks up the meal and keeps the host stuck indoors. We built a simple servery bench along one wall of the alfresco (a stone-topped bench from a local joiner, $1,800) that holds serving dishes, glassware, and an under-bench bar fridge. It's the single change that made hosting feel relaxed rather than like a shuttle run.
 
 **Budget version:** A freestanding outdoor sideboard or bar cart ($250–$600, Temple & Webster) achieves most of the same benefit without the joinery cost.
 
-## Tip 6: Get the Lighting Layered, Not Just Functional
+## Tip 6: How Do You Get the Lighting Layered, Not Just Functional?
 
 One overhead light does the job but not the mood. We layered ours: a dimmable pendant over the table (Beacon Lighting, $189), festoon lights strung along the roofline ($65, Bunnings), and a couple of low-level lanterns on the servery bench for ambient warmth. Dimming the overhead pendant for dinner and relying on the festoon and lanterns changes the whole feel of the space at night.
 
 ![Guests raising wine glasses together during an alfresco dinner — the kind of evening a well-lit, well-hosted space encourages](/images/unsplash-1519671482749-fd09be7ccebf.jpg)
 
-## Tip 7: Use an Outdoor Rug to Anchor the Space
+## Tip 7: Why Use an Outdoor Rug to Anchor the Space?
 
 A bare concrete or paved slab under alfresco furniture reads as unfinished no matter how good the furniture is. A large weatherproof outdoor rug (200x290cm, Temple & Webster, $129–$250) under the dining table made ours feel considered rather than like an afterthought extension of the yard.
 
-## Tip 8: Solve the Bug Problem Before It Ruins Dinner
+## Tip 8: How Do You Solve the Bug Problem Before It Ruins Dinner?
 
 Mosquitoes and flies are the fastest way to send guests back indoors in most of Australia. We run an electric outdoor mozzie diffuser ($25, Mortein Naturgard) plugged in near the alfresco entry, plus citronella candles on the table for evenings. In particularly bad seasons, a standing bug-zapper lantern ($45–$70) as backup earns its keep.
 
-## Tip 9: Add a Ceiling Fan If the Space Is Covered
+## Tip 9: Should You Add a Ceiling Fan If the Space Is Covered?
 
 Once we had the roof, the next problem was heat trapped underneath it on summer afternoons. An outdoor-rated ceiling fan (Mercator or Brilliant, $179–$350, professionally installed for $120–$200 labour) dropped the perceived temperature enough that we could use the space through the hottest part of the day, not just evenings.
 
-## Tip 10: Choose a Neutral Palette That Extends the Indoor Living Space
+## Tip 10: Why Choose a Neutral Palette That Extends the Indoor Living Space?
 
 The alfresco spaces that feel most integrated with the house, rather than bolted on, tend to share a palette with the adjoining indoor room. We carried our kitchen's warm neutral and timber tones straight through — same cushion tones, similar timber finish on the table as our indoor dining setting. It reads as one continuous space rather than two disconnected zones.
 
-## Tip 11: Keep a Retractable Screen for Wind and Privacy
+## Tip 11: Why Keep a Retractable Screen for Wind and Privacy?
 
 Our alfresco faces prevailing afternoon wind off the street, which used to mean napkins and paper plates constantly airborne. Retractable outdoor blinds in clear PVC or mesh (Bunnings, $180–$380 per drop) block wind without closing off the view, and roll away completely when not needed.
 
-## Tip 12: Add Greenery Inside the Alfresco Zone, Not Just Around It
+## Tip 12: Why Add Greenery Inside the Alfresco Zone, Not Just Around It?
 
 Plants placed within the actual dining area — not just around the perimeter — make the space feel like a room rather than a slab with furniture on it. We added two large potted Kentia Palms flanking the servery bench ($120 each) and a smaller herb planter within reach of the table for fresh garnishes during dinner.
 
-## Tip 13: Plan for Easy Cleanup
+## Tip 13: How Do You Plan for Easy Cleanup?
 
 An alfresco that's a hassle to clean gets used less over time. We chose a sealed, textured tile for the floor (rather than raw concrete, which stains) and kept cushion covers removable and machine washable. A small outdoor storage bench ($150–$280) near the entry holds throws and cushions overnight or in bad weather, keeping the space ready to use without a reset each time.
 

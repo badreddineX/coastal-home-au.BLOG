@@ -105,7 +105,7 @@ For built-in stone or concrete fire pits, check the mortar joints and stone face
 
 Cover portable steel bowls during extended periods of non-use or during summer. A fitted weather cover costs ~$20–$40 AUD and prevents rust build-up and debris accumulation during the months when the pit isn't in use.
 
-## Winter Entertaining Ideas Around the Fire Pit
+## How Do You Plan Winter Entertaining Around the Fire Pit?
 
 A fire pit is at its best in the cooler months — June through August in most of Australia. **Winter evenings around a well-stocked fire pit are some of the best outdoor entertaining opportunities of the year, and extending your season outdoors can reduce indoor heating costs noticeably.** The setup for winter entertaining is slightly different from a summer barbecue.
 
@@ -115,7 +115,7 @@ In my experience over four winters, fire pit gatherings consistently run two to 
 
 Keep a pile of dry wood close enough to add to the fire without leaving the group. Add logs gradually to maintain a steady, medium-size fire rather than building it too large early. A good coal bed produces more warmth and less smoke than a large open flame. Winter fire ban days do occur in some Australian regions during dry spells, so it's worth a quick check even outside the usual summer ban season.
 
-## Where to Buy Fire Pits in Australia
+## Where Should You Buy Fire Pits in Australia?
 
 Finding the right supplier depends on your budget and what type of pit you're after. **Bunnings covers the entry-level range from ~$80–$300 AUD, while Outdoor Elegance handles the premium built-in and freestanding category for serious outdoor spaces.**
 

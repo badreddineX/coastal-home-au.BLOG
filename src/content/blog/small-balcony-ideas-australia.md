@@ -36,7 +36,7 @@ Most Australian apartment balconies are small, exposed to the sun, and almost en
 
 ---
 
-## 1. Start With a Clear-Out and a Plan
+## 1. How Do You Start With a Clear-Out and a Plan?
 
 The first step costs nothing and takes twenty minutes. Remove everything currently on the balcony and look at it as a blank rectangle. Measure it — width, depth, and the railing height. Write the numbers down. Most small Australian balconies run between 3x2m and 4x2.5m, which is more workable than it feels when it's cluttered.
 
@@ -48,7 +48,7 @@ A small balcony that tries to be a dining table, a lounger, a plant nursery, and
 
 ---
 
-## 2. Choose the Right Furniture for the Space
+## 2. How Do You Choose the Right Furniture for the Space?
 
 ![Two-seat powder-coated bistro set on a small apartment balcony with string lights and a potted plant](/images/unsplash-1600210492493-0946911123ea.jpg)
 
@@ -64,7 +64,7 @@ If you're renting, all furniture is automatically compliant — it's freestandin
 
 ---
 
-## 3. Add an Outdoor Rug to Define the Space
+## 3. Why Add an Outdoor Rug to Define the Space?
 
 An outdoor rug is the single change that most reliably makes a balcony feel like an outdoor room rather than a concrete ledge. It defines the floor space visually, adds warmth underfoot, absorbs sound, and — when chosen in the right pattern — can make the whole area read as wider or deeper.
 
@@ -76,7 +76,7 @@ If you're renting, outdoor rugs are fully compliant in every Australian lease I'
 
 ---
 
-## 4. Use Privacy Screens to Create an Enclosed Feel
+## 4. How Do Privacy Screens Create an Enclosed Feel?
 
 ![Bamboo privacy screen on an apartment balcony railing with outdoor plants in large pots](/images/unsplash-1499955085172-a104c9463ece.jpg)
 
@@ -92,7 +92,7 @@ If you're renting, cable ties are not a permanent structural change and are univ
 
 ---
 
-## 5. Add String Lights for Instant Ambience
+## 5. How Do String Lights Add Instant Ambience?
 
 String lights are the single highest-return investment for a balcony under $50 AUD. They transform the usable hours of a balcony from daylight-only to evening — which in practice means the space becomes genuinely social rather than just functional.
 
@@ -106,7 +106,7 @@ Drape them along the railing, zigzag them across the ceiling if your balcony has
 
 ---
 
-## 6. Create a Vertical Garden on the Wall or Railing
+## 6. How Do You Create a Vertical Garden on the Wall or Railing?
 
 ![Vertical wall planter with trailing plants on an apartment balcony railing in an Australian city](/images/unsplash-1466692476868-aef1dfb1e735.jpg)
 
@@ -122,7 +122,7 @@ If you're renting, clip-on railing planters require no tools and no drilling. Th
 
 ---
 
-## 7. Use Tall Floor Plants to Create Structure
+## 7. How Do Tall Floor Plants Create Structure?
 
 While railing planters handle vertical greenery at mid-height, tall floor plants create the upper-level structure that makes a balcony feel like a garden room. One or two large plants in statement pots at the corners or ends of the balcony visually enclose the space and give it a sense of scale.
 
@@ -134,7 +134,7 @@ One large plant in the right pot reads better than three small plants in mismatc
 
 ---
 
-## 8. Add a Side Table or Plant Stand for Function
+## 8. Do You Need a Side Table or Plant Stand?
 
 Every outdoor seating area needs a surface within reach. A side table, a plant stand doubling as a surface, or a small outdoor stool between two chairs removes the awkward balance act of holding a coffee or a glass while trying to relax.
 
@@ -146,7 +146,7 @@ If you're renting, check your lease before wall-mounting anything. The adhesive-
 
 ---
 
-## 9. Manage Sun and Heat With a Shade Sail or Umbrella
+## 9. How Do You Manage Sun and Heat With a Shade Sail or Umbrella?
 
 ![Compact shade sail over a small balcony with outdoor furniture and string lights](/images/unsplash-1523575708161-ad0fc2a9b951.jpg)
 
@@ -160,7 +160,7 @@ If you're renting and can't drill into the wall for shade sail anchor points, te
 
 ---
 
-## 10. Store Things Vertically to Keep the Floor Clear
+## 10. How Do You Store Things Vertically to Keep the Floor Clear?
 
 Storage is the enemy of a small balcony — pots of soil, gardening tools, outdoor cushions, and general apartment overflow turn a potential outdoor room into an external storeroom. The solution is vertical storage that keeps the floor clear.
 
@@ -172,7 +172,7 @@ Outdoor cushions are the main storage challenge for most renters. A storage benc
 
 ---
 
-## 11. Use a Cohesive Colour Palette
+## 11. Why Use a Cohesive Colour Palette?
 
 A small space with too many colours reads as chaotic and cramped. A balcony that commits to two or three colours feels larger, calmer, and more intentionally designed. This applies to cushion covers, the rug, the pot colours, and any accessories — they should all sit within the same palette.
 
@@ -184,7 +184,7 @@ The most versatile small balcony palettes for Australia are: white and natural (
 
 ---
 
-## 12. Add One Finishing Detail That Makes It Personal
+## 12. What Finishing Detail Makes It Personal?
 
 The difference between a balcony that feels styled and one that feels generic is one personal detail. A candle lantern in a material you love. A small ceramic bowl for keys and sunglasses. A hand-woven basket. A worn paperback with a dog-eared page. Something that says a person actually lives here and enjoys it.
 

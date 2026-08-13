@@ -40,7 +40,7 @@ The dining room is the room that earns its keep. Every family gathering, every s
 
 ---
 
-## 1. Choose the Right Table as Your Foundation
+## 1. How Do You Choose the Right Table as Your Foundation?
 
 According to [Domain.com.au](https://www.domain.com.au/), coastal and Hamptons-style interiors consistently dominate Australia's most-searched home decor styles, with natural timber and white-painted furniture identified as the core aesthetic preference among buyers and renters in coastal market suburbs. The dining table is the focal point around which this style is built. ([Domain.com.au](https://www.domain.com.au/), 2025)
 
@@ -73,7 +73,7 @@ Chair options that work well for an Australian coastal dining room:
 
 ---
 
-## 3. Why the Rattan Pendant Light Changes Everything
+## 3. Why Does the Rattan Pendant Light Change Everything?
 
 If I could make one recommendation for a coastal dining room, it would be this: hang a rattan or woven pendant light directly over the table. Nothing else does as much visual work for the money. A rattan pendant replaces overhead light that is too harsh and too flat with something warm, textured, and unmistakably coastal.
 
@@ -113,7 +113,7 @@ Avoid bright saturated blues. They look fresh in a magazine and out of place in 
 
 ---
 
-## 5. Textiles That Instantly Soften a Dining Room
+## 5. Which Textiles Instantly Soften a Dining Room?
 
 Textiles are the easiest and most affordable way to add warmth and coastal character to a dining room. A bare dining table with no runner, no placemats, and no napkins reads unfinished regardless of how good the furniture is.
 
@@ -146,7 +146,7 @@ For a coastal dining room, the best rug choices are:
 
 ---
 
-## 7. Coastal Artwork: What Works and What to Avoid
+## 7. What Coastal Artwork Works, and What Should You Avoid?
 
 Artwork is the most personal decision in any room and the one people overthink the most. For a coastal dining room, the guiding principle is simple: one large piece beats three small pieces every time. A single artwork with presence anchors the wall and makes a considered statement. Three small prints arranged in a cluster reads fussy and indecisive in a room that's supposed to feel easy.
 
@@ -165,7 +165,7 @@ What to look for:
 
 ---
 
-## 8. How to Style a Sideboard or Buffet for a Coastal Dining Room
+## 8. How Do You Style a Sideboard or Buffet for a Coastal Dining Room?
 
 A sideboard serves dual purpose: practical storage for table linens, glassware, and serving pieces, and a styling surface that adds depth to the room. In a coastal dining room, the sideboard surface is your main styling opportunity outside the table itself.
 
@@ -182,7 +182,7 @@ Keep it to five items or fewer. More than that reads cluttered, which is the opp
 
 ---
 
-## 9. Maximising Natural Light in an Australian Coastal Dining Room
+## 9. How Do You Maximise Natural Light in an Australian Coastal Dining Room?
 
 Natural light is the foundation of every coastal interior. Heavy curtains, dark blinds, and window furniture that blocks light will undermine every other styling decision you make. In an Australian dining room that gets strong sun, the challenge is managing light and heat without losing brightness.
 
@@ -202,7 +202,7 @@ Avoid heavy blockout curtains in a coastal dining room. Save those for bedrooms.
 
 ---
 
-## 10. Glassware and Table Accessories That Complement the Coastal Look
+## 10. Which Glassware and Table Accessories Complement the Coastal Look?
 
 The objects on your table when you're not eating matter as much as the ones present at a meal. A coastal dining table should look composed and inviting even when it's not set for dinner.
 
@@ -219,7 +219,7 @@ Accessories that work well:
 
 ---
 
-## 11. Putting It All Together: Room by Room Sequencing
+## 11. How Do You Put It All Together — Room by Room Sequencing?
 
 The most common mistake in styling a dining room is buying everything at once, finding it doesn't quite work, and living with a room that feels slightly off. The better approach is to buy the structural pieces first, live with them, and add accessories gradually.
 

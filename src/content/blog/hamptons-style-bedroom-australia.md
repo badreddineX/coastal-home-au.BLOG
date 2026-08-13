@@ -35,7 +35,7 @@ There's a reason Hamptons style bedrooms never go out of fashion. They're calm, 
 
 ---
 
-## 1. Nail the Colour Palette First
+## 1. Why Nail the Colour Palette First?
 
 Before you buy a single thing, get the colours right. The Hamptons palette is built on three anchors: crisp white, soft navy, and sandy beige. Everything else in the room should sit within that range. I always start by deciding on the dominant white — warm white suits older homes with timber details, while a cooler bright white suits modern builds with white trim.
 
@@ -43,7 +43,7 @@ Bring in navy as the accent, not the base. A navy bedhead, a navy stripe throw, 
 
 ---
 
-## 2. Choose Linen Bedding in White or Natural
+## 2. Why Choose Linen Bedding in White or Natural?
 
 ![Layered Hamptons bed with white European pillows, linen quilt, and navy stripe throw](/images/unsplash-1522771739844-6a9f6d5f14af.jpg)
 
@@ -55,7 +55,7 @@ Stack your pillows in a classic Hamptons arrangement: two European squares at th
 
 ---
 
-## 3. Add a Statement Bedhead
+## 3. Should You Add a Statement Bedhead?
 
 The bedhead is the visual centrepiece of a Hamptons bedroom. There are two directions that both work beautifully: an upholstered linen or fabric bedhead in white or soft grey, or a rattan/cane bedhead in natural or white-painted timber. Both read as authentically Hamptons — one leaning more luxe, the other more relaxed coastal.
 
@@ -63,7 +63,7 @@ The bedhead is the visual centrepiece of a Hamptons bedroom. There are two direc
 
 ---
 
-## 4. Get the Flooring Right (or Work With What You Have)
+## 4. How Do You Get the Flooring Right (or Work With What You Have)?
 
 ![White timber bedframe with rattan bedside table, ceramic lamp, and linen shade in a coastal bedroom](/images/unsplash-1556909114-f6e7ad7d3136.jpg)
 
@@ -75,7 +75,7 @@ One thing most styling guides skip: the rug size matters more than the rug itsel
 
 ---
 
-## 5. Layer Your Lighting
+## 5. How Do You Layer Your Lighting?
 
 Harsh overhead lighting is the enemy of the Hamptons bedroom. The look relies on soft, layered light from at least two sources: bedside table lamps and either a pendant above the bed or a ceiling fixture on a dimmer. If you can only do one thing, add matching bedside lamps with white linen or fabric shades.
 
@@ -83,7 +83,7 @@ Harsh overhead lighting is the enemy of the Hamptons bedroom. The look relies on
 
 ---
 
-## 6. Hang Floor-to-Ceiling Curtains
+## 6. Why Hang Floor-to-Ceiling Curtains?
 
 ![Floor-to-ceiling white linen curtains in a Hamptons bedroom with natural light flooding in](/images/unsplash-1505693416388-ac5ce068fe85.jpg)
 
@@ -95,7 +95,7 @@ If you're renting, a tension rod or a ceiling-mounted curtain track that require
 
 ---
 
-## 7. Style the Bedside Tables
+## 7. How Do You Style the Bedside Tables?
 
 The bedside setup is what separates a styled Hamptons bedroom from a basic one. Both sides should be identical — asymmetry feels restless, not relaxed. Look for bedside tables with a drawer in timber, rattan, or cane detailing in white or natural.
 
@@ -103,7 +103,7 @@ Style each bedside with three elements: a lamp (as above), a small stack of two 
 
 ---
 
-## 8. Add Artwork With a Coastal Feel
+## 8. How Do You Add Artwork With a Coastal Feel?
 
 Artwork in a Hamptons bedroom should feel curated but not precious. The easiest approach is a pair of matching prints in simple white frames hung at eye height on either side of the bed, or a single larger artwork centred above the bedhead. Coastal themes work well: abstract coastline sketches, botanical prints in muted tones, or classic nautical maps.
 
@@ -111,7 +111,7 @@ Artwork in a Hamptons bedroom should feel curated but not precious. The easiest 
 
 ---
 
-## 9. Finish With Accessories and Texture
+## 9. How Do You Finish With Accessories and Texture?
 
 The final layer is what makes a Hamptons bedroom feel lived-in rather than staged. A natural fibre basket near the wardrobe, a ceramic tray on the dresser, a textured knit throw draped casually over the armchair corner — these small details add warmth without adding clutter.
 
@@ -121,7 +121,7 @@ I keep a shallow rattan tray on the dresser with a candle, a small plant, and a 
 
 ---
 
-## 10. Pull It Together With a Styling Run-Through
+## 10. How Do You Pull It Together With a Styling Run-Through?
 
 Once everything is in place, do a final styling walk-through before you stop. Stand at the bedroom door and look at the room as a whole. The Hamptons bedroom should read as calm, light, and symmetrical from that doorway view. If something pulls your eye and feels out of place, it probably is.
 

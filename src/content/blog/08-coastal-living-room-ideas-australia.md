@@ -34,7 +34,7 @@ Here's what I changed, what I kept, and what I spent. According to [Domain.com.a
 
 ![Coastal Australian living room with natural linen sofa, large jute rug, rattan armchair, and linen curtains](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
-## Tip 1: Start With the Sofa — It Defines Everything Else
+## Tip 1: Why Start With the Sofa — Does It Define Everything Else?
 
 The sofa is the largest piece in any living room, which means it has the greatest influence on the space. In a coastal living room, the sofa should be: large, linen-upholstered or linen-covered, and in white, natural, or warm grey. Everything else — the rug, the cushions, the art — is chosen in relation to the sofa.
 
@@ -42,7 +42,7 @@ I replaced our dark leather sofa with a 3.5-seater linen sofa from Temple & Webs
 
 **Budget option:** Kmart 3-seater sofa in light grey or beige fabric ($399–$599). The quality isn't the same but the visual contribution at entry-level is genuine. Upgrade the cushion covers and it reads well.
 
-## Tip 2: Lay the Largest Jute Rug You Can Fit
+## Tip 2: Why Lay the Largest Jute Rug You Can Fit?
 
 The jute rug is to the coastal living room what the sofa is to the furniture arrangement — the anchor that everything else relates to. In our living room (5.2×4.1m), I have a 240×340cm jute rug from Temple & Webster ($329). It sits under the sofa's front legs, under the full footprint of the coffee table, and extends beyond the armchairs on each side.
 
@@ -50,7 +50,7 @@ The size surprised me when I first rolled it out. Then I realised it was exactly
 
 **The rule:** In a 4×4m+ living room, go 240×340cm or larger. In a smaller room (3×3.5m), 200×290cm minimum. Almost every coastal living room mistake I've seen involves a rug that's too small.
 
-## Tip 3: Hang Linen Curtains at Ceiling Height
+## Tip 3: Why Hang Linen Curtains at Ceiling Height?
 
 This single change — moving the curtain rod from above the window to the ceiling — is responsible for the most dramatic visual improvement in any of the rooms I've changed. I installed ceiling-mounted brackets (Bunnings, $8–$15 each) and hung IKEA AINA natural linen curtains (two pairs per window, for fullness) floor to ceiling.
 

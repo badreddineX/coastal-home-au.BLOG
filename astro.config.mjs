@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import rehypeOptimizeImages from './src/lib/rehype-optimize-images.mjs';
 
 // Read each post's dateModified straight from frontmatter (no astro:content
 // access is available here in the config file) so the sitemap can carry a
@@ -30,6 +31,14 @@ export default defineConfig({
   // flagged render-blocking CSS; AU's own PageSpeed check (2026-08-07) showed
   // mobile LCP at 4.2s, so this directly targets that.
   build: { inlineStylesheets: 'always' },
+  // Rewrites inline blog-post images (![alt](path) in markdown) to their
+  // WebP sibling + adds loading="lazy"/decoding="async" -- previously only
+  // the hero image was optimized; the 3-6 inline images per post were
+  // still full-size eager JPEGs, a bigger real contributor to page weight
+  // than the single hero on image-heavy posts.
+  markdown: {
+    rehypePlugins: [rehypeOptimizeImages],
+  },
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/thank-you') && !page.includes('/404'),

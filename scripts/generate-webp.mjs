@@ -16,8 +16,14 @@ const images = new Set(['unsplash-1600566753086-00f18fb6b3ea.jpg']); // SEO.astr
 
 for (const f of files) {
   const raw = readFileSync(resolve(BLOG_DIR, f), 'utf8');
-  const m = raw.match(/^image:\s*"?\/images\/([^"\n]+)"?/m);
-  if (m) images.add(m[1]);
+  const heroMatch = raw.match(/^image:\s*"?\/images\/([^"\n]+)"?/m);
+  if (heroMatch) images.add(heroMatch[1]);
+
+  // Inline markdown images (![alt](/images/x.jpg)) -- these render via
+  // rehype-optimize-images.mjs, which rewrites their src to .webp, so the
+  // sibling file needs to actually exist or the swap 404s.
+  const inlineMatches = raw.matchAll(/!\[[^\]]*\]\(\/images\/([^)\s]+)\)/g);
+  for (const m of inlineMatches) images.add(m[1]);
 }
 
 console.log(`Converting ${images.size} images to WebP...`);

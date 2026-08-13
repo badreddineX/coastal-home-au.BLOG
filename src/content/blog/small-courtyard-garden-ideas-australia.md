@@ -30,63 +30,63 @@ Our Sydney terrace has a courtyard that's 3.2m by 4m — barely bigger than a do
 
 ![Raised garden bed planted with lettuce, herbs and chives in neat rows, a small-scale approach that suits a compact courtyard](/images/unsplash-1591857177580-dc82b9ac4e1e.jpg)
 
-## Tip 1: Go Vertical Before You Go Wide
+## Tip 1: Why Go Vertical Before You Go Wide?
 
 The floor space in a small courtyard is too valuable to give up to plants that could just as easily live on a wall. I installed a modular vertical planter system (Bunnings' Greenwall range, $149 for a 6-pocket unit) on the boundary wall and it freed up almost 2 square metres of usable floor. Trailing plants like Wandering Jew and native violet fill it in within a few months.
 
 **What to buy:** Bunnings and Kmart both stock felt-pocket vertical planters from $35–$150 depending on size. For a more permanent option, a timber batten trellis with wire supports ($90–$180 in materials) handles heavier climbing plants like star jasmine.
 
-## Tip 2: Use Raised Beds Instead of Fighting the Existing Soil
+## Tip 2: Why Use Raised Beds Instead of Fighting the Existing Soil?
 
 Terrace house courtyards often sit on compacted fill or old paving with poor drainage underneath. Rather than digging it out, I built two raised garden beds (600mm high, cedar sleepers from Bunnings, roughly $320 in materials) along one wall. Good drainage, no backbreaking soil prep, and the height means less bending to garden.
 
 **Sizing rule:** In a courtyard under 15sqm, keep raised beds to no more than 30% of the floor area — enough for real planting without eating the whole usable space.
 
-## Tip 3: Choose a Pale, Light-Reflecting Ground Surface
+## Tip 3: Why Choose a Pale, Light-Reflecting Ground Surface?
 
 Our courtyard's original surface was dark grey concrete that made the whole space feel like a car park, especially once the afternoon shade hit. Resurfacing with pale limestone-look pavers (Bunnings, $42/sqm) made a genuine difference — the same amount of light bounces around the space and it reads brighter, even without more sun actually reaching it.
 
 **Budget alternative:** A layer of crushed white gravel or oyster shell over existing concrete ($8–$15 per 20kg bag) achieves a similar lightening effect for a fraction of the cost, no demolition required.
 
-## Tip 4: Pick One Feature Tree, Not a Dozen Small Pots
+## Tip 4: Why Pick One Feature Tree Instead of a Dozen Small Pots?
 
 Early on I had eight small pots scattered around and the courtyard looked busy without looking good. Replacing them with one large specimen — a potted Tuckeroo (Cupaniopsis anacardioides, $220 from a local native nursery) in a 60cm glazed pot — did more for the space than all eight pots combined. It gives the eye one clear focal point instead of visual noise.
 
 **Good options for Australian courtyards:** Tuckeroo, Lilly Pilly (standard form), and Japanese Maple all handle large pot culture well and stay manageable in a confined space.
 
-## Tip 5: Add a Mirror or Reflective Wall Panel
+## Tip 5: Should You Add a Mirror or Reflective Wall Panel?
 
 This sounds like a gimmick until you try it. A weatherproof outdoor mirror (Temple & Webster, $189 for a 60x90cm arched design) mounted on the darkest wall doubled the apparent depth of our courtyard. Position it to reflect greenery rather than a blank wall — the effect is what sells the trick.
 
 **Placement tip:** Mount at a slight downward angle so it reflects planting rather than the sky, which reads more naturally.
 
-## Tip 6: Layer Lighting for Evening Use
+## Tip 6: How Do You Layer Lighting for Evening Use?
 
 A small courtyard with no lighting plan goes unused after dark, which in Australian summer is when it's actually pleasant to be outside. I strung warm-white festoon lights ($55, Bunnings, 10m) across the narrow width and added three solar stake lights ($6 each, Bunnings) along the garden bed edge. Total spend under $80, and it's the reason we now sit out there most evenings.
 
-## Tip 7: Use a Fold-Down or Wall-Mounted Table
+## Tip 7: Should You Use a Fold-Down or Wall-Mounted Table?
 
 Floor space is the scarcest resource in a small courtyard, so furniture that disappears when not in use matters. A wall-mounted fold-down table (IKEA-style bracket table, roughly $89–$140 depending on size) against the boundary wall gives us a dining surface for two without permanently occupying the space.
 
 **For entertaining more than two:** A round bistro table with nesting stools tucks away more compactly than a rectangular set — worth the trade-off in a courtyard under 12sqm.
 
-## Tip 8: Add a Small Water Feature for Sound
+## Tip 8: Should You Add a Small Water Feature for Sound?
 
 Courtyards, especially in inner-city terraces, often back onto neighbours or a lane, and street noise carries. A small self-contained water feature (Bunnings, $99–$180 for a ceramic bubbling urn style) adds enough ambient sound to soften that without needing a full pond installation. No plumbing required — most are self-recirculating.
 
-## Tip 9: Choose Pots in a Limited Colour Palette
+## Tip 9: Why Choose Pots in a Limited Colour Palette?
 
 Matching or coordinated pots make even a mismatched plant collection look pulled together. We settled on charcoal and unglazed terracotta only — no other colours allowed in. Kmart's Elements pot range ($15–$45) and Bunnings' basic terracotta line ($8–$28) cover most of what we needed within that palette.
 
-## Tip 10: Install a Retractable Shade Sail
+## Tip 10: Should You Install a Retractable Shade Sail?
 
 Afternoon sun on the paved section made the courtyard unusable between 1pm and 4pm in summer, even with limited direct light elsewhere in the yard. A single triangular shade sail (Bunnings, $89 for a 3.6m sail plus $40 in mounting hardware) fixed to the house and the boundary fence solved it without a permanent structure.
 
-## Tip 11: Use Espaliered Plants Against Boundary Walls
+## Tip 11: Why Use Espaliered Plants Against Boundary Walls?
 
 Espaliered fruit trees or climbers trained flat against a wall take up almost no floor depth while still giving you real greenery height. We espaliered a dwarf lemon tree against the sunniest wall ($65 from a local nursery plus wire and vine eyes, $35) and it now produces fruit while barely projecting 15cm from the wall.
 
-## Tip 12: Define Zones with Different Textures, Not Walls
+## Tip 12: How Do You Define Zones with Different Textures, Not Walls?
 
 In a space this small, actual dividers eat too much room. Instead, we changed textures to signal different zones — pavers for the dining area, a gravel strip for the planted section, and a small timber deck tile pad for a reading chair. No physical barriers, but the eye reads it as three distinct areas.
 

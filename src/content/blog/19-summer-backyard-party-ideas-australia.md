@@ -36,7 +36,7 @@ Here are the 13 ideas I return to every year.
 
 ![Australian summer backyard party at golden hour with festoon lights, outdoor dining table, and drinks station](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
-## Tip 1: Plan the Timing Around the Heat
+## Tip 1: How Do You Plan the Timing Around the Heat?
 
 The Australian summer backyard party that starts at noon is a heat management exercise from the first hour. The one that starts at 5pm is a festival.
 
@@ -44,7 +44,7 @@ My standard summer party start: 5pm. The afternoon heat has softened, the golden
 
 If the gathering genuinely needs to start earlier — a birthday lunch, a family Christmas — start at noon and plan to finish by 3pm before the afternoon peak. The 12pm—4pm window is the one to avoid extending through.
 
-## Tip 2: Solve Shade Before Decorating
+## Tip 2: Why Solve Shade Before Decorating?
 
 The most beautifully decorated backyard is intolerable if it has no shade on a 35-degree Queensland afternoon. Shade is the first party planning decision. Every decoration, every furniture arrangement, every food setup should sit within or adjacent to the shade structure.
 
@@ -52,13 +52,13 @@ My current shade setup: a 4×3m Coolaroo shade sail ($159 from Bunnings, 90% UV 
 
 If you need temporary shade for a party where none exists: pop-up marquees from Bunnings or BCF (3×3m, $150–$400) can be set up and taken down in under an hour.
 
-## Tip 3: Install a Misting System for Afternoon Parties
+## Tip 3: Should You Install a Misting System for Afternoon Parties?
 
 For parties that start before 5pm in Queensland or coastal NSW, a misting system is the most appreciated comfort investment in any Australian backyard entertaining area. The Bunnings Greenmill misting kit ($79–$149) attaches to the pergola or shade sail structure and connects to the garden tap. When running, it drops the perceived temperature by 5—8 degrees.
 
 At afternoon parties where I've had the misting system on, guests routinely comment on how comfortable the space is. At identical parties where I've been without it, guests inevitably start moving inside by 3pm.
 
-## Tip 4: Build a Self-Serve Drinks Station
+## Tip 4: How Do You Build a Self-Serve Drinks Station?
 
 The summer party bottleneck that ruins hosts: guests asking for drinks while you're managing food, the BBQ, children, and conversation simultaneously. The solution: a drinks station that guests can self-serve.
 
@@ -74,31 +74,31 @@ I fill the esky in the morning. I refill the drinks dispenser once during the pa
 
 ![Warm white festoon lights illuminating an Australian backyard at golden hour summer party](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
-## Tip 5: Set Up Festoon Lights Even for an Afternoon Party
+## Tip 5: Why Set Up Festoon Lights Even for an Afternoon Party?
 
 Festoon lights that are on during daylight hours are barely visible. Festoon lights that come on at dusk during a summer party are one of the most beautiful outdoor experiences available in an Australian backyard. Setting them up for afternoon parties isn't wasteful — they transform the space precisely when the party is at its best (6pm—9pm on a summer evening).
 
 Two 10m strings from Bunnings ($65 each) on a timer plug ($15–$25) that activates at 6pm. The transition moment — when the festoon lights come on and the golden hour light catches them — is consistently the moment guests take their phones out and start photographing the space.
 
-## Tip 6: Choose a Grazing Table Over a Sit-Down Meal for Groups Over 15
+## Tip 6: Why Choose a Grazing Table Over a Sit-Down Meal for Groups Over 15?
 
 For summer parties where the guest count exceeds 15, a grazing table distributes people around the space rather than creating the bottleneck of a single dining table. A grazing table is also entirely cold — cheese, charcuterie, dips, antipasto, seasonal fruit, bread, and crackers, all presented on wooden boards over a long trestle table, hold at room temperature for 90 minutes in most conditions.
 
 **What I use:** Two 1.8m trestle tables from Bunnings ($45–$80 each), joined side by side with a tablecloth, covered in parchment paper, and loaded with the grazing elements. The grazing table setup takes 30 minutes and removes the coordination burden of serving a plated meal.
 
-## Tip 7: Have Ice Everywhere
+## Tip 7: Why Have Ice Everywhere?
 
 The Australian summer party runs on ice. Beyond the drinks esky, I position small buckets of ice at strategic points: one on the grazing table to keep cheeses cool, one in the lounge zone with bottled water and soft drinks for non-drinkers, and one in the preparation area for the hosts.
 
 Ice from a supermarket (8kg bags, $6–$8 each): I buy four bags the morning of a party for 20 people. The cost is trivial. Running out of ice at an Australian summer party is a hosting failure.
 
-## Tip 8: Set Up a Simple Kids' Zone If Children Are Coming
+## Tip 8: How Do You Set Up a Simple Kids' Zone If Children Are Coming?
 
 Parties that include children need a separate children's zone — a low table with activities, a splash pad or small inflatable pool, and a designated area where kids can be supervised without being at the adult dining table. The children are happier. The adults can have uninterrupted conversations.
 
 **Quick kids' zone:** A $25 Kmart folding trestle table at kid height, four Kmart child-size chairs ($15–$20 each), a plastic tablecloth, and an activity box (colouring books, stickers, small toys). A Kmart inflatable splash pad ($25–$35) in the corner for the afternoon heat. Total: $80–$120.
 
-## Tip 9: Pre-Set the Dining Table the Night Before
+## Tip 9: Why Pre-Set the Dining Table the Night Before?
 
 The summer party host who is still setting the table when guests arrive is already behind and already stressed. I set the outdoor table the evening before: tablecloth or runner, plates and glasses, centrepiece, napkins, candles. On the morning of the party: fill the esky, cut fresh flowers, fill the drinks dispenser.
 
@@ -106,25 +106,25 @@ By 3pm I'm finished. By 4pm I've showered and changed. When the first guest arri
 
 ![Outdoor lanterns and hurricane candle holders on a summer backyard party table at dusk](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 10: Use Candles and Lanterns for the Evening Atmosphere
+## Tip 10: How Do You Use Candles and Lanterns for the Evening Atmosphere?
 
 As the natural light fades and the festoon lights take over, the table needs candle light to feel finished. Hurricane holders with white pillar candles on the dining table, and outdoor lanterns ($15–$45 each from Kmart or Temple & Webster) placed at the edges of the entertaining area, create the warm, intimate atmosphere that makes summer evenings feel genuinely special.
 
 Wind-resistant candles (or LED candles with a realistic flicker for very windy evenings) in glass hurricane holders are more reliable than open-flame candles in an outdoor setting.
 
-## Tip 11: Create a Signature Batch Cocktail
+## Tip 11: How Do You Create a Signature Batch Cocktail?
 
 The batch cocktail served from a glass dispenser is the most visually impactful single party styling element on the food and drinks table. A 5L glass dispenser filled with a beautiful summer drink — ice visible through the glass, fruit and herbs floating in it — is both functional and decorative.
 
 **My signature summer cocktail:** 2 bottles Aperol, 3 bottles prosecco, 1L sparkling water, juice of 4 oranges, plenty of ice. Serves 20. Costs approximately $65 in ingredients. Serves itself.
 
-## Tip 12: Light the Perimeter at Ground Level
+## Tip 12: How Do You Light the Perimeter at Ground Level?
 
 The summer party that looks professionally styled after dark has light at three levels: overhead (festoon), mid-level (table candles and surface lanterns), and ground level (solar stakes along garden bed edges and paths). The ground level is the layer most often missing.
 
 Eight to twelve solar stake lights from Bunnings ($6–$8 each) placed around the perimeter of the entertaining area add the finishing ground-level light that completes the outdoor room at night.
 
-## Tip 13: Plan for the Party to Run Long
+## Tip 13: Why Plan for the Party to Run Long?
 
 The summer backyard party that succeeds always runs longer than planned. The good ones start at 5pm and end somewhere between 10pm and midnight. Design for the long version: have enough ice for the evening, have the candles at the table ready to light, have a post-dinner playlist queued on the Bluetooth speaker, and have the lounge zone ready for the post-dinner conversation.
 

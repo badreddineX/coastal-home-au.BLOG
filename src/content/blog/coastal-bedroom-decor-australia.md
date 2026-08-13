@@ -36,7 +36,7 @@ I transformed my Gold Coast bedroom into a proper coastal retreat for under $600
 
 ---
 
-## 1. Start With the Right Colour Palette
+## 1. Why Start With the Right Colour Palette?
 
 Before you spend a dollar, the colour palette is the decision that makes everything else work. A coastal bedroom palette in Australia keeps white as the dominant tone — walls, bedding, and ceiling all staying within a soft white or warm white range. Sandy beige or warm natural linen sits in the middle layer, and you bring in one muted accent colour to give the room personality.
 
@@ -48,7 +48,7 @@ Avoid saturated navy, deep teal, or bold coral — they all work in larger doses
 
 ---
 
-## 2. Choose Linen Bedding in White or Natural
+## 2. Why Choose Linen Bedding in White or Natural?
 
 ![Layered coastal bed with white linen quilt, natural cushions, and rattan bedside table](/images/unsplash-1522771739844-6a9f6d5f14af.jpg)
 
@@ -64,7 +64,7 @@ If you're renting, bedding is the safest investment you can make — it moves wi
 
 ---
 
-## 3. Add a Rattan Bedhead or Rattan Furniture Piece
+## 3. Should You Add a Rattan Bedhead or Rattan Furniture Piece?
 
 Rattan is the material that most clearly reads as coastal in an Australian context. It's warm, textural, and it photographs well against white walls without looking try-hard. You don't need multiple rattan pieces to make an impact — one is enough. For a broader look at how [rattan furniture](/blog/rattan-furniture-australia) fits into the Australian coastal home, the dedicated rattan guide covers every room and price point.
 
@@ -76,7 +76,7 @@ If you're renting and can't wall-mount a bedhead, freestanding rattan bedheads t
 
 ---
 
-## 4. Get Curtains Right: Sheer Linen Changes Everything
+## 4. How Do Sheer Linen Curtains Change Everything?
 
 ![Sheer white linen curtains pooling on a light timber floor in a bright coastal bedroom](/images/unsplash-1616594039964-ae9021a400a0.jpg)
 
@@ -92,7 +92,7 @@ If you're renting, check your lease before drilling for a curtain rod. Tension r
 
 ---
 
-## 5. Choose the Right Rug for a Coastal Bedroom
+## 5. How Do You Choose the Right Rug for a Coastal Bedroom?
 
 A rug grounds the bedroom and defines the space around the bed. For a coastal bedroom, the material, colour, and size of the rug all matter — and the size is the most commonly mishandled variable.
 
@@ -104,7 +104,7 @@ Avoid high-pile or plush rugs in a coastal bedroom — they read as too soft and
 
 ---
 
-## 6. Layer Your Lighting for a Coastal Mood
+## 6. How Do You Layer Lighting for a Coastal Mood?
 
 ![Rattan pendant light above a coastal bed with warm lamp light on matching bedside tables](/images/unsplash-1555041469-a586c61ea9bc.jpg)
 
@@ -118,7 +118,7 @@ If you're renting and can't replace the ceiling fixture, plug-in pendants with a
 
 ---
 
-## 7. Bring In Coastal Artwork Without Overspending
+## 7. How Do You Bring In Coastal Artwork Without Overspending?
 
 Artwork anchors the personality of a coastal bedroom without changing the architecture of the room. The coastal direction is clear: ocean photography, abstract seascape prints, simple botanical prints in natural frames, or a single large canvas in your accent colour.
 
@@ -132,7 +132,7 @@ If you're renting, Command strips rated to the artwork weight are bond-safe on m
 
 ---
 
-## 8. Use Indoor Plants Strategically
+## 8. How Do You Use Indoor Plants Strategically?
 
 ![White ceramic plant pot with a trailing pothos beside a rattan bedside table in a coastal bedroom](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
@@ -146,7 +146,7 @@ If you're renting, check your lease for any restrictions on indoor plants and al
 
 ---
 
-## 9. Add Texture With Natural Accessories
+## 9. How Do You Add Texture With Natural Accessories?
 
 The difference between a coastal bedroom that feels designed and one that feels assembled is texture. Texture comes from the materials you layer into the room: woven rattan, rough-hewn timber, smooth ceramic, soft linen, and natural jute all read differently to the eye and create depth without pattern or colour complexity.
 
@@ -156,7 +156,7 @@ Focus on the bedside table surfaces and the top of the dresser. A small ceramic 
 
 ---
 
-## 10. Choose Coastal-Appropriate Furniture Finishes
+## 10. How Do You Choose Coastal-Appropriate Furniture Finishes?
 
 The furniture outside the bed — the dresser, wardrobe, bedside tables, and any occasional chair — should support the coastal palette without competing with it. Light timber in natural or whitewashed finishes is the most versatile coastal furniture tone. White-painted furniture reads as more Hamptons-leaning. Rattan or cane-webbing inserts on drawer fronts or cabinet doors add coastal texture to a standard piece.
 
@@ -166,7 +166,7 @@ If you already have dark timber furniture, don't replace it — work around it. 
 
 ---
 
-## 11. Style the Balcony Door or Window as a Feature
+## 11. How Do You Style the Balcony Door or Window as a Feature?
 
 If your bedroom opens onto a balcony or has a significant window view, make it a feature rather than treating it as a functional opening. Frame the view with full-length sheer curtains, position a single chair or small side table in front of it, and let the natural light work as your primary light source during the day.
 

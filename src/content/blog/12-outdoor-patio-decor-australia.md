@@ -34,13 +34,13 @@ Here are the 13 things that reliably make the difference between a patio that lo
 
 ![Styled Australian outdoor patio with powder-coated aluminium furniture, outdoor rug, and festoon lights](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
-## Tip 1: Define the Floor Surface Before Anything Else
+## Tip 1: Why Define the Floor Surface Before Anything Else?
 
 The patio that looks like a designed space rather than furniture on concrete starts with the floor. If you have bare concrete, aged tiles, or an awkward mix of surfaces, an outdoor rug is the most cost-effective fix. If you have the opportunity to pave or deck, choose large-format tiles or boards — 600×600mm pavers or wider decking boards read as more considered and more contemporary than small-format paving.
 
 A polypropylene outdoor rug from Kmart ($89–$179 for 200×290cm) lays directly over any existing surface and immediately creates the visual foundation for everything else. If the patio is covered by a [pergola](/blog/01-pergola-entertaining-ideas-australia), the same floor-first principle applies — the rug under the pergola defines the dining zone before any furniture is placed.
 
-## Tip 2: Lay the Outdoor Rug First, Then Buy Furniture
+## Tip 2: Why Lay the Outdoor Rug First, Then Buy Furniture?
 
 The most common patio styling mistake I see: furniture bought first, rug attempted as an afterthought, wrong size, wrong tone, wrong result. The correct sequence is: choose the rug size and colour first, then select furniture that relates to it.
 
@@ -48,7 +48,7 @@ The most common patio styling mistake I see: furniture bought first, rug attempt
 
 **The tone rule:** Natural tones (sand, beige, jute-coloured) suit the widest range of Australian outdoor furniture. A rug with too much colour anchors the palette in a way that limits what you can add around it.
 
-## Tip 3: Choose Powder-Coated Aluminium for the Primary Furniture
+## Tip 3: Why Choose Powder-Coated Aluminium for the Primary Furniture?
 
 I've owned steel furniture that rusted after two Gold Coast summers, solid timber furniture that cracked and needed annual oiling, and genuine rattan chairs that disintegrated when left outdoors through two wet seasons. Everything I own outdoors now is either powder-coated aluminium or UV-stabilised synthetic rattan.
 
@@ -59,7 +59,7 @@ I've owned steel furniture that rusted after two Gold Coast summers, solid timbe
 
 Total surface area of furniture: zero rust, zero cracking, zero maintenance beyond a seasonal clean with mild detergent and a garden hose.
 
-## Tip 4: Add Festoon Lights for the Evening Transformation
+## Tip 4: Why Add Festoon Lights for the Evening Transformation?
 
 The patio that looks good in daylight and looks genuinely beautiful at night has festoon lights. Two parallel strings of warm white festoon lights (Eglo, $65 each at Bunnings) across a 4×3m patio, on a timer that activates at 6pm, changes the entire character of the space after dark. The warm 2200K colour temperature is important — cool white looks like a function room, warm white looks like a destination.
 
@@ -67,7 +67,7 @@ The patio that looks good in daylight and looks genuinely beautiful at night has
 
 ![Lush green plants in terracotta pots defining the perimeter of an alfresco patio](/images/unsplash-1600585154340-be6161a56a0c.jpg)
 
-## Tip 5: Plant the Perimeter for Lushness and Privacy
+## Tip 5: Why Plant the Perimeter for Lushness and Privacy?
 
 The patio that feels like a garden room rather than furniture on a hard surface has green at the perimeter. Even large pots with substantial plants — standard olive trees, potted Lilly Pillies, a large Frangipani in a terracotta pot — create the enclosed, lush quality that makes outdoor spaces feel designed.
 
@@ -78,19 +78,19 @@ The patio that feels like a garden room rather than furniture on a hard surface 
 
 The combined effect: a patio that feels enclosed and lush rather than exposed and bare.
 
-## Tip 6: Add a Lounge Zone Separate From Dining
+## Tip 6: Why Add a Lounge Zone Separate From Dining?
 
 The patio that functions as an all-day destination — not just a place to eat — has two zones. A dining zone (table and chairs) and a lounge zone (outdoor sofa or armchairs, coffee table, somewhere to be without eating or drinking). Even on a small patio, two armchairs and a low table separated from the dining area by 1.5—2m creates a distinct lounge zone.
 
 Budget lounge zone: two Kmart outdoor rattan armchairs ($149–$199 each) and a small Kmart coffee table ($89). Under $500 and creates an entirely different dynamic for the outdoor space. For a dedicated look at seating and sofa configurations outdoors, [outdoor lounge ideas Australia](/blog/outdoor-lounge-ideas-australia) covers layout, cushion choices, and material selection for the lounge zone specifically.
 
-## Tip 7: Style the Table With a Centrepiece That Changes Seasonally
+## Tip 7: How Do You Style the Table With a Seasonally Changing Centrepiece?
 
 An outdoor dining table with nothing on it looks like outdoor furniture awaiting use. A table with a simple centrepiece looks like an outdoor room. The centrepiece doesn't need to be elaborate — a single terracotta pot with a trailing plant, a hurricane holder with a pillar candle, or a ceramic jug with seasonal flowers from the garden all achieve the effect.
 
 I change the centrepiece quarterly: frangipanis in summer, native foliage in autumn, gardenias in spring, candles as the primary element in winter (when the evenings cool enough to make candlelight the main light source outdoors).
 
-## Tip 8: Use Outdoor Cushions That Can Live Outside Year-Round
+## Tip 8: Why Use Outdoor Cushions That Can Live Outside Year-Round?
 
 The calculation that finally made me buy Sunbrella-grade outdoor cushions: I was spending approximately 45 minutes per week moving standard outdoor cushions inside when rain was forecast. Over a year on the Gold Coast (where sudden afternoon rain is typical September through March), that's approximately 28 hours of cushion management. Sunbrella cushions live outside full-time.
 
@@ -98,13 +98,13 @@ The calculation that finally made me buy Sunbrella-grade outdoor cushions: I was
 
 ![Large rattan pendant light hanging over outdoor dining table on a covered Australian alfresco](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
-## Tip 9: Add One Statement Pendant or Hanging Light
+## Tip 9: Should You Add One Statement Pendant or Hanging Light?
 
 For covered patios with ceiling mounting points, a statement pendant light — a large rattan globe (55—65cm diameter, $149–$299 from Temple & Webster), a woven bamboo cone, or a classic lantern pendant — adds the dimension of considered design to the ceiling plane that festoon lights alone don't quite achieve.
 
 The pendant light makes the covered patio feel more like an interior room, which is exactly the quality a well-designed Australian alfresco should have.
 
-## Tip 10: Position an Outdoor Mirror on a Fence Wall
+## Tip 10: Why Position an Outdoor Mirror on a Fence Wall?
 
 An outdoor mirror — rated for exterior use, or with a galvanised or resin frame that handles moisture — on a fence wall behind the dining area doubles the perceived size of the patio and adds light. A 90cm round metal-framed mirror on an exterior fence reads as a decorative element rather than a utilitarian one, and the reflection of the garden creates a visual depth behind the dining table.
 

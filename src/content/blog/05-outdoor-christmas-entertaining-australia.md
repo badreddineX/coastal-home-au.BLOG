@@ -34,7 +34,7 @@ Here's what changed.
 
 ![Australian outdoor Christmas setting with shade sail, white table, and fresh native foliage centrepiece](/images/unsplash-1482517967863-00e15c9b44be.jpg)
 
-## Tip 1: Solve the Shade Before You Buy a Single Decoration
+## Tip 1: Why Solve the Shade Before You Buy a Single Decoration?
 
 December 25th in most Australian cities averages 25—33 degrees and the sun angle at noon is punishing. No amount of Christmas styling compensates for guests who can't sit comfortably. The shade solution for your dining area needs to be in place before anything else.
 
@@ -42,7 +42,7 @@ December 25th in most Australian cities averages 25—33 degrees and the sun ang
 
 If you don't have an existing structure, a pop-up marquee from Bunnings or BCF ($150–$400 for a 3×3m or 3×6m) provides immediate shade coverage and can be decorated with fairy lights to make it feel intentional rather than temporary.
 
-## Tip 2: Start Lunch at 12pm and Aim to Finish by 3pm
+## Tip 2: Why Start Lunch at 12pm and Aim to Finish by 3pm?
 
 The worst Australian Christmas lunches I've been to started late — 1pm or 1:30pm — and ran into the 3—5pm peak heat window. By the time the dessert came out, guests were looking for excuses to go inside.
 
@@ -50,13 +50,13 @@ Start at noon, serve the starter by 12:15pm, the main by 1pm, and dessert by 2pm
 
 The early start is the single most impactful Christmas hosting decision I've made.
 
-## Tip 3: Install a Cold Drinks Station Away From the Kitchen
+## Tip 3: Why Install a Cold Drinks Station Away From the Kitchen?
 
 Christmas Day, the kitchen is a war zone. The last thing I want is guests wandering through it looking for drinks. On Christmas morning, I set up a dedicated outdoor drinks station with everything needed for the day: a large esky packed with ice (my 60L Coleman from BCF, $149), wine and beer, a batch cocktail in a 5L glass dispenser ($25–$35 from Kmart), cold water with lemon and mint, and soft drinks for the children.
 
 Guests self-serve from 11:30am. I don't touch the drinks station on the day except to refill ice. It's the best decision I make every Christmas.
 
-## Tip 4: Keep the Table Styling Simple and White
+## Tip 4: Why Keep the Table Styling Simple and White?
 
 The Australian outdoor Christmas table that photographs best and functions best is white — white tablecloth or runner (or bare timber if the table is beautiful enough), white plates, white linen napkins, white candles in hurricane holders. The colour comes from the food, the flowers, and the guests.
 
@@ -66,7 +66,7 @@ The Australian outdoor Christmas table that photographs best and functions best 
 
 ![Cold seafood Christmas starter platter with prawns and oysters on a white outdoor table](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
-## Tip 5: Serve a Cold or Room-Temperature Menu
+## Tip 5: Why Serve a Cold or Room-Temperature Menu?
 
 The Christmas menu that works outdoors in Australian heat is cold or room-temperature. I stopped trying to serve a roast that needed to be hot.
 
@@ -77,7 +77,7 @@ The Christmas menu that works outdoors in Australian heat is cold or room-temper
 
 Everything is at its best warm or cold — nothing requires monitoring or reheating. The host is at the table with guests, not managing the kitchen.
 
-## Tip 6: Set Up Festoon Lights Even If You Plan to Finish by 3pm
+## Tip 6: Why Set Up Festoon Lights Even If You Plan to Finish by 3pm?
 
 Christmas Day gatherings regularly extend into the evening — the children are playing, the good wine keeps coming, and nobody wants to leave. Have the festoon lights ready. I already have them year-round, but I add a string of warm white fairy lights around the pergola posts and along the fence line specifically for Christmas to increase the density of light and create a Christmas-specific atmosphere.
 

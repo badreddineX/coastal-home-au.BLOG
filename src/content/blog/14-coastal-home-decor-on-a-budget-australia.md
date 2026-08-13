@@ -34,7 +34,7 @@ A [Choice.com.au](https://www.choice.com.au/home-improvement/decorating-and-furn
 
 ![Budget coastal bedroom transformation with warm white walls, jute rug, and rattan mirror from Kmart](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
-## Tip 1: Paint Every Room Warm White First
+## Tip 1: Why Paint Every Room Warm White First?
 
 This is non-negotiable and it's the cheapest transformation available in any interior. Our previous wall colour was a warm taupe that looked dated, made the rooms feel smaller than they were, and clashed with every natural material I tried to introduce. One weekend and two tins of Dulux Natural White from Bunnings ($68 each for 4L, covers approximately 12—14 square metres per coat) changed every room.
 
@@ -42,19 +42,19 @@ Before the warm white: the jute rugs looked wrong, the rattan chair looked out o
 
 **Budget:** $68–$95 per 4L tin from Bunnings. One bedroom or standard living room: typically 1.5—2 tins for two coats.
 
-## Tip 2: Lay a Jute Rug — Buy the Largest Size That Fits
+## Tip 2: Why Lay a Jute Rug — and Buy the Largest Size That Fits?
 
 The jute rug is the most cost-effective single purchase in any coastal budget. Under the dining table, under the living room furniture, in the bedroom extending from beneath the bed — a jute rug in any of these positions immediately creates a "room" quality in a space that previously had furniture sitting on bare or irrelevant flooring.
 
 Kmart jute rugs: $89 (120×170cm), $109 (160×230cm), $139 (200×290cm). I always buy the 200×290cm — the size at which rugs read as a room-defining element rather than a mat.
 
-## Tip 3: Hang Linen Curtains at Ceiling Height
+## Tip 3: Why Hang Linen Curtains at Ceiling Height?
 
 IKEA AINA natural linen curtains ($99 per pair, 145×250cm) hung from ceiling-mounted brackets (Bunnings, $8–$12 each) produce a look that adds $500 in perceived value to any room. The ceiling height matters — standard window-height curtain installations shrink rooms. Ceiling-height curtains expand them.
 
 The linen filters light beautifully — warm, diffuse, and evocative of coastal living even in the most landlocked Gold Coast suburb. Two pairs per window (four panels) for fullness: $198 per window plus bracket costs. I've done this in every room in the house.
 
-## Tip 4: Buy a Rattan Mirror for $25–$35 From Kmart
+## Tip 4: Should You Buy a Rattan Mirror for $25–$35 From Kmart?
 
 The Kmart rattan mirror (round, 55—60cm diameter) is the best value coastal decor object available in Australia at any price point. For $25–$35, it adds the material texture and the organic form that immediately shifts a room toward the coastal aesthetic.
 
@@ -62,13 +62,13 @@ Position it opposite a window to bounce light, in a hallway to add depth, or in 
 
 ![Linen and waffle-weave cushion covers in white and natural tones on a coastal sofa](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
-## Tip 5: Switch Cushion Covers, Not the Cushions
+## Tip 5: Why Switch Cushion Covers, Not the Cushions?
 
 Cushion covers are the fastest, cheapest way to change the palette of a sofa or bed. Kmart linen-look cushion covers: $8–$15 each. A set of five (two white, two natural, one sage) on a dark sofa immediately reads as coastal. I replaced all the cushion covers in our living room for $68 total and the visual transformation was disproportionate to the cost.
 
 The trick is to buy quality cushion inners once (from Adairs or Temple & Webster, $15–$30 each) and then change the covers seasonally or when the palette needs updating. Covers wash, dry quickly, and store in a drawer.
 
-## Tip 6: Repaint Dark Furniture in Dulux Vivid White Chalk Paint
+## Tip 6: How Do You Repaint Dark Furniture in Dulux Vivid White Chalk Paint?
 
 Our existing media unit and two bedside tables were dark timber — they absorbed the light in every room they were in. Chalk paint (no sanding, no priming required) from my local art supplier, $45 for 1L, and one afternoon later: all three pieces were white. The change to the rooms was more significant than any furniture purchase I've made.
 
@@ -76,13 +76,13 @@ Two coats. Light sand between coats with 220-grit paper if you want a smooth fin
 
 **Budget:** $40–$65 for chalk paint from a local art supply store or Temple & Webster. One litre covers approximately 6—8 square metres (adequate for most furniture pieces with two coats).
 
-## Tip 7: Buy Rattan Pendant Lights From Kmart
+## Tip 7: Should You Buy Rattan Pendant Lights From Kmart?
 
 Kmart rattan pendant lights ($35–$65 depending on size) are the single best value lighting upgrade in any coastal decor budget. Replace a standard plastic pendant fitting with a Kmart rattan globe pendant, and the room gains both material texture and a warmer quality of light.
 
 I replaced four pendant lights in our home with Kmart rattan versions. Two living room pendants, one bedroom, one dining room. Total: $160. The effect on each room: genuinely significant. The rattan diffuses the light source and gives the overhead light a warm glow rather than a bare-bulb quality.
 
-## Tip 8: Shop Op Shops for Rattan and Coastal Ceramics
+## Tip 8: Why Shop Op Shops for Rattan and Coastal Ceramics?
 
 Op shops in coastal Australian cities (Vinnies, Salvos, Brotherhood of St Laurence) are the best source of:
 - Vintage rattan mirrors ($5–$25) that are better quality than most new alternatives
@@ -95,19 +95,19 @@ I shop op shops monthly. The Southport Vinnies and Broadbeach Salvos have yielde
 
 ![Large fiddle leaf fig in terracotta pot in corner of coastal living room](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
-## Tip 9: Add Large Indoor Plants in Terracotta Pots
+## Tip 9: Should You Add Large Indoor Plants in Terracotta Pots?
 
 A large indoor plant in a terracotta pot costs $30–$80 from a nursery and lasts years if well cared for. In terms of visual impact per dollar for coastal home decor, it's in the top five. A mature fiddle leaf fig ($60–$150 depending on size), a golden cane palm ($40–$80), or a monstera ($30–$60) in a terracotta pot ($8–$25 from Bunnings) completes the natural-material story in any room.
 
 Buy plants at Bunnings for the widest range at competitive prices. For statement pieces, a local nursery will have better-quality specimens at comparable prices. The kitchen is one of the best rooms for a statement plant — the [coastal kitchen decor Australia](/blog/coastal-kitchen-decor-australia) guide covers plant placement alongside budget-friendly cabinetry and accessory ideas.
 
-## Tip 10: Use White Ceramic Accessories to Replace Everything Synthetic
+## Tip 10: Why Use White Ceramic Accessories to Replace Everything Synthetic?
 
 A significant portion of the "wrong" visual quality in most Australian interiors that want to be coastal comes from synthetic-material accessories — acrylic vases, coloured resin decorative objects, metallic accessories that don't connect to the natural palette.
 
 Replace: buy a set of white ceramic vases from Kmart ($8–$25 each), a set of natural ceramic or rattan coasters ($12–$25 from Kmart), a white ceramic soap dispenser and tray for the bathroom ($8–$12 each), and a simple white ceramic candle holder ($10–$20 from Adairs). These changes remove the visual interruptions from the palette and make the natural materials read more clearly.
 
-## Tip 11: Hang Coastal Art in Simple White Frames
+## Tip 11: How Do You Hang Coastal Art in Simple White Frames?
 
 Art is the most underrated coastal decor element in a budget transformation. A large print — a seascape photograph, an aerial coastal shot, an abstract in ocean tones — in a simple white IKEA RIBBA frame ($19.99 for 50×70cm, $29.99 for 61×91cm) makes the same visual statement as a print from a specialist art supplier at four times the price.
 
@@ -118,7 +118,7 @@ Art is the most underrated coastal decor element in a budget transformation. A l
 
 Printed at Officeworks in A2 or A1 ($10–$25 depending on size) and framed in a white IKEA frame: complete coastal art piece for $20–$60.
 
-## Tip 12: Refresh the Entry With a Rattan Pendant and a Large Plant
+## Tip 12: How Do You Refresh the Entry With a Rattan Pendant and a Large Plant?
 
 The entry of an Australian home sets the tone for everything inside. A Kmart rattan pendant above the entry (replacing a plain ceiling fixture), a large terracotta pot with an olive tree or standard rosemary topiary by the door, and a jute or coir doormat complete a coastal entry transformation for under $150.
 

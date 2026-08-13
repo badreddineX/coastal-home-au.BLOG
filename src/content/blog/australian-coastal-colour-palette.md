@@ -45,7 +45,7 @@ I've repainted coastal rooms more times than I care to admit. These are the nine
 
 
 
-## 1. The Classic: Warm White Plus Sandy Neutral Plus Natural Timber
+## 1. The Classic: Why Do Warm White, Sandy Neutral, and Natural Timber Work Together?
 
 This is the palette every other Australian coastal combination builds from. It's not boring — it's foundational. A warm white wall, sandy neutral trim and joinery, and natural timber floors or furniture is the colour relationship that the Australian coastal interior depends on.
 
@@ -61,7 +61,7 @@ This is the palette every other Australian coastal combination builds from. It's
 
 **Key point:** Dulux Natural White (half-strength) on walls, available from Bunnings at ~$65-$75 AUD for 4L, is the safest and most beautiful starting point for any Australian coastal interior.
 
-## 2. Sun-Bleached: Warm White Plus Linen Wash Plus Driftwood Grey
+## 2. Sun-Bleached: How Do Warm White, Linen Wash, and Driftwood Grey Work Together?
 
 This palette is for the Australian beach house that feels genuinely worn-in, lived-in, and connected to the landscape rather than freshly styled. It's warmer and more textural than the classic white palette — the right choice for older homes, character properties, and anywhere you want depth over brightness.
 
@@ -80,7 +80,7 @@ This palette is for the Australian beach house that feels genuinely worn-in, liv
 
 **Key point:** Taubmans Flaxen on walls with Dulux Hog Bristle trim (~$60-$75 AUD per 4L at Bunnings) creates the warm, sun-bleached Australian coastal interior that feels genuinely lived-in rather than newly decorated.
 
-## 3. Ocean Calm: Warm White Plus Soft Sage Green Plus Natural Timber
+## 3. Ocean Calm: Why Pair Warm White With Soft Sage Green and Natural Timber?
 
 Sage green is having a sustained moment in Australian coastal interiors — and it's earned it. Unlike the saturated greens of the 1990s or the cool eucalyptus greens of recent years, soft sage green sits perfectly between ocean and landscape, warm enough to feel Australian and muted enough to feel sophisticated.
 
@@ -100,7 +100,7 @@ Sage green is having a sustained moment in Australian coastal interiors — and 
 
 **Key point:** Dulux Tranquil Retreat as a feature wall colour (one wall only, ~$65-$75 AUD for 4L at Bunnings) is the sage green option most suited to Australian coastal interiors without reading dated or oversaturated.
 
-## 4. Coastal Hamptons: Bright White Plus Soft Navy Plus Natural Oak
+## 4. Coastal Hamptons: How Do You Combine Bright White, Soft Navy, and Natural Oak?
 
 This is the Australian interpretation of the American Hamptons palette — and the key word is "Australian interpretation." The American version uses cooler, brighter whites and more saturated navy. The version that works here is warmer and more restrained, reflecting the warmer quality of Australian light.
 
@@ -119,7 +119,7 @@ This is the Australian interpretation of the American Hamptons palette — and t
 
 **Key point:** Dulux Lexicon Half (walls) paired with Dulux Vivid White (trim) is the most reliably beautiful Australian Hamptons-style paint combination — both are available from Bunnings at ~$65-$75 AUD per 4L.
 
-## 5. Barefoot Beach: Soft Terracotta Plus Warm White Plus Sandy Beige
+## 5. Barefoot Beach: Why Pair Soft Terracotta With Warm White and Sandy Beige?
 
 This is the more unexpected coastal palette — and the one that surprises people most with how well it works in Australian beach house interiors. Terracotta reads as a coastal colour in Australia because it's the colour of sandstone cliffs, red-dirt coastlines, and the terracotta-pot gardens of every coastal home north of the Tropic of Capricorn.
 
@@ -138,7 +138,7 @@ This is the more unexpected coastal palette — and the one that surprises peopl
 
 **Key point:** Dulux Outback Sunset as a single feature wall (one tin of 4L at ~$65-$75 AUD covers approximately 10m2) introduces terracotta warmth to a coastal interior without overwhelming the space.
 
-## 6. Deep Coastal: Soft Navy Feature Wall Plus Warm White Plus Natural Timber
+## 6. Deep Coastal: How Do You Use a Navy Feature Wall With Warm White and Timber?
 
 Used correctly, a deep navy feature wall is one of the most dramatic and beautiful things you can do in a coastal Australian interior. Used incorrectly, it makes a room feel like a corporate hotel bathroom. The difference is entirely in the other palette elements and the scale of the navy application.
 
@@ -156,7 +156,7 @@ Used correctly, a deep navy feature wall is one of the most dramatic and beautif
 
 **Key point:** Dulux Blue Jeans on a single feature wall (~$65-$75 AUD for 4L at Bunnings) is the most consistently beautiful deep coastal paint choice — muted enough to feel sophisticated, deep enough to make a statement.
 
-## 7. Muted Aqua: Soft Aqua-Green Plus Warm White Plus Bleached Timber
+## 7. Muted Aqua: Why Combine Soft Aqua-Green With Warm White and Bleached Timber?
 
 Aqua is the colour Australian coastal interiors overuse most reliably — and then abandon a season later because it aged poorly. The mistake is saturation. Bright, swimming-pool aqua is a children's bedroom colour. Muted, slightly grey aqua is a genuinely sophisticated coastal accent.
 
@@ -175,7 +175,7 @@ Aqua is the colour Australian coastal interiors overuse most reliably — and th
 
 **Key point:** Taubmans Ocean Haze in a bathroom or as a bedroom accent wall (~$60-$70 AUD for 4L at Bunnings) is the muted aqua choice that ages best in Australian coastal interiors.
 
-## 8. Coastal Exterior: Weathered White Plus Coastal Sage Plus Warm Timber Decking
+## 8. Coastal Exterior: Which Colours Work Best — Weathered White, Coastal Sage, or Timber Decking?
 
 Exterior colour in a coastal Australian environment is both a design decision and a practical one. Salt air, intense UV, and the occasional tropical storm degrade standard exterior paint significantly faster than in inland environments — which means both the paint product and the colour choice matter.
 
@@ -193,7 +193,7 @@ All exterior paint in coastal locations should come from a specifically formulat
 
 **Key point:** Dulux Lexicon Half exterior formula from Bunnings (~$120-$180 AUD per 10L) is the most consistently beautiful and durable Australian beach house exterior colour — pair with Vivid White trim for a clean, classic coastal result.
 
-## 9. The Warm Minimal: Off-White Plus Warm Grey Plus Pale Stone
+## 9. The Warm Minimal: Why Combine Off-White, Warm Grey, and Pale Stone?
 
 This is the coastal palette for Australian homeowners who want the light, airy quality of a coastal interior without any explicit "beach house" signifiers. No navy. No rattan (unless it's very restrained). No aqua. Just a beautifully calibrated warm minimal palette that happens to suit the coastal light perfectly.
 

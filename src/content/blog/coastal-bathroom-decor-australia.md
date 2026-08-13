@@ -37,7 +37,7 @@ The bathroom is the most overlooked room for coastal styling — and the most re
 
 ![Coastal bathroom with white subway tiles, rattan mirror, and waffle towels in soft blue and white](/images/unsplash-1552321554-5fefe8c9ef14.jpg)
 
-## 1. Start With the Colour Palette
+## 1. What Colour Palette Should You Start With?
 
 Getting the colours right costs nothing and changes everything. A coastal bathroom palette keeps white as the dominant base, layering soft blue or aqua as an accent, sandy beige in textiles and timber, and natural green from plants. The same palette logic applies to the [coastal bedroom](/blog/coastal-bedroom-decor-australia) next door — consistent tones across adjoining rooms create a cohesive coastal home. Avoid saturated teals or anything too dark — coastal bathrooms should feel like early morning sunlight, not a hotel lobby.
 
@@ -154,7 +154,7 @@ Renters: fixtures are out of scope. Focus your energy on the accessory layers in
 
 ---
 
-## 10. Bath Mats: The Finishing Detail
+## 10. Why Are Bath Mats the Finishing Detail?
 
 A timber or stone-look bath mat is one of the last things most people think about and one of the easiest upgrades to make. Standard cotton bath mats read as generic. A teak timber mat or a textured stone-look option reads as deliberately designed.
 

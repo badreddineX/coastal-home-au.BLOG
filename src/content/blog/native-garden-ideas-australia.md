@@ -40,7 +40,7 @@ I used to think a native garden meant a scrubby patch of gum trees and not much 
 
 ---
 
-## 1. Understand Your Soil and Climate Zone Before Buying a Single Plant
+## 1. Why Understand Your Soil and Climate Zone Before Buying Plants?
 
 The [Australian Native Plant Society (ANPSA)](https://anpsa.org.au/) advises that matching native plants to local soil type and climate zone is the single most important factor in establishing a low-maintenance garden. Plants selected for the wrong conditions require up to three times more water and fertiliser than correctly matched species, and still underperform. ([ANPSA](https://anpsa.org.au/), 2025)
 
@@ -90,7 +90,7 @@ Strong mid-layer choices:
 
 ---
 
-## 4. Groundcovers That Suppress Weeds and Add a Finished Look
+## 4. Which Groundcovers Suppress Weeds and Add a Finished Look?
 
 Bare soil between plants is an open invitation for weeds. Native groundcovers solve this beautifully — they're low, spreading, and suited to Australian conditions in a way that most exotic groundcovers simply aren't.
 
@@ -121,7 +121,7 @@ After shaping, install steel garden edging along the curve. This keeps mulch and
 
 ---
 
-## 6. Why Mulching Is the Most Underrated Native Garden Step
+## 6. Why Is Mulching the Most Underrated Native Garden Step?
 
 Research cited by the [ANPSA](https://anpsa.org.au/) shows that a 6-8cm deep mulch layer can reduce garden water requirements by 60-70% in Australian summer conditions by suppressing evaporation from the soil surface. Mulch also moderates soil temperature and progressively improves soil structure as it breaks down. ([ANPSA](https://anpsa.org.au/), 2025)
 
@@ -137,7 +137,7 @@ A standard 60L bag of garden mulch from Bunnings covers roughly 1 sqm at 6cm dep
 
 ---
 
-## 7. Designing a Waterwise Garden for Australian Summers
+## 7. How Do You Design a Waterwise Garden for Australian Summers?
 
 Water restrictions are a reality in most Australian states. The good news is that a properly designed native garden barely needs watering after its first summer. The goal is to set plants up well in autumn, water them through their first summer, and then withdraw irrigation as roots establish.
 
@@ -188,7 +188,7 @@ For small courtyard and terrace gardens, focus on:
 
 ---
 
-## 10. Using Rocks and Boulders to Create a Natural Aesthetic
+## 10. How Do You Use Rocks and Boulders to Create a Natural Aesthetic?
 
 Rocks are a natural part of the Australian landscape and belong in a native garden. They provide habitat for lizards and skinks, help retain soil moisture, and visually anchor plant groupings in a way that feels genuinely Australian rather than imported.
 
@@ -223,7 +223,7 @@ Low-phosphorus native fertiliser is important. Most standard garden fertilisers 
 
 ---
 
-## 12. Sequencing the Project: How to Build a Native Garden Over Time
+## 12. How Do You Sequence a Native Garden Project Over Time?
 
  Based on my own native garden projects in Queensland, the most sustainable approach is to complete one garden bed per season rather than attempting the whole space at once. This staggers costs, allows you to learn from each bed, and means every planting goes in at the optimal autumn-winter establishment window rather than being rushed in summer.
 

@@ -33,7 +33,7 @@ Whether you have a sprawling suburban block in Brisbane, a compact terrace in in
 
 ![Australian alfresco entertaining area with shade sail, outdoor dining table, and coastal garden](/images/unsplash-1600566753086-00f18fb6b3ea.jpg)
 
-## 1. Start With a Proper Alfresco Foundation
+## 1. Why Start With a Proper Alfresco Foundation?
 
 The difference between an outdoor area you use once a week and one you use every day comes down to the foundation: level ground, a defined space, and some form of overhead shelter.
 
@@ -41,7 +41,7 @@ If you don't have a covered alfresco area, a shade sail or a freestanding [pergo
 
 **Budget option:** A 5x5m shade sail from Bunnings starts at around $150 AUD and can be installed in an afternoon.
 
-## 2. Invest in Weather-Resistant Furniture That Lasts
+## 2. Why Invest in Weather-Resistant Furniture That Lasts?
 
 This is not the place to cut corners. Australian summers are harsh, and outdoor furniture that can't handle direct sun, humidity, and the occasional coastal salt air will fade and deteriorate within a season or two.
 
@@ -53,7 +53,7 @@ Look for:
 
 Temple & Webster regularly stocks quality outdoor furniture in all three materials, with pieces starting from around $400 AUD for a decent lounge chair.
 
-## 3. Layer Your Outdoor Lighting for Evening Entertaining
+## 3. How Do You Layer Outdoor Lighting for Evening Entertaining?
 
 The way you light an outdoor area is what separates a functional backyard from an atmospheric one. The key is layering: ambient, task, and accent lighting working together.
 
@@ -65,7 +65,7 @@ A simple approach that works brilliantly:
 
 All three layers together cost $200–$400 AUD and completely transform how your outdoor space feels after 6pm.
 
-## 4. Define Zones With Outdoor Rugs
+## 4. How Do You Define Zones With Outdoor Rugs?
 
 One of the fastest ways to make an outdoor area feel designed (rather than just furnished) is to define zones with outdoor rugs. A rug under your outdoor dining table, and a second one under your lounge setting, instantly creates the sense of two separate rooms.
 
@@ -73,7 +73,7 @@ Look for polypropylene rugs — they're designed for outdoor use, resist mould a
 
 ![Warm-white string lights wound through a pergola above an outdoor dining table set for an evening gathering](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
-## 5. Build a BBQ Station Worth Using
+## 5. How Do You Build a BBQ Station Worth Using?
 
 Australians take their BBQs seriously — and rightly so. But many outdoor areas treat the BBQ as an afterthought, plonked in a corner with no bench space and nowhere to put a drink.
 
@@ -86,7 +86,7 @@ A proper BBQ station includes:
 
 If a built-in outdoor kitchen isn't in the budget, a freestanding stainless steel trolley BBQ from Bunnings paired with a dedicated outdoor sideboard from Temple & Webster achieves the same functional result for $800–$1,500 AUD. For the full setup — layout, appliances, and a proper cost breakdown — see the [outdoor BBQ area ideas guide](/blog/outdoor-bbq-area-ideas-australia).
 
-## 6. Add Coastal Cushions and Textiles for Instant Style
+## 6. How Do Coastal Cushions and Textiles Add Instant Style?
 
 This is where the personality of your outdoor space comes through. Cushions, throw rugs, and textiles are the fastest (and most affordable) way to make outdoor furniture feel styled rather than generic.
 
@@ -98,7 +98,7 @@ For a coastal Australian look, reach for:
 
 Adairs' outdoor cushion range is one of the best value options in Australia, with quality outdoor-rated cushions from around $30 AUD each.
 
-## 7. Create Privacy With Vertical Gardens or Screen Panels
+## 7. How Do You Create Privacy With Vertical Gardens or Screen Panels?
 
 Outdoor entertaining is much more relaxed when you're not making eye contact with the neighbours. Privacy screening doesn't have to be expensive or ugly — there are several coastal-appropriate options that actually add to the aesthetic.
 
@@ -106,7 +106,7 @@ Outdoor entertaining is much more relaxed when you're not making eye contact wit
 
 **Timber privacy screens:** A simple lattice or slatted timber screen creates privacy and a beautiful backdrop for plants. Bunnings carries flat-pack versions from $60 AUD that can be installed in a weekend.
 
-## 8. Use Native Australian Plants for Low-Maintenance Greenery
+## 8. Which Native Australian Plants Give Low-Maintenance Greenery?
 
 Nothing softens a hard outdoor entertaining space like greenery — and nothing is more suited to an Australian outdoor area than Australian native plants.
 
@@ -121,7 +121,7 @@ All four are available at most Bunnings locations for under $20 AUD per plant.
 
 ![Coastal-style outdoor cushions in white, navy, and seafoam on a teak outdoor lounge setting](/images/unsplash-1600585154084-4e5fe7c39198.jpg)
 
-## 9. Install a Misting System for Australian Summer Heat
+## 9. Should You Install a Misting System for Australian Summer Heat?
 
 This is the single outdoor upgrade most Australians haven't yet discovered — and it makes summer entertaining genuinely comfortable rather than something to be endured.
 
@@ -129,17 +129,17 @@ A simple misting system attached to your pergola or shade structure reduces the 
 
 **Budget option:** The Ozito 10-Nozzle Misting Kit at Bunnings is ~$89 AUD and covers a pergola or shade sail up to 5m wide — one of the best-value summer upgrades available.
 
-## 10. Create a Dedicated Outdoor Bar Area
+## 10. Should You Create a Dedicated Outdoor Bar Area?
 
 Whether it's a full bar cart or a dedicated side table, having a specific spot for drinks makes outdoor entertaining feel intentional and relaxed. Nobody should have to walk inside every time they want to refill a glass.
 
 A rattan bar cart from Temple & Webster ($200–$400 AUD) styled with coastal barware, a good ice bucket, and some native Australian greenery is both functional and beautiful.
 
-## 11. Bring in a Portable Speaker System
+## 11. Why Bring in a Portable Speaker System?
 
 Good music is the invisible ingredient in great outdoor entertaining. A quality waterproof Bluetooth speaker — the JBL Charge 5 ($200 AUD) or the Sonos Move 2 ($700 AUD) for the serious entertainer — means the vibe is right regardless of the playlist.
 
-## 12. Add an Outdoor Dining Table That Fits Your Space
+## 12. How Do You Choose an Outdoor Dining Table That Fits Your Space?
 
 Scale matters enormously outdoors. A table that's too small for your group makes every dinner feel cramped; a table that's too large makes intimate gatherings feel cold.
 
@@ -147,7 +147,7 @@ A good rule: measure your outdoor space, allow at least 1m clearance around all 
 
 Temple & Webster's outdoor dining range starts from around $600 AUD for a six-seater.
 
-## 13. Use Lanterns and Candles for Coastal Atmosphere
+## 13. How Do Lanterns and Candles Create Coastal Atmosphere?
 
 Coastal outdoor entertaining doesn't always need bright task lighting. For dinner parties and relaxed evening drinks, lanterns and outdoor candles create a soft, warm atmosphere that's impossible to replicate with electric lighting.
 
@@ -155,13 +155,13 @@ Cluster three or five lanterns of different heights on a side table or along the
 
 **Budget option:** Kmart's rattan and bamboo lantern sets (~$19-$29 AUD each) are excellent value. Temple & Webster carries larger statement lanterns in whitewashed timber from ~$69-$129 AUD.
 
-## 14. Invest in Quality Outdoor Dinnerware
+## 14. Why Invest in Quality Outdoor Dinnerware?
 
 Melamine dinnerware has come a long way. Modern outdoor melamine looks almost identical to ceramic, is completely unbreakable, and is dishwasher safe. For outdoor entertaining in Australia — where dinner tends to flow into dancing, which tends to flow into someone inevitably knocking things over — this is a practical choice.
 
 Several beautiful coastal-themed outdoor melamine sets are available from Adairs and Temple & Webster from $80–$150 AUD for a set of four.
 
-## 15. Plant Herbs in Your Outdoor Kitchen Zone
+## 15. Why Plant Herbs in Your Outdoor Kitchen Zone?
 
 A small pot of herbs close to the BBQ and outdoor kitchen area is both practical and beautiful. Fresh rosemary, thyme, and basil within arm's reach of the grill is exactly how outdoor cooking should feel.
 
@@ -171,19 +171,19 @@ Use terracotta pots for a Hamptons-meets-Mediterranean coastal aesthetic that su
 
 ![Outdoor dining table styled with native Australian flowers, linen napkins, and candles for an alfresco dinner](/images/unsplash-1414235077428-338989a2e8c0.jpg)
 
-## 16. Create an Outdoor Fire Pit or Fireplace Zone
+## 16. Should You Create an Outdoor Fire Pit or Fireplace Zone?
 
 While Australian winters are mild compared to most of the world, coastal evenings in June and July call for some warmth. An outdoor fire pit or portable fireplace extends your outdoor entertaining season through the cooler months.
 
 A simple fire pit bowl from Bunnings starts from $150 AUD. Surround it with deep [outdoor lounge](/blog/outdoor-lounge-ideas-australia) chairs and add some woollen throw blankets from Adairs, and you have a genuinely beautiful and functional winter entertaining zone. For fire pit types, safety, and council rules in detail, see the [backyard fire pit ideas guide](/blog/backyard-fire-pit-ideas-australia).
 
-## 17. Add a Hammock or Daybed for a Resort Feel
+## 17. Should You Add a Hammock or Daybed for a Resort Feel?
 
 Every great outdoor space needs somewhere to completely relax — not just sit. A hammock strung between two established trees, or a freestanding daybed with a canopy, creates that resort-at-home feeling that makes Australian outdoor living genuinely special.
 
 Temple & Webster carries several beautiful freestanding hammock and daybed options from $350 AUD. For a budget hammock that still looks stylish, Kmart's cotton rope hammock (~$49 AUD) is a genuine bargain — hang it between two posts and pair with an Adairs outdoor throw (~$39 AUD) for a resort-quality corner for under $90 AUD total.
 
-## 18. Use Colour Strategically in Your Outdoor Cushions and Accessories
+## 18. How Do You Use Colour Strategically in Cushions and Accessories?
 
 The Australian coastal palette doesn't mean everything has to be white and navy. A pop of seafoam green, a terracotta pot, or a sandy beige rug adds warmth and prevents the look from feeling too corporate or showroom-like.
 
@@ -191,7 +191,7 @@ The key is to choose one or two accent colours and repeat them throughout the sp
 
 **Budget option:** Kmart's seasonal outdoor cushion range (~$12-$19 AUD each) covers the full coastal palette. Adairs outdoor cushion covers start from ~$29 AUD and are a step up in texture and finish for a small price difference.
 
-## 19. Style Your Table Like You Mean It
+## 19. How Do You Style Your Table Like You Mean It?
 
 Even for a casual outdoor dinner, a properly styled table makes the event feel considered. You don't need a full floristry budget — a simple centrepiece of native Australian flowers from your local market ($15–$25 AUD), some linen napkins from Adairs, and a few candles is everything you need.
 

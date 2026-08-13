@@ -111,7 +111,7 @@ The wall behind your desk is the backdrop of every video call, every coastal pho
 
 ---
 
-## Lighting: Why the North-Facing Rule Matters in Australia
+## Why Does the North-Facing Rule Matter for Lighting in Australia?
 
 Lighting in an Australian home office is a north-vs-south problem before it's a product problem. Australian homes built to capture northern sunlight give home offices the best natural base — supplemented, not replaced, by artificial light. According to Beacon Lighting's 2024 residential lighting guide, task lighting intensity for desk work should sit between 300–500 lux for comfortable reading and screen work (Beacon Lighting, 2024).
 
@@ -123,7 +123,7 @@ Lighting in an Australian home office is a north-vs-south problem before it's a 
 
 ---
 
-## Storage and Organisation: Keeping the Coastal Look Clean
+## How Do You Keep Storage and Organisation Coastal and Clean?
 
 Clutter is the enemy of coastal style. A 2021 Princeton Neuroscience Institute study found that visual clutter reduces focus and increases cognitive load ([Princeton Neuroscience Institute](https://pni.princeton.edu/), 2021). In a coastal home office, every storage item that's visible is part of the aesthetic.
 

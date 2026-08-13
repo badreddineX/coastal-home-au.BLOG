@@ -32,7 +32,7 @@ I've had a pergola on my Gold Coast property for four years. When we first built
 
 ![Furnished Gold Coast pergola with festoon lights, outdoor dining table, and ceiling fan](/images/unsplash-1600607687939-ce8a6c25118c.jpg)
 
-## Tip 1: Define the Floor with a Large Outdoor Rug
+## Tip 1: How Do You Define a Pergola Floor with a Rug?
 
 The single change that made our pergola feel like a room rather than a structure was laying a large outdoor rug. I spent two years with bare concrete under the pergola, and I still regret the delay. A rug visually anchors the furniture, defines the space, and makes the whole area feel intentional.
 
@@ -40,7 +40,7 @@ The single change that made our pergola feel like a room rather than a structure
 
 **Size rule:** The rug should extend at least 60cm beyond the dining table on all sides. Going too small makes the furniture look perched on a postage stamp.
 
-## Tip 2: Hang Festoon Lights Across the Beams
+## Tip 2: Why Hang Festoon Lights Across the Beams?
 
 Festoon lights are the highest-return investment for any pergola. I paid $65 for a 10-metre outdoor festoon string from Bunnings (Eglo brand) and it transformed the space at night more than anything else I'd done. Warm white bulbs (2200K—2700K) are essential — cool white versions look clinical rather than atmospheric.
 
@@ -48,7 +48,7 @@ Festoon lights are the highest-return investment for any pergola. I paid $65 for
 
 **Practical note:** Use a timer plug ($15–$25 from Bunnings) so lights come on automatically at dusk.
 
-## Tip 3: Install an Outdoor-Rated Ceiling Fan
+## Tip 3: Should You Install an Outdoor-Rated Ceiling Fan?
 
 This was the most impactful functional upgrade I made. Queensland summers make an unventilated outdoor room genuinely uncomfortable during the day. A ceiling fan rated for outdoor use (minimum IP44) drops the perceived temperature by 4—6 degrees and makes afternoon entertaining practical from October through April.
 
@@ -56,7 +56,7 @@ This was the most impactful functional upgrade I made. Queensland summers make a
 
 **Installation note:** You need a licensed electrician for ceiling fan installation — budget $120–$200 for labour in addition to the fan cost.
 
-## Tip 4: Invest in the Right Dining Table Size
+## Tip 4: What Dining Table Size Should You Invest In?
 
 I initially bought a 6-seater table for our 4×5m pergola — wrong call. We regularly host 8—10 people and it was always a squeeze. The right table size for a pergola is one that comfortably seats your maximum gathering, not your typical Tuesday night dinner.
 
@@ -66,7 +66,7 @@ I initially bought a 6-seater table for our 4×5m pergola — wrong call. We reg
 
 ![Powder-coated aluminium outdoor dining table and chairs under a covered pergola with festoon lights](/images/unsplash-1521401830884-6c03c1c87ebb.jpg)
 
-## Tip 5: Add Privacy Screening on the Exposed Side
+## Tip 5: How Do You Add Privacy Screening on the Exposed Side?
 
 Our pergola faced the neighbour's driveway, so every gathering felt slightly observed. A laser-cut aluminium privacy screen panel from Bunnings ($189 per 1.8×1.2m panel) on that one side completely changed the atmosphere. Now the space is enclosed on three sides with the garden opening on the fourth.
 
@@ -75,17 +75,17 @@ Our pergola faced the neighbour's driveway, so every gathering felt slightly obs
 - Lattice panels with climbing plants (star jasmine or creeping fig): $30–$60 per panel, beautiful after 12 months
 - Shade cloth in a colour matched to the pergola frame: $45–$90 for a 3×3m piece
 
-## Tip 6: Choose Cushions That Can Stay Outside
+## Tip 6: Which Cushions Can Stay Outside Year-Round?
 
 After two summers of dragging cushions inside every time it rained, I upgraded to Sunbrella-fabric cushions. They live outside year-round under our covered pergola, are fully washable, and haven't faded after two Queensland summers.
 
 **Where to buy:** Adairs has Sunbrella outdoor cushions from $40–$80 each. Temple & Webster has a wider range including custom sizes ($60–$150). The investment pays back within the first season — not dragging cushions in and out is underrated life improvement.
 
-## Tip 7: Add a Side Table for the BBQ Station
+## Tip 7: Do You Need a Side Table for the BBQ Station?
 
 If your BBQ is adjacent to the pergola, a dedicated prep table changes how you host. I added a stainless-steel outdoor prep table from Bunnings ($149) beside the BBQ and it transformed the cooking flow — plates, condiments, tongs, and drinks all have a place rather than competing for space on the dining table.
 
-## Tip 8: Create a Dedicated Drinks Station
+## Tip 8: How Do You Create a Dedicated Drinks Station?
 
 Designating one corner of the pergola as the drinks station removed the constant bottleneck at the dining table. A small outdoor bar cart or sideboard (Temple & Webster, $180–$480) with an esky below and drinks display on top keeps guests self-sufficient and the host free. For a full [outdoor lounge ideas](/blog/outdoor-lounge-ideas-australia) setup beyond the dining zone, a bar cart pairs well with a separate seating area.
 
@@ -93,31 +93,31 @@ Designating one corner of the pergola as the drinks station removed the constant
 
 ![Drop blinds on a pergola filtering afternoon sun in a Queensland outdoor entertaining area](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 9: Install Shade Cloth or Drop Blinds for Western Afternoon Sun
+## Tip 9: How Do You Block Western Afternoon Sun on a Pergola?
 
 In most Australian states, western afternoon sun is the enemy of comfortable outdoor entertaining. Our pergola's open west side was unusable between 2pm and 5pm in summer. Fix: shade cloth attached to the western beam — 90% block from Bunnings ($45–$90 for a 3×3m piece) and four stainless marine clips. Done in an afternoon, under $100, effective immediately.
 
 For a more finished look, external roller blinds in outdoor PVC mesh from Bunnings ($150–$350 per drop) retract when not needed.
 
-## Tip 10: Add Citronella Candles and a Mozzie Diffuser
+## Tip 10: How Do You Keep Mosquitoes Away While Entertaining?
 
 Outdoor entertaining in Queensland and tropical Australia means managing mosquitoes. My current solution: Mortein Naturgard outdoor diffuser ($25) plugged in at the pergola perimeter, plus citronella candles on the table for atmosphere. The electric diffuser handles the actual pest control; the candles add the ambience.
 
-## Tip 11: Use Vertical Space with Hanging Plants
+## Tip 11: How Do You Use Vertical Space with Hanging Plants?
 
 Our pergola beams had nothing hanging from them for two years. Adding three hanging plants — trailing pothos, a string of pearls, and a fern — in macramé hangers transformed the ceiling zone and made the space feel lush rather than like a construction shed overhead.
 
 **Easy options for Australian climates:** Trailing pothos handles Gold Coast humidity with no care. In drier climates (Perth, Adelaide), air plants in geometric hanging frames require zero watering.
 
-## Tip 12: Light the Garden Perimeter with Solar Stakes
+## Tip 12: Should You Light the Garden Perimeter with Solar Stakes?
 
 The garden around the pergola is part of the entertaining space — and lighting it connects the pergola to the broader outdoor room. I placed 8 solar stakes (Bunnings, $5–$8 each) along the garden bed perimeter surrounding the pergola. At night, the whole outdoor area glows. Total cost: $64.
 
-## Tip 13: Add a Portable Outdoor Speaker
+## Tip 13: Is a Portable Outdoor Speaker Worth Adding?
 
 The upgrade most commented on by guests was a Sonos Move 2 ($649) on the outdoor bar shelf. Bluetooth from the phone, weatherproof, genuinely good sound outdoors. For a more budget option, the Ultimate Ears Hyperboom ($449) handles parties and is IP67 waterproof. Either way — music is the invisible ingredient that makes a pergola gathering feel like an event.
 
-## Tip 14: Anchor the Style with a Cohesive Palette
+## Tip 14: How Do You Anchor the Style with a Cohesive Palette?
 
 The pergola that looks "designed" rather than accumulated is one where all elements share a palette. Mine is: natural timber tones, white/linen cushions, warm white lights, and terracotta pots. Every purchase gets evaluated against this palette. When I stay consistent, the space looks intentional. If you're planning [backyard landscaping ideas Australia](/blog/backyard-landscaping-ideas-australia) around the pergola, maintaining this palette into the garden planting makes the whole yard feel cohesive.
 

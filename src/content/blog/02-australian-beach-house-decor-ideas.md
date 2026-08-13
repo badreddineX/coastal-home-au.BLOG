@@ -36,7 +36,7 @@ Here's what I've learned about creating an authentic Australian beach house inte
 
 ![Australian beach house interior with warm white walls, linen sofa, and rattan accents](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
-## Tip 1: Start With Warm White Walls — Not Stark White
+## Tip 1: Why Start With Warm White Walls — Not Stark White?
 
 The most common mistake I see in coastal decorating is choosing the wrong white. There are two categories of white paint: warm whites (with yellow or cream undertones) and cool whites (with blue or grey undertones). For an Australian beach house, you want warm white every time.
 
@@ -46,7 +46,7 @@ Cool whites look wonderful in a Scandinavian or industrial context. In a coastal
 
 **Cost:** A 4L tin of quality interior paint from Dulux or Taubmans runs $65–$95 AUD from Bunnings. One room, transformative.
 
-## Tip 2: Lay a Jute Rug in Every Significant Room
+## Tip 2: Should You Lay a Jute Rug in Every Significant Room?
 
 I have a jute rug in my living room, main bedroom, and alfresco. It's the single material that most reliably signals "Australian coastal home" without trying. Jute is warm in tone, beautifully textured, and visually connects indoor space to the natural landscape outside.
 
@@ -54,7 +54,7 @@ I have a jute rug in my living room, main bedroom, and alfresco. It's the single
 
 **The size rule:** Always go larger than you think. The rug should sit under the front legs of all furniture in a living room, and should extend at least 50cm beyond the bed on all sides in a bedroom.
 
-## Tip 3: Invest in Linen Bedding — It's Non-Negotiable
+## Tip 3: Why Is Linen Bedding Non-Negotiable?
 
 Three years ago I switched to 100% French linen bedding from The Sheet Society. It's the single home investment I'd make again before anything else. Linen gets softer with every wash, breathes in Queensland summer heat, and looks effortlessly beautiful at any level of tidiness.
 
@@ -65,7 +65,7 @@ Three years ago I switched to 100% French linen bedding from The Sheet Society. 
 
 The difference between cotton and linen in coastal styling is immediately visible. Linen has a natural texture and a slightly rumpled quality that cotton can't replicate. For a beach house bedroom, it's essential.
 
-## Tip 4: Use Rattan as Your Accent Material Throughout
+## Tip 4: How Do You Use Rattan as Your Accent Material?
 
 Rattan is the defining material of the Australian beach house interior — and it's available at every price point. I have rattan in my bedroom (a pendant light, $89 from Temple & Webster), living room (a mirror, $119, and a side table, $149), and bathroom (a small basket, $12 from Kmart).
 
@@ -78,7 +78,7 @@ The rule I follow: one significant rattan piece per room, plus smaller rattan ac
 
 ![Australian beach house outdoor entertaining area with natural furniture and coastal styling](/images/unsplash-1512917774080-9991f1c4c750.jpg)
 
-## Tip 5: Treat the Outdoor Space as a Room
+## Tip 5: Why Treat the Outdoor Space as a Room?
 
 In every coastal home I've lived in, the outdoor space was the one guests gravitated toward most. An alfresco or verandah that's properly furnished and styled is as important to the beach house aesthetic as any indoor room.
 
@@ -86,7 +86,7 @@ At minimum, the outdoor space needs: a dining table and chairs sized for your ma
 
 **Related:** See [Outdoor Entertaining Area Ideas Australia](/blog/15-outdoor-entertaining-area-ideas-australia) for the full outdoor setup guide.
 
-## Tip 6: Choose Light Timber Over Dark
+## Tip 6: Why Choose Light Timber Over Dark?
 
 I made the mistake of dark timber flooring in our first rental — it photographed beautifully and looked horrible in real life, absorbing the coastal light and making the space feel dark and heavy. Australian beach house interiors demand light.
 
@@ -94,7 +94,7 @@ I made the mistake of dark timber flooring in our first rental — it photograph
 
 **For furniture:** Pale oak, white-painted timber, or natural teak are the correct furniture tones. If you're inheriting dark timber furniture, painting it white (chalk paint works without sanding on most pieces) is a faster transformation than you'd expect.
 
-## Tip 7: Layer Coastal Art — But Keep It Subtle
+## Tip 7: How Do You Layer Coastal Art Without Overdoing It?
 
 Beach house art doesn't mean paintings of waves or framed prints of anchors. The coastal art that works is: abstract washes in ocean-toned blues and greens, botanical prints of coastal plants, aerial photography of Australian coastlines, or simple line art of the natural landscape.
 
@@ -103,7 +103,7 @@ Beach house art doesn't mean paintings of waves or framed prints of anchors. The
 - Salt Living: original art and prints from Australian coastal artists ($80–$600)
 - Local markets: found art is often the most genuinely coastal — something bought at the Palm Beach or Noosa markets has a story
 
-## Tip 8: Use Sea-Inspired Colours as Accents Only
+## Tip 8: How Should You Use Sea-Inspired Colours as Accents?
 
 I've seen every version of "coastal blue gone wrong" — entire rooms painted in turquoise, every cushion in a different shade of teal, navy feature walls that overwhelm the linen and timber. Coastal colour works when it's used with restraint.
 
@@ -111,7 +111,7 @@ I've seen every version of "coastal blue gone wrong" — entire rooms painted in
 
 ![Trailing pothos and monstera plants cascading over a shelf in a bright coastal Australian interior](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
-## Tip 9: Add Indoor Plants — Particularly Trailing Varieties
+## Tip 9: Which Indoor Plants Work Best, Especially Trailing Varieties?
 
 Plants are the living element that bridges indoor and outdoor in a beach house. I have a trailing pothos above my kitchen cabinets, a large fiddle leaf fig in the corner of the living room, and a collection of smaller succulents in terracotta pots on the windowsill.
 
@@ -123,23 +123,23 @@ Plants are the living element that bridges indoor and outdoor in a beach house. 
 
 IKEA AU and local nurseries are the most affordable sources — avoid paying boutique plant shop prices for the same species.
 
-## Tip 10: Declutter Before You Decorate
+## Tip 10: Why Declutter Before You Decorate?
 
 The beach houses I've admired most — and the version of my own home I like best — are the ones where editing happened before styling. A coastal aesthetic requires restraint. Too many objects create visual noise that undermines the calm, airy quality the style depends on.
 
 **My editing process:** Every surface in a room gets cleared. Objects go back one at a time, in groups of odd numbers (3 or 5), with space between them. If something doesn't contribute to the palette or the feeling of the room, it goes into a box. After six months, if I haven't missed it, it goes to charity.
 
-## Tip 11: Install Sheer Linen Curtains at Ceiling Height
+## Tip 11: Should You Install Sheer Linen Curtains at Ceiling Height?
 
 Floor-to-ceiling linen sheers are the most effective single way to make a room feel taller, airier, and more coastal. I installed IKEA AU AINA linen curtains ($99 per pair) in our living room — hung from a rod fixed to the ceiling rather than above the window frame — and the room gained what felt like 50cm in height overnight.
 
 **The key:** The rod must be at ceiling height, not above the window. The curtain must reach the floor. Both details together create a sense of volume that no other window treatment achieves.
 
-## Tip 12: Add Coastal Scent With a Quality Diffuser
+## Tip 12: How Do You Add Coastal Scent With a Quality Diffuser?
 
 This is the detail that makes guests ask "how does it always smell so good in here?" I use a Reed St diffuser in the scent "Driftwood & Sea Salt" ($49 from Temple & Webster) in the living room. It's a subtle, non-synthetic coastal scent that reinforces the aesthetic without being obvious about it.
 
-## Tip 13: Shop Markets and Op Shops for Character Pieces
+## Tip 13: Why Shop Markets and Op Shops for Character Pieces?
 
 ![Op shop rattan chair and market ceramics adding character to an authentic Australian beach house interior](/images/unsplash-1560185007-c5ca9d2c014d.jpg)
 

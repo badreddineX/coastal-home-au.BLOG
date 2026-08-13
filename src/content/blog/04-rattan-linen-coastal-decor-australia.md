@@ -34,13 +34,13 @@ These two materials, used correctly together, are the material shorthand for the
 
 ![Rattan armchair beside linen sofa and jute rug in a bright Australian coastal living room](/images/unsplash-1522444195799-478538b28823.jpg)
 
-## Tip 1: Understand Why Rattan and Linen Work Together
+## Tip 1: Why Do Rattan and Linen Work So Well Together?
 
 Before the shopping guide, the principle: rattan and linen work together because they're from the same material family. Both are natural, both have visible texture, both age beautifully, and both carry the same warm, sandy colour palette. Rattan is the structure; linen is the softness. Together they create a room that feels simultaneously warm and airy — the defining quality of great Australian coastal interiors.
 
 Every other material in the room should relate to one of these two: white-painted timber (echoes the linen), jute (echoes the rattan), terracotta ceramics (warm enough to sit beside both). Cool metals (chrome, bright stainless), shiny surfaces, and synthetic fabrics all fight the combination.
 
-## Tip 2: Choose Rattan for Structural Pieces, Not Just Accessories
+## Tip 2: Why Choose Rattan for Structural Pieces, Not Just Accessories?
 
 The mistake I made in our first attempt at coastal styling was buying rattan as accessories only — a basket here, a mirror there — while the primary furniture (sofa, dining chairs, bed) remained untouched. The look was surface-level and unconvincing.
 
@@ -53,7 +53,7 @@ The transformation came when I replaced the dining chairs with rattan ones (Temp
 - Floor lamp or pendant ($60–$250)
 - Side tables ($80–$350)
 
-## Tip 3: Use Linen for Every Textile That Touches You
+## Tip 3: Why Use Linen for Every Textile That Touches You?
 
 Linen's superiority over cotton for coastal decorating comes down to texture, breathability, and the way it ages. In Queensland's climate, the difference in sleeping on linen versus cotton in summer is immediately noticeable — linen feels cooler against skin and wicks moisture faster.
 
@@ -65,7 +65,7 @@ Linen's superiority over cotton for coastal decorating comes down to texture, br
 
 The complete bedroom linen treatment (bedding, curtains, cushions) costs approximately $450–$650 AUD and lasts a decade with basic care.
 
-## Tip 4: Limit Rattan to Two or Three Significant Pieces Per Room
+## Tip 4: Why Limit Rattan to Two or Three Significant Pieces Per Room?
 
 The rule I arrived at after testing this over three homes: two or three significant rattan pieces per room is the visual maximum. Beyond that, the eye starts registering the material itself rather than the overall room, and it tips from "intentional coastal" into "tropical resort".
 
@@ -75,25 +75,25 @@ The rule I arrived at after testing this over three homes: two or three signific
 
 ![Floor-to-ceiling linen curtains filtering light in a coastal Australian bedroom with rattan accents](/images/unsplash-1571508601891-ca5e7a713859.jpg)
 
-## Tip 5: Let Linen Curtains Hang Floor-to-Ceiling
+## Tip 5: Why Let Linen Curtains Hang Floor-to-Ceiling?
 
 The styling detail that has the greatest impact in any room is curtains hung from ceiling height to floor. I installed curtain rods at ceiling level (not above the window frame) and hung two pairs of IKEA AINA linen curtains to the floor in our living room. The 2.4m room feels closer to 3m. The natural light is preserved while the room has volume and drama it didn't have before.
 
 **Cost:** IKEA AINA linen curtain pair (145×250cm): $99 per pair. Two pairs per window (for fullness), ceiling-mounted rod from Bunnings ($15–$30). Total: under $250 per window.
 
-## Tip 6: Mix Natural and Bleached Rattan Tones
+## Tip 6: Why Mix Natural and Bleached Rattan Tones?
 
 Rattan comes in a range of tones: honey gold (natural, unfinished), caramel brown (slightly darker), bleached/white (painted or naturally pale), and black (lacquered). The most flexible combination for Australian coastal interiors is natural and bleached together.
 
 In our living room: natural honey rattan armchair beside a bleached-frame rattan pendant. The two tones in the same material family add depth without visual conflict. Avoid mixing natural rattan with dark-lacquered rattan — the contrast is too strong.
 
-## Tip 7: Choose Linen in White, Natural, and Sage — Nothing More
+## Tip 7: Why Choose Linen in White, Natural, and Sage — Nothing More?
 
 The linen palette I use across our whole home: white, natural (undyed, slightly beige), and a single accent colour — in our case, sage green. That's three tones. It sounds restrictive and it's the most liberating decision I made, because every cushion, throw, and curtain coordinates without any effort.
 
 **The problem with too many linen colours:** Coastal interiors work on consistency. Introduce dusty pink, terracotta, and sage all together and the cohesion breaks down. Choose one accent — sage, dusty blue, or terracotta — and let white and natural do the rest.
 
-## Tip 8: Add Rattan Mirrors to Bounce Light
+## Tip 8: Why Add Rattan Mirrors to Bounce Light?
 
 Mirrors are the secret weapon of coastal decorating. They reflect light, create the illusion of depth, and add visual interest without taking up floor space. A rattan-framed mirror specifically amplifies both the light-reflecting function and the coastal aesthetic.
 
@@ -101,19 +101,19 @@ Mirrors are the secret weapon of coastal decorating. They reflect light, create 
 
 ![Coastal bathroom with white waffle-weave linen towels, rattan mirror, and trailing plant on shelf](/images/unsplash-1484101403633-562f891dc89a.jpg)
 
-## Tip 9: Use Linen in the Bathroom (Yes, Really)
+## Tip 9: Should You Use Linen in the Bathroom?
 
 The most overlooked application of linen in coastal decorating is the bathroom. Waffle-weave linen hand towels from Adairs ($15–$25 each), a linen guest towel set, or a linen shower curtain (Temple & Webster, $89–$189) all carry the coastal material story into a room that's often neglected in the decorating plan.
 
 A rattan mirror, white waffle-weave linen towels, and a single trailing plant is the simplest and most effective coastal bathroom treatment I know.
 
-## Tip 10: Source Rattan Second-Hand Before Buying New
+## Tip 10: Why Source Rattan Second-Hand Before Buying New?
 
 One of the most authentic coastal homes I've seen was almost entirely furnished in vintage rattan sourced from Facebook Marketplace. Rattan is one of the most durable natural materials in furniture — a 20-year-old rattan armchair in good condition is functionally and aesthetically identical to a new one, often with more character.
 
 **Where to look:** Facebook Marketplace (search "rattan armchair" or "cane furniture"), Gumtree, and local charity shops. Expect to pay $30–$150 for what would cost $200–$600 new.
 
-## Tip 11: Layer Linen Textures, Not Colours
+## Tip 11: Why Layer Linen Textures, Not Colours?
 
 The richest-looking linen rooms I've seen don't use multiple colours — they use multiple textures. A chunky linen knit throw beside a smooth linen cushion cover beside a loosely woven linen curtain: all the same colour (natural), three different textures. The effect is layered and warm without ever being busy.
 
@@ -123,7 +123,7 @@ The richest-looking linen rooms I've seen don't use multiple colours — they us
 - Smooth weave: IKEA AINA curtains
 - Washed relaxed: The Sheet Society linen bedding
 
-## Tip 12: Complete the Room With Jute and Terracotta Accents
+## Tip 12: How Do You Complete the Room With Jute and Terracotta Accents?
 
 Rattan and linen are the lead materials; jute and terracotta are the supporting cast that makes the combination feel complete. A jute rug under the furniture grounds the room and connects it to the natural landscape. A terracotta pot for the indoor plant adds warmth and the specific earthy tone that prevents the neutral palette from reading as cold.
 

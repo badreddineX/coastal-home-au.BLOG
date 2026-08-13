@@ -34,7 +34,7 @@ Here's everything I've learned about getting coastal home decor right in Austral
 
 ![Beautiful coastal Australian home with warm white walls, linen sofa, jute rug, and rattan accents](/images/unsplash-1493809842364-78817add7ffb.jpg)
 
-## Tip 1: Paint the Walls Warm White — Not Stark White
+## Tip 1: Why Paint the Walls Warm White — Not Stark White?
 
 This is the first move, and it matters more than anything else. I spent three months debating paint colours before finally choosing Dulux Natural White — a warm, slightly cream-toned white that picks up the gold in timber floors and amplifies the natural light rather than fighting it.
 
@@ -47,7 +47,7 @@ Cool whites (with blue undertones) look stunning in a Scandi or industrial conte
 
 A 4L tin of Dulux from Bunnings: $65–$95 AUD. For a whole house repaint, expect $3,000—$8,000 through a painter, or a DIY weekend per room.
 
-## Tip 2: Lay a Large Jute Rug — Bigger Than You Think You Need
+## Tip 2: How Big Should Your Jute Rug Really Be?
 
 I have a 200×300cm jute rug in my living room. Before it, the space looked unfocused. After it, the sofa and coffee table became a room rather than a collection of furniture. Jute is the ground-level material that signals "Australian coastal home" immediately.
 
@@ -58,13 +58,13 @@ I have a 200×300cm jute rug in my living room. Before it, the space looked unfo
 
 Go 200×300cm minimum for a living room, even in a smaller space. The larger scale paradoxically makes the room feel bigger.
 
-## Tip 3: Switch to Linen Textiles in White and Natural
+## Tip 3: Should You Switch to Linen Textiles in White and Natural?
 
 Linen in white and natural tones is to coastal decorating what oil paint is to painting — you can technically use something else, but it's not the same. I replaced every cotton cushion cover, every polyester throw, and every non-linen curtain in our home over about 18 months, spending roughly $600 total across The Sheet Society, Adairs, and IKEA AINA for curtains.
 
 The difference isn't subtle. Linen has a natural texture and a slightly rumpled quality that reads instantly as relaxed and coastal. Cotton in the same colour reads as tidy but impersonal. If you prefer a more structured take on the palette, [Hamptons style decor Australia](/blog/10-hamptons-style-decor-australia) uses similar linen tones but pairs them with crisp white trim and classic furniture lines.
 
-## Tip 4: Add Rattan in One or Two Key Pieces Per Room
+## Tip 4: How Much Rattan Should You Add Per Room?
 
 Rattan is the defining material accent of the Australian coastal interior. The rule that has worked best for me: one significant rattan structural piece (chair, pendant, mirror) plus one smaller rattan accessory (basket, side table, small mirror) per room.
 
@@ -77,25 +77,25 @@ More than two or three pieces per room tips from "coastal" into "tropical resort
 
 ![Floor-to-ceiling linen curtains in warm white filtering morning light in a coastal Australian home](/images/unsplash-1505691938895-1758d7feb511.jpg)
 
-## Tip 5: Hang Linen Curtains at Ceiling Height
+## Tip 5: Why Hang Linen Curtains at Ceiling Height?
 
 The styling detail that transformed every room in our home: curtains hung from ceiling height, not from above the window frame. I installed ceiling-mounted curtain brackets ($8–$15 per bracket from Bunnings) and hung IKEA AINA linen curtains (145×250cm, $99 per pair) in every main room. The ceilings appear taller, the light is softer, and the rooms look more expensive than they cost.
 
 **The rule:** Rod at ceiling. Curtain to floor. Two panels per window for fullness. Every time.
 
-## Tip 6: Introduce Ocean Colour as an Accent Only
+## Tip 6: How Do You Introduce Ocean Colour as an Accent Only?
 
 The most common coastal decorating mistake is too much blue. I've made it — a phase where I had aqua cushions, a teal throw, a blue ceramic collection, and a watercolour print in three shades of ocean. The room looked busy and themed rather than coastal.
 
 The rule that works: ocean blues and greens represent no more than 20% of any room's visual weight. Two sage green cushions. A soft blue ceramic vase. A watercolour print in muted ocean tones. Let the whites, linens, and natural tones do the heavy lifting.
 
-## Tip 7: Style With Natural Textures at Multiple Scales
+## Tip 7: How Do You Style With Natural Textures at Multiple Scales?
 
 The coastal rooms that look richest — the ones that photograph beautifully and feel genuinely warm in person — are the ones with layered natural textures at multiple scales. Large scale: a jute rug, a rattan chair. Medium scale: a woven basket, a linen cushion. Small scale: a terracotta pot, a woven coaster set, a handful of pebbles in a bowl.
 
 When every texture in a room comes from the same natural material family, the result is cohesive regardless of how many different elements are present.
 
-## Tip 8: Choose Indoor Plants That Suit Australian Conditions
+## Tip 8: Which Indoor Plants Suit Australian Conditions?
 
 Indoor plants complete the coastal room by bridging the indoor and outdoor environments. The plants that work best in Australian coastal homes (handling humidity and light variation):
 
@@ -108,35 +108,35 @@ IKEA AU and Bunnings are the most affordable sources. Avoid paying boutique pric
 
 ![Australian alfresco styled as an extension of the coastal interior — same palette, furniture, and materials](/images/unsplash-1523301343968-6a6ebf63c672.jpg)
 
-## Tip 9: Style Your Outdoor Space as an Extension of the Interior
+## Tip 9: How Do You Style the Outdoors as an Extension of the Interior?
 
 The best Australian coastal homes treat the outdoor space as a continuation of the indoor. This means: consistent material palette (the same linen and rattan appear outside as inside), consistent colour (warm whites and naturals through the alfresco), and the same level of decorating intention.
 
 I styled our alfresco with an outdoor rug that echoes our indoor jute, outdoor cushions in the same linen tones (Sunbrella fabric for weather resistance), and a rattan pendant in the covered section. Guests can't tell where the inside stops and the outside starts — which is exactly the right outcome.
 
-## Tip 10: Collect Coastal Art Over Time, Not All At Once
+## Tip 10: Why Collect Coastal Art Over Time, Not All At Once?
 
 The wall art in a coastal home should feel curated rather than purchased. I've built our art collection over five years: a seascape print from a Gold Coast market ($45), a botanical print from Juniper Print Shop ($65), a watercolour commissioned from a local artist ($180), and a framed vintage QANTAS Australia travel poster from an op shop ($8).
 
 The result is a gallery wall with genuine stories behind every piece. You can't buy that quality from a single online shopping session. For room-specific art ideas, the guide to [coastal bedroom decor Australia](/blog/coastal-bedroom-decor-australia) covers how to apply this same layered approach in a bedroom setting.
 
-## Tip 11: Remove as Much as You Add
+## Tip 11: Should You Remove as Much as You Add?
 
 The coastal aesthetic requires editing as much as it requires adding. Every surface in a coastal room should have breathing room — empty space is part of the design. I do a seasonal edit where I assess every surface and remove anything that's been there so long it's become invisible. Usually at least 30% leaves. The room always improves.
 
-## Tip 12: Use Mirrors to Amplify Natural Light
+## Tip 12: How Do Mirrors Amplify Natural Light?
 
 Mirrors are underused in most Australian coastal homes. I have a large arched mirror (90×180cm, $299 from Temple & Webster) in the dining room opposite the garden window, a round rattan mirror in the hallway, and a smaller mirror in the bathroom positioned to catch the morning light.
 
 The effect of a well-placed mirror in a coastal home — light bouncing around a white-walled room — is genuinely transformative and costs a fraction of what any renovation would.
 
-## Tip 13: Always Choose Natural Materials Over Synthetic
+## Tip 13: Why Always Choose Natural Materials Over Synthetic?
 
 The principle that underlies every good coastal decorating decision: natural over synthetic at every opportunity. Jute over synthetic rug. Linen over polyester. Rattan over plastic wicker. Timber over laminate. Ceramic over acrylic.
 
 Synthetic materials short-circuit the coastal aesthetic because they don't carry the light, texture, and warmth that make natural materials beautiful. The room ends up looking like an imitation of a coastal home rather than the real thing.
 
-## Tip 14: Layer the Look Over Time
+## Tip 14: Why Layer the Look Over Time?
 
 The most beautiful coastal homes I've visited — friends' homes, properties I've photographed for this blog — have one thing in common: they didn't happen all at once. The rug came first, then the bedding changed, then a lamp, then the curtains. Over two or three years, the whole house transformed.
 
