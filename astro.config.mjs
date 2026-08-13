@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import rehypeOptimizeImages from './src/lib/rehype-optimize-images.mjs';
+import rehypeNumberHeadings from './src/lib/rehype-number-headings.mjs';
 
 // Read each post's dateModified straight from frontmatter (no astro:content
 // access is available here in the config file) so the sitemap can carry a
@@ -37,7 +38,7 @@ export default defineConfig({
   // still full-size eager JPEGs, a bigger real contributor to page weight
   // than the single hero on image-heavy posts.
   markdown: {
-    rehypePlugins: [rehypeOptimizeImages],
+    rehypePlugins: [rehypeOptimizeImages, rehypeNumberHeadings],
   },
   integrations: [
     sitemap({

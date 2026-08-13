@@ -695,44 +695,14 @@ const formattedDate = new Date(datePublished).toLocaleDateString('en-AU', {
   btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 })();
 
-// ── H2 + H3 number decoration (01., 1.1 — matches Canada/UK style) ──
-(function () {
-  const H2_SKIP = new Set(['tl;dr', 'tl:dr', '—', '–']);
-  const allHeadings = document.querySelectorAll('.post-body h2, .post-body h3');
-  let h2Counter = 0;
-  let h3Counter = 0;
-  allHeadings.forEach((h) => {
-    const fullText = (h.textContent ?? '').trim();
-    if (h.tagName === 'H2') {
-      if (H2_SKIP.has(fullText.toLowerCase())) return;
-      const stripped = fullText.replace(/^\d+\.\s*/, '').replace(/^tip\s*\d+\s*[:–-]\s*/i, '').trim();
-      h2Counter++;
-      h3Counter = 0;
-      const numSpan = document.createElement('span');
-      numSpan.className = 'h2-num';
-      numSpan.textContent = String(h2Counter).padStart(2, '0') + '.';
-      const titleSpan = document.createElement('span');
-      titleSpan.className = 'h2-title';
-      titleSpan.textContent = stripped;
-      h.textContent = '';
-      h.appendChild(numSpan);
-      h.appendChild(titleSpan);
-    } else {
-      if (h2Counter === 0) h2Counter = 1;
-      h3Counter++;
-      const stripped = fullText.replace(/^tip\s*\d+\s*[:–-]\s*/i, '').trim();
-      const numSpan = document.createElement('span');
-      numSpan.className = 'h3-num';
-      numSpan.textContent = `${h2Counter}.${h3Counter}`;
-      const titleSpan = document.createElement('span');
-      titleSpan.className = 'h3-title';
-      titleSpan.textContent = stripped;
-      h.textContent = '';
-      h.appendChild(numSpan);
-      h.appendChild(titleSpan);
-    }
-  });
-})();
+// ── H2/H3 number decoration (01., 1.1) now happens at build time via
+// src/lib/rehype-number-headings.mjs -- it used to run here, client-side,
+// rewriting every heading's textContent after the page had already
+// painted. PageSpeed traced the page's single largest layout shift
+// (CLS 0.123 of 0.133 total) to <article class="post-main">, exactly the
+// element containing every heading this script used to rewrite in one
+// pass. Numbering the headings before they're ever sent to the browser
+// removes that reflow entirely; nothing left to do here at runtime. ──
 
 // ── TOC + scroll spy ──
 (function () {
