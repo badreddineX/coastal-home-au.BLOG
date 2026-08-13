@@ -1,5 +1,5 @@
 ---
-title: "Australian Home Decor Ideas: 13 Ways to Own the Local Style"
+title: "Australian Home Decor Ideas"
 description: "Australian home decor beyond coastal clichés — native timbers, indigenous influences, and bush-meets-coast materials. A style that is genuinely local."
 image: "/images/unsplash-1560448204-e02f11c3d0e2.jpg"
 datePublished: "2026-06-03"

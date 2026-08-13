@@ -1,5 +1,5 @@
 ---
-title: "Small Courtyard Garden Ideas Australia: 12 Ways to Make It Work"
+title: "Small Courtyard Garden Ideas Australia"
 description: "I turned a 3x4m Sydney courtyard from a bin storage zone into a proper garden. Here are 12 small courtyard garden ideas with AUD prices and local retailers."
 image: "/images/unsplash-1591857177580-dc82b9ac4e1e.jpg"
 datePublished: "2026-08-08"

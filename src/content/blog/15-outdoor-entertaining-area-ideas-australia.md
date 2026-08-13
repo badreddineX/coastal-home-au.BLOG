@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Entertaining Area Design Australia: 14 Build Tips"
+title: "Outdoor Entertaining Area Ideas Australia"
 description: "How to design and build an outdoor entertaining area in Australia — pergolas, decking, paving, and structure decisions with real AUD costs and builder tips."
 image: "/images/unsplash-1600585154340-be6161a56a0c.jpg"
 datePublished: "2026-06-09"
